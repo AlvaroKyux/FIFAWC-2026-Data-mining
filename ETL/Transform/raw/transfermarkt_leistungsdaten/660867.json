@@ -1,0 +1,60 @@
+{
+  "nombre": "Julio Enciso",
+  "href_perfil": "/julio-enciso/profil/spieler/660867",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "27",
+      "goles": "3",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,893'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "690'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "5",
+      "goles": "6",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "384'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "12",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,967'"
+    }
+  ]
+}

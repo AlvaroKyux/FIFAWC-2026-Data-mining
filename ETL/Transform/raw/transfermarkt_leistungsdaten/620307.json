@@ -1,0 +1,42 @@
+{
+  "nombre": "Yannick Semedo",
+  "href_perfil": "/yannick-semedo/profil/spieler/620307",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal 2",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,011'"
+    },
+    {
+      "competicion_raw": "Liga Portugal 2 - Play-Off",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "137'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,148'"
+    }
+  ]
+}

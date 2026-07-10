@@ -1,0 +1,42 @@
+{
+  "nombre": "Jerome Opoku",
+  "href_perfil": "/jerome-opoku/profil/spieler/408563",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,741'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,056'"
+    }
+  ]
+}

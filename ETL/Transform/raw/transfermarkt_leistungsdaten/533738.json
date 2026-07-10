@@ -1,0 +1,42 @@
+{
+  "nombre": "Jonathan David",
+  "href_perfil": "/jonathan-david/profil/spieler/533738",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "35",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,784'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "8",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,329'"
+    }
+  ]
+}

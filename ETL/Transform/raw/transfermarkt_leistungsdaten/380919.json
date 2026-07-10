@@ -1,0 +1,33 @@
+{
+  "nombre": "Nihad Mujakic",
+  "href_perfil": "/nihad-mujakic/profil/spieler/380919",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,203'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,383'"
+    }
+  ]
+}

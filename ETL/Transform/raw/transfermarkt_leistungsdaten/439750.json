@@ -1,0 +1,33 @@
+{
+  "nombre": "Dayne St. Clair",
+  "href_perfil": "/dayne-st-clair/profil/spieler/439750",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "28",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "29",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,440'"
+    }
+  ]
+}

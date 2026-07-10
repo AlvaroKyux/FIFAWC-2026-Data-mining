@@ -1,0 +1,42 @@
+{
+  "nombre": "Ricardo Goss",
+  "href_perfil": "/ricardo-goss/profil/spieler/258304",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "29",
+      "goles": "26",
+      "asistencias": "14",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,610'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "29",
+      "asistencias": "14",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,730'"
+    }
+  ]
+}

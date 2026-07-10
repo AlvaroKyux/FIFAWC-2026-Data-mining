@@ -1,0 +1,213 @@
+{
+  "pais": "The Gambia",
+  "href_seleccion": "/gambia/startseite/verein/6186",
+  "jugadores": [
+    {
+      "player_id": "292154",
+      "nombre": "Baboucarr Gaye",
+      "href_perfil": "/baboucarr-gaye/profil/spieler/292154",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/02/1998 (28)",
+      "club_actual": "Shkendija Tetovo",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "972351",
+      "nombre": "Ebrima Jarju",
+      "href_perfil": "/ebrima-jarju/profil/spieler/972351",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/03/1998 (28)",
+      "club_actual": "Paide Linnameeskond",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "459310",
+      "nombre": "Sheikh Sibi",
+      "href_perfil": "/sheikh-sibi/profil/spieler/459310",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/02/1998 (28)",
+      "club_actual": "Virtusvecomp Verona",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1385275",
+      "nombre": "Abubacarr Sedi Kinteh",
+      "href_perfil": "/abubacarr-sedi-kinteh/profil/spieler/1385275",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/11/2006 (19)",
+      "club_actual": "Tromsø IL",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "394435",
+      "nombre": "Sheriff Sinyan",
+      "href_perfil": "/sheriff-sinyan/profil/spieler/394435",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/07/1996 (29)",
+      "club_actual": "CFR Cluj",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "174733",
+      "nombre": "Omar Colley",
+      "href_perfil": "/omar-colley/profil/spieler/174733",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/10/1992 (33)",
+      "club_actual": "Al-Diraiyah FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1135770",
+      "nombre": "Yaya Bojang",
+      "href_perfil": "/yaya-bojang/profil/spieler/1135770",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/09/2004 (21)",
+      "club_actual": "Odense Boldklub",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "863829",
+      "nombre": "Alagie Saine",
+      "href_perfil": "/alagie-saine/profil/spieler/863829",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/01/2003 (23)",
+      "club_actual": "AC Horsens",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1111839",
+      "nombre": "Sainey Sanyang",
+      "href_perfil": "/sainey-sanyang/profil/spieler/1111839",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/04/2003 (23)",
+      "club_actual": "Botev Vratsa",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "577832",
+      "nombre": "Jesper Ceesay",
+      "href_perfil": "/jesper-ceesay/profil/spieler/577832",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/10/2001 (24)",
+      "club_actual": "Antalyaspor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "399551",
+      "nombre": "Mouhamadou Drammeh",
+      "href_perfil": "/mouhamadou-drammeh/profil/spieler/399551",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/1999 (27)",
+      "club_actual": "FC Universitatea Cluj",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1511681",
+      "nombre": "Elvin Mendy",
+      "href_perfil": "/elvin-mendy/profil/spieler/1511681",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/12/2006 (19)",
+      "club_actual": "Istanbulspor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "657575",
+      "nombre": "Abubakr Barry",
+      "href_perfil": "/abubakr-barry/profil/spieler/657575",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/2000 (25)",
+      "club_actual": "Austria Vienna",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "323652",
+      "nombre": "Ebou Adams",
+      "href_perfil": "/ebou-adams/profil/spieler/323652",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/1996 (30)",
+      "club_actual": "Portsmouth FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "364278",
+      "nombre": "Joseph Ceesay",
+      "href_perfil": "/joseph-ceesay/profil/spieler/364278",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "03/06/1998 (28)",
+      "club_actual": "FC Empoli",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "486624",
+      "nombre": "Musa Barrow",
+      "href_perfil": "/musa-barrow/profil/spieler/486624",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/11/1998 (27)",
+      "club_actual": "Al-Taawoun FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1238634",
+      "nombre": "Youssoupha Sanyang",
+      "href_perfil": "/youssoupha-sanyang/profil/spieler/1238634",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/08/2005 (20)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€2.70m"
+    },
+    {
+      "player_id": "1229808",
+      "nombre": "Abdoulie Manneh",
+      "href_perfil": "/abdoulie-manneh/profil/spieler/1229808",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/09/2004 (21)",
+      "club_actual": "Mjällby AIF",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "656141",
+      "nombre": "Salieu Drammeh",
+      "href_perfil": "/salieu-drammeh/profil/spieler/656141",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/03/2003 (23)",
+      "club_actual": "Lillestrøm SK",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1012534",
+      "nombre": "Yankuba Minteh",
+      "href_perfil": "/yankuba-minteh/profil/spieler/1012534",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/07/2004 (21)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "693906",
+      "nombre": "Abdoulie Sanyang",
+      "href_perfil": "/abdoulie-sanyang/profil/spieler/693906",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/05/1999 (27)",
+      "club_actual": "HNK Hajduk Split",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1111912",
+      "nombre": "Adama Bojang",
+      "href_perfil": "/adama-bojang/profil/spieler/1111912",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/05/2004 (22)",
+      "club_actual": "Stade Reims",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1280281",
+      "nombre": "Abdoulie Ceesay",
+      "href_perfil": "/abdoulie-ceesay/profil/spieler/1280281",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/01/2004 (22)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Hassan Al-Haydos",
+  "href_perfil": "/hassan-al-haydos/profil/spieler/86286",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "239'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "274'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "162'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "65'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "740'"
+    }
+  ]
+}

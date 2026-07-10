@@ -1,0 +1,51 @@
+{
+  "nombre": "Lukas Provod",
+  "href_perfil": "/lukas-provod/profil/spieler/292779",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "27",
+      "goles": "7",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,222'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "701'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "23'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "8",
+      "asistencias": "13",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,216'"
+    }
+  ]
+}

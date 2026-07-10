@@ -1,0 +1,42 @@
+{
+  "nombre": "Marcos Senesi",
+  "href_perfil": "/marcos-senesi/profil/spieler/469781",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "37",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,290'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "30'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,365'"
+    }
+  ]
+}

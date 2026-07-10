@@ -1,0 +1,51 @@
+{
+  "nombre": "Duckens Nazon",
+  "href_perfil": "/duckens-nazon/profil/spieler/345763",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "429'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "275'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "Iran Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "33'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "782'"
+    }
+  ]
+}

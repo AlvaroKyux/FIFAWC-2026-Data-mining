@@ -1,0 +1,33 @@
+{
+  "nombre": "Ahmed Maknzi",
+  "href_perfil": "/ahmed-maknzi/profil/spieler/881506",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "22",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,605'"
+    },
+    {
+      "competicion_raw": "Iraq FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "62'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,667'"
+    }
+  ]
+}

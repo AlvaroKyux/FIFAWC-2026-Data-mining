@@ -1,0 +1,42 @@
+{
+  "nombre": "Marten de Roon",
+  "href_perfil": "/marten-de-roon/profil/spieler/133179",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "2,704'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "899'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "315'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "1",
+      "minutos_raw": "3,918'"
+    }
+  ]
+}

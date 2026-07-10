@@ -1,0 +1,231 @@
+{
+  "pais": "Dominican Republic",
+  "href_seleccion": "/dominikanische-republik/startseite/verein/15232",
+  "jugadores": [
+    {
+      "player_id": "989980",
+      "nombre": "Xavier Valdez",
+      "href_perfil": "/xavier-valdez/profil/spieler/989980",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/11/2003 (22)",
+      "club_actual": "Nashville SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "77785",
+      "nombre": "Miguel Lloyd",
+      "href_perfil": "/miguel-lloyd/profil/spieler/77785",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/10/1982 (43)",
+      "club_actual": "Cibao FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "953296",
+      "nombre": "Edwin Frías",
+      "href_perfil": "/edwin-frias/profil/spieler/953296",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/05/2006 (20)",
+      "club_actual": "Cibao FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1283023",
+      "nombre": "Anthony Núñez",
+      "href_perfil": "/anthony-nunez/profil/spieler/1283023",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/10/2005 (20)",
+      "club_actual": "Mansfield Town U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597153",
+      "nombre": "Luiyi de Lucas",
+      "href_perfil": "/luiyi-de-lucas/profil/spieler/597153",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/08/1994 (31)",
+      "club_actual": "Krasava ENY",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1122648",
+      "nombre": "Noah Dollenmayer",
+      "href_perfil": "/noah-dollenmayer/profil/spieler/1122648",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/10/1999 (26)",
+      "club_actual": "El Paso Locomotive FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "638490",
+      "nombre": "Brayan Ademán",
+      "href_perfil": "/brayan-ademan/profil/spieler/638490",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2002 (23)",
+      "club_actual": "Gimnástica de Torrelavega",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1374724",
+      "nombre": "Alejandro López",
+      "href_perfil": "/alejandro-lopez/profil/spieler/1374724",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/01/2009 (17)",
+      "club_actual": "Rayo Vallecano Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "461624",
+      "nombre": "Manny Rodríguez",
+      "href_perfil": "/manny-rodriguez/profil/spieler/461624",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/03/1998 (28)",
+      "club_actual": "Linares Deportivo",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "866541",
+      "nombre": "Joao Urbáez",
+      "href_perfil": "/joao-urbaez/profil/spieler/866541",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/07/2002 (23)",
+      "club_actual": "Flamurtari FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1008456",
+      "nombre": "Israel Boatwright",
+      "href_perfil": "/israel-boatwright/profil/spieler/1008456",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/06/2005 (21)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "747464",
+      "nombre": "Jeremy Báez",
+      "href_perfil": "/jeremy-baez/profil/spieler/747464",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/11/1999 (26)",
+      "club_actual": "Atlético Pantoja",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "370791",
+      "nombre": "Pablo Rosario",
+      "href_perfil": "/pablo-rosario/profil/spieler/370791",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/01/1997 (29)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "283913",
+      "nombre": "Jean Carlos López",
+      "href_perfil": "/jean-carlos-lopez/profil/spieler/283913",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/11/1993 (32)",
+      "club_actual": "Cibao FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1010466",
+      "nombre": "Lucas Bretón",
+      "href_perfil": "/lucas-breton/profil/spieler/1010466",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/11/2006 (19)",
+      "club_actual": "Atlético Malagueño",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1089702",
+      "nombre": "Alessandro Ovalle Santos",
+      "href_perfil": "/alessandro-ovalle-santos/profil/spieler/1089702",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "19/12/2005 (20)",
+      "club_actual": "Sant'Angelo",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "953295",
+      "nombre": "Yordy Álvarez",
+      "href_perfil": "/yordy-alvarez/profil/spieler/953295",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/12/2005 (20)",
+      "club_actual": "Atlético Pantoja",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "606222",
+      "nombre": "Juanca Pineda",
+      "href_perfil": "/juanca-pineda/profil/spieler/606222",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/01/2000 (26)",
+      "club_actual": "FC Sheriff Tiraspol",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "625269",
+      "nombre": "Edarlyn Reyes",
+      "href_perfil": "/edarlyn-reyes/profil/spieler/625269",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/09/1997 (28)",
+      "club_actual": "Arsenal Tula",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "710004",
+      "nombre": "Peter Federico",
+      "href_perfil": "/peter-federico/profil/spieler/710004",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/07/2002 (23)",
+      "club_actual": "Real Valladolid CF",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "574927",
+      "nombre": "Erick Japa",
+      "href_perfil": "/erick-japa/profil/spieler/574927",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/04/1999 (27)",
+      "club_actual": "SD Aucas",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "651026",
+      "nombre": "Dorny Romero",
+      "href_perfil": "/dorny-romero/profil/spieler/651026",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/01/1998 (28)",
+      "club_actual": "Bolívar La Paz",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "225020",
+      "nombre": "Mariano Díaz",
+      "href_perfil": "/mariano-diaz/profil/spieler/225020",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/08/1993 (32)",
+      "club_actual": "Deportivo Alavés",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "953273",
+      "nombre": "Anyelo Gómez",
+      "href_perfil": "/anyelo-gomez/profil/spieler/953273",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/01/2003 (23)",
+      "club_actual": "Universidad O&M FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1374688",
+      "nombre": "Adrián Jáquez",
+      "href_perfil": "/adrian-jaquez/profil/spieler/1374688",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "13/02/2009 (17)",
+      "club_actual": "CD Leganés Youth",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

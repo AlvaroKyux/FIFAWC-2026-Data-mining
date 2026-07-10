@@ -1,0 +1,42 @@
+{
+  "nombre": "Kobbie Mainoo",
+  "href_perfil": "/kobbie-mainoo/profil/spieler/820374",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,654'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "62'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,806'"
+    }
+  ]
+}

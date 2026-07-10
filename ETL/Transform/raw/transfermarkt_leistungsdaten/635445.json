@@ -1,0 +1,33 @@
+{
+  "nombre": "Jayden Nelson",
+  "href_perfil": "/jayden-nelson/profil/spieler/635445",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "455'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "64'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "519'"
+    }
+  ]
+}

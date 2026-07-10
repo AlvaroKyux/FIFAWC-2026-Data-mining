@@ -1,0 +1,33 @@
+{
+  "nombre": "Josué Casimir",
+  "href_perfil": "/josue-casimir/profil/spieler/763182",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "1,521'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "1,521'"
+    }
+  ]
+}

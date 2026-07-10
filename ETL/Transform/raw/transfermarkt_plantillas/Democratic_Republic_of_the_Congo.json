@@ -1,0 +1,240 @@
+{
+  "pais": "Democratic Republic of the Congo",
+  "href_seleccion": "/demokratische-republik-kongo/startseite/verein/3854",
+  "jugadores": [
+    {
+      "player_id": "680218",
+      "nombre": "Matthieu Epolo",
+      "href_perfil": "/matthieu-epolo/profil/spieler/680218",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/01/2005 (21)",
+      "club_actual": "Standard Liège",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "541420",
+      "nombre": "Timothy Fayulu",
+      "href_perfil": "/timothy-fayulu/profil/spieler/541420",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/07/1999 (26)",
+      "club_actual": "FC Noah Yerevan",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "164915",
+      "nombre": "Lionel Mpasi-Nzau",
+      "href_perfil": "/lionel-mpasi-nzau/profil/spieler/164915",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/08/1994 (31)",
+      "club_actual": "Le Havre AC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "342046",
+      "nombre": "Axel Tuanzebe",
+      "href_perfil": "/axel-tuanzebe/profil/spieler/342046",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/11/1997 (28)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "679709",
+      "nombre": "Steve Kapuadi",
+      "href_perfil": "/steve-kapuadi/profil/spieler/679709",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/1998 (28)",
+      "club_actual": "Widzew Lodz",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "203348",
+      "nombre": "Chancel Mbemba",
+      "href_perfil": "/chancel-mbemba/profil/spieler/203348",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/1994 (31)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "289432",
+      "nombre": "Dylan Batubinsika",
+      "href_perfil": "/dylan-batubinsika/profil/spieler/289432",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/02/1996 (30)",
+      "club_actual": "AE Larisa",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "129586",
+      "nombre": "Joris Kayembe",
+      "href_perfil": "/joris-kayembe/profil/spieler/129586",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/08/1994 (31)",
+      "club_actual": "KRC Genk",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "181380",
+      "nombre": "Arthur Masuaku",
+      "href_perfil": "/arthur-masuaku/profil/spieler/181380",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/11/1993 (32)",
+      "club_actual": "RC Lens",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "477758",
+      "nombre": "Aaron Wan-Bissaka",
+      "href_perfil": "/aaron-wan-bissaka/profil/spieler/477758",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/11/1997 (28)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "395685",
+      "nombre": "Gédéon Kalulu",
+      "href_perfil": "/gedeon-kalulu/profil/spieler/395685",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/08/1997 (28)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1016015",
+      "nombre": "Ngal'ayel Mukau",
+      "href_perfil": "/ngalayel-mukau/profil/spieler/1016015",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/11/2004 (21)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "243879",
+      "nombre": "Charles Pickel",
+      "href_perfil": "/charles-pickel/profil/spieler/243879",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/1997 (29)",
+      "club_actual": "RCD Espanyol Barcelona",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "727089",
+      "nombre": "Noah Sadiki",
+      "href_perfil": "/noah-sadiki/profil/spieler/727089",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/12/2004 (21)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "486477",
+      "nombre": "Edo Kayembe",
+      "href_perfil": "/edo-kayembe/profil/spieler/486477",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/06/1998 (28)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "353403",
+      "nombre": "Samuel Moutoussamy",
+      "href_perfil": "/samuel-moutoussamy/profil/spieler/353403",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/08/1996 (29)",
+      "club_actual": "Atromitos Athens",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "243633",
+      "nombre": "Aaron Tshibola",
+      "href_perfil": "/aaron-tshibola/profil/spieler/243633",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/01/1995 (31)",
+      "club_actual": "Kilmarnock FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "74297",
+      "nombre": "Gaël Kakuta",
+      "href_perfil": "/gael-kakuta/profil/spieler/74297",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/06/1991 (35)",
+      "club_actual": "AE Larisa",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "557614",
+      "nombre": "Nathanaël Mbuku",
+      "href_perfil": "/nathanael-mbuku/profil/spieler/557614",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/03/2002 (24)",
+      "club_actual": "Montpellier HSC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "700565",
+      "nombre": "Brian Cipenga",
+      "href_perfil": "/brian-cipenga/profil/spieler/700565",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/03/1998 (28)",
+      "club_actual": "CD Castellón",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "280701",
+      "nombre": "Théo Bongonda",
+      "href_perfil": "/theo-bongonda/profil/spieler/280701",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/11/1995 (30)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "388165",
+      "nombre": "Yoane Wissa",
+      "href_perfil": "/yoane-wissa/profil/spieler/388165",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/09/1996 (29)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "344869",
+      "nombre": "Simon Banza",
+      "href_perfil": "/simon-banza/profil/spieler/344869",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/08/1996 (29)",
+      "club_actual": "Al-Jazira Club",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "727157",
+      "nombre": "Fiston Mayele",
+      "href_perfil": "/fiston-mayele/profil/spieler/727157",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/06/1994 (32)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "423678",
+      "nombre": "Meschack Elia",
+      "href_perfil": "/meschack-elia/profil/spieler/423678",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/08/1997 (28)",
+      "club_actual": "Alanyaspor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "127048",
+      "nombre": "Cédric Bakambu",
+      "href_perfil": "/cedric-bakambu/profil/spieler/127048",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/04/1991 (35)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€1.20m"
+    }
+  ]
+}

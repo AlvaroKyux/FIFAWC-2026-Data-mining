@@ -1,0 +1,51 @@
+{
+  "nombre": "Ismail Jakobs",
+  "href_perfil": "/ismail-jakobs/profil/spieler/375137",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,299'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "871'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,275'"
+    }
+  ]
+}

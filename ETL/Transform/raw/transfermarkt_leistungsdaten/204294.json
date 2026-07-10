@@ -1,0 +1,42 @@
+{
+  "nombre": "Saman Ghoddos",
+  "href_perfil": "/saman-ghoddos/profil/spieler/204294",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "25",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,806'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "77'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,973'"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Australia",
+  "href_seleccion": "/australien/startseite/verein/3433",
+  "jugadores": [
+    {
+      "player_id": "128969",
+      "nombre": "Mathew Ryan",
+      "href_perfil": "/mathew-ryan/profil/spieler/128969",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/04/1992 (34)",
+      "club_actual": "Levante UD",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "983578",
+      "nombre": "Patrick Beach",
+      "href_perfil": "/patrick-beach/profil/spieler/983578",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/08/2003 (22)",
+      "club_actual": "Melbourne City FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "181921",
+      "nombre": "Paul Izzo",
+      "href_perfil": "/paul-izzo/profil/spieler/181921",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/01/1995 (31)",
+      "club_actual": "Randers FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "867137",
+      "nombre": "Alessandro Circati",
+      "href_perfil": "/alessandro-circati/profil/spieler/867137",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/10/2003 (22)",
+      "club_actual": "Parma Calcio 1913",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "1279984",
+      "nombre": "Lucas Herrington",
+      "href_perfil": "/lucas-herrington/profil/spieler/1279984",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/09/2007 (18)",
+      "club_actual": "Colorado Rapids",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "298091",
+      "nombre": "Harry Souttar",
+      "href_perfil": "/harry-souttar/profil/spieler/298091",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1998 (27)",
+      "club_actual": "Leicester City",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "255788",
+      "nombre": "Cameron Burgess",
+      "href_perfil": "/cameron-burgess/profil/spieler/255788",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/10/1995 (30)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "187353",
+      "nombre": "Milos Degenek",
+      "href_perfil": "/milos-degenek/profil/spieler/187353",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/04/1994 (32)",
+      "club_actual": "APOEL Nicosia",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "855731",
+      "nombre": "Jordan Bos",
+      "href_perfil": "/jordan-bos/profil/spieler/855731",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/10/2002 (23)",
+      "club_actual": "Feyenoord Rotterdam",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "136834",
+      "nombre": "Aziz Behich",
+      "href_perfil": "/aziz-behich/profil/spieler/136834",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/12/1990 (35)",
+      "club_actual": "Melbourne City FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "545810",
+      "nombre": "Jacob Italiano",
+      "href_perfil": "/jacob-italiano/profil/spieler/545810",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/07/2001 (24)",
+      "club_actual": "Grazer AK 1902",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "185175",
+      "nombre": "Jason Geria",
+      "href_perfil": "/jason-geria/profil/spieler/185175",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/05/1993 (33)",
+      "club_actual": "Albirex Niigata",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "385918",
+      "nombre": "Aiden O'Neill",
+      "href_perfil": "/aiden-oneill/profil/spieler/385918",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/07/1998 (27)",
+      "club_actual": "New York City FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "691326",
+      "nombre": "Kai Trewin",
+      "href_perfil": "/kai-trewin/profil/spieler/691326",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/05/2001 (25)",
+      "club_actual": "New York City FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "1064377",
+      "nombre": "Paul Okon-Engstler",
+      "href_perfil": "/paul-okon-engstler/profil/spieler/1064377",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/2005 (21)",
+      "club_actual": "Sydney FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "399162",
+      "nombre": "Cammy Devlin",
+      "href_perfil": "/cammy-devlin/profil/spieler/399162",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/1998 (28)",
+      "club_actual": "Heart of Midlothian FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "522223",
+      "nombre": "Connor Metcalfe",
+      "href_perfil": "/connor-metcalfe/profil/spieler/522223",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/11/1999 (26)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "192557",
+      "nombre": "Jackson Irvine",
+      "href_perfil": "/jackson-irvine/profil/spieler/192557",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/03/1993 (33)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "265625",
+      "nombre": "Ajdin Hrustic",
+      "href_perfil": "/ajdin-hrustic/profil/spieler/265625",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/07/1996 (29)",
+      "club_actual": "Heracles Almelo",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "746891",
+      "nombre": "Cristian Volpato",
+      "href_perfil": "/cristian-volpato/profil/spieler/746891",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "15/11/2003 (22)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "888140",
+      "nombre": "Nishan Velupillay",
+      "href_perfil": "/nishan-velupillay/profil/spieler/888140",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/05/2001 (25)",
+      "club_actual": "Melbourne Victory",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "255729",
+      "nombre": "Awer Mabil",
+      "href_perfil": "/awer-mabil/profil/spieler/255729",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/09/1995 (30)",
+      "club_actual": "CD Castellón",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "126214",
+      "nombre": "Mathew Leckie",
+      "href_perfil": "/mathew-leckie/profil/spieler/126214",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/02/1991 (35)",
+      "club_actual": "Melbourne City FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "956920",
+      "nombre": "Nestory Irankunda",
+      "href_perfil": "/nestory-irankunda/profil/spieler/956920",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/02/2006 (20)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "742770",
+      "nombre": "Mohamed Touré",
+      "href_perfil": "/mohamed-toure/profil/spieler/742770",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/03/2004 (22)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "849429",
+      "nombre": "Tete Yengi",
+      "href_perfil": "/tete-yengi/profil/spieler/849429",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/2000 (25)",
+      "club_actual": "Machida Zelvia",
+      "valor_mercado_raw": "€450k"
+    }
+  ]
+}

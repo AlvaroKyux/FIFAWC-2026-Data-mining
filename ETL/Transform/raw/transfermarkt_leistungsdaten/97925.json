@@ -1,0 +1,51 @@
+{
+  "nombre": "Munir El Kajoui",
+  "href_perfil": "/munir-el-kajoui/profil/spieler/97925",
+  "competiciones": [
+    {
+      "competicion_raw": "Botola Pro Inwi",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "4",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Coupe du Trône Marocaine",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "CAF-Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    }
+  ]
+}

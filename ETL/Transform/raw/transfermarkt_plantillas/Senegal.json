@@ -1,0 +1,240 @@
+{
+  "pais": "Senegal",
+  "href_seleccion": "/senegal/startseite/verein/3499",
+  "jugadores": [
+    {
+      "player_id": "448632",
+      "nombre": "Yehvann Diouf",
+      "href_perfil": "/yehvann-diouf/profil/spieler/448632",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/11/1999 (26)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "442531",
+      "nombre": "Edouard Mendy",
+      "href_perfil": "/edouard-mendy/profil/spieler/442531",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/1992 (34)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "164904",
+      "nombre": "Mory Diaw",
+      "href_perfil": "/mory-diaw/profil/spieler/164904",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/06/1993 (33)",
+      "club_actual": "Le Havre AC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "910905",
+      "nombre": "Mamadou Sarr",
+      "href_perfil": "/mamadou-sarr/profil/spieler/910905",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/08/2005 (20)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "291200",
+      "nombre": "Moussa Niakhaté",
+      "href_perfil": "/moussa-niakhate/profil/spieler/291200",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/03/1996 (30)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "891998",
+      "nombre": "Antoine Mendy",
+      "href_perfil": "/antoine-mendy/profil/spieler/891998",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/05/2004 (22)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "93128",
+      "nombre": "Kalidou Koulibaly",
+      "href_perfil": "/kalidou-koulibaly/profil/spieler/93128",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/06/1991 (35)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "265383",
+      "nombre": "Abdoulaye Seck",
+      "href_perfil": "/abdoulaye-seck/profil/spieler/265383",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/06/1992 (34)",
+      "club_actual": "Maccabi Haifa",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1111589",
+      "nombre": "El Hadji Malick Diouf",
+      "href_perfil": "/el-hadji-malick-diouf/profil/spieler/1111589",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/12/2004 (21)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "375137",
+      "nombre": "Ismail Jakobs",
+      "href_perfil": "/ismail-jakobs/profil/spieler/375137",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/08/1999 (26)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "126665",
+      "nombre": "Idrissa Gueye",
+      "href_perfil": "/idrissa-gueye/profil/spieler/126665",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/09/1989 (36)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "918969",
+      "nombre": "Lamine Camara",
+      "href_perfil": "/lamine-camara/profil/spieler/918969",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2004 (22)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "485963",
+      "nombre": "Pape Gueye",
+      "href_perfil": "/pape-gueye/profil/spieler/485963",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/1999 (27)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "876631",
+      "nombre": "Habib Diarra",
+      "href_perfil": "/habib-diarra/profil/spieler/876631",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2004 (22)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "568693",
+      "nombre": "Pape Matar Sarr",
+      "href_perfil": "/pape-matar-sarr/profil/spieler/568693",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2002 (23)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "1497653",
+      "nombre": "Bara Sapoko Ndiaye",
+      "href_perfil": "/bara-sapoko-ndiaye/profil/spieler/1497653",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/12/2007 (18)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "525578",
+      "nombre": "Pathé Ciss",
+      "href_perfil": "/pathe-ciss/profil/spieler/525578",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/1994 (32)",
+      "club_actual": "Rayo Vallecano",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "490426",
+      "nombre": "Krépin Diatta",
+      "href_perfil": "/krepin-diatta/profil/spieler/490426",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "25/02/1999 (27)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1061282",
+      "nombre": "Assane Diao",
+      "href_perfil": "/assane-diao/profil/spieler/1061282",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/09/2005 (20)",
+      "club_actual": "Como 1907",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "200512",
+      "nombre": "Sadio Mané",
+      "href_perfil": "/sadio-mane/profil/spieler/200512",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/04/1992 (34)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "623570",
+      "nombre": "Iliman Ndiaye",
+      "href_perfil": "/iliman-ndiaye/profil/spieler/623570",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/03/2000 (26)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€55.00m"
+    },
+    {
+      "player_id": "410225",
+      "nombre": "Ismaïla Sarr",
+      "href_perfil": "/ismaila-sarr/profil/spieler/410225",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/02/1998 (28)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "1185888",
+      "nombre": "Ibrahim Mbaye",
+      "href_perfil": "/ibrahim-mbaye/profil/spieler/1185888",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/01/2008 (18)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "776890",
+      "nombre": "Nicolas Jackson",
+      "href_perfil": "/nicolas-jackson/profil/spieler/776890",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/2001 (25)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "822458",
+      "nombre": "Bamba Dieng",
+      "href_perfil": "/bamba-dieng/profil/spieler/822458",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/03/2000 (26)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "480705",
+      "nombre": "Cherif Ndiaye",
+      "href_perfil": "/cherif-ndiaye/profil/spieler/480705",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/01/1996 (30)",
+      "club_actual": "Samsunspor",
+      "valor_mercado_raw": "€5.00m"
+    }
+  ]
+}

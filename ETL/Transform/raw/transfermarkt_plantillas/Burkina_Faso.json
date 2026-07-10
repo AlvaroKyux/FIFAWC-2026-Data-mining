@@ -1,0 +1,231 @@
+{
+  "pais": "Burkina Faso",
+  "href_seleccion": "/burkina-faso/startseite/verein/5872",
+  "jugadores": [
+    {
+      "player_id": "559319",
+      "nombre": "Kilian Nikièma",
+      "href_perfil": "/kilian-nikiema/profil/spieler/559319",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/06/2003 (23)",
+      "club_actual": "ADO Den Haag",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "170549",
+      "nombre": "Hillel Konaté",
+      "href_perfil": "/hillel-konate/profil/spieler/170549",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/12/1994 (31)",
+      "club_actual": "ESTAC Troyes",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "724425",
+      "nombre": "Farid Ouédraogo",
+      "href_perfil": "/farid-ouedraogo/profil/spieler/724425",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/12/1996 (29)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "564545",
+      "nombre": "Edmond Tapsoba",
+      "href_perfil": "/edmond-tapsoba/profil/spieler/564545",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/02/1999 (27)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "800976",
+      "nombre": "Adamo Nagalo",
+      "href_perfil": "/adamo-nagalo/profil/spieler/800976",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2002 (23)",
+      "club_actual": "Konyaspor",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "1370276",
+      "nombre": "Rachide Gnanou",
+      "href_perfil": "/rachide-gnanou/profil/spieler/1370276",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/11/2004 (21)",
+      "club_actual": "IF Gnistan",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1348564",
+      "nombre": "Cyril Dao",
+      "href_perfil": "/cyril-dao/profil/spieler/1348564",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/11/2005 (20)",
+      "club_actual": "Bank El Ahly",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "373696",
+      "nombre": "Saïdou Simporé",
+      "href_perfil": "/saidou-simpore/profil/spieler/373696",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/08/1992 (33)",
+      "club_actual": "Bank El Ahly",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1068529",
+      "nombre": "Hanaby Hadalou Sagne",
+      "href_perfil": "/hanaby-hadalou-sagne/profil/spieler/1068529",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/12/2000 (25)",
+      "club_actual": "AS Douanes (Ouagadougou)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1088199",
+      "nombre": "Arsène Kouassi",
+      "href_perfil": "/arsene-kouassi/profil/spieler/1088199",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/01/2004 (22)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "536477",
+      "nombre": "Arthur Zagré",
+      "href_perfil": "/arthur-zagre/profil/spieler/536477",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/10/2001 (24)",
+      "club_actual": "Excelsior Rotterdam",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "1107570",
+      "nombre": "Mohamed Ouédraogo",
+      "href_perfil": "/mohamed-ouedraogo/profil/spieler/1107570",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/01/2003 (23)",
+      "club_actual": "SCR Altach",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "878247",
+      "nombre": "Ismahila Ouédraogo",
+      "href_perfil": "/ismahila-ouedraogo/profil/spieler/878247",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/11/1999 (26)",
+      "club_actual": "Odense Boldklub",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "936703",
+      "nombre": "Mohamed Zougrana",
+      "href_perfil": "/mohamed-zougrana/profil/spieler/936703",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/10/2001 (24)",
+      "club_actual": "MC Algiers",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "641152",
+      "nombre": "Gustavo Sangaré",
+      "href_perfil": "/gustavo-sangare/profil/spieler/641152",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/1996 (29)",
+      "club_actual": "FC Noah Yerevan",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "830265",
+      "nombre": "Lohann Doucet",
+      "href_perfil": "/lohann-doucet/profil/spieler/830265",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2002 (23)",
+      "club_actual": "USL Dunkerque",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1210422",
+      "nombre": "Aboubacar Bassinga",
+      "href_perfil": "/aboubacar-bassinga/profil/spieler/1210422",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/07/2005 (20)",
+      "club_actual": "AD Ceuta FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "823231",
+      "nombre": "Dango Ouattara",
+      "href_perfil": "/dango-ouattara/profil/spieler/823231",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/02/2002 (24)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "1145064",
+      "nombre": "Cyriaque Irié",
+      "href_perfil": "/cyriaque-irie/profil/spieler/1145064",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/06/2005 (21)",
+      "club_actual": "SC Freiburg",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "972453",
+      "nombre": "Ousseni Bouda",
+      "href_perfil": "/ousseni-bouda/profil/spieler/972453",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/04/2000 (26)",
+      "club_actual": "San Jose Earthquakes",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "996140",
+      "nombre": "Georgi Minoungou",
+      "href_perfil": "/georgi-minoungou/profil/spieler/996140",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/07/2002 (23)",
+      "club_actual": "Colorado Rapids",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "457743",
+      "nombre": "Mohamed Konaté",
+      "href_perfil": "/mohamed-konate/profil/spieler/457743",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/12/1997 (28)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1072185",
+      "nombre": "Elohim Kaboré",
+      "href_perfil": "/elohim-kabore/profil/spieler/1072185",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/12/2006 (19)",
+      "club_actual": "Hammarby IF",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "640735",
+      "nombre": "Abdoul Tapsoba",
+      "href_perfil": "/abdoul-tapsoba/profil/spieler/640735",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/08/2001 (24)",
+      "club_actual": "Radomiak Radom",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "649453",
+      "nombre": "Pierre Landry Kaboré",
+      "href_perfil": "/pierre-landry-kabore/profil/spieler/649453",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/07/2001 (24)",
+      "club_actual": "Heart of Midlothian FC",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

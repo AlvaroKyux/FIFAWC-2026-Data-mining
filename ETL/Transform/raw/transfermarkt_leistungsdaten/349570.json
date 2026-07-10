@@ -1,0 +1,42 @@
+{
+  "nombre": "Diney Borges",
+  "href_perfil": "/diney-borges/profil/spieler/349570",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,250'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,370'"
+    }
+  ]
+}

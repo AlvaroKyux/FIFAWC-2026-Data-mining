@@ -1,0 +1,69 @@
+{
+  "nombre": "Álvaro Fidalgo",
+  "href_perfil": "/alvaro-fidalgo/profil/spieler/261503",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "16",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,096'"
+    },
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "547'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "157'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "168'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,283'"
+    }
+  ]
+}

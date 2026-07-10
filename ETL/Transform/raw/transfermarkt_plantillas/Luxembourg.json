@@ -1,0 +1,213 @@
+{
+  "pais": "Luxembourg",
+  "href_seleccion": "/luxemburg/startseite/verein/3580",
+  "jugadores": [
+    {
+      "player_id": "926301",
+      "nombre": "Tiago Pereira Cardoso",
+      "href_perfil": "/tiago-pereira-cardoso/profil/spieler/926301",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/04/2006 (20)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "537706",
+      "nombre": "Lucas Fox",
+      "href_perfil": "/lucas-fox/profil/spieler/537706",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/10/2000 (25)",
+      "club_actual": "1.FC Bocholt",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "363514",
+      "nombre": "Tim Kips",
+      "href_perfil": "/tim-kips/profil/spieler/363514",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/11/2000 (25)",
+      "club_actual": "1.FC Phönix Lübeck",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "490573",
+      "nombre": "Seid Korac",
+      "href_perfil": "/seid-korac/profil/spieler/490573",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/10/2001 (24)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "351072",
+      "nombre": "Vahid Selimovic",
+      "href_perfil": "/vahid-selimovic/profil/spieler/351072",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/04/1997 (29)",
+      "club_actual": "Iberia 1999 Tbilisi",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "329055",
+      "nombre": "Enes Mahmutovic",
+      "href_perfil": "/enes-mahmutovic/profil/spieler/329055",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/05/1997 (29)",
+      "club_actual": "NAC Breda",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "251447",
+      "nombre": "Eric Veiga",
+      "href_perfil": "/eric-veiga/profil/spieler/251447",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/02/1997 (29)",
+      "club_actual": "Flamurtari FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "177866",
+      "nombre": "Mica Pinto",
+      "href_perfil": "/mica-pinto/profil/spieler/177866",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/06/1993 (33)",
+      "club_actual": "FC Dordrecht",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "341530",
+      "nombre": "Dirk Carlson",
+      "href_perfil": "/dirk-carlson/profil/spieler/341530",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/04/1998 (28)",
+      "club_actual": "SKN St. Pölten",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "251448",
+      "nombre": "Florian Bohnert",
+      "href_perfil": "/florian-bohnert/profil/spieler/251448",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/11/1997 (28)",
+      "club_actual": "SC Bastia",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "163724",
+      "nombre": "Laurent Jans",
+      "href_perfil": "/laurent-jans/profil/spieler/163724",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/08/1992 (33)",
+      "club_actual": "SK Beveren",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "248054",
+      "nombre": "Christopher Martins",
+      "href_perfil": "/christopher-martins/profil/spieler/248054",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/02/1997 (29)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "490581",
+      "nombre": "Mathias Olesen",
+      "href_perfil": "/mathias-olesen/profil/spieler/490581",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2001 (25)",
+      "club_actual": "Grazer AK 1902",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "902701",
+      "nombre": "Tomás Cruz",
+      "href_perfil": "/tomas-cruz/profil/spieler/902701",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/06/2005 (21)",
+      "club_actual": "SL Benfica B",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1311594",
+      "nombre": "Enzo dos Santos",
+      "href_perfil": "/enzo-dos-santos/profil/spieler/1311594",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/01/2009 (17)",
+      "club_actual": "Borussia Dortmund U19",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "914314",
+      "nombre": "Miguel Gonçalves",
+      "href_perfil": "/miguel-goncalves/profil/spieler/914314",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/08/2004 (21)",
+      "club_actual": "FC 08 Homburg",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "346499",
+      "nombre": "Danel Sinani",
+      "href_perfil": "/danel-sinani/profil/spieler/346499",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/04/1997 (29)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "158594",
+      "nombre": "Sébastien Thill",
+      "href_perfil": "/sebastien-thill/profil/spieler/158594",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/1993 (32)",
+      "club_actual": "Stal Rzeszow",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "904723",
+      "nombre": "Aiman Dardari",
+      "href_perfil": "/aiman-dardari/profil/spieler/904723",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/03/2005 (21)",
+      "club_actual": "SpVgg Greuther Fürth",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1339869",
+      "nombre": "Hamza Kadamani",
+      "href_perfil": "/hamza-kadamani/profil/spieler/1339869",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/09/2009 (16)",
+      "club_actual": "FC Metz U17",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "316760",
+      "nombre": "Vincent Thill",
+      "href_perfil": "/vincent-thill/profil/spieler/316760",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/02/2000 (26)",
+      "club_actual": "SV Waldhof Mannheim",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "321157",
+      "nombre": "Edvin Muratovic",
+      "href_perfil": "/edvin-muratovic/profil/spieler/321157",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/02/1997 (29)",
+      "club_actual": "FK Panevezys",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "537344",
+      "nombre": "Alessio Curci",
+      "href_perfil": "/alessio-curci/profil/spieler/537344",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/02/2002 (24)",
+      "club_actual": "Neftchi PFK",
+      "valor_mercado_raw": "€250k"
+    }
+  ]
+}

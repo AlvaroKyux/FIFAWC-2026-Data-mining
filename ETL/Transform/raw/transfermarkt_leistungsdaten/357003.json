@@ -1,0 +1,69 @@
+{
+  "nombre": "Martin Erlić",
+  "href_perfil": "/martin-erlic/profil/spieler/357003",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "838'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "734'"
+    },
+    {
+      "competicion_raw": "Superliga Championship round",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "585'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "431'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "238'"
+    },
+    {
+      "competicion_raw": "Future Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,871'"
+    }
+  ]
+}

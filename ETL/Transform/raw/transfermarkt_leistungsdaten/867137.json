@@ -1,0 +1,33 @@
+{
+  "nombre": "Alessandro Circati",
+  "href_perfil": "/alessandro-circati/profil/spieler/867137",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,666'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,801'"
+    }
+  ]
+}

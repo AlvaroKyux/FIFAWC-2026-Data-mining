@@ -1,0 +1,60 @@
+{
+  "nombre": "Jan Kuchta",
+  "href_perfil": "/jan-kuchta/profil/spieler/334802",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "25",
+      "goles": "10",
+      "asistencias": "6",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,263'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "382'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "347'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "422'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "121'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "15",
+      "asistencias": "11",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,535'"
+    }
+  ]
+}

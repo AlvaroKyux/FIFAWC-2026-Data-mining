@@ -1,0 +1,42 @@
+{
+  "nombre": "Henrik Falchener",
+  "href_perfil": "/henrik-falchener/profil/spieler/743088",
+  "competiciones": [
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "855'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "204'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "258'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,317'"
+    }
+  ]
+}

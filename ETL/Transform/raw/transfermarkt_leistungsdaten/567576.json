@@ -1,0 +1,51 @@
+{
+  "nombre": "Elliot Anderson",
+  "href_perfil": "/elliot-anderson/profil/spieler/567576",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "38",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,335'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "833'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "4",
+      "asistencias": "5",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "4,168'"
+    }
+  ]
+}

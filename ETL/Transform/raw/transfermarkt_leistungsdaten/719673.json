@@ -1,0 +1,60 @@
+{
+  "nombre": "Ben Gannon-Doak",
+  "href_perfil": "/ben-gannon-doak/profil/spieler/719673",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "Premier League Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "66'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Community Shield",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "216'"
+    }
+  ]
+}

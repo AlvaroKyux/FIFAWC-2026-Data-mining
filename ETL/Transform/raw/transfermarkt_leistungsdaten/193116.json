@@ -1,0 +1,51 @@
+{
+  "nombre": "John McGinn",
+  "href_perfil": "/john-mcginn/profil/spieler/193116",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,158'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "12",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "716'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "65'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "10",
+      "asistencias": "8",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,029'"
+    }
+  ]
+}

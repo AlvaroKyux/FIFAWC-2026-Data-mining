@@ -1,0 +1,60 @@
+{
+  "nombre": "Wilfried Singo",
+  "href_perfil": "/wilfried-singo/profil/spieler/648779",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "949'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "128'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,557'"
+    }
+  ]
+}

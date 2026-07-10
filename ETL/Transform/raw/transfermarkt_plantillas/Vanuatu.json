@@ -1,0 +1,222 @@
+{
+  "pais": "Vanuatu",
+  "href_seleccion": "/vanuatu/startseite/verein/15238",
+  "jugadores": [
+    {
+      "player_id": "981986",
+      "nombre": "Massing Kalotang",
+      "href_perfil": "/massing-kalotang/profil/spieler/981986",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/08/2002 (23)",
+      "club_actual": "Yatel FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "456322",
+      "nombre": "Daniel Alick",
+      "href_perfil": "/daniel-alick/profil/spieler/456322",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/12/1998 (27)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239645",
+      "nombre": "Dick Sablan",
+      "href_perfil": "/dick-sablan/profil/spieler/1239645",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/12/1996 (29)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "185114",
+      "nombre": "Brian Kaltak",
+      "href_perfil": "/brian-kaltak/profil/spieler/185114",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/09/1993 (32)",
+      "club_actual": "Perth Glory",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "456319",
+      "nombre": "Timothy Boulet",
+      "href_perfil": "/timothy-boulet/profil/spieler/456319",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/11/1998 (27)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "981983",
+      "nombre": "Jared Clark",
+      "href_perfil": "/jared-clark/profil/spieler/981983",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/01/1998 (28)",
+      "club_actual": "FK Beograd",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352673",
+      "nombre": "Jeffrey Tasso",
+      "href_perfil": "/jeffrey-tasso/profil/spieler/352673",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/08/1998 (27)",
+      "club_actual": "Western Strikers SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1113091",
+      "nombre": "Thomas Napakaurana",
+      "href_perfil": "/thomas-napakaurana/profil/spieler/1113091",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/03/1997 (29)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "216501",
+      "nombre": "Michel Coulon",
+      "href_perfil": "/michel-coulon/profil/spieler/216501",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1995 (30)",
+      "club_actual": "Vanuatu United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "320373",
+      "nombre": "Jacques Wanemut",
+      "href_perfil": "/jacques-wanemut/profil/spieler/320373",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/02/1992 (34)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "456314",
+      "nombre": "Selwyn Vatu",
+      "href_perfil": "/selwyn-vatu/profil/spieler/456314",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/06/1998 (28)",
+      "club_actual": "ABM Galaxy FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "266162",
+      "nombre": "Jacky Ruben",
+      "href_perfil": "/jacky-ruben/profil/spieler/266162",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "10/11/1996 (29)",
+      "club_actual": "North Efate United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "430891",
+      "nombre": "John Alick",
+      "href_perfil": "/john-alick/profil/spieler/430891",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/1991 (35)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "216502",
+      "nombre": "Raoul Coulon",
+      "href_perfil": "/raoul-coulon/profil/spieler/216502",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/12/1995 (30)",
+      "club_actual": "Vanuatu United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "964576",
+      "nombre": "Alick Worworbu",
+      "href_perfil": "/alick-worworbu/profil/spieler/964576",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/08/1997 (28)",
+      "club_actual": "Yatel FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "189200",
+      "nombre": "Mitch Cooper",
+      "href_perfil": "/mitch-cooper/profil/spieler/189200",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/09/1994 (31)",
+      "club_actual": "Bayside FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "266131",
+      "nombre": "Bong Kalo",
+      "href_perfil": "/bong-kalo/profil/spieler/266131",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/1997 (29)",
+      "club_actual": "ABM Galaxy FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352682",
+      "nombre": "Jonathan Spokeyjack",
+      "href_perfil": "/jonathan-spokeyjack/profil/spieler/352682",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/11/1998 (27)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "456317",
+      "nombre": "Godine Tenene",
+      "href_perfil": "/godine-tenene/profil/spieler/456317",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/05/1998 (28)",
+      "club_actual": "Ifira Black Bird FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "266164",
+      "nombre": "Alex Saniel",
+      "href_perfil": "/alex-saniel/profil/spieler/266164",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/11/1996 (29)",
+      "club_actual": "Vanuatu United FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "602407",
+      "nombre": "Jordy Tasip",
+      "href_perfil": "/jordy-tasip/profil/spieler/602407",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "14/07/2000 (25)",
+      "club_actual": "Vanuatu United FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "185141",
+      "nombre": "Jean Kaltack",
+      "href_perfil": "/jean-kaltack/profil/spieler/185141",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/08/1994 (31)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "194236",
+      "nombre": "Kensi Tangis",
+      "href_perfil": "/kensi-tangis/profil/spieler/194236",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/01/1990 (36)",
+      "club_actual": "ABM Galaxy FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "456318",
+      "nombre": "Kaltfer Kaltack",
+      "href_perfil": "/kaltfer-kaltack/profil/spieler/456318",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "01/11/1997 (28)",
+      "club_actual": "Vanuatu United FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

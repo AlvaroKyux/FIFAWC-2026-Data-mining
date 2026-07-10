@@ -1,0 +1,51 @@
+{
+  "nombre": "Lucas Digne",
+  "href_perfil": "/lucas-digne/profil/spieler/126664",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,852'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "817'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "102'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "-",
+      "asistencias": "7",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,771'"
+    }
+  ]
+}

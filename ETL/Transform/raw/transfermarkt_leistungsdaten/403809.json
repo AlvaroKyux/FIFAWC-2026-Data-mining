@@ -1,0 +1,42 @@
+{
+  "nombre": "Jiovany Ramos",
+  "href_perfil": "/jiovany-ramos/profil/spieler/403809",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga FUTVE Apertura",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "714'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "623'"
+    },
+    {
+      "competicion_raw": "Apertura. Fase Final",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,517'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Jamie Leweling",
+  "href_perfil": "/jamie-leweling/profil/spieler/518505",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "32",
+      "goles": "7",
+      "asistencias": "9",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,379'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "644'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "424'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "11",
+      "asistencias": "12",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,537'"
+    }
+  ]
+}

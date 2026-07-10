@@ -1,0 +1,51 @@
+{
+  "nombre": "Renato Veiga",
+  "href_perfil": "/renato-veiga/profil/spieler/805714",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,478'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "154'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,352'"
+    }
+  ]
+}

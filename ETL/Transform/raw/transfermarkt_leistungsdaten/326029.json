@@ -1,0 +1,60 @@
+{
+  "nombre": "Donyell Malen",
+  "href_perfil": "/donyell-malen/profil/spieler/326029",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "21",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "645'"
+    },
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "18",
+      "goles": "14",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,478'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "539'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "65'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "22",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,794'"
+    }
+  ]
+}

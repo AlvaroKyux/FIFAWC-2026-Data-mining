@@ -1,0 +1,231 @@
+{
+  "pais": "Kazakhstan",
+  "href_seleccion": "/kasachstan/startseite/verein/9110",
+  "jugadores": [
+    {
+      "player_id": "724942",
+      "nombre": "Temirlan Anarbekov",
+      "href_perfil": "/temirlan-anarbekov/profil/spieler/724942",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/10/2003 (22)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "413248",
+      "nombre": "Bekkhan Shayzada",
+      "href_perfil": "/bekkhan-shayzada/profil/spieler/413248",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/02/1998 (28)",
+      "club_actual": "Ordabasy Shymkent",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "295773",
+      "nombre": "Aleksandr Zarutskiy",
+      "href_perfil": "/aleksandr-zarutskiy/profil/spieler/295773",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/08/1993 (32)",
+      "club_actual": "FC Aktobe",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "465408",
+      "nombre": "Nuraly Alip",
+      "href_perfil": "/nuraly-alip/profil/spieler/465408",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/12/1999 (26)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "344288",
+      "nombre": "Alibek Kasym",
+      "href_perfil": "/alibek-kasym/profil/spieler/344288",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/05/1998 (28)",
+      "club_actual": "FC Astana",
+      "valor_mercado_raw": "€850k"
+    },
+    {
+      "player_id": "688049",
+      "nombre": "Sanzhar Satanov",
+      "href_perfil": "/sanzhar-satanov/profil/spieler/688049",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/09/2001 (24)",
+      "club_actual": "FC Atyrau",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "133844",
+      "nombre": "Sergey Maliy",
+      "href_perfil": "/sergey-maliy/profil/spieler/133844",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/1990 (36)",
+      "club_actual": "Ordabasy Shymkent",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "357608",
+      "nombre": "Yan Vorogovskiy",
+      "href_perfil": "/yan-vorogovskiy/profil/spieler/357608",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/08/1996 (29)",
+      "club_actual": "FC Astana",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "468867",
+      "nombre": "Sagi Sovet",
+      "href_perfil": "/sagi-sovet/profil/spieler/468867",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/03/2000 (26)",
+      "club_actual": "Kaysar Kyzylorda",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "858389",
+      "nombre": "Aleksandr Mrynskiy",
+      "href_perfil": "/aleksandr-mrynskiy/profil/spieler/858389",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/07/2004 (21)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1006768",
+      "nombre": "Arsen Ashirbek",
+      "href_perfil": "/arsen-ashirbek/profil/spieler/1006768",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/10/2003 (22)",
+      "club_actual": "Yelimay Semey",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "276816",
+      "nombre": "Erkin Tapalov",
+      "href_perfil": "/erkin-tapalov/profil/spieler/276816",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/09/1993 (32)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "881434",
+      "nombre": "Adilet Sadybekov",
+      "href_perfil": "/adilet-sadybekov/profil/spieler/881434",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/05/2002 (24)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "213846",
+      "nombre": "Islambek Kuat",
+      "href_perfil": "/islambek-kuat/profil/spieler/213846",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/01/1993 (33)",
+      "club_actual": "Zhenis Astana",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "627877",
+      "nombre": "Dinmukhamed Karaman",
+      "href_perfil": "/dinmukhamed-karaman/profil/spieler/627877",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/06/2000 (26)",
+      "club_actual": "FC Astana",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "344294",
+      "nombre": "Ramazan Orazov",
+      "href_perfil": "/ramazan-orazov/profil/spieler/344294",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/01/1998 (28)",
+      "club_actual": "Yelimay Semey",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "955464",
+      "nombre": "Abinur Nurymbet",
+      "href_perfil": "/abinur-nurymbet/profil/spieler/955464",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/04/2005 (21)",
+      "club_actual": "Ordabasy Shymkent",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1327506",
+      "nombre": "Maksat Abraev",
+      "href_perfil": "/maksat-abraev/profil/spieler/1327506",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/02/2008 (18)",
+      "club_actual": "FC Astana",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "704593",
+      "nombre": "Galymzhan Kenzhebek",
+      "href_perfil": "/galymzhan-kenzhebek/profil/spieler/704593",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/02/2003 (23)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "254756",
+      "nombre": "Roman Murtazaev",
+      "href_perfil": "/roman-murtazaev/profil/spieler/254756",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/09/1993 (32)",
+      "club_actual": "Yelimay Semey",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "713071",
+      "nombre": "Maksim Samorodov",
+      "href_perfil": "/maksim-samorodov/profil/spieler/713071",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/06/2002 (24)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "764386",
+      "nombre": "Islam Chesnokov",
+      "href_perfil": "/islam-chesnokov/profil/spieler/764386",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/11/1999 (26)",
+      "club_actual": "Tobol Kostanay",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1179146",
+      "nombre": "Dastan Satpaev",
+      "href_perfil": "/dastan-satpaev/profil/spieler/1179146",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/08/2008 (17)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "1275410",
+      "nombre": "Zhasulan Amir",
+      "href_perfil": "/zhasulan-amir/profil/spieler/1275410",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/12/2006 (19)",
+      "club_actual": "Ordabasy Shymkent",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "858439",
+      "nombre": "Magzhan Toktybay",
+      "href_perfil": "/magzhan-toktybay/profil/spieler/858439",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/04/2004 (22)",
+      "club_actual": "Ordabasy Shymkent",
+      "valor_mercado_raw": "€250k"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Aziz Behich",
+  "href_perfil": "/aziz-behich/profil/spieler/136834",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "24",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,160'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "831'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,111'"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "pais": "American Samoa",
+  "href_seleccion": "/amerikanisch-samoa/startseite/verein/17746",
+  "jugadores": [
+    {
+      "player_id": "1530952",
+      "nombre": "Kai Yandall",
+      "href_perfil": "/kai-yandall/profil/spieler/1530952",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1530960",
+      "nombre": "Nicolas Tuiasosopo",
+      "href_perfil": "/nicolas-tuiasosopo/profil/spieler/1530960",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "75749",
+      "nombre": "Nicky Salapu",
+      "href_perfil": "/nicky-salapu/profil/spieler/75749",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/09/1980 (45)",
+      "club_actual": "PanSa East FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1205253",
+      "nombre": "Leaga Lealuga",
+      "href_perfil": "/leaga-lealuga/profil/spieler/1205253",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Royal Puma FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319391",
+      "nombre": "Ben Stefanon",
+      "href_perfil": "/ben-stefanon/profil/spieler/1319391",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/11/2004 (21)",
+      "club_actual": "CNU Captains (Christopher Newport Uni.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597546",
+      "nombre": "Peter Lauvao",
+      "href_perfil": "/peter-lauvao/profil/spieler/597546",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "11/12/2003 (22)",
+      "club_actual": "Vaiala Tongan",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1530956",
+      "nombre": "Kenai Mauga",
+      "href_perfil": "/kenai-mauga/profil/spieler/1530956",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1530957",
+      "nombre": "Matthew Stefanon",
+      "href_perfil": "/matthew-stefanon/profil/spieler/1530957",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1530958",
+      "nombre": "Michael Paselio",
+      "href_perfil": "/michael-paselio/profil/spieler/1530958",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1530959",
+      "nombre": "Malachi Drago",
+      "href_perfil": "/malachi-drago/profil/spieler/1530959",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1097481",
+      "nombre": "Dylan Salapu",
+      "href_perfil": "/dylan-salapu/profil/spieler/1097481",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "31/08/2008 (17)",
+      "club_actual": "Pago Youth B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "441540",
+      "nombre": "Michael Settle",
+      "href_perfil": "/michael-settle/profil/spieler/441540",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/12/2001 (24)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "444741",
+      "nombre": "Vaha Tua",
+      "href_perfil": "/vaha-tua/profil/spieler/444741",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "06/11/2002 (23)",
+      "club_actual": "Vaiala Tongan",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "484587",
+      "nombre": "Austin Kaleopa",
+      "href_perfil": "/austin-kaleopa/profil/spieler/484587",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "24/11/2001 (24)",
+      "club_actual": "Utulei Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352144",
+      "nombre": "Tor-Lawrence Mana'o",
+      "href_perfil": "/tor-lawrence-manao/profil/spieler/352144",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "27/05/1999 (27)",
+      "club_actual": "Crossfire Redmond",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "391327",
+      "nombre": "Ali'i Mitchell",
+      "href_perfil": "/alii-mitchell/profil/spieler/391327",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/08/1994 (31)",
+      "club_actual": "Ware County Gators (Ware County Uni)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1052559",
+      "nombre": "Johnica Collins",
+      "href_perfil": "/johnica-collins/profil/spieler/1052559",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "12/01/2006 (20)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1097504",
+      "nombre": "Daniel Lee",
+      "href_perfil": "/daniel-lee/profil/spieler/1097504",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "17/02/2007 (19)",
+      "club_actual": "Royal Puma FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1097502",
+      "nombre": "Fiamatai Itamua",
+      "href_perfil": "/fiamatai-itamua/profil/spieler/1097502",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "27/05/2007 (19)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1205256",
+      "nombre": "Billjay Vaitoelau",
+      "href_perfil": "/billjay-vaitoelau/profil/spieler/1205256",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "14/04/2002 (24)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1052557",
+      "nombre": "Petu Pouli",
+      "href_perfil": "/petu-pouli/profil/spieler/1052557",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "18/12/2005 (20)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

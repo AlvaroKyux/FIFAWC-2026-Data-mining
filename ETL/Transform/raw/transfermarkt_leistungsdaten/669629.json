@@ -1,0 +1,42 @@
+{
+  "nombre": "Mahmoud Abunada",
+  "href_perfil": "/mahmoud-abunada/profil/spieler/669629",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "20",
+      "goles": "27",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "30",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,070'"
+    }
+  ]
+}

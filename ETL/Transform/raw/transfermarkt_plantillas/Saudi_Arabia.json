@@ -1,0 +1,240 @@
+{
+  "pais": "Saudi Arabia",
+  "href_seleccion": "/saudi-arabien/startseite/verein/3807",
+  "jugadores": [
+    {
+      "player_id": "886183",
+      "nombre": "Nawaf Al-Aqidi",
+      "href_perfil": "/nawaf-al-aqidi/profil/spieler/886183",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/05/2000 (26)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "262845",
+      "nombre": "Mohammed Al-Owais",
+      "href_perfil": "/mohammed-al-owais/profil/spieler/262845",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/10/1991 (34)",
+      "club_actual": "Al-Ula FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "177956",
+      "nombre": "Ahmed Al-Kassar",
+      "href_perfil": "/ahmed-al-kassar/profil/spieler/177956",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/05/1991 (35)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "509897",
+      "nombre": "Hassan Tambakti",
+      "href_perfil": "/hassan-tambakti/profil/spieler/509897",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/02/1999 (27)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "509894",
+      "nombre": "Abdulelah Al-Amri",
+      "href_perfil": "/abdulelah-al-amri/profil/spieler/509894",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/01/1997 (29)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "901334",
+      "nombre": "Jehad Thakri",
+      "href_perfil": "/jehad-thakri/profil/spieler/901334",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/07/2001 (24)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "264909",
+      "nombre": "Ali Lajami",
+      "href_perfil": "/ali-lajami/profil/spieler/264909",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/04/1996 (30)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "869509",
+      "nombre": "Moteb Al-Harbi",
+      "href_perfil": "/moteb-al-harbi/profil/spieler/869509",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/02/2000 (26)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "735815",
+      "nombre": "Ayman Yahya",
+      "href_perfil": "/ayman-yahya/profil/spieler/735815",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/05/2001 (25)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "260859",
+      "nombre": "Hassan Kadesh",
+      "href_perfil": "/hassan-kadesh/profil/spieler/260859",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/09/1992 (33)",
+      "club_actual": "Al-Ittihad Club",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "631927",
+      "nombre": "Saud Abdulhamid",
+      "href_perfil": "/saud-abdulhamid/profil/spieler/631927",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/07/1999 (26)",
+      "club_actual": "RC Lens",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "1181852",
+      "nombre": "Mohammed Abu Al-Shamat",
+      "href_perfil": "/mohammed-abu-al-shamat/profil/spieler/1181852",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/08/2002 (23)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "672391",
+      "nombre": "Ali Majrashi",
+      "href_perfil": "/ali-majrashi/profil/spieler/672391",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/10/1999 (26)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "821377",
+      "nombre": "Nawaf Boushal",
+      "href_perfil": "/nawaf-boushal/profil/spieler/821377",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/09/1999 (26)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "901079",
+      "nombre": "Ziyad Al-Johani",
+      "href_perfil": "/ziyad-al-johani/profil/spieler/901079",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/11/2001 (24)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "437903",
+      "nombre": "Abdullah Al-Khaibari",
+      "href_perfil": "/abdullah-al-khaibari/profil/spieler/437903",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/08/1996 (29)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "901181",
+      "nombre": "Musab Al-Juwayr",
+      "href_perfil": "/musab-al-juwayr/profil/spieler/901181",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/06/2003 (23)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "509911",
+      "nombre": "Nasser Al-Dawsari",
+      "href_perfil": "/nasser-al-dawsari/profil/spieler/509911",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/12/1998 (27)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "308120",
+      "nombre": "Mohamed Kanno",
+      "href_perfil": "/mohamed-kanno/profil/spieler/308120",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/09/1994 (31)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "443937",
+      "nombre": "Alaa Hejji",
+      "href_perfil": "/alaa-hejji/profil/spieler/443937",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/12/1995 (30)",
+      "club_actual": "NEOM SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "631923",
+      "nombre": "Khalid Al-Ghannam",
+      "href_perfil": "/khalid-al-ghannam/profil/spieler/631923",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/11/2000 (25)",
+      "club_actual": "Al-Ettifaq FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "195332",
+      "nombre": "Salem Al-Dawsari",
+      "href_perfil": "/salem-al-dawsari/profil/spieler/195332",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/08/1991 (34)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "210349",
+      "nombre": "Sultan Mandash",
+      "href_perfil": "/sultan-mandash/profil/spieler/210349",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/10/1994 (31)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "631922",
+      "nombre": "Firas Al-Buraikan",
+      "href_perfil": "/firas-al-buraikan/profil/spieler/631922",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/05/2000 (26)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "242267",
+      "nombre": "Saleh Al-Shehri",
+      "href_perfil": "/saleh-al-shehri/profil/spieler/242267",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/11/1993 (32)",
+      "club_actual": "Al-Ittihad Club",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "68626",
+      "nombre": "Abdullah Al-Hamdan",
+      "href_perfil": "/abdullah-al-hamdan/profil/spieler/68626",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/09/1999 (26)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€350k"
+    }
+  ]
+}

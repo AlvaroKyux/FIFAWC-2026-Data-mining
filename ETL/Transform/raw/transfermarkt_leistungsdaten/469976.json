@@ -1,0 +1,42 @@
+{
+  "nombre": "Christopher Operi",
+  "href_perfil": "/christopher-operi/profil/spieler/469976",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,824'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "530'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "238'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "2",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,592'"
+    }
+  ]
+}

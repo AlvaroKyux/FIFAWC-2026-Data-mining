@@ -1,0 +1,51 @@
+{
+  "nombre": "Enzo Fernández",
+  "href_perfil": "/enzo-fernandez/profil/spieler/648195",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "36",
+      "goles": "10",
+      "asistencias": "4",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,121'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "748'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "231'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "279'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "54",
+      "goles": "15",
+      "asistencias": "7",
+      "amarillas": "14",
+      "rojas": "-",
+      "minutos_raw": "4,379'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Edouard Mendy",
+  "href_perfil": "/edouard-mendy/profil/spieler/442531",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "26",
+      "goles": "18",
+      "asistencias": "14",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,340'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "9",
+      "goles": "7",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "870'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "330'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "35",
+      "asistencias": "19",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,810'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Jassem Gaber",
+  "href_perfil": "/jassem-gaber/profil/spieler/735813",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "700'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "338'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "152'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,190'"
+    }
+  ]
+}

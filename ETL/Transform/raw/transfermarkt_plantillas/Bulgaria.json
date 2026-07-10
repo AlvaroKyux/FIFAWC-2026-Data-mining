@@ -1,0 +1,231 @@
+{
+  "pais": "Bulgaria",
+  "href_seleccion": "/bulgarien/startseite/verein/3394",
+  "jugadores": [
+    {
+      "player_id": "335733",
+      "nombre": "Daniel Naumov",
+      "href_perfil": "/daniel-naumov/profil/spieler/335733",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/03/1998 (28)",
+      "club_actual": "Botev Plovdiv",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "371345",
+      "nombre": "Dimitar Sheytanov",
+      "href_perfil": "/dimitar-sheytanov/profil/spieler/371345",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/03/1999 (27)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "490950",
+      "nombre": "Martin Velichkov",
+      "href_perfil": "/martin-velichkov/profil/spieler/490950",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/09/1999 (26)",
+      "club_actual": "Lokomotiv Sofia",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "877124",
+      "nombre": "Rosen Bozhinov",
+      "href_perfil": "/rosen-bozhinov/profil/spieler/877124",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/01/2005 (21)",
+      "club_actual": "Pisa Sporting Club",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "351800",
+      "nombre": "Kristian Dimitrov",
+      "href_perfil": "/kristian-dimitrov/profil/spieler/351800",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/02/1997 (29)",
+      "club_actual": "Levski Sofia",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "877118",
+      "nombre": "Martin Georgiev",
+      "href_perfil": "/martin-georgiev/profil/spieler/877118",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/09/2005 (20)",
+      "club_actual": "AEK Athens",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "927269",
+      "nombre": "Teodor Ivanov",
+      "href_perfil": "/teodor-ivanov/profil/spieler/927269",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/03/2004 (22)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "628049",
+      "nombre": "Emil Tsenov",
+      "href_perfil": "/emil-tsenov/profil/spieler/628049",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2002 (24)",
+      "club_actual": "FC Orenburg",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "628042",
+      "nombre": "Hristiyan Petrov",
+      "href_perfil": "/hristiyan-petrov/profil/spieler/628042",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/06/2002 (24)",
+      "club_actual": "SC Heerenveen",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "415520",
+      "nombre": "Andrea Hristov",
+      "href_perfil": "/andrea-hristov/profil/spieler/415520",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/03/1999 (27)",
+      "club_actual": "FC Vizela",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "323403",
+      "nombre": "Dimitar Velkovski",
+      "href_perfil": "/dimitar-velkovski/profil/spieler/323403",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/01/1995 (31)",
+      "club_actual": "Arda Kardzhali",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "820370",
+      "nombre": "Patrik-Gabriel Galchev",
+      "href_perfil": "/patrik-gabriel-galchev/profil/spieler/820370",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/04/2001 (25)",
+      "club_actual": "FK Zeljeznicar Sarajevo",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "550466",
+      "nombre": "Ivan Turitsov",
+      "href_perfil": "/ivan-turitsov/profil/spieler/550466",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/07/1999 (26)",
+      "club_actual": "Dinamo Batumi",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1120173",
+      "nombre": "Berk Beyhan",
+      "href_perfil": "/berk-beyhan/profil/spieler/1120173",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/10/2004 (21)",
+      "club_actual": "Cherno More Varna",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "921858",
+      "nombre": "Efe Ali",
+      "href_perfil": "/efe-ali/profil/spieler/921858",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2003 (23)",
+      "club_actual": "Lokomotiv Plovdiv",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "820371",
+      "nombre": "Andrian Kraev",
+      "href_perfil": "/andrian-kraev/profil/spieler/820371",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/02/1999 (27)",
+      "club_actual": "Hapoel Tel Aviv",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "1268640",
+      "nombre": "Petko Panayotov",
+      "href_perfil": "/petko-panayotov/profil/spieler/1268640",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/07/2005 (20)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "188477",
+      "nombre": "Borislav Tsonev",
+      "href_perfil": "/borislav-tsonev/profil/spieler/188477",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/1995 (31)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "481128",
+      "nombre": "Martin Minchev",
+      "href_perfil": "/martin-minchev/profil/spieler/481128",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/04/2001 (25)",
+      "club_actual": "Cracovia",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "587688",
+      "nombre": "Zdravko Dimitrov",
+      "href_perfil": "/zdravko-dimitrov/profil/spieler/587688",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/08/1998 (27)",
+      "club_actual": "Amed SK",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "675946",
+      "nombre": "Marin Petkov",
+      "href_perfil": "/marin-petkov/profil/spieler/675946",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/10/2003 (22)",
+      "club_actual": "Al-Taawoun FC",
+      "valor_mercado_raw": "€3.20m"
+    },
+    {
+      "player_id": "401639",
+      "nombre": "Lukas Petkov",
+      "href_perfil": "/lukas-petkov/profil/spieler/401639",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/11/2000 (25)",
+      "club_actual": "SV 07 Elversberg",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "442425",
+      "nombre": "Georgi Rusev",
+      "href_perfil": "/georgi-rusev/profil/spieler/442425",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/07/1998 (27)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "335749",
+      "nombre": "Tonislav Yordanov",
+      "href_perfil": "/tonislav-yordanov/profil/spieler/335749",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/11/1998 (27)",
+      "club_actual": "Kisvárda FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "475431",
+      "nombre": "Vladimir Nikolov",
+      "href_perfil": "/vladimir-nikolov/profil/spieler/475431",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/02/2001 (25)",
+      "club_actual": "Korona Kielce",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

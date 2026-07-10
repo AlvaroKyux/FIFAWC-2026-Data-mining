@@ -1,0 +1,33 @@
+{
+  "nombre": "Samir Chergui",
+  "href_perfil": "/samir-chergui/profil/spieler/668167",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "15",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,155'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,155'"
+    }
+  ]
+}

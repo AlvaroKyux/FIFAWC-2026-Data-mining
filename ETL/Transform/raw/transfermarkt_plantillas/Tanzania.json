@@ -1,0 +1,231 @@
+{
+  "pais": "Tanzania",
+  "href_seleccion": "/tansania/startseite/verein/14666",
+  "jugadores": [
+    {
+      "player_id": "863869",
+      "nombre": "Zuberi Foba",
+      "href_perfil": "/zuberi-foba/profil/spieler/863869",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/05/2002 (24)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "401180",
+      "nombre": "Aishi Salum Manula",
+      "href_perfil": "/aishi-salum-manula/profil/spieler/401180",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/09/1995 (30)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1270299",
+      "nombre": "Yonna Geoffrey",
+      "href_perfil": "/yonna-geoffrey/profil/spieler/1270299",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/08/1999 (26)",
+      "club_actual": "Pamba Jiji Football Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1059897",
+      "nombre": "Ibrahim Hamad",
+      "href_perfil": "/ibrahim-hamad/profil/spieler/1059897",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1997 (28)",
+      "club_actual": "Young Africans SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "724407",
+      "nombre": "Bakari Mwamnyeto",
+      "href_perfil": "/bakari-mwamnyeto/profil/spieler/724407",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/10/1995 (30)",
+      "club_actual": "Young Africans SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1147116",
+      "nombre": "Lameck Lawi",
+      "href_perfil": "/lameck-lawi/profil/spieler/1147116",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/09/2005 (20)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1509048",
+      "nombre": "Nuru Twalib",
+      "href_perfil": "/nuru-twalib/profil/spieler/1509048",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/01/2005 (21)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "547212",
+      "nombre": "Mohamed Hussein",
+      "href_perfil": "/mohamed-hussein/profil/spieler/547212",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/11/1996 (29)",
+      "club_actual": "Young Africans SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "680755",
+      "nombre": "Nickson Kibabage",
+      "href_perfil": "/nickson-kibabage/profil/spieler/680755",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/10/2000 (25)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "833315",
+      "nombre": "Novatus Miroshi",
+      "href_perfil": "/novatus-miroshi/profil/spieler/833315",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/09/2002 (23)",
+      "club_actual": "Göztepe",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "666560",
+      "nombre": "Alphonce Msanga",
+      "href_perfil": "/alphonce-msanga/profil/spieler/666560",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/06/2003 (23)",
+      "club_actual": "FC Shamakhi",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1122845",
+      "nombre": "Yusuph Kagoma",
+      "href_perfil": "/yusuph-kagoma/profil/spieler/1122845",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1343958",
+      "nombre": "Kelvin Nashon",
+      "href_perfil": "/kelvin-nashon/profil/spieler/1343958",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "02/08/2000 (25)",
+      "club_actual": "Pamba Jiji Football Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "603866",
+      "nombre": "Charles M'Mombwa",
+      "href_perfil": "/charles-mmombwa/profil/spieler/603866",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/03/1998 (28)",
+      "club_actual": "Floriana FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "393712",
+      "nombre": "Mudathir Yahya",
+      "href_perfil": "/mudathir-yahya/profil/spieler/393712",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/05/1996 (30)",
+      "club_actual": "Young Africans SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "625082",
+      "nombre": "Haji Mnoga",
+      "href_perfil": "/haji-mnoga/profil/spieler/625082",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "16/04/2002 (24)",
+      "club_actual": "Salford City",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "575338",
+      "nombre": "Feisal Salum",
+      "href_perfil": "/feisal-salum/profil/spieler/575338",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1998 (28)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "666568",
+      "nombre": "Morice Abraham",
+      "href_perfil": "/morice-abraham/profil/spieler/666568",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "13/08/2003 (22)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "703256",
+      "nombre": "Iddy Seleman Nado",
+      "href_perfil": "/iddy-seleman-nado/profil/spieler/703256",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/03/1995 (31)",
+      "club_actual": "Azam FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "602159",
+      "nombre": "Tarryn Allarakhia",
+      "href_perfil": "/tarryn-allarakhia/profil/spieler/602159",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/10/1997 (28)",
+      "club_actual": "Rochdale AFC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1300799",
+      "nombre": "Bakari Msimu",
+      "href_perfil": "/bakari-msimu/profil/spieler/1300799",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/12/2007 (18)",
+      "club_actual": "Coastal Union",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "666563",
+      "nombre": "Kelvin John",
+      "href_perfil": "/kelvin-john/profil/spieler/666563",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/06/2003 (23)",
+      "club_actual": "Aalborg BK",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "292358",
+      "nombre": "Simon Msuva",
+      "href_perfil": "/simon-msuva/profil/spieler/292358",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/10/1993 (32)",
+      "club_actual": "Al-Talaba SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1330427",
+      "nombre": "Selemani Mwalimu",
+      "href_perfil": "/selemani-mwalimu/profil/spieler/1330427",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/01/2006 (20)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1469623",
+      "nombre": "Paul Peter",
+      "href_perfil": "/paul-peter/profil/spieler/1469623",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/01/1999 (27)",
+      "club_actual": "JKT Tanzania Football Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

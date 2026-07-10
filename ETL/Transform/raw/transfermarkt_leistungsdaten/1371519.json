@@ -1,0 +1,60 @@
+{
+  "nombre": "Alexandro Maidana",
+  "href_perfil": "/alexandro-maidana/profil/spieler/1371519",
+  "competiciones": [
+    {
+      "competicion_raw": "Torneo Apertura",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "645'"
+    },
+    {
+      "competicion_raw": "Primera División Apertura",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "467'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Copa Argentina",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Playoff Torneo Apertura",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "78'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,460'"
+    }
+  ]
+}

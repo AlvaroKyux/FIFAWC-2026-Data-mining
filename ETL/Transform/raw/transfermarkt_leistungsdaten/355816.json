@@ -1,0 +1,51 @@
+{
+  "nombre": "Ko Itakura",
+  "href_perfil": "/ko-itakura/profil/spieler/355816",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,344'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "455'"
+    },
+    {
+      "competicion_raw": "Play-Offs Conference League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "35'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "81'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,915'"
+    }
+  ]
+}

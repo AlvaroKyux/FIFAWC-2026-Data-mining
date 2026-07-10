@@ -1,0 +1,33 @@
+{
+  "nombre": "Samukele Kabini",
+  "href_perfil": "/samukele-kabini/profil/spieler/1175086",
+  "competiciones": [
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "618'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "828'"
+    }
+  ]
+}

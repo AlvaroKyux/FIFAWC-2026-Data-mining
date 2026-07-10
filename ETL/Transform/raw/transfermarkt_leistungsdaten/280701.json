@@ -1,0 +1,33 @@
+{
+  "nombre": "Théo Bongonda",
+  "href_perfil": "/theo-bongonda/profil/spieler/280701",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "47'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "110'"
+    }
+  ]
+}

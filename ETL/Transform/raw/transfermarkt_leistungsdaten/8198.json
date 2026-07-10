@@ -1,0 +1,51 @@
+{
+  "nombre": "Cristiano Ronaldo",
+  "href_perfil": "/cristiano-ronaldo/profil/spieler/8198",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "30",
+      "goles": "28",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,614'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "280'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "30",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "3,164'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Álex Arce",
+  "href_perfil": "/alex-arce/profil/spieler/970518",
+  "competiciones": [
+    {
+      "competicion_raw": "Torneo Apertura",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "386'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "5",
+      "goles": "8",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "402'"
+    },
+    {
+      "competicion_raw": "Copa Argentina",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Playoff Torneo Apertura",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "11",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "968'"
+    }
+  ]
+}

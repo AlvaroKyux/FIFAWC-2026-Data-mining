@@ -1,0 +1,60 @@
+{
+  "nombre": "Zeno Debast",
+  "href_perfil": "/zeno-debast/profil/spieler/548193",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,177'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "179'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "126'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "21'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,503'"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "pais": "Bahamas",
+  "href_seleccion": "/bahamas/startseite/verein/15918",
+  "jugadores": [
+    {
+      "player_id": "1006744",
+      "nombre": "Vance Wheaton",
+      "href_perfil": "/vance-wheaton/profil/spieler/1006744",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/04/2005 (21)",
+      "club_actual": "Westside SC Renegades FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531381",
+      "nombre": "Jamario Charles",
+      "href_perfil": "/jamario-charles/profil/spieler/1531381",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "17/04/2003 (23)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414372",
+      "nombre": "Atarri Moss",
+      "href_perfil": "/atarri-moss/profil/spieler/1414372",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "13/04/2007 (19)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414374",
+      "nombre": "Justin Minns",
+      "href_perfil": "/justin-minns/profil/spieler/1414374",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "26/05/2002 (24)",
+      "club_actual": "College of the Bahamas",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181872",
+      "nombre": "Junior Kelly",
+      "href_perfil": "/junior-kelly/profil/spieler/1181872",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "17/08/2005 (20)",
+      "club_actual": "College of the Bahamas",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414373",
+      "nombre": "Omar Chemaly",
+      "href_perfil": "/omar-chemaly/profil/spieler/1414373",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "08/12/2008 (17)",
+      "club_actual": "Darlington School Soccer Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181873",
+      "nombre": "Jean Tilo",
+      "href_perfil": "/jean-tilo/profil/spieler/1181873",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/11/2002 (23)",
+      "club_actual": "Buffalo Stallions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272580",
+      "nombre": "Jordan Cheetham",
+      "href_perfil": "/jordan-cheetham/profil/spieler/1272580",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/02/2007 (19)",
+      "club_actual": "South Carolina Gamecocks (University of SC)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615222",
+      "nombre": "Jonathan Miller",
+      "href_perfil": "/jonathan-miller/profil/spieler/615222",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/06/1998 (28)",
+      "club_actual": "AC Raleigh",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181877",
+      "nombre": "William Gardiner",
+      "href_perfil": "/william-gardiner/profil/spieler/1181877",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/06/2006 (20)",
+      "club_actual": "Tampa Spartans (University of Tampa Athletics)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531379",
+      "nombre": "Keno Thomas",
+      "href_perfil": "/keno-thomas/profil/spieler/1531379",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "18/11/2007 (18)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531380",
+      "nombre": "Prince Cooper",
+      "href_perfil": "/prince-cooper/profil/spieler/1531380",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/04/2007 (19)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531382",
+      "nombre": "Robert Holcombe",
+      "href_perfil": "/robert-holcombe/profil/spieler/1531382",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "24/02/2007 (19)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531406",
+      "nombre": "Dylan Archer",
+      "href_perfil": "/dylan-archer/profil/spieler/1531406",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531407",
+      "nombre": "Dwayne Taylor Jr",
+      "href_perfil": "/dwayne-taylor-jr/profil/spieler/1531407",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "31/07/1997 (28)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414380",
+      "nombre": "Lance Carroll",
+      "href_perfil": "/lance-carroll/profil/spieler/1414380",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "21/01/2009 (17)",
+      "club_actual": "Darlington School Soccer Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414379",
+      "nombre": "Kevin Thomas",
+      "href_perfil": "/kevin-thomas/profil/spieler/1414379",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "27/12/2005 (20)",
+      "club_actual": "College of the Bahamas",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1194660",
+      "nombre": "Jack Massey",
+      "href_perfil": "/jack-massey/profil/spieler/1194660",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "10/09/2007 (18)",
+      "club_actual": "Westside SC Renegades FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414377",
+      "nombre": "Lamond Cross",
+      "href_perfil": "/lamond-cross/profil/spieler/1414377",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "19/02/2005 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414381",
+      "nombre": "Joshua Anton",
+      "href_perfil": "/joshua-anton/profil/spieler/1414381",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "19/03/2003 (23)",
+      "club_actual": "College of the Bahamas",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122830",
+      "nombre": "Reuben Edgecombe",
+      "href_perfil": "/reuben-edgecombe/profil/spieler/1122830",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/05/2007 (19)",
+      "club_actual": "Western Warriors",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414375",
+      "nombre": "André Roberts",
+      "href_perfil": "/andre-roberts/profil/spieler/1414375",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "18/03/2000 (26)",
+      "club_actual": "Western Warriors",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022248",
+      "nombre": "William Bayles",
+      "href_perfil": "/william-bayles/profil/spieler/1022248",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2003 (23)",
+      "club_actual": "Graham Street Prims",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724085",
+      "nombre": "Nicolás López",
+      "href_perfil": "/nicolas-lopez/profil/spieler/724085",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "08/03/2003 (23)",
+      "club_actual": "Westside SC Renegades FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414376",
+      "nombre": "Lothario Milfrise",
+      "href_perfil": "/lothario-milfrise/profil/spieler/1414376",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/03/2003 (23)",
+      "club_actual": "Douglas College Royals",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "608758",
+      "nombre": "Marcel Joseph",
+      "href_perfil": "/marcel-joseph/profil/spieler/608758",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/03/1997 (29)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414371",
+      "nombre": "Nathan Walker",
+      "href_perfil": "/nathan-walker/profil/spieler/1414371",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "17/01/2009 (17)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

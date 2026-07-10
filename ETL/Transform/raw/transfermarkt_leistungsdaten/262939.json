@@ -1,0 +1,33 @@
+{
+  "nombre": "Johan Mojica",
+  "href_perfil": "/johan-mojica/profil/spieler/262939",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "35",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,726'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,726'"
+    }
+  ]
+}

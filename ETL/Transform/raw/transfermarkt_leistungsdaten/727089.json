@@ -1,0 +1,42 @@
+{
+  "nombre": "Noah Sadiki",
+  "href_perfil": "/noah-sadiki/profil/spieler/727089",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "33",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,896'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "146'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "3,042'"
+    }
+  ]
+}

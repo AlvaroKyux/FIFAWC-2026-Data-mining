@@ -1,0 +1,42 @@
+{
+  "nombre": "Kenny McLean",
+  "href_perfil": "/kenny-mclean/profil/spieler/126600",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "42",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,620'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "99'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "26'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,745'"
+    }
+  ]
+}

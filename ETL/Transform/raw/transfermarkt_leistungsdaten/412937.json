@@ -1,0 +1,33 @@
+{
+  "nombre": "Shurandy Sambo",
+  "href_perfil": "/shurandy-sambo/profil/spieler/412937",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,627'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "127'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,754'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Bara Sapoko Ndiaye",
+  "href_perfil": "/bara-sapoko-ndiaye/profil/spieler/1497653",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "142'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "142'"
+    }
+  ]
+}

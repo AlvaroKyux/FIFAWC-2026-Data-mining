@@ -1,0 +1,42 @@
+{
+  "nombre": "Evan Ndicka",
+  "href_perfil": "/evan-ndicka/profil/spieler/371149",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "31",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,683'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "752'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,480'"
+    }
+  ]
+}

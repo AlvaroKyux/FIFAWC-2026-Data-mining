@@ -1,0 +1,51 @@
+{
+  "nombre": "Abdullah Al-Hamdan",
+  "href_perfil": "/abdullah-al-hamdan/profil/spieler/68626",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "25",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "316'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "225'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "250'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "144'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "935'"
+    }
+  ]
+}

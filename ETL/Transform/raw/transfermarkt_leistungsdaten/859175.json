@@ -1,0 +1,42 @@
+{
+  "nombre": "Garven Metusala",
+  "href_perfil": "/garven-metusala/profil/spieler/859175",
+  "competiciones": [
+    {
+      "competicion_raw": "USLC",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "455'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "330'"
+    },
+    {
+      "competicion_raw": "USL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "225'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,010'"
+    }
+  ]
+}

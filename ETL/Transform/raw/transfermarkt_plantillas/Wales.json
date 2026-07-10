@@ -1,0 +1,249 @@
+{
+  "pais": "Wales",
+  "href_seleccion": "/wales/startseite/verein/3864",
+  "jugadores": [
+    {
+      "player_id": "203026",
+      "nombre": "Danny Ward",
+      "href_perfil": "/danny-ward/profil/spieler/203026",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/06/1993 (33)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "99397",
+      "nombre": "Karl Darlow",
+      "href_perfil": "/karl-darlow/profil/spieler/99397",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/10/1990 (35)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "215810",
+      "nombre": "Tom King",
+      "href_perfil": "/tom-king/profil/spieler/215810",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/03/1995 (31)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "297212",
+      "nombre": "Joe Rodon",
+      "href_perfil": "/joe-rodon/profil/spieler/297212",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1997 (28)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "480987",
+      "nombre": "Chris Mepham",
+      "href_perfil": "/chris-mepham/profil/spieler/480987",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/11/1997 (28)",
+      "club_actual": "West Bromwich Albion",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "192765",
+      "nombre": "Ben Davies",
+      "href_perfil": "/ben-davies/profil/spieler/192765",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/04/1993 (33)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "987074",
+      "nombre": "Dylan Lawlor",
+      "href_perfil": "/dylan-lawlor/profil/spieler/987074",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2006 (20)",
+      "club_actual": "Cardiff City",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "503680",
+      "nombre": "Neco Williams",
+      "href_perfil": "/neco-williams/profil/spieler/503680",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/04/2001 (25)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "258915",
+      "nombre": "Jay Dasilva",
+      "href_perfil": "/jay-dasilva/profil/spieler/258915",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/04/1998 (28)",
+      "club_actual": "Coventry City",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "543164",
+      "nombre": "Rhys Norrington-Davies",
+      "href_perfil": "/rhys-norrington-davies/profil/spieler/543164",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/04/1999 (27)",
+      "club_actual": "Queens Park Rangers",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1122308",
+      "nombre": "Jayden Lienou",
+      "href_perfil": "/jayden-lienou/profil/spieler/1122308",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/04/2008 (18)",
+      "club_actual": "Leeds United U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "214666",
+      "nombre": "Connor Roberts",
+      "href_perfil": "/connor-roberts/profil/spieler/214666",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/09/1995 (30)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1005855",
+      "nombre": "Ronan Kpakio",
+      "href_perfil": "/ronan-kpakio/profil/spieler/1005855",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/05/2007 (19)",
+      "club_actual": "Cardiff City",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "392771",
+      "nombre": "Ethan Ampadu",
+      "href_perfil": "/ethan-ampadu/profil/spieler/392771",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2000 (25)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "965924",
+      "nombre": "Kai Andrews",
+      "href_perfil": "/kai-andrews/profil/spieler/965924",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/08/2006 (19)",
+      "club_actual": "Coventry City",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "197830",
+      "nombre": "Josh Sheehan",
+      "href_perfil": "/josh-sheehan/profil/spieler/197830",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/03/1995 (31)",
+      "club_actual": "Bolton Wanderers",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "837334",
+      "nombre": "Joel Colwill",
+      "href_perfil": "/joel-colwill/profil/spieler/837334",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "27/10/2004 (21)",
+      "club_actual": "Cardiff City",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "1123098",
+      "nombre": "Ollie Bostock",
+      "href_perfil": "/ollie-bostock/profil/spieler/1123098",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/02/2007 (19)",
+      "club_actual": "West Bromwich Albion U21",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "475416",
+      "nombre": "Sorba Thomas",
+      "href_perfil": "/sorba-thomas/profil/spieler/475416",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/01/1999 (27)",
+      "club_actual": "Stoke City",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "344009",
+      "nombre": "Nathan Broadhead",
+      "href_perfil": "/nathan-broadhead/profil/spieler/344009",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/04/1998 (28)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "922462",
+      "nombre": "Lewis Koumas",
+      "href_perfil": "/lewis-koumas/profil/spieler/922462",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/09/2005 (20)",
+      "club_actual": "Hull City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "547039",
+      "nombre": "Isaak Davies",
+      "href_perfil": "/isaak-davies/profil/spieler/547039",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/09/2001 (24)",
+      "club_actual": "Cardiff City",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "470607",
+      "nombre": "Brennan Johnson",
+      "href_perfil": "/brennan-johnson/profil/spieler/470607",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/05/2001 (25)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "277033",
+      "nombre": "David Brooks",
+      "href_perfil": "/david-brooks/profil/spieler/277033",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/07/1997 (28)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "319301",
+      "nombre": "Daniel James",
+      "href_perfil": "/daniel-james/profil/spieler/319301",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/11/1997 (28)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "667506",
+      "nombre": "Cameron Congreve",
+      "href_perfil": "/cameron-congreve/profil/spieler/667506",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/01/2004 (22)",
+      "club_actual": "Dundee FC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "275590",
+      "nombre": "Kieffer Moore",
+      "href_perfil": "/kieffer-moore/profil/spieler/275590",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/08/1992 (33)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€1.30m"
+    }
+  ]
+}

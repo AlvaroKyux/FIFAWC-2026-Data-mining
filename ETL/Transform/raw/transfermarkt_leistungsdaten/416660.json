@@ -1,0 +1,33 @@
+{
+  "nombre": "Ramiz Zerrouki",
+  "href_perfil": "/ramiz-zerrouki/profil/spieler/416660",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,667'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "269'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,936'"
+    }
+  ]
+}

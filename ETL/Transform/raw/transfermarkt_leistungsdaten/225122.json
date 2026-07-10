@@ -1,0 +1,33 @@
+{
+  "nombre": "Gonçalo Guedes",
+  "href_perfil": "/goncalo-guedes/profil/spieler/225122",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "32",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,832'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "497'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,329'"
+    }
+  ]
+}

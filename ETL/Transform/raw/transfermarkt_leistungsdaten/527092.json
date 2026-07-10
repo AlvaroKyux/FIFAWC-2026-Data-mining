@@ -1,0 +1,33 @@
+{
+  "nombre": "Ali Nemati",
+  "href_perfil": "/ali-nemati/profil/spieler/527092",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "20",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,728'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,908'"
+    }
+  ]
+}

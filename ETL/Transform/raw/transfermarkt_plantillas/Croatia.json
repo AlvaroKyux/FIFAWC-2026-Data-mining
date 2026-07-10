@@ -1,0 +1,240 @@
+{
+  "pais": "Croatia",
+  "href_seleccion": "/kroatien/startseite/verein/3556",
+  "jugadores": [
+    {
+      "player_id": "370997",
+      "nombre": "Dominik Kotarski",
+      "href_perfil": "/dominik-kotarski/profil/spieler/370997",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/02/2000 (26)",
+      "club_actual": "FC Copenhagen",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "371013",
+      "nombre": "Ivor Pandur",
+      "href_perfil": "/ivor-pandur/profil/spieler/371013",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/03/2000 (26)",
+      "club_actual": "Hull City",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "205927",
+      "nombre": "Dominik Livakovic",
+      "href_perfil": "/dominik-livakovic/profil/spieler/205927",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/01/1995 (31)",
+      "club_actual": "GNK Dinamo Zagreb",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "475959",
+      "nombre": "Josko Gvardiol",
+      "href_perfil": "/josko-gvardiol/profil/spieler/475959",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/01/2002 (24)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "892160",
+      "nombre": "Luka Vuskovic",
+      "href_perfil": "/luka-vuskovic/profil/spieler/892160",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/02/2007 (19)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "371001",
+      "nombre": "Josip Sutalo",
+      "href_perfil": "/josip-sutalo/profil/spieler/371001",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2000 (26)",
+      "club_actual": "Ajax Amsterdam",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "282144",
+      "nombre": "Marin Pongracic",
+      "href_perfil": "/marin-pongracic/profil/spieler/282144",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/09/1997 (28)",
+      "club_actual": "ACF Fiorentina",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "357003",
+      "nombre": "Martin Erlić",
+      "href_perfil": "/martin-erlic/profil/spieler/357003",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/1998 (28)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "238266",
+      "nombre": "Duje Caleta-Car",
+      "href_perfil": "/duje-caleta-car/profil/spieler/238266",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/09/1996 (29)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "483046",
+      "nombre": "Josip Stanisic",
+      "href_perfil": "/josip-stanisic/profil/spieler/483046",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2000 (26)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "316934",
+      "nombre": "Nikola Moro",
+      "href_perfil": "/nikola-moro/profil/spieler/316934",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/1998 (28)",
+      "club_actual": "Bologna FC 1909",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "374954",
+      "nombre": "Kristijan Jakic",
+      "href_perfil": "/kristijan-jakic/profil/spieler/374954",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/05/1997 (29)",
+      "club_actual": "FC Augsburg",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "668207",
+      "nombre": "Petar Sučić",
+      "href_perfil": "/petar-sucic/profil/spieler/668207",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/10/2003 (22)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "51471",
+      "nombre": "Mateo Kovacic",
+      "href_perfil": "/mateo-kovacic/profil/spieler/51471",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/05/1994 (32)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "502722",
+      "nombre": "Luka Sucic",
+      "href_perfil": "/luka-sucic/profil/spieler/502722",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/2002 (23)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "205938",
+      "nombre": "Mario Pašalić",
+      "href_perfil": "/mario-pasalic/profil/spieler/205938",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/02/1995 (31)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "27992",
+      "nombre": "Luka Modrić",
+      "href_perfil": "/luka-modric/profil/spieler/27992",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/09/1985 (40)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "580451",
+      "nombre": "Martin Baturina",
+      "href_perfil": "/martin-baturina/profil/spieler/580451",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/02/2003 (23)",
+      "club_actual": "Como 1907",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "293200",
+      "nombre": "Nikola Vlašić",
+      "href_perfil": "/nikola-vlasic/profil/spieler/293200",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/10/1997 (28)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "432758",
+      "nombre": "Toni Fruk",
+      "href_perfil": "/toni-fruk/profil/spieler/432758",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/03/2001 (25)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "46580",
+      "nombre": "Andrej Kramaric",
+      "href_perfil": "/andrej-kramaric/profil/spieler/46580",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/06/1991 (35)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "42460",
+      "nombre": "Ivan Perišić",
+      "href_perfil": "/ivan-perisic/profil/spieler/42460",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/02/1989 (37)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "395928",
+      "nombre": "Marco Pašalić",
+      "href_perfil": "/marco-pasalic/profil/spieler/395928",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/09/2000 (25)",
+      "club_actual": "Orlando City SC",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "605268",
+      "nombre": "Igor Matanovic",
+      "href_perfil": "/igor-matanovic/profil/spieler/605268",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/03/2003 (23)",
+      "club_actual": "SC Freiburg",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "387110",
+      "nombre": "Petar Musa",
+      "href_perfil": "/petar-musa/profil/spieler/387110",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/03/1998 (28)",
+      "club_actual": "FC Dallas",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "46413",
+      "nombre": "Ante Budimir",
+      "href_perfil": "/ante-budimir/profil/spieler/46413",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/07/1991 (34)",
+      "club_actual": "CA Osasuna",
+      "valor_mercado_raw": "€2.80m"
+    }
+  ]
+}

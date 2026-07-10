@@ -1,0 +1,213 @@
+{
+  "pais": "Lebanon",
+  "href_seleccion": "/libanon/startseite/verein/3586",
+  "jugadores": [
+    {
+      "player_id": "480546",
+      "nombre": "Mostafa Matar",
+      "href_perfil": "/mostafa-matar/profil/spieler/480546",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/09/1995 (30)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "259233",
+      "nombre": "Ali Sabeh",
+      "href_perfil": "/ali-sabeh/profil/spieler/259233",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/06/1994 (32)",
+      "club_actual": "Jwaya SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "192855",
+      "nombre": "Mehdi Khalil",
+      "href_perfil": "/mehdi-khalil/profil/spieler/192855",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/09/1991 (34)",
+      "club_actual": "Al-Ahed",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "494053",
+      "nombre": "Khalil Khamis",
+      "href_perfil": "/khalil-khamis/profil/spieler/494053",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/01/1995 (31)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "238361",
+      "nombre": "Hasan Farhat",
+      "href_perfil": "/hasan-farhat/profil/spieler/238361",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/09/2004 (21)",
+      "club_actual": "Jwaya SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "212346",
+      "nombre": "Kassem El Zein",
+      "href_perfil": "/kassem-el-zein/profil/spieler/212346",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/12/1990 (35)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1059499",
+      "nombre": "Pedro Budib",
+      "href_perfil": "/pedro-budib/profil/spieler/1059499",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/04/2004 (22)",
+      "club_actual": "CF Pachuca U21",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "118874",
+      "nombre": "Hussein Zein",
+      "href_perfil": "/hussein-zein/profil/spieler/118874",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/01/1995 (31)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "247122",
+      "nombre": "Nassar Nassar",
+      "href_perfil": "/nassar-nassar/profil/spieler/247122",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1992 (34)",
+      "club_actual": "Al-Ansar FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "718770",
+      "nombre": "Jihad Ayoub",
+      "href_perfil": "/jihad-ayoub/profil/spieler/718770",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/03/1995 (31)",
+      "club_actual": "Jwaya SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "709973",
+      "nombre": "Walid Shour",
+      "href_perfil": "/walid-shour/profil/spieler/709973",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/06/1996 (30)",
+      "club_actual": "Jwaya SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "1058517",
+      "nombre": "Ahmad Kheir El-Dine",
+      "href_perfil": "/ahmad-kheir-el-dine/profil/spieler/1058517",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/07/1995 (30)",
+      "club_actual": "Al-Ansar FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "840728",
+      "nombre": "Ali Tneich",
+      "href_perfil": "/ali-tneich/profil/spieler/840728",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/07/1992 (33)",
+      "club_actual": "Al-Ansar FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "743979",
+      "nombre": "Hasan Srour",
+      "href_perfil": "/hasan-srour/profil/spieler/743979",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/12/2001 (24)",
+      "club_actual": "Jwaya SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "901223",
+      "nombre": "Ali El-Fadl",
+      "href_perfil": "/ali-el-fadl/profil/spieler/901223",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/2003 (23)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "107474",
+      "nombre": "Mohamad Haidar",
+      "href_perfil": "/mohamad-haidar/profil/spieler/107474",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/1989 (36)",
+      "club_actual": "Al-Ahed",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "670120",
+      "nombre": "Gabriel Bitar",
+      "href_perfil": "/gabriel-bitar/profil/spieler/670120",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/08/1998 (27)",
+      "club_actual": "Inter Toronto FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "663774",
+      "nombre": "Ali Al-Haj",
+      "href_perfil": "/ali-al-haj/profil/spieler/663774",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/02/2001 (25)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "863564",
+      "nombre": "Austin Ayoubi",
+      "href_perfil": "/austin-ayoubi/profil/spieler/863564",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/07/2001 (24)",
+      "club_actual": "Adelaide United",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1171735",
+      "nombre": "Jimmy Kazan",
+      "href_perfil": "/jimmy-kazan/profil/spieler/1171735",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/03/2007 (19)",
+      "club_actual": "Enosis Neon Paralimni",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "388389",
+      "nombre": "Karim Darwiche",
+      "href_perfil": "/karim-darwiche/profil/spieler/388389",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/11/1998 (27)",
+      "club_actual": "Duhok SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "487847",
+      "nombre": "Omar Bugiel",
+      "href_perfil": "/omar-bugiel/profil/spieler/487847",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/01/1994 (32)",
+      "club_actual": "AFC Wimbledon",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "820672",
+      "nombre": "Leonardo Farah Shahin",
+      "href_perfil": "/leonardo-farah-shahin/profil/spieler/820672",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/08/2003 (22)",
+      "club_actual": "IK Oddevold",
+      "valor_mercado_raw": "€150k"
+    }
+  ]
+}

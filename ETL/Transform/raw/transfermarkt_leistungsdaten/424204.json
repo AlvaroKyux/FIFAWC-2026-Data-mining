@@ -1,0 +1,51 @@
+{
+  "nombre": "Alphonso Davies",
+  "href_perfil": "/alphonso-davies/profil/spieler/424204",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "523'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "212'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "106'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "841'"
+    }
+  ]
+}

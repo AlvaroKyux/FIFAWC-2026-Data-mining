@@ -1,0 +1,249 @@
+{
+  "pais": "Serbia",
+  "href_seleccion": "/serbien/startseite/verein/3438",
+  "jugadores": [
+    {
+      "player_id": "552223",
+      "nombre": "Filip Stanković",
+      "href_perfil": "/filip-stankovic/profil/spieler/552223",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/2002 (24)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "797570",
+      "nombre": "Veljko Ilić",
+      "href_perfil": "/veljko-ilic/profil/spieler/797570",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/07/2003 (22)",
+      "club_actual": "Widzew Lodz",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "674169",
+      "nombre": "Luka Lijeskic",
+      "href_perfil": "/luka-lijeskic/profil/spieler/674169",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/2005 (21)",
+      "club_actual": "FK Radnicki 1923 Kragujevac",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "574671",
+      "nombre": "Strahinja Pavlović",
+      "href_perfil": "/strahinja-pavlovic/profil/spieler/574671",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/05/2001 (25)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "574660",
+      "nombre": "Strahinja Erakovic",
+      "href_perfil": "/strahinja-erakovic/profil/spieler/574660",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/01/2001 (25)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "1011580",
+      "nombre": "Nikola Simic",
+      "href_perfil": "/nikola-simic/profil/spieler/1011580",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/03/2007 (19)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "618022",
+      "nombre": "Mirko Milikic",
+      "href_perfil": "/mirko-milikic/profil/spieler/618022",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/12/2001 (24)",
+      "club_actual": "FK Zeleznicar Pancevo",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "942034",
+      "nombre": "Petar Petrovic",
+      "href_perfil": "/petar-petrovic/profil/spieler/942034",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/07/2005 (20)",
+      "club_actual": "FK Javor-Matis Ivanjica",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "698537",
+      "nombre": "Vukasin Djurdjevic",
+      "href_perfil": "/vukasin-djurdjevic/profil/spieler/698537",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/2004 (22)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "952771",
+      "nombre": "Adem Avdic",
+      "href_perfil": "/adem-avdic/profil/spieler/952771",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/09/2007 (18)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "894668",
+      "nombre": "Stefan Bukinac",
+      "href_perfil": "/stefan-bukinac/profil/spieler/894668",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/07/2005 (20)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "848682",
+      "nombre": "Kosta Nedeljkovic",
+      "href_perfil": "/kosta-nedeljkovic/profil/spieler/848682",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/12/2005 (20)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "851551",
+      "nombre": "Ognjen Mimović",
+      "href_perfil": "/ognjen-mimovic/profil/spieler/851551",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/08/2004 (21)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€2.70m"
+    },
+    {
+      "player_id": "780136",
+      "nombre": "Aleksandar Stanković",
+      "href_perfil": "/aleksandar-stankovic/profil/spieler/780136",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/08/2005 (20)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "944289",
+      "nombre": "Vanja Dragojevic",
+      "href_perfil": "/vanja-dragojevic/profil/spieler/944289",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/2006 (20)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "376588",
+      "nombre": "Njegos Petrovic",
+      "href_perfil": "/njegos-petrovic/profil/spieler/376588",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/07/1999 (26)",
+      "club_actual": "FK Vojvodina Novi Sad",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "1073632",
+      "nombre": "Vasilije Kostov",
+      "href_perfil": "/vasilije-kostov/profil/spieler/1073632",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2008 (18)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "952779",
+      "nombre": "Andrija Maksimovic",
+      "href_perfil": "/andrija-maksimovic/profil/spieler/952779",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/06/2007 (19)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "766306",
+      "nombre": "Petar Stanic",
+      "href_perfil": "/petar-stanic/profil/spieler/766306",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/08/2001 (24)",
+      "club_actual": "Ludogorets Razgrad",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "528022",
+      "nombre": "Dejan Zukic",
+      "href_perfil": "/dejan-zukic/profil/spieler/528022",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/2001 (25)",
+      "club_actual": "Wolfsberger AC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "419648",
+      "nombre": "Veljko Birmancevic",
+      "href_perfil": "/veljko-birmancevic/profil/spieler/419648",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/03/1998 (28)",
+      "club_actual": "Getafe CF",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "706253",
+      "nombre": "Vladimir Lucic",
+      "href_perfil": "/vladimir-lucic/profil/spieler/706253",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "206843",
+      "nombre": "Andrija Zivkovic",
+      "href_perfil": "/andrija-zivkovic/profil/spieler/206843",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/07/1996 (29)",
+      "club_actual": "PAOK Thessaloniki",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "512394",
+      "nombre": "Lazar Randjelovic",
+      "href_perfil": "/lazar-randjelovic/profil/spieler/512394",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/08/1997 (28)",
+      "club_actual": "FK Vojvodina Novi Sad",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "849865",
+      "nombre": "Mihailo Ivanović",
+      "href_perfil": "/mihailo-ivanovic/profil/spieler/849865",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/11/2004 (21)",
+      "club_actual": "Millwall FC",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "943795",
+      "nombre": "Jovan Milosevic",
+      "href_perfil": "/jovan-milosevic/profil/spieler/943795",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/07/2005 (20)",
+      "club_actual": "SV Werder Bremen",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "595650",
+      "nombre": "Nikola Stulic",
+      "href_perfil": "/nikola-stulic/profil/spieler/595650",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/09/2001 (24)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€3.50m"
+    }
+  ]
+}

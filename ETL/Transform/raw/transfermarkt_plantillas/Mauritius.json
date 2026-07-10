@@ -1,0 +1,213 @@
+{
+  "pais": "Mauritius",
+  "href_seleccion": "/mauritius/startseite/verein/14239",
+  "jugadores": [
+    {
+      "player_id": "808027",
+      "nombre": "Dorian Chiotti",
+      "href_perfil": "/dorian-chiotti/profil/spieler/808027",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/08/1998 (27)",
+      "club_actual": "Blois Football 41",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "321897",
+      "nombre": "Kevin Jean-Louis",
+      "href_perfil": "/kevin-jean-louis/profil/spieler/321897",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/06/1989 (37)",
+      "club_actual": "Pamplemousses SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "397958",
+      "nombre": "Christopher Caserne",
+      "href_perfil": "/christopher-caserne/profil/spieler/397958",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/02/1993 (33)",
+      "club_actual": "US Beau Bassin-Rose Hill",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "135490",
+      "nombre": "Lindsay Rose",
+      "href_perfil": "/lindsay-rose/profil/spieler/135490",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/02/1992 (34)",
+      "club_actual": "Aris Thessaloniki",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "397959",
+      "nombre": "Emmanuel Vincent",
+      "href_perfil": "/emmanuel-vincent/profil/spieler/397959",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/08/1997 (28)",
+      "club_actual": "Saint-Denis FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "433369",
+      "nombre": "Brendon Citorah",
+      "href_perfil": "/brendon-citorah/profil/spieler/433369",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/1994 (32)",
+      "club_actual": "Cercle de Joachim SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "716842",
+      "nombre": "Jordan François",
+      "href_perfil": "/jordan-francois/profil/spieler/716842",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/05/2002 (24)",
+      "club_actual": "ACF Piton Saint-Leu",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "333350",
+      "nombre": "Rosario Latouchent",
+      "href_perfil": "/rosario-latouchent/profil/spieler/333350",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/03/1996 (30)",
+      "club_actual": "Bourges FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1205430",
+      "nombre": "Bradley Antoine",
+      "href_perfil": "/bradley-antoine/profil/spieler/1205430",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/04/2003 (23)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1145569",
+      "nombre": "Wilson Mootoo",
+      "href_perfil": "/wilson-mootoo/profil/spieler/1145569",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/04/2002 (24)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "401171",
+      "nombre": "Adel Langue",
+      "href_perfil": "/adel-langue/profil/spieler/401171",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/09/1997 (28)",
+      "club_actual": "Société Sportive Saint-Louisienne",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1271833",
+      "nombre": "William François",
+      "href_perfil": "/william-francois/profil/spieler/1271833",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "02/12/2004 (21)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1475859",
+      "nombre": "Kentiss Bhugeerathee",
+      "href_perfil": "/kentiss-bhugeerathee/profil/spieler/1475859",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2001 (25)",
+      "club_actual": "Pamplemousses SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1135610",
+      "nombre": "Gabriel Caliste",
+      "href_perfil": "/gabriel-caliste/profil/spieler/1135610",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/11/2006 (19)",
+      "club_actual": "West Ham United U21",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "46009",
+      "nombre": "Kévin Bru",
+      "href_perfil": "/kevin-bru/profil/spieler/46009",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/12/1988 (37)",
+      "club_actual": "Retired",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "985456",
+      "nombre": "Fernando Jackson",
+      "href_perfil": "/fernando-jackson/profil/spieler/985456",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "03/11/1999 (26)",
+      "club_actual": "Trois-Bassins FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1275774",
+      "nombre": "Leon Alizart",
+      "href_perfil": "/leon-alizart/profil/spieler/1275774",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/03/2007 (19)",
+      "club_actual": "Avondale FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "397956",
+      "nombre": "Kevin Perticots",
+      "href_perfil": "/kevin-perticots/profil/spieler/397956",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/05/1996 (30)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "662093",
+      "nombre": "Adrien François",
+      "href_perfil": "/adrien-francois/profil/spieler/662093",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/08/1999 (26)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "397961",
+      "nombre": "Adrien Botlar",
+      "href_perfil": "/adrien-botlar/profil/spieler/397961",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/09/1996 (29)",
+      "club_actual": "Pamplemousses SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "739557",
+      "nombre": "Jason Ferré",
+      "href_perfil": "/jason-ferre/profil/spieler/739557",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/11/1998 (27)",
+      "club_actual": "Cercle de Joachim SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1271830",
+      "nombre": "Linley Rita",
+      "href_perfil": "/linley-rita/profil/spieler/1271830",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/02/1994 (32)",
+      "club_actual": "Cercle de Joachim SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "662090",
+      "nombre": "Ashley Nazira",
+      "href_perfil": "/ashley-nazira/profil/spieler/662090",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/11/1995 (30)",
+      "club_actual": "Pamplemousses SC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Luka Vuskovic",
+  "href_perfil": "/luka-vuskovic/profil/spieler/892160",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,442'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,652'"
+    }
+  ]
+}

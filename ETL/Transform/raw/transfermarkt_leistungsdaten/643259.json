@@ -1,0 +1,51 @@
+{
+  "nombre": "Orlando Gill",
+  "href_perfil": "/orlando-gill/profil/spieler/643259",
+  "competiciones": [
+    {
+      "competicion_raw": "Torneo Apertura",
+      "partidos": "14",
+      "goles": "11",
+      "asistencias": "9",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "6",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Playoff Torneo Apertura",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Copa Argentina",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "18",
+      "asistencias": "12",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,010'"
+    }
+  ]
+}

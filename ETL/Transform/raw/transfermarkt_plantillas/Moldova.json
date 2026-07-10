@@ -1,0 +1,240 @@
+{
+  "pais": "Moldova",
+  "href_seleccion": "/moldawien/startseite/verein/6090",
+  "jugadores": [
+    {
+      "player_id": "467240",
+      "nombre": "Andrey Kozhukhar",
+      "href_perfil": "/andrey-kozhukhar/profil/spieler/467240",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/07/1999 (26)",
+      "club_actual": "NK Veres Rivne",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "301106",
+      "nombre": "Emil Timbur",
+      "href_perfil": "/emil-timbur/profil/spieler/301106",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/07/1997 (28)",
+      "club_actual": "FC Sheriff Tiraspol",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "267526",
+      "nombre": "Dumitru Celeadnic",
+      "href_perfil": "/dumitru-celeadnic/profil/spieler/267526",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/04/1992 (34)",
+      "club_actual": "Qyzyljar Petropavlovsk",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "567873",
+      "nombre": "Vladyslav Baboglo",
+      "href_perfil": "/vladyslav-baboglo/profil/spieler/567873",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/11/1998 (27)",
+      "club_actual": "Karpaty Lviv",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1008261",
+      "nombre": "Leo Saca",
+      "href_perfil": "/leo-saca/profil/spieler/1008261",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/01/2007 (19)",
+      "club_actual": "FC Barcelona U19",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "719242",
+      "nombre": "Mihail Stefan",
+      "href_perfil": "/mihail-stefan/profil/spieler/719242",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/08/2001 (24)",
+      "club_actual": "FC Zimbru Chisinau",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1018927",
+      "nombre": "Catalin Cucos",
+      "href_perfil": "/catalin-cucos/profil/spieler/1018927",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/09/2003 (22)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1034052",
+      "nombre": "Mihail Gherasimencov",
+      "href_perfil": "/mihail-gherasimencov/profil/spieler/1034052",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/03/2005 (21)",
+      "club_actual": "Vancouver Whitecaps FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "635048",
+      "nombre": "Ion Bors",
+      "href_perfil": "/ion-bors/profil/spieler/635048",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/07/2002 (23)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "405058",
+      "nombre": "Ioan-Calin Revenco",
+      "href_perfil": "/ioan-calin-revenco/profil/spieler/405058",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/06/2000 (26)",
+      "club_actual": "FC Tatran Presov",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "577515",
+      "nombre": "Teodor Lungu",
+      "href_perfil": "/teodor-lungu/profil/spieler/577515",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/06/1995 (31)",
+      "club_actual": "AFC Unirea 04 Slobozia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "891050",
+      "nombre": "Ovidiu David",
+      "href_perfil": "/ovidiu-david/profil/spieler/891050",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/10/2006 (19)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "136128",
+      "nombre": "Vadim Rață",
+      "href_perfil": "/vadim-rata/profil/spieler/136128",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/05/1993 (33)",
+      "club_actual": "ACSC FC Arges",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "404894",
+      "nombre": "Victor Bogaciuc",
+      "href_perfil": "/victor-bogaciuc/profil/spieler/404894",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/1999 (26)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "980632",
+      "nombre": "Sergiu Perciun",
+      "href_perfil": "/sergiu-perciun/profil/spieler/980632",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/04/2006 (20)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "438311",
+      "nombre": "Victor Stina",
+      "href_perfil": "/victor-stina/profil/spieler/438311",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/03/1998 (28)",
+      "club_actual": "Bnei Yehuda Tel Aviv",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "608448",
+      "nombre": "Stefan Bodisteanu",
+      "href_perfil": "/stefan-bodisteanu/profil/spieler/608448",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/02/2003 (23)",
+      "club_actual": "FC Botosani",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1034636",
+      "nombre": "Stefan Bitca",
+      "href_perfil": "/stefan-bitca/profil/spieler/1034636",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/09/2005 (20)",
+      "club_actual": "Zalaegerszegi TE FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "661837",
+      "nombre": "Dan Puscas",
+      "href_perfil": "/dan-puscas/profil/spieler/661837",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/06/2001 (25)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "576712",
+      "nombre": "Nicky Clescenco",
+      "href_perfil": "/nicky-clescenco/profil/spieler/576712",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/07/2001 (24)",
+      "club_actual": "Kilmarnock FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1163293",
+      "nombre": "Serghei Turcan",
+      "href_perfil": "/serghei-turcan/profil/spieler/1163293",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/07/2004 (21)",
+      "club_actual": "Dacia Buiucani",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "872513",
+      "nombre": "Danila Forov",
+      "href_perfil": "/danila-forov/profil/spieler/872513",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/01/2004 (22)",
+      "club_actual": "FC Sheriff Tiraspol",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "536519",
+      "nombre": "Virgiliu Postolachi",
+      "href_perfil": "/virgiliu-postolachi/profil/spieler/536519",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/03/2000 (26)",
+      "club_actual": "FC Universitatea Cluj",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "635073",
+      "nombre": "Petru Popescu",
+      "href_perfil": "/petru-popescu/profil/spieler/635073",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/03/2002 (24)",
+      "club_actual": "FC Petrocub Hincesti",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "358734",
+      "nombre": "Alexandru Boiciuc",
+      "href_perfil": "/alexandru-boiciuc/profil/spieler/358734",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/08/1997 (28)",
+      "club_actual": "FC Bihor 1902",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "858519",
+      "nombre": "Victor Ciumasu",
+      "href_perfil": "/victor-ciumasu/profil/spieler/858519",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/06/2005 (21)",
+      "club_actual": "FC Sheriff Tiraspol",
+      "valor_mercado_raw": "€75k"
+    }
+  ]
+}

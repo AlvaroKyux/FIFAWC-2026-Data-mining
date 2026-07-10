@@ -1,0 +1,42 @@
+{
+  "nombre": "Arthur Theate",
+  "href_perfil": "/arthur-theate/profil/spieler/368891",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,144'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,984'"
+    }
+  ]
+}

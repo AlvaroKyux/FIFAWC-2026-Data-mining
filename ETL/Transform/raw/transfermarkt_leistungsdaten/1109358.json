@@ -1,0 +1,33 @@
+{
+  "nombre": "Lachlan Bayliss",
+  "href_perfil": "/lachlan-bayliss/profil/spieler/1109358",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "25",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,644'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "191'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,835'"
+    }
+  ]
+}

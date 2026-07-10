@@ -1,0 +1,42 @@
+{
+  "nombre": "James Rodríguez",
+  "href_perfil": "/james-rodriguez/profil/spieler/88103",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "14",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "981'"
+    },
+    {
+      "competicion_raw": "MLS",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "194'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "80'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,255'"
+    }
+  ]
+}

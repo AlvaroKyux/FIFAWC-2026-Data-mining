@@ -1,0 +1,240 @@
+{
+  "pais": "Portugal",
+  "href_seleccion": "/portugal/startseite/verein/3300",
+  "jugadores": [
+    {
+      "player_id": "357153",
+      "nombre": "Diogo Costa",
+      "href_perfil": "/diogo-costa/profil/spieler/357153",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/09/1999 (26)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "234811",
+      "nombre": "Rui Silva",
+      "href_perfil": "/rui-silva/profil/spieler/234811",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/02/1994 (32)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "249994",
+      "nombre": "José Sá",
+      "href_perfil": "/jose-sa/profil/spieler/249994",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/01/1993 (33)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "258004",
+      "nombre": "Rúben Dias",
+      "href_perfil": "/ruben-dias/profil/spieler/258004",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/05/1997 (29)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€55.00m"
+    },
+    {
+      "player_id": "549006",
+      "nombre": "Gonçalo Inácio",
+      "href_perfil": "/goncalo-inacio/profil/spieler/549006",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/08/2001 (24)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "504087",
+      "nombre": "Tomás Araújo",
+      "href_perfil": "/tomas-araujo/profil/spieler/504087",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/05/2002 (24)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "805714",
+      "nombre": "Renato Veiga",
+      "href_perfil": "/renato-veiga/profil/spieler/805714",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/07/2003 (22)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "616341",
+      "nombre": "Nuno Mendes",
+      "href_perfil": "/nuno-mendes/profil/spieler/616341",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/06/2002 (24)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "601883",
+      "nombre": "Matheus Nunes",
+      "href_perfil": "/matheus-nunes/profil/spieler/601883",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/08/1998 (27)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "357147",
+      "nombre": "Diogo Dalot",
+      "href_perfil": "/diogo-dalot/profil/spieler/357147",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/03/1999 (27)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "182712",
+      "nombre": "João Cancelo",
+      "href_perfil": "/joao-cancelo/profil/spieler/182712",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/05/1994 (32)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "231572",
+      "nombre": "Nélson Semedo",
+      "href_perfil": "/nelson-semedo/profil/spieler/231572",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/11/1993 (32)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "487469",
+      "nombre": "Vitinha",
+      "href_perfil": "/vitinha/profil/spieler/487469",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/02/2000 (26)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€140.00m"
+    },
+    {
+      "player_id": "225161",
+      "nombre": "Rúben Neves",
+      "href_perfil": "/ruben-neves/profil/spieler/225161",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/03/1997 (29)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "657430",
+      "nombre": "Samú Costa",
+      "href_perfil": "/samu-costa/profil/spieler/657430",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/11/2000 (25)",
+      "club_actual": "RCD Mallorca",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "670681",
+      "nombre": "João Neves",
+      "href_perfil": "/joao-neves/profil/spieler/670681",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/09/2004 (21)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€140.00m"
+    },
+    {
+      "player_id": "412669",
+      "nombre": "Francisco Trincão",
+      "href_perfil": "/francisco-trincao/profil/spieler/412669",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/1999 (26)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "240306",
+      "nombre": "Bruno Fernandes",
+      "href_perfil": "/bruno-fernandes/profil/spieler/240306",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/1994 (31)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "241641",
+      "nombre": "Bernardo Silva",
+      "href_perfil": "/bernardo-silva/profil/spieler/241641",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/08/1994 (31)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "357164",
+      "nombre": "Rafael Leão",
+      "href_perfil": "/rafael-leao/profil/spieler/357164",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/06/1999 (27)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "225122",
+      "nombre": "Gonçalo Guedes",
+      "href_perfil": "/goncalo-guedes/profil/spieler/225122",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/11/1996 (29)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "487465",
+      "nombre": "Pedro Neto",
+      "href_perfil": "/pedro-neto/profil/spieler/487465",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/03/2000 (26)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "487474",
+      "nombre": "Francisco Conceição",
+      "href_perfil": "/francisco-conceicao/profil/spieler/487474",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/12/2002 (23)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "462250",
+      "nombre": "João Félix",
+      "href_perfil": "/joao-felix/profil/spieler/462250",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "10/11/1999 (26)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "550550",
+      "nombre": "Gonçalo Ramos",
+      "href_perfil": "/goncalo-ramos/profil/spieler/550550",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/2001 (25)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "8198",
+      "nombre": "Cristiano Ronaldo",
+      "href_perfil": "/cristiano-ronaldo/profil/spieler/8198",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/02/1985 (41)",
+      "club_actual": "Al-Nassr FC",
+      "valor_mercado_raw": "€10.00m"
+    }
+  ]
+}

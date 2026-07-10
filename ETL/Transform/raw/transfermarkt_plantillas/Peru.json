@@ -1,0 +1,222 @@
+{
+  "pais": "Peru",
+  "href_seleccion": "/peru/startseite/verein/3584",
+  "jugadores": [
+    {
+      "player_id": "95172",
+      "nombre": "Pedro Gallese",
+      "href_perfil": "/pedro-gallese/profil/spieler/95172",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/1990 (36)",
+      "club_actual": "Deportivo Cali",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "805148",
+      "nombre": "Matías Córdova",
+      "href_perfil": "/matias-cordova/profil/spieler/805148",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/05/2002 (24)",
+      "club_actual": "Comerciantes Unidos",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "158515",
+      "nombre": "Alejandro Duarte",
+      "href_perfil": "/alejandro-duarte/profil/spieler/158515",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/04/1994 (32)",
+      "club_actual": "Club Alianza Lima",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "594731",
+      "nombre": "Fabio Gruber",
+      "href_perfil": "/fabio-gruber/profil/spieler/594731",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/09/2002 (23)",
+      "club_actual": "1.FC Nuremberg",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "335677",
+      "nombre": "Renzo Garcés",
+      "href_perfil": "/renzo-garces/profil/spieler/335677",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/06/1996 (30)",
+      "club_actual": "Club Alianza Lima",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "831138",
+      "nombre": "Matías Lazo",
+      "href_perfil": "/matias-lazo/profil/spieler/831138",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/07/2003 (22)",
+      "club_actual": "FBC Melgar",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "432175",
+      "nombre": "Marcos López",
+      "href_perfil": "/marcos-lopez/profil/spieler/432175",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/11/1999 (26)",
+      "club_actual": "FC Copenhagen",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "541628",
+      "nombre": "Oliver Sonne",
+      "href_perfil": "/oliver-sonne/profil/spieler/541628",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/11/2000 (25)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "837617",
+      "nombre": "Marco Huamán",
+      "href_perfil": "/marco-huaman/profil/spieler/837617",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/09/2002 (23)",
+      "club_actual": "Club Alianza Lima",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "723853",
+      "nombre": "Erick Noriega",
+      "href_perfil": "/erick-noriega/profil/spieler/723853",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/10/2001 (24)",
+      "club_actual": "Grêmio Foot-Ball Porto Alegrense",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "671538",
+      "nombre": "Alfonso Barco",
+      "href_perfil": "/alfonso-barco/profil/spieler/671538",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/12/2001 (24)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€850k"
+    },
+    {
+      "player_id": "582303",
+      "nombre": "Jesús Pretell",
+      "href_perfil": "/jesus-pretell/profil/spieler/582303",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/03/1999 (27)",
+      "club_actual": "LDU Quito",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "490717",
+      "nombre": "Jairo Concha",
+      "href_perfil": "/jairo-concha/profil/spieler/490717",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/05/1999 (27)",
+      "club_actual": "Universitario de Deportes",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "135057",
+      "nombre": "André Carrillo",
+      "href_perfil": "/andre-carrillo/profil/spieler/135057",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/06/1991 (35)",
+      "club_actual": "Sport Club Corinthians Paulista",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "744083",
+      "nombre": "Adrián Quiroz",
+      "href_perfil": "/adrian-quiroz/profil/spieler/744083",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/06/1999 (27)",
+      "club_actual": "CD Los Chankas",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "94880",
+      "nombre": "Yoshimar Yotún",
+      "href_perfil": "/yoshimar-yotun/profil/spieler/94880",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/04/1990 (36)",
+      "club_actual": "Club Sporting Cristal",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "323432",
+      "nombre": "Jairo Vélez",
+      "href_perfil": "/jairo-velez/profil/spieler/323432",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/04/1995 (31)",
+      "club_actual": "Club Alianza Lima",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "639763",
+      "nombre": "Rodrigo Vilca",
+      "href_perfil": "/rodrigo-vilca/profil/spieler/639763",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/1999 (27)",
+      "club_actual": "Comerciantes Unidos",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "865641",
+      "nombre": "Kenji Cabrera",
+      "href_perfil": "/kenji-cabrera/profil/spieler/865641",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/01/2003 (23)",
+      "club_actual": "Vancouver Whitecaps FC",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "1226873",
+      "nombre": "Maxloren Castro",
+      "href_perfil": "/maxloren-castro/profil/spieler/1226873",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/12/2007 (18)",
+      "club_actual": "Club Sporting Cristal",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1442941",
+      "nombre": "Matias Zegarra",
+      "href_perfil": "/matias-zegarra/profil/spieler/1442941",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/12/2006 (19)",
+      "club_actual": "FBC Melgar",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1076584",
+      "nombre": "Bassco Soyer",
+      "href_perfil": "/bassco-soyer/profil/spieler/1076584",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/10/2006 (19)",
+      "club_actual": "Gil Vicente U23",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "325726",
+      "nombre": "Adrián Ugarriza",
+      "href_perfil": "/adrian-ugarriza/profil/spieler/325726",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/1997 (29)",
+      "club_actual": "Ironi Kiryat Shmona",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "224677",
+      "nombre": "Jhonny Vidales",
+      "href_perfil": "/jhonny-vidales/profil/spieler/224677",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/04/1992 (34)",
+      "club_actual": "FBC Melgar",
+      "valor_mercado_raw": "€225k"
+    }
+  ]
+}

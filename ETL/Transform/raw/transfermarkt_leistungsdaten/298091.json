@@ -1,0 +1,42 @@
+{
+  "nombre": "Harry Souttar",
+  "href_perfil": "/harry-souttar/profil/spieler/298091",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "178'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "178'"
+    }
+  ]
+}

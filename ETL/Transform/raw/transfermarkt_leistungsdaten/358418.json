@@ -1,0 +1,42 @@
+{
+  "nombre": "Gabriel Ávalos",
+  "href_perfil": "/gabriel-avalos/profil/spieler/358418",
+  "competiciones": [
+    {
+      "competicion_raw": "Torneo Apertura",
+      "partidos": "16",
+      "goles": "9",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,420'"
+    },
+    {
+      "competicion_raw": "Playoff Torneo Apertura",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Copa Argentina",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "72'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "10",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,582'"
+    }
+  ]
+}

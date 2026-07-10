@@ -1,0 +1,51 @@
+{
+  "nombre": "David Zima",
+  "href_perfil": "/david-zima/profil/spieler/544149",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,680'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "690'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "46'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,596'"
+    }
+  ]
+}

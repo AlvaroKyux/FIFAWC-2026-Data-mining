@@ -1,0 +1,303 @@
+{
+  "pais": "Russia",
+  "href_seleccion": "/russland/startseite/verein/3448",
+  "jugadores": [
+    {
+      "player_id": "617520",
+      "nombre": "Stanislav Agkatsev",
+      "href_perfil": "/stanislav-agkatsev/profil/spieler/617520",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/01/2002 (24)",
+      "club_actual": "FC Krasnodar",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "351419",
+      "nombre": "Aleksandr Maksimenko",
+      "href_perfil": "/aleksandr-maksimenko/profil/spieler/351419",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/03/1998 (28)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "334477",
+      "nombre": "Denis Adamov",
+      "href_perfil": "/denis-adamov/profil/spieler/334477",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/02/1998 (28)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "260677",
+      "nombre": "Anton Mitryushkin",
+      "href_perfil": "/anton-mitryushkin/profil/spieler/260677",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/02/1996 (30)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "532732",
+      "nombre": "Igor Diveev",
+      "href_perfil": "/igor-diveev/profil/spieler/532732",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/09/1999 (26)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "652270",
+      "nombre": "Evgeniy Morozov",
+      "href_perfil": "/evgeniy-morozov/profil/spieler/652270",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/02/2001 (25)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "293829",
+      "nombre": "Maksim Osipenko",
+      "href_perfil": "/maksim-osipenko/profil/spieler/293829",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/05/1994 (32)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "866001",
+      "nombre": "Viktor Melekhin",
+      "href_perfil": "/viktor-melekhin/profil/spieler/866001",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/12/2003 (22)",
+      "club_actual": "FC Rostov",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1131030",
+      "nombre": "Kirill Danilov",
+      "href_perfil": "/kirill-danilov/profil/spieler/1131030",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/08/2007 (18)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "515051",
+      "nombre": "Aleksandr Silyanov",
+      "href_perfil": "/aleksandr-silyanov/profil/spieler/515051",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/02/2001 (25)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "649303",
+      "nombre": "Daniil Denisov",
+      "href_perfil": "/daniil-denisov/profil/spieler/649303",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/10/2002 (23)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "515050",
+      "nombre": "Ilya Vakhania",
+      "href_perfil": "/ilya-vakhania/profil/spieler/515050",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/01/2001 (25)",
+      "club_actual": "FC Rostov",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "360451",
+      "nombre": "Mingiyan Beveev",
+      "href_perfil": "/mingiyan-beveev/profil/spieler/360451",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/11/1995 (30)",
+      "club_actual": "Baltika Kaliningrad",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "263905",
+      "nombre": "Dmitriy Barinov",
+      "href_perfil": "/dmitriy-barinov/profil/spieler/263905",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/09/1996 (29)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "381833",
+      "nombre": "Nail Umyarov",
+      "href_perfil": "/nail-umyarov/profil/spieler/381833",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/06/2000 (26)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "691920",
+      "nombre": "Artem Karpukas",
+      "href_perfil": "/artem-karpukas/profil/spieler/691920",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/06/2002 (24)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "651580",
+      "nombre": "Matvey Kislyak",
+      "href_perfil": "/matvey-kislyak/profil/spieler/651580",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/07/2005 (20)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "419845",
+      "nombre": "Ivan Oblyakov",
+      "href_perfil": "/ivan-oblyakov/profil/spieler/419845",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/07/1998 (27)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "381714",
+      "nombre": "Danil Prutsev",
+      "href_perfil": "/danil-prutsev/profil/spieler/381714",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/03/2000 (26)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "431708",
+      "nombre": "Maksim Petrov",
+      "href_perfil": "/maksim-petrov/profil/spieler/431708",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/2001 (25)",
+      "club_actual": "Baltika Kaliningrad",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "372535",
+      "nombre": "Danil Krugovoy",
+      "href_perfil": "/danil-krugovoy/profil/spieler/372535",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/1998 (28)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "720286",
+      "nombre": "Aleksey Batrakov",
+      "href_perfil": "/aleksey-batrakov/profil/spieler/720286",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/06/2005 (21)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "263918",
+      "nombre": "Aleksandr Golovin",
+      "href_perfil": "/aleksandr-golovin/profil/spieler/263918",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/05/1996 (30)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "746180",
+      "nombre": "Nikita Krivtsov",
+      "href_perfil": "/nikita-krivtsov/profil/spieler/746180",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/08/2002 (23)",
+      "club_actual": "FC Krasnodar",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "255450",
+      "nombre": "Aleksey Miranchuk",
+      "href_perfil": "/aleksey-miranchuk/profil/spieler/255450",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/1995 (30)",
+      "club_actual": "Atlanta United FC",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "255451",
+      "nombre": "Anton Miranchuk",
+      "href_perfil": "/anton-miranchuk/profil/spieler/255451",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/1995 (30)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "623553",
+      "nombre": "Lechi Sadulaev",
+      "href_perfil": "/lechi-sadulaev/profil/spieler/623553",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/01/2000 (26)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1065230",
+      "nombre": "Amir Ibragimov",
+      "href_perfil": "/amir-ibragimov/profil/spieler/1065230",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/04/2008 (18)",
+      "club_actual": "Manchester United U21",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "448981",
+      "nombre": "Maksim Glushenkov",
+      "href_perfil": "/maksim-glushenkov/profil/spieler/448981",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "28/07/1999 (26)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "532676",
+      "nombre": "Konstantin Tyukavin",
+      "href_perfil": "/konstantin-tyukavin/profil/spieler/532676",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/06/2002 (24)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "370287",
+      "nombre": "Dmitriy Vorobyov",
+      "href_perfil": "/dmitriy-vorobyov/profil/spieler/370287",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/1997 (28)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "395659",
+      "nombre": "Ivan Sergeev",
+      "href_perfil": "/ivan-sergeev/profil/spieler/395659",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/05/1995 (31)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "281552",
+      "nombre": "Georgiy Melkadze",
+      "href_perfil": "/georgiy-melkadze/profil/spieler/281552",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/04/1997 (29)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€1.80m"
+    }
+  ]
+}

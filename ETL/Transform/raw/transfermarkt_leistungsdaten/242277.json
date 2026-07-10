@@ -1,0 +1,33 @@
+{
+  "nombre": "Vozinha",
+  "href_perfil": "/vozinha/profil/spieler/242277",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal 2",
+      "partidos": "19",
+      "goles": "23",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "23",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    }
+  ]
+}

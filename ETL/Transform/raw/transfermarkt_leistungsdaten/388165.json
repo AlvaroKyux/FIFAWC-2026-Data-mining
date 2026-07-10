@@ -1,0 +1,51 @@
+{
+  "nombre": "Yoane Wissa",
+  "href_perfil": "/yoane-wissa/profil/spieler/388165",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "521'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "101'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "186'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "96'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "904'"
+    }
+  ]
+}

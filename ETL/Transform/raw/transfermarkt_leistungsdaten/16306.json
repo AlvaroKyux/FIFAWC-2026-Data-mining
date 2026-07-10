@@ -1,0 +1,42 @@
+{
+  "nombre": "Casemiro",
+  "href_perfil": "/casemiro/profil/spieler/16306",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "34",
+      "goles": "9",
+      "asistencias": "2",
+      "amarillas": "9",
+      "rojas": "1",
+      "minutos_raw": "2,589'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "11'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "9",
+      "asistencias": "2",
+      "amarillas": "9",
+      "rojas": "1",
+      "minutos_raw": "2,600'"
+    }
+  ]
+}

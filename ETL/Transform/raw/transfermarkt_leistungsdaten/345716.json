@@ -1,0 +1,69 @@
+{
+  "nombre": "Fidel Escobar",
+  "href_perfil": "/fidel-escobar/profil/spieler/345716",
+  "competiciones": [
+    {
+      "competicion_raw": "Primera División Apertura",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,412'"
+    },
+    {
+      "competicion_raw": "Apertura Play-Off",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Primera División Clausura",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "278'"
+    },
+    {
+      "competicion_raw": "Central American Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "287'"
+    },
+    {
+      "competicion_raw": "Copa de Costa Rica",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Clausura Play-Off",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,517'"
+    }
+  ]
+}

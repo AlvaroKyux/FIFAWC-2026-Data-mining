@@ -1,0 +1,51 @@
+{
+  "nombre": "Gabriel",
+  "href_perfil": "/gabriel/profil/spieler/435338",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,751'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,002'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "309'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "51",
+      "goles": "4",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "4,210'"
+    }
+  ]
+}

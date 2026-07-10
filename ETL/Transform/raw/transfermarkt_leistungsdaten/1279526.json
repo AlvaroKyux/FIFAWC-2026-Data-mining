@@ -1,0 +1,51 @@
+{
+  "nombre": "Christ Inao Oulaï",
+  "href_perfil": "/christ-inao-oulai/profil/spieler/1279526",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,078'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "323'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,401'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Alessandro Schöpf",
+  "href_perfil": "/alessandro-schopf/profil/spieler/118397",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "24",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,804'"
+    },
+    {
+      "competicion_raw": "ÖFB-Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "331'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "191'"
+    },
+    {
+      "competicion_raw": "Bundesliga EC-Play-off",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "20'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "5",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,556'"
+    }
+  ]
+}

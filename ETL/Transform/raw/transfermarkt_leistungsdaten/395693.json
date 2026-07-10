@@ -1,0 +1,51 @@
+{
+  "nombre": "Houssem Aouar",
+  "href_perfil": "/houssem-aouar/profil/spieler/395693",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "23",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,904'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "658'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "217'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "82'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "15",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,861'"
+    }
+  ]
+}

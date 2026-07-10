@@ -1,0 +1,213 @@
+{
+  "pais": "Lesotho",
+  "href_seleccion": "/lesotho/startseite/verein/13962",
+  "jugadores": [
+    {
+      "player_id": "724150",
+      "nombre": "Sekhoane Moerane",
+      "href_perfil": "/sekhoane-moerane/profil/spieler/724150",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/09/1997 (28)",
+      "club_actual": "Orbit College FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1127804",
+      "nombre": "Mosoeu Seahlolo",
+      "href_perfil": "/mosoeu-seahlolo/profil/spieler/1127804",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/05/2003 (23)",
+      "club_actual": "Lesotho Correctional Services",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1470501",
+      "nombre": "Leluma Mofoka",
+      "href_perfil": "/leluma-mofoka/profil/spieler/1470501",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/08/2007 (18)",
+      "club_actual": "Matlama FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1457214",
+      "nombre": "Siyabonga Monyaka",
+      "href_perfil": "/siyabonga-monyaka/profil/spieler/1457214",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "22/04/2002 (24)",
+      "club_actual": "Majantja FC Mohale's Hoek",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "382205",
+      "nombre": "Thabo Makhele",
+      "href_perfil": "/thabo-makhele/profil/spieler/382205",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/12/1994 (31)",
+      "club_actual": "Siwelele Football Club ",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "639129",
+      "nombre": "Motlomelo Mkwanazi",
+      "href_perfil": "/motlomelo-mkwanazi/profil/spieler/639129",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/05/1994 (32)",
+      "club_actual": "Bantu FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1468464",
+      "nombre": "Mphale Mphalaole",
+      "href_perfil": "/mphale-mphalaole/profil/spieler/1468464",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/10/2003 (22)",
+      "club_actual": "Lioli FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1108023",
+      "nombre": "Fusi Matlabe",
+      "href_perfil": "/fusi-matlabe/profil/spieler/1108023",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/05/2000 (26)",
+      "club_actual": "Mpheni Home Defenders FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "702814",
+      "nombre": "Rethabile Mokokoane",
+      "href_perfil": "/rethabile-mokokoane/profil/spieler/702814",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/03/1999 (27)",
+      "club_actual": "Matlama FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1556110",
+      "nombre": "Koketso Kharajane",
+      "href_perfil": "/koketso-kharajane/profil/spieler/1556110",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "836377",
+      "nombre": "Thabang Malane",
+      "href_perfil": "/thabang-malane/profil/spieler/836377",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/06/1997 (29)",
+      "club_actual": "African Stars Windhoek",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1248489",
+      "nombre": "Lehlohonolo Matsau",
+      "href_perfil": "/lehlohonolo-matsau/profil/spieler/1248489",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/03/1997 (29)",
+      "club_actual": "Royal Lesotho Defence Force",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1457218",
+      "nombre": "Kananelo Rapuleng",
+      "href_perfil": "/kananelo-rapuleng/profil/spieler/1457218",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "22/06/2002 (24)",
+      "club_actual": "Bantu FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1470502",
+      "nombre": "Jane Ts’otleho",
+      "href_perfil": "/jane-tsotleho/profil/spieler/1470502",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Lijabatho FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "841814",
+      "nombre": "Tsepang Sefali",
+      "href_perfil": "/tsepang-sefali/profil/spieler/841814",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/07/1996 (29)",
+      "club_actual": "Linare FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "576385",
+      "nombre": "Tsepo Toloane",
+      "href_perfil": "/tsepo-toloane/profil/spieler/576385",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "15/07/1997 (28)",
+      "club_actual": "Royal Lesotho Defence Force",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1470500",
+      "nombre": "Makara Ntaitsane",
+      "href_perfil": "/makara-ntaitsane/profil/spieler/1470500",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/08/1990 (35)",
+      "club_actual": "Lesotho Correctional Services",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "639102",
+      "nombre": "Neo Mokhachane",
+      "href_perfil": "/neo-mokhachane/profil/spieler/639102",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/09/1996 (29)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "394648",
+      "nombre": "Hlompho Kalake",
+      "href_perfil": "/hlompho-kalake/profil/spieler/394648",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/09/1994 (31)",
+      "club_actual": "Lioli FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1127803",
+      "nombre": "Mohlomi Makhetha",
+      "href_perfil": "/mohlomi-makhetha/profil/spieler/1127803",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/09/2000 (25)",
+      "club_actual": "Lijabatho FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1468467",
+      "nombre": "Halifele Moqokola",
+      "href_perfil": "/halifele-moqokola/profil/spieler/1468467",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Lioli FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1387278",
+      "nombre": "Keketso Snyder",
+      "href_perfil": "/keketso-snyder/profil/spieler/1387278",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/10/1990 (35)",
+      "club_actual": "Lesotho Correctional Services",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "429971",
+      "nombre": "Sera Motebang",
+      "href_perfil": "/sera-motebang/profil/spieler/429971",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/05/1995 (31)",
+      "club_actual": "Venda Football Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

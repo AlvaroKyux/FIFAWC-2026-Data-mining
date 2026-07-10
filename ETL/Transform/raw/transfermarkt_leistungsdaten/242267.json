@@ -1,0 +1,51 @@
+{
+  "nombre": "Saleh Al-Shehri",
+  "href_perfil": "/saleh-al-shehri/profil/spieler/242267",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "18",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "422'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "81'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "139'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "8'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "650'"
+    }
+  ]
+}

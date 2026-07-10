@@ -1,0 +1,33 @@
+{
+  "nombre": "Gustavo Velázquez",
+  "href_perfil": "/gustavo-velazquez/profil/spieler/389399",
+  "competiciones": [
+    {
+      "competicion_raw": "Primera División Apertura",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "539'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,529'"
+    }
+  ]
+}

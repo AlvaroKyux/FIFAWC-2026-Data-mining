@@ -1,0 +1,51 @@
+{
+  "nombre": "Ibrahim Sangaré",
+  "href_perfil": "/ibrahim-sangare/profil/spieler/375885",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,080'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "739'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "6'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,825'"
+    }
+  ]
+}

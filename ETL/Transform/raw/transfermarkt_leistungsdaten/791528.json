@@ -1,0 +1,42 @@
+{
+  "nombre": "Telmo Arcanjo",
+  "href_perfil": "/telmo-arcanjo/profil/spieler/791528",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "1,244'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "144'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "1,451'"
+    }
+  ]
+}

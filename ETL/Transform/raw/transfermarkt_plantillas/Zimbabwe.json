@@ -1,0 +1,195 @@
+{
+  "pais": "Zimbabwe",
+  "href_seleccion": "/simbabwe/startseite/verein/3583",
+  "jugadores": [
+    {
+      "player_id": "1199210",
+      "nombre": "Marley Tavaziva",
+      "href_perfil": "/marley-tavaziva/profil/spieler/1199210",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/12/2004 (21)",
+      "club_actual": "Brentford FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "844575",
+      "nombre": "Future Sibanda",
+      "href_perfil": "/future-sibanda/profil/spieler/844575",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/07/1996 (29)",
+      "club_actual": "ZPC Kariba",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "981516",
+      "nombre": "Munashe Garananga",
+      "href_perfil": "/munashe-garananga/profil/spieler/981516",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/2001 (25)",
+      "club_actual": "Hibernian FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "429973",
+      "nombre": "Gerald Takwara",
+      "href_perfil": "/gerald-takwara/profil/spieler/429973",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/10/1994 (31)",
+      "club_actual": "El Ettihad Al-Misraty SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "854838",
+      "nombre": "Shane Maroodza",
+      "href_perfil": "/shane-maroodza/profil/spieler/854838",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/05/2004 (22)",
+      "club_actual": "FK Sarajevo",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1384169",
+      "nombre": "Isheanesu Mauchi",
+      "href_perfil": "/isheanesu-mauchi/profil/spieler/1384169",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/11/2002 (23)",
+      "club_actual": "Chippa United",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1011151",
+      "nombre": "Corbin Mthunzi",
+      "href_perfil": "/corbin-mthunzi/profil/spieler/1011151",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/05/2007 (19)",
+      "club_actual": "Ipswich Town U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "633530",
+      "nombre": "Jordan Zemura",
+      "href_perfil": "/jordan-zemura/profil/spieler/633530",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/11/1999 (26)",
+      "club_actual": "Udinese Calcio",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "969140",
+      "nombre": "Sean Fusire",
+      "href_perfil": "/sean-fusire/profil/spieler/969140",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/05/2005 (21)",
+      "club_actual": "Sheffield Wednesday",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "1245476",
+      "nombre": "Emmanuel Jalai",
+      "href_perfil": "/emmanuel-jalai/profil/spieler/1245476",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/01/1999 (27)",
+      "club_actual": "Durban City Football Club",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "645126",
+      "nombre": "Godknows Murwira",
+      "href_perfil": "/godknows-murwira/profil/spieler/645126",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/07/1993 (32)",
+      "club_actual": "Scottland Football Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "324882",
+      "nombre": "Marvelous Nakamba",
+      "href_perfil": "/marvelous-nakamba/profil/spieler/324882",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/01/1994 (32)",
+      "club_actual": "Sheffield Wednesday",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1366992",
+      "nombre": "Prosper Padera",
+      "href_perfil": "/prosper-padera/profil/spieler/1366992",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/10/2006 (19)",
+      "club_actual": "SJK Seinäjoki",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "414908",
+      "nombre": "Marshall Munetsi",
+      "href_perfil": "/marshall-munetsi/profil/spieler/414908",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/1996 (30)",
+      "club_actual": "Paris FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "405683",
+      "nombre": "Jonah Fabisch",
+      "href_perfil": "/jonah-fabisch/profil/spieler/405683",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/08/2001 (24)",
+      "club_actual": "FC Erzgebirge Aue",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "905749",
+      "nombre": "Abubakar Moffat",
+      "href_perfil": "/abubakar-moffat/profil/spieler/905749",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/1998 (28)",
+      "club_actual": "Scottland Football Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724783",
+      "nombre": "Tawanda Chirewa",
+      "href_perfil": "/tawanda-chirewa/profil/spieler/724783",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/10/2003 (22)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1530983",
+      "nombre": "Mongameli Tshuma",
+      "href_perfil": "/mongameli-tshuma/profil/spieler/1530983",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/07/2001 (24)",
+      "club_actual": "Highlanders FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1147135",
+      "nombre": "Daniel Msendami",
+      "href_perfil": "/daniel-msendami/profil/spieler/1147135",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/10/2000 (25)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "603123",
+      "nombre": "Junior Zindoga",
+      "href_perfil": "/junior-zindoga/profil/spieler/603123",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/07/1998 (27)",
+      "club_actual": "TS Galaxy FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1481229",
+      "nombre": "Washington Navaya",
+      "href_perfil": "/washington-navaya/profil/spieler/1481229",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/04/1998 (28)",
+      "club_actual": "Hardrock Football Club",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

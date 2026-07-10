@@ -1,0 +1,33 @@
+{
+  "nombre": "Derrick Etienne Jr.",
+  "href_perfil": "/derrick-etienne-jr-/profil/spieler/354763",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "647'"
+    },
+    {
+      "competicion_raw": "Canadian Championship",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "12",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "737'"
+    }
+  ]
+}

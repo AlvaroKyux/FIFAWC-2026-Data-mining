@@ -1,0 +1,222 @@
+{
+  "pais": "Romania",
+  "href_seleccion": "/rumanien/startseite/verein/3447",
+  "jugadores": [
+    {
+      "player_id": "568544",
+      "nombre": "Ștefan Târnovanu",
+      "href_perfil": "/stefan-tarnovanu/profil/spieler/568544",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/05/2000 (26)",
+      "club_actual": "FCSB",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "744075",
+      "nombre": "Otto Hindrich",
+      "href_perfil": "/otto-hindrich/profil/spieler/744075",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/08/2002 (23)",
+      "club_actual": "Legia Warszawa",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "426724",
+      "nombre": "Marian Aioani",
+      "href_perfil": "/marian-aioani/profil/spieler/426724",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/11/1999 (26)",
+      "club_actual": "FC Rapid 1923",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "418219",
+      "nombre": "Vladimir Screciu",
+      "href_perfil": "/vladimir-screciu/profil/spieler/418219",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2000 (26)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "615930",
+      "nombre": "Matei Ilie",
+      "href_perfil": "/matei-ilie/profil/spieler/615930",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/12/2002 (23)",
+      "club_actual": "CFR Cluj",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "289308",
+      "nombre": "Andrei Burcă",
+      "href_perfil": "/andrei-burca/profil/spieler/289308",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/04/1993 (33)",
+      "club_actual": "Yunnan Yukun",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1057319",
+      "nombre": "Lisav Naif Eissat",
+      "href_perfil": "/lisav-naif-eissat/profil/spieler/1057319",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2005 (21)",
+      "club_actual": "Maccabi Haifa",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "692349",
+      "nombre": "Andrei Coubiș",
+      "href_perfil": "/andrei-coubis/profil/spieler/692349",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/09/2003 (22)",
+      "club_actual": "FC Universitatea Cluj",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "361537",
+      "nombre": "Mihai Popescu",
+      "href_perfil": "/mihai-popescu/profil/spieler/361537",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/05/1993 (33)",
+      "club_actual": "FCSB",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "723826",
+      "nombre": "Andrei Borza",
+      "href_perfil": "/andrei-borza/profil/spieler/723826",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/11/2005 (20)",
+      "club_actual": "FC Rapid 1923",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1004681",
+      "nombre": "Tony Strata",
+      "href_perfil": "/tony-strata/profil/spieler/1004681",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/09/2004 (21)",
+      "club_actual": "Vitória Guimarães SC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "379209",
+      "nombre": "Deian Sorescu",
+      "href_perfil": "/deian-sorescu/profil/spieler/379209",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/08/1997 (28)",
+      "club_actual": "Gaziantep FK",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "433976",
+      "nombre": "Tudor Băluță",
+      "href_perfil": "/tudor-baluta/profil/spieler/433976",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/1999 (27)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "575219",
+      "nombre": "Cătălin Cîrjan",
+      "href_perfil": "/catalin-cirjan/profil/spieler/575219",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/12/2002 (23)",
+      "club_actual": "FC Dinamo 1948",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1112690",
+      "nombre": "David Matei",
+      "href_perfil": "/david-matei/profil/spieler/1112690",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/07/2006 (19)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "395800",
+      "nombre": "Darius Olaru",
+      "href_perfil": "/darius-olaru/profil/spieler/395800",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/03/1998 (28)",
+      "club_actual": "FCSB",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "319213",
+      "nombre": "Vlad Dragomir",
+      "href_perfil": "/vlad-dragomir/profil/spieler/319213",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/04/1999 (27)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "148372",
+      "nombre": "Nicolae Stanciu",
+      "href_perfil": "/nicolae-stanciu/profil/spieler/148372",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/1993 (33)",
+      "club_actual": "Dalian Yingbo",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "686232",
+      "nombre": "Ștefan Baiaram",
+      "href_perfil": "/stefan-baiaram/profil/spieler/686232",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/12/2002 (23)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "340982",
+      "nombre": "Florinel Coman",
+      "href_perfil": "/florinel-coman/profil/spieler/340982",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/04/1998 (28)",
+      "club_actual": "Al-Gharafa SC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "365770",
+      "nombre": "Alexandru Dobre",
+      "href_perfil": "/alexandru-dobre/profil/spieler/365770",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/08/1998 (27)",
+      "club_actual": "FC Rapid 1923",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "429551",
+      "nombre": "Olimpiu Moruțan",
+      "href_perfil": "/olimpiu-morutan/profil/spieler/429551",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/04/1999 (27)",
+      "club_actual": "FC Rapid 1923",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "547786",
+      "nombre": "Louis Munteanu",
+      "href_perfil": "/louis-munteanu/profil/spieler/547786",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/06/2002 (24)",
+      "club_actual": "D.C. United",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "405399",
+      "nombre": "Denis Drăguș",
+      "href_perfil": "/denis-dragus/profil/spieler/405399",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/07/1999 (26)",
+      "club_actual": "Gaziantep FK",
+      "valor_mercado_raw": "€2.00m"
+    }
+  ]
+}

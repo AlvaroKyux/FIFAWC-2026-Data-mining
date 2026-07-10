@@ -1,0 +1,42 @@
+{
+  "nombre": "Joshua Brenet",
+  "href_perfil": "/joshua-brenet/profil/spieler/207006",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "884'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "797'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,801'"
+    }
+  ]
+}

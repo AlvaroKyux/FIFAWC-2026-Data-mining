@@ -1,0 +1,33 @@
+{
+  "nombre": "Jearl Margaritha",
+  "href_perfil": "/jearl-margaritha/profil/spieler/538958",
+  "competiciones": [
+    {
+      "competicion_raw": "Challenger Pro League",
+      "partidos": "32",
+      "goles": "7",
+      "asistencias": "12",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,382'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "75'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "7",
+      "asistencias": "12",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,457'"
+    }
+  ]
+}

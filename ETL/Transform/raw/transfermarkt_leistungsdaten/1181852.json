@@ -1,0 +1,42 @@
+{
+  "nombre": "Mohammed Abu Al-Shamat",
+  "href_perfil": "/mohammed-abu-al-shamat/profil/spieler/1181852",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "31",
+      "goles": "3",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,497'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "217'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "3",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,714'"
+    }
+  ]
+}

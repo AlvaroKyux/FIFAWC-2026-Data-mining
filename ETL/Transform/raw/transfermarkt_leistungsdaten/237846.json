@@ -1,0 +1,60 @@
+{
+  "nombre": "Edmílson Junior",
+  "href_perfil": "/edmilson-junior/profil/spieler/237846",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "19",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,529'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "705'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "73'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,667'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Thalente Mbatha",
+  "href_perfil": "/thalente-mbatha/profil/spieler/735697",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,606'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "238'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "173'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,197'"
+    }
+  ]
+}

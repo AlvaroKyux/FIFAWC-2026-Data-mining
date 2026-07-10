@@ -1,0 +1,33 @@
+{
+  "nombre": "Danial Eiri",
+  "href_perfil": "/danial-eiri/profil/spieler/1080301",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,892'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,102'"
+    }
+  ]
+}

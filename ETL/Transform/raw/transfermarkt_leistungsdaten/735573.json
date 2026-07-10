@@ -1,0 +1,69 @@
+{
+  "nombre": "Richard Ríos",
+  "href_perfil": "/richard-rios/profil/spieler/735573",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "27",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,284'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "622'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "178'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "103'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "8",
+      "asistencias": "6",
+      "amarillas": "16",
+      "rojas": "-",
+      "minutos_raw": "3,637'"
+    }
+  ]
+}

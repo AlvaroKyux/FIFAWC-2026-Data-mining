@@ -1,0 +1,51 @@
+{
+  "nombre": "Kento Shiogai",
+  "href_perfil": "/kento-shiogai/profil/spieler/1144627",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "12",
+      "goles": "7",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "363'"
+    },
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "313'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "171'"
+    },
+    {
+      "competicion_raw": "Bundesliga Playoffs",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "15'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "10",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "862'"
+    }
+  ]
+}

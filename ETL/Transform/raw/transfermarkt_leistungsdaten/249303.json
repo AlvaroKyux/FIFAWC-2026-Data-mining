@@ -1,0 +1,42 @@
+{
+  "nombre": "Dennis Eckert Ayensa",
+  "href_perfil": "/dennis-eckert-ayensa/profil/spieler/249303",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "27",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,638'"
+    },
+    {
+      "competicion_raw": "JPL Europe Play-Offs",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "348'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "7",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,091'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Almoez Ali",
+  "href_perfil": "/almoez-ali/profil/spieler/345095",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "168'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "75'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "378'"
+    }
+  ]
+}

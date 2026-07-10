@@ -1,0 +1,33 @@
+{
+  "nombre": "Jacob Shaffelburg",
+  "href_perfil": "/jacob-shaffelburg/profil/spieler/637632",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "224'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "178'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "402'"
+    }
+  ]
+}

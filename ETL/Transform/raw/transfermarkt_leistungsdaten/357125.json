@@ -1,0 +1,42 @@
+{
+  "nombre": "Shahriar Moghanlou",
+  "href_perfil": "/shahriar-moghanlou/profil/spieler/357125",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "25",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,921'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "86'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "66'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,073'"
+    }
+  ]
+}

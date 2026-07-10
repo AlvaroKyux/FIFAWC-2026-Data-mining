@@ -1,0 +1,42 @@
+{
+  "nombre": "Aaron Hickey",
+  "href_perfil": "/aaron-hickey/profil/spieler/591949",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "686'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "152'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,018'"
+    }
+  ]
+}

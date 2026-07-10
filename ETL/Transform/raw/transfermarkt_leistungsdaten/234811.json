@@ -1,0 +1,60 @@
+{
+  "nombre": "Rui Silva",
+  "href_perfil": "/rui-silva/profil/spieler/234811",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "32",
+      "goles": "23",
+      "asistencias": "14",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "14",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,020'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "300'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "42",
+      "asistencias": "19",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "4,380'"
+    }
+  ]
+}

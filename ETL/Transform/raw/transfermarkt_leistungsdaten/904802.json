@@ -1,0 +1,51 @@
+{
+  "nombre": "Jorrel Hato",
+  "href_perfil": "/jorrel-hato/profil/spieler/904802",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,143'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "420'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "345'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "340'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,248'"
+    }
+  ]
+}

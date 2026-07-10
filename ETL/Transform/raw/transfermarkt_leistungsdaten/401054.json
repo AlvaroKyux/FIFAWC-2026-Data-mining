@@ -1,0 +1,33 @@
+{
+  "nombre": "Aymen Hussein",
+  "href_perfil": "/aymen-hussein/profil/spieler/401054",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "18",
+      "goles": "9",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "901'"
+    },
+    {
+      "competicion_raw": "Iraq FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "9",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "901'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Marcus Rashford",
+  "href_perfil": "/marcus-rashford/profil/spieler/258923",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "32",
+      "goles": "8",
+      "asistencias": "9",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,762'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "579'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "249'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "32'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "14",
+      "asistencias": "14",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,622'"
+    }
+  ]
+}

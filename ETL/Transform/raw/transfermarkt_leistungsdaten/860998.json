@@ -1,0 +1,60 @@
+{
+  "nombre": "Azarías Londoño",
+  "href_perfil": "/azarias-londono/profil/spieler/860998",
+  "competiciones": [
+    {
+      "competicion_raw": "LigaPro Serie A",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "462'"
+    },
+    {
+      "competicion_raw": "Supercopa Ecuador",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "8'"
+    },
+    {
+      "competicion_raw": "Copa Ecuador",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Liga Panameña Clausura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "470'"
+    }
+  ]
+}

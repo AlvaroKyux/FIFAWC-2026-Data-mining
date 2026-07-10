@@ -1,0 +1,213 @@
+{
+  "pais": "Saint Kitts and Nevis",
+  "href_seleccion": "/st-kitts-und-nevis/startseite/verein/17760",
+  "jugadores": [
+    {
+      "player_id": "222911",
+      "nombre": "Julani Archibald",
+      "href_perfil": "/julani-archibald/profil/spieler/222911",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/05/1991 (35)",
+      "club_actual": "Valletta FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "663960",
+      "nombre": "Xander Parke",
+      "href_perfil": "/xander-parke/profil/spieler/663960",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/11/2003 (22)",
+      "club_actual": "Hednesford Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1317103",
+      "nombre": "Joshua Warde",
+      "href_perfil": "/joshua-warde/profil/spieler/1317103",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/08/2001 (24)",
+      "club_actual": "Georgia Revolution",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "977234",
+      "nombre": "Jalden Myers",
+      "href_perfil": "/jalden-myers/profil/spieler/977234",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "15/09/2003 (22)",
+      "club_actual": "Bath United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "94655",
+      "nombre": "Jordan Bowery",
+      "href_perfil": "/jordan-bowery/profil/spieler/94655",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/07/1991 (34)",
+      "club_actual": "Mansfield Town",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1528753",
+      "nombre": "Ruben Freeman",
+      "href_perfil": "/ruben-freeman/profil/spieler/1528753",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/09/2002 (23)",
+      "club_actual": "SC Inkberrow",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239551",
+      "nombre": "Daron Thomas",
+      "href_perfil": "/daron-thomas/profil/spieler/1239551",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "St. Pauls's United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "566676",
+      "nombre": "Ethan Bristow",
+      "href_perfil": "/ethan-bristow/profil/spieler/566676",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/11/2001 (24)",
+      "club_actual": "Tranmere Rovers",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "628813",
+      "nombre": "Malique Roberts",
+      "href_perfil": "/malique-roberts/profil/spieler/628813",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/08/2001 (24)",
+      "club_actual": "Cayon Rockets FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "284958",
+      "nombre": "Lois Maynard",
+      "href_perfil": "/lois-maynard/profil/spieler/284958",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/01/1989 (37)",
+      "club_actual": "Radcliffe FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1023192",
+      "nombre": "Jahlyan Burt",
+      "href_perfil": "/jahlyan-burt/profil/spieler/1023192",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/2003 (22)",
+      "club_actual": "Sandy Point FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629194",
+      "nombre": "Mervin Lewis",
+      "href_perfil": "/mervin-lewis/profil/spieler/629194",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/08/2000 (25)",
+      "club_actual": "Cayon Rockets FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "212783",
+      "nombre": "Theo Wharton",
+      "href_perfil": "/theo-wharton/profil/spieler/212783",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/11/1994 (31)",
+      "club_actual": "Barry Town United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "113036",
+      "nombre": "Romaine Sawyers",
+      "href_perfil": "/romaine-sawyers/profil/spieler/113036",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/11/1991 (34)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "488980",
+      "nombre": "Yohannes Mitchum",
+      "href_perfil": "/yohannes-mitchum/profil/spieler/488980",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/1998 (28)",
+      "club_actual": "Cayon Rockets FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "998717",
+      "nombre": "Nequan Browne",
+      "href_perfil": "/nequan-browne/profil/spieler/998717",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/11/1998 (27)",
+      "club_actual": "United Old Road Jets",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1011749",
+      "nombre": "Kyle Kelly",
+      "href_perfil": "/kyle-kelly/profil/spieler/1011749",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/10/2005 (20)",
+      "club_actual": "Liverpool FC U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "331053",
+      "nombre": "Omari Sterling-James",
+      "href_perfil": "/omari-sterling-james/profil/spieler/331053",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "15/09/1993 (32)",
+      "club_actual": "Hednesford Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628814",
+      "nombre": "Tiquanny Williams",
+      "href_perfil": "/tiquanny-williams/profil/spieler/628814",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/09/2001 (24)",
+      "club_actual": "United Old Road Jets",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "484500",
+      "nombre": "Gvaune Amory",
+      "href_perfil": "/gvaune-amory/profil/spieler/484500",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/06/1997 (29)",
+      "club_actual": "Village Superstars",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "500687",
+      "nombre": "Tyrese Shade",
+      "href_perfil": "/tyrese-shade/profil/spieler/500687",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/06/2000 (26)",
+      "club_actual": "Burton Albion",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1374705",
+      "nombre": "Savi-K Morton",
+      "href_perfil": "/savi-k-morton/profil/spieler/1374705",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/01/2009 (17)",
+      "club_actual": "Chapelton Maroons",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "224673",
+      "nombre": "Harry Panayiotou",
+      "href_perfil": "/harry-panayiotou/profil/spieler/224673",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "28/10/1994 (31)",
+      "club_actual": "Morecambe FC",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

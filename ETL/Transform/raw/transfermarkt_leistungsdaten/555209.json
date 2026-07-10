@@ -1,0 +1,51 @@
+{
+  "nombre": "Bradley Cross",
+  "href_perfil": "/bradley-cross/profil/spieler/555209",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,722'"
+    },
+    {
+      "competicion_raw": "CAF Confederation Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "366'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,208'"
+    }
+  ]
+}

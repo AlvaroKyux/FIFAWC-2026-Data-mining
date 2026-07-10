@@ -1,0 +1,33 @@
+{
+  "nombre": "John Yeboah",
+  "href_perfil": "/john-yeboah/profil/spieler/439914",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie B",
+      "partidos": "34",
+      "goles": "10",
+      "asistencias": "10",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,620'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "97'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "12",
+      "asistencias": "11",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,717'"
+    }
+  ]
+}

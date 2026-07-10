@@ -1,0 +1,51 @@
+{
+  "nombre": "Guus Til",
+  "href_perfil": "/guus-til/profil/spieler/372267",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "29",
+      "goles": "14",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,247'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "583'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "129'"
+    },
+    {
+      "competicion_raw": "Johan Cruijff Schaal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "28'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "17",
+      "asistencias": "8",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,987'"
+    }
+  ]
+}

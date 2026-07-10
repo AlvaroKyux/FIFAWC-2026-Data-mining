@@ -1,0 +1,69 @@
+{
+  "nombre": "Ousmane Dembélé",
+  "href_perfil": "/ousmane-dembele/profil/spieler/288230",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "22",
+      "goles": "10",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,063'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "13",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "828'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "87'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "42'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "20",
+      "asistencias": "11",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,200'"
+    }
+  ]
+}

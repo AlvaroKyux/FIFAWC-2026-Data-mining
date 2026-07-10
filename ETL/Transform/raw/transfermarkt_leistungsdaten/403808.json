@@ -1,0 +1,33 @@
+{
+  "nombre": "Andrés Andrade",
+  "href_perfil": "/andres-andrade/profil/spieler/403808",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,697'"
+    },
+    {
+      "competicion_raw": "ÖFB-Cup",
+      "partidos": "6",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "600'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,297'"
+    }
+  ]
+}

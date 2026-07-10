@@ -1,0 +1,51 @@
+{
+  "nombre": "Amirmohammad Razzaghinia",
+  "href_perfil": "/amirmohammad-razzaghinia/profil/spieler/1051591",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,494'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "443'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "34'"
+    },
+    {
+      "competicion_raw": "Iran Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,972'"
+    }
+  ]
+}

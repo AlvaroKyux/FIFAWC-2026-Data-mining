@@ -1,0 +1,42 @@
+{
+  "nombre": "Maghnes Akliouche",
+  "href_perfil": "/maghnes-akliouche/profil/spieler/745200",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "31",
+      "goles": "6",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,410'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "835'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "7",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,425'"
+    }
+  ]
+}

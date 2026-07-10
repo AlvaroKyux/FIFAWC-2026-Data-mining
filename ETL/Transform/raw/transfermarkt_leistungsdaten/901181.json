@@ -1,0 +1,42 @@
+{
+  "nombre": "Musab Al-Juwayr",
+  "href_perfil": "/musab-al-juwayr/profil/spieler/901181",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "31",
+      "goles": "6",
+      "asistencias": "12",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,538'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "145'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "7",
+      "asistencias": "12",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,728'"
+    }
+  ]
+}

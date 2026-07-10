@@ -1,0 +1,24 @@
+{
+  "nombre": "Benjamin Asare",
+  "href_perfil": "/benjamin-asare/profil/spieler/837368",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "19",
+      "goles": "7",
+      "asistencias": "14",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "7",
+      "asistencias": "14",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Cambodia",
+  "href_seleccion": "/kambodscha/startseite/verein/16038",
+  "jugadores": [
+    {
+      "player_id": "945362",
+      "nombre": "Dara Vireak",
+      "href_perfil": "/dara-vireak/profil/spieler/945362",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/10/2003 (22)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1004805",
+      "nombre": "Salim Koy",
+      "href_perfil": "/salim-koy/profil/spieler/1004805",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/12/2002 (23)",
+      "club_actual": "Boeung Ket",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "474124",
+      "nombre": "Soksela Keo",
+      "href_perfil": "/soksela-keo/profil/spieler/474124",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/08/1997 (28)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "973272",
+      "nombre": "Vakhim Im",
+      "href_perfil": "/vakhim-im/profil/spieler/973272",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/11/2003 (22)",
+      "club_actual": "Angkor Tiger FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1004806",
+      "nombre": "Bunchhai Taing",
+      "href_perfil": "/bunchhai-taing/profil/spieler/1004806",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/12/2002 (23)",
+      "club_actual": "Boeung Ket",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "978872",
+      "nombre": "Sokha Phat",
+      "href_perfil": "/sokha-phat/profil/spieler/978872",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/03/2003 (23)",
+      "club_actual": "Nagaworld FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "896929",
+      "nombre": "Nora Leng",
+      "href_perfil": "/nora-leng/profil/spieler/896929",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/09/2004 (21)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "632138",
+      "nombre": "Krya Saret",
+      "href_perfil": "/krya-saret/profil/spieler/632138",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/03/1996 (30)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "678113",
+      "nombre": "Sovann Ouk",
+      "href_perfil": "/sovann-ouk/profil/spieler/678113",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/05/1998 (28)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "311096",
+      "nombre": "Hikaru Mizuno",
+      "href_perfil": "/hikaru-mizuno/profil/spieler/311096",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/08/1991 (34)",
+      "club_actual": "Tiffy Army FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "226734",
+      "nombre": "Suhana Sos",
+      "href_perfil": "/suhana-sos/profil/spieler/226734",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/04/1992 (34)",
+      "club_actual": "Nagaworld FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "355960",
+      "nombre": "Yudai Ogawa",
+      "href_perfil": "/yudai-ogawa/profil/spieler/355960",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/10/1996 (29)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1063745",
+      "nombre": "Dimong Sophal",
+      "href_perfil": "/dimong-sophal/profil/spieler/1063745",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/03/2001 (25)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "355871",
+      "nombre": "Alisher Mirzaev",
+      "href_perfil": "/alisher-mirzaev/profil/spieler/355871",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/1996 (30)",
+      "club_actual": "MOI - Kompong Dewa FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "744510",
+      "nombre": "Sokyuth Kim",
+      "href_perfil": "/sokyuth-kim/profil/spieler/744510",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/06/1999 (27)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "744511",
+      "nombre": "Ratanak Min",
+      "href_perfil": "/ratanak-min/profil/spieler/744511",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/07/2002 (23)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1117156",
+      "nombre": "Samuel Bong",
+      "href_perfil": "/samuel-bong/profil/spieler/1117156",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/09/2005 (20)",
+      "club_actual": "Phnom Penh Crown",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "548981",
+      "nombre": "Kakada Sin",
+      "href_perfil": "/kakada-sin/profil/spieler/548981",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "29/07/2000 (25)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "487365",
+      "nombre": "Andrés Nieto",
+      "href_perfil": "/andres-nieto/profil/spieler/487365",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/1996 (30)",
+      "club_actual": "Phnom Penh Crown",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "678119",
+      "nombre": "Chanthea Sieng",
+      "href_perfil": "/chanthea-sieng/profil/spieler/678119",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/09/2002 (23)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "945364",
+      "nombre": "Sosidan Nhean",
+      "href_perfil": "/sosidan-nhean/profil/spieler/945364",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/10/2002 (23)",
+      "club_actual": "Svay Rieng",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1294467",
+      "nombre": "Rado Mon",
+      "href_perfil": "/rado-mon/profil/spieler/1294467",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/01/2004 (22)",
+      "club_actual": "MOI - Kompong Dewa FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "992402",
+      "nombre": "Devit Yem",
+      "href_perfil": "/devit-yem/profil/spieler/992402",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/11/2003 (22)",
+      "club_actual": "Phnom Penh Crown",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1031441",
+      "nombre": "Soknet Hav",
+      "href_perfil": "/soknet-hav/profil/spieler/1031441",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/08/2003 (22)",
+      "club_actual": "ISI Dangkor Senchey FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1157616",
+      "nombre": "Abdel Kader Coulibaly",
+      "href_perfil": "/abdel-kader-coulibaly/profil/spieler/1157616",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/06/1993 (33)",
+      "club_actual": "Angkor Tiger FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "896926",
+      "nombre": "Rotana Sor",
+      "href_perfil": "/rotana-sor/profil/spieler/896926",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/10/2002 (23)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

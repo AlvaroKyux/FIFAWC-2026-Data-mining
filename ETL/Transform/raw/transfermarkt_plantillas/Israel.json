@@ -1,0 +1,213 @@
+{
+  "pais": "Israel",
+  "href_seleccion": "/israel/startseite/verein/5547",
+  "jugadores": [
+    {
+      "player_id": "468539",
+      "nombre": "Daniel Peretz",
+      "href_perfil": "/daniel-peretz/profil/spieler/468539",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/07/2000 (25)",
+      "club_actual": "Southampton FC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "347268",
+      "nombre": "Omri Glazer",
+      "href_perfil": "/omri-glazer/profil/spieler/347268",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/03/1996 (30)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "489614",
+      "nombre": "Assaf Tzur",
+      "href_perfil": "/assaf-tzur/profil/spieler/489614",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/08/1998 (27)",
+      "club_actual": "Hapoel Tel Aviv",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "761326",
+      "nombre": "Stav Lemkin",
+      "href_perfil": "/stav-lemkin/profil/spieler/761326",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2003 (23)",
+      "club_actual": "FC Twente Enschede",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "468540",
+      "nombre": "Or Blorian",
+      "href_perfil": "/or-blorian/profil/spieler/468540",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/03/2000 (26)",
+      "club_actual": "Hapoel Beer Sheva",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "982567",
+      "nombre": "Nikita Stoinov",
+      "href_perfil": "/nikita-stoinov/profil/spieler/982567",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/08/2005 (20)",
+      "club_actual": "FC Dinamo 1948",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "163847",
+      "nombre": "Eli Dasa",
+      "href_perfil": "/eli-dasa/profil/spieler/163847",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1992 (33)",
+      "club_actual": "NEC Nijmegen",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "408422",
+      "nombre": "Idan Nachmias",
+      "href_perfil": "/idan-nachmias/profil/spieler/408422",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/03/1997 (29)",
+      "club_actual": "Ludogorets Razgrad",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "713007",
+      "nombre": "Itay Rotman",
+      "href_perfil": "/itay-rotman/profil/spieler/713007",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/08/2002 (23)",
+      "club_actual": "Hapoel Petah Tikva",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "919538",
+      "nombre": "Roy Revivo",
+      "href_perfil": "/roy-revivo/profil/spieler/919538",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/05/2003 (23)",
+      "club_actual": "Maccabi Tel Aviv",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "704071",
+      "nombre": "Guy Mizrahi",
+      "href_perfil": "/guy-mizrahi/profil/spieler/704071",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/03/2001 (25)",
+      "club_actual": "Hapoel Beer Sheva",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "470811",
+      "nombre": "Neta Lavi",
+      "href_perfil": "/neta-lavi/profil/spieler/470811",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/08/1996 (29)",
+      "club_actual": "Machida Zelvia",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "926479",
+      "nombre": "Yarin Levi",
+      "href_perfil": "/yarin-levi/profil/spieler/926479",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/08/2005 (20)",
+      "club_actual": "Beitar Jerusalem",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "444018",
+      "nombre": "Eliel Peretz",
+      "href_perfil": "/eliel-peretz/profil/spieler/444018",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/11/1996 (29)",
+      "club_actual": "Hapoel Beer Sheva",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "519506",
+      "nombre": "Ido Shahar",
+      "href_perfil": "/ido-shahar/profil/spieler/519506",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/2001 (24)",
+      "club_actual": "Maccabi Tel Aviv",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "930571",
+      "nombre": "Oscar Gloukh",
+      "href_perfil": "/oscar-gloukh/profil/spieler/930571",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/04/2004 (22)",
+      "club_actual": "Ajax Amsterdam",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "398258",
+      "nombre": "Gabi Kanichowsky",
+      "href_perfil": "/gabi-kanichowsky/profil/spieler/398258",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/08/1997 (28)",
+      "club_actual": "Ferencvárosi TC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "396638",
+      "nombre": "Manor Solomon",
+      "href_perfil": "/manor-solomon/profil/spieler/396638",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/07/1999 (26)",
+      "club_actual": "ACF Fiorentina",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "806427",
+      "nombre": "Stav Turiel",
+      "href_perfil": "/stav-turiel/profil/spieler/806427",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/01/2001 (25)",
+      "club_actual": "Hapoel Tel Aviv",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "921345",
+      "nombre": "Tay Abed",
+      "href_perfil": "/tay-abed/profil/spieler/921345",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/08/2004 (21)",
+      "club_actual": "Levante UD",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "950443",
+      "nombre": "Idan Toklomati",
+      "href_perfil": "/idan-toklomati/profil/spieler/950443",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/08/2004 (21)",
+      "club_actual": "Charlotte FC",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "703460",
+      "nombre": "Dor Turgeman",
+      "href_perfil": "/dor-turgeman/profil/spieler/703460",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/10/2003 (22)",
+      "club_actual": "New England Revolution",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "1002520",
+      "nombre": "Sayed Abu Farkhi",
+      "href_perfil": "/sayed-abu-farkhi/profil/spieler/1002520",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/05/2006 (20)",
+      "club_actual": "Maccabi Tel Aviv",
+      "valor_mercado_raw": "€2.00m"
+    }
+  ]
+}

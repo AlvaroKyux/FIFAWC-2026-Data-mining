@@ -1,0 +1,69 @@
+{
+  "nombre": "Amar Dedić",
+  "href_perfil": "/amar-dedic/profil/spieler/519184",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,903'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "804'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "88'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "1",
+      "minutos_raw": "3,515'"
+    }
+  ]
+}

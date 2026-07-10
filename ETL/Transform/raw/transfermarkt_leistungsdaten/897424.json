@@ -1,0 +1,33 @@
+{
+  "nombre": "Assan Ouédraogo",
+  "href_perfil": "/assan-ouedraogo/profil/spieler/897424",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "19",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "955'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "5'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "960'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Issa Diop",
+  "href_perfil": "/issa-diop/profil/spieler/272622",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "814'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,264'"
+    }
+  ]
+}

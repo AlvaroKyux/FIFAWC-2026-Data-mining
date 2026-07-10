@@ -1,0 +1,51 @@
+{
+  "nombre": "Alexander Sørloth",
+  "href_perfil": "/alexander-sorloth/profil/spieler/238407",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "35",
+      "goles": "13",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,981'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "14",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "617'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "144'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "74'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "54",
+      "goles": "20",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,816'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Matthieu Epolo",
+  "href_perfil": "/matthieu-epolo/profil/spieler/680218",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "21",
+      "goles": "27",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,890'"
+    },
+    {
+      "competicion_raw": "JPL Europe Play-Offs",
+      "partidos": "8",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "39",
+      "asistencias": "8",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,790'"
+    }
+  ]
+}

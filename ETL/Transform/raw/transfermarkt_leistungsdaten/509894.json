@@ -1,0 +1,51 @@
+{
+  "nombre": "Abdulelah Al-Amri",
+  "href_perfil": "/abdulelah-al-amri/profil/spieler/509894",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,789'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "131'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,730'"
+    }
+  ]
+}

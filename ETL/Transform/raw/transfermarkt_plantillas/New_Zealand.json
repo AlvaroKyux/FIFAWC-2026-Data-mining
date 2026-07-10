@@ -1,0 +1,240 @@
+{
+  "pais": "New Zealand",
+  "href_seleccion": "/neuseeland/startseite/verein/9171",
+  "jugadores": [
+    {
+      "player_id": "207843",
+      "nombre": "Max Crocombe",
+      "href_perfil": "/max-crocombe/profil/spieler/207843",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/08/1993 (32)",
+      "club_actual": "Millwall FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "617009",
+      "nombre": "Alex Paulsen",
+      "href_perfil": "/alex-paulsen/profil/spieler/617009",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/07/2002 (23)",
+      "club_actual": "Lechia Gdansk",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "350347",
+      "nombre": "Michael Woud",
+      "href_perfil": "/michael-woud/profil/spieler/350347",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/01/1999 (27)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1007720",
+      "nombre": "Tyler Bindon",
+      "href_perfil": "/tyler-bindon/profil/spieler/1007720",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/01/2005 (21)",
+      "club_actual": "Sheffield United",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "724809",
+      "nombre": "Finn Surman",
+      "href_perfil": "/finn-surman/profil/spieler/724809",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/09/2003 (22)",
+      "club_actual": "Portland Timbers",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "455425",
+      "nombre": "Nando Pijnaker",
+      "href_perfil": "/nando-pijnaker/profil/spieler/455425",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/02/1999 (27)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "81723",
+      "nombre": "Michael Boxall",
+      "href_perfil": "/michael-boxall/profil/spieler/81723",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/08/1988 (37)",
+      "club_actual": "Minnesota United FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "54381",
+      "nombre": "Tommy Smith",
+      "href_perfil": "/tommy-smith/profil/spieler/54381",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/03/1990 (36)",
+      "club_actual": "Braintree Town",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "469211",
+      "nombre": "Liberato Cacace",
+      "href_perfil": "/liberato-cacace/profil/spieler/469211",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/09/2000 (25)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "617021",
+      "nombre": "Ben Old",
+      "href_perfil": "/ben-old/profil/spieler/617021",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/08/2002 (23)",
+      "club_actual": "AS Saint-Étienne",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "207061",
+      "nombre": "Francis de Vries",
+      "href_perfil": "/francis-de-vries/profil/spieler/207061",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/11/1994 (31)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "482204",
+      "nombre": "Callan Elliot",
+      "href_perfil": "/callan-elliot/profil/spieler/482204",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/07/1999 (26)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "149901",
+      "nombre": "Tim Payne",
+      "href_perfil": "/tim-payne/profil/spieler/149901",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/01/1994 (32)",
+      "club_actual": "Wellington Phoenix",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "345700",
+      "nombre": "Joe Bell",
+      "href_perfil": "/joe-bell/profil/spieler/345700",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/04/1999 (27)",
+      "club_actual": "Viking FK",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "203357",
+      "nombre": "Ryan Thomas",
+      "href_perfil": "/ryan-thomas/profil/spieler/203357",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/12/1994 (31)",
+      "club_actual": "PEC Zwolle",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "256019",
+      "nombre": "Alex Rufer",
+      "href_perfil": "/alex-rufer/profil/spieler/256019",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/06/1996 (30)",
+      "club_actual": "Wellington Phoenix",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "617018",
+      "nombre": "Marko Stamenić",
+      "href_perfil": "/marko-stamenic/profil/spieler/617018",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/02/2002 (24)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1109358",
+      "nombre": "Lachlan Bayliss",
+      "href_perfil": "/lachlan-bayliss/profil/spieler/1109358",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/07/2002 (23)",
+      "club_actual": "Newcastle United Jets",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "400797",
+      "nombre": "Callum McCowatt",
+      "href_perfil": "/callum-mccowatt/profil/spieler/400797",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/04/1999 (27)",
+      "club_actual": "Silkeborg IF",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "350357",
+      "nombre": "Sarpreet Singh",
+      "href_perfil": "/sarpreet-singh/profil/spieler/350357",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/02/1999 (27)",
+      "club_actual": "Wellington Phoenix",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "677509",
+      "nombre": "Jesse Randall",
+      "href_perfil": "/jesse-randall/profil/spieler/677509",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/08/2002 (23)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "485672",
+      "nombre": "Elijah Just",
+      "href_perfil": "/elijah-just/profil/spieler/485672",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/05/2000 (26)",
+      "club_actual": "Motherwell FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "312317",
+      "nombre": "Logan Rogerson",
+      "href_perfil": "/logan-rogerson/profil/spieler/312317",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/05/1998 (28)",
+      "club_actual": "Auckland FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "108725",
+      "nombre": "Chris Wood",
+      "href_perfil": "/chris-wood/profil/spieler/108725",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/12/1991 (34)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "539502",
+      "nombre": "Ben Waine",
+      "href_perfil": "/ben-waine/profil/spieler/539502",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/06/2001 (25)",
+      "club_actual": "Port Vale FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "50200",
+      "nombre": "Kosta Barbarouses",
+      "href_perfil": "/kosta-barbarouses/profil/spieler/50200",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/02/1990 (36)",
+      "club_actual": "Western Sydney Wanderers",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

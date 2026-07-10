@@ -1,0 +1,240 @@
+{
+  "pais": "Panama",
+  "href_seleccion": "/panama/startseite/verein/3577",
+  "jugadores": [
+    {
+      "player_id": "402979",
+      "nombre": "Orlando Mosquera",
+      "href_perfil": "/orlando-mosquera/profil/spieler/402979",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/12/1994 (31)",
+      "club_actual": "Al-Fayha FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "865550",
+      "nombre": "César Samudio",
+      "href_perfil": "/cesar-samudio/profil/spieler/865550",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/1994 (32)",
+      "club_actual": "CD Marathón",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "76715",
+      "nombre": "Luis Mejía",
+      "href_perfil": "/luis-mejia/profil/spieler/76715",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/03/1991 (35)",
+      "club_actual": "Club Nacional",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "698415",
+      "nombre": "José Córdoba",
+      "href_perfil": "/jose-cordoba/profil/spieler/698415",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/06/2001 (25)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "403808",
+      "nombre": "Andrés Andrade",
+      "href_perfil": "/andres-andrade/profil/spieler/403808",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/10/1998 (27)",
+      "club_actual": "LASK",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "923177",
+      "nombre": "Edgardo Fariña",
+      "href_perfil": "/edgardo-farina/profil/spieler/923177",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/10/2001 (24)",
+      "club_actual": "FC Pari Nizhniy Novgorod",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "403809",
+      "nombre": "Jiovany Ramos",
+      "href_perfil": "/jiovany-ramos/profil/spieler/403809",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/01/1997 (29)",
+      "club_actual": "Academia Puerto Cabello",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "345716",
+      "nombre": "Fidel Escobar",
+      "href_perfil": "/fidel-escobar/profil/spieler/345716",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/1995 (31)",
+      "club_actual": "Deportivo Saprissa",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "157154",
+      "nombre": "Roderick Miller",
+      "href_perfil": "/roderick-miller/profil/spieler/157154",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/04/1992 (34)",
+      "club_actual": "Turan-Tovuz IK",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "443379",
+      "nombre": "Jorge Gutiérrez",
+      "href_perfil": "/jorge-gutierrez/profil/spieler/443379",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/09/1998 (27)",
+      "club_actual": "Deportivo La Guaira",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "121791",
+      "nombre": "Éric Davis",
+      "href_perfil": "/eric-davis/profil/spieler/121791",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/03/1991 (35)",
+      "club_actual": "CD Plaza Amador",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "354482",
+      "nombre": "Amir Murillo",
+      "href_perfil": "/amir-murillo/profil/spieler/354482",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/02/1996 (30)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "440383",
+      "nombre": "César Blackman",
+      "href_perfil": "/cesar-blackman/profil/spieler/440383",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/04/1998 (28)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "419247",
+      "nombre": "Cristian Martínez",
+      "href_perfil": "/cristian-martinez/profil/spieler/419247",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/1997 (29)",
+      "club_actual": "Ironi Kiryat Shmona",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "628806",
+      "nombre": "Carlos Harvey",
+      "href_perfil": "/carlos-harvey/profil/spieler/628806",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/2000 (26)",
+      "club_actual": "Minnesota United FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "161671",
+      "nombre": "Aníbal Godoy",
+      "href_perfil": "/anibal-godoy/profil/spieler/161671",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/02/1990 (36)",
+      "club_actual": "San Diego FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "375300",
+      "nombre": "Adalberto Carrasquilla",
+      "href_perfil": "/adalberto-carrasquilla/profil/spieler/375300",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/11/1998 (27)",
+      "club_actual": "UNAM Pumas",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "425028",
+      "nombre": "José Luis Rodríguez",
+      "href_perfil": "/jose-luis-rodriguez/profil/spieler/425028",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/06/1998 (28)",
+      "club_actual": "FC Juárez",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "243298",
+      "nombre": "Ismael Díaz",
+      "href_perfil": "/ismael-diaz/profil/spieler/243298",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/05/1997 (29)",
+      "club_actual": "Club León FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "283473",
+      "nombre": "Yoel Bárcenas",
+      "href_perfil": "/yoel-barcenas/profil/spieler/283473",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/10/1993 (32)",
+      "club_actual": "Mazatlán FC",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "741098",
+      "nombre": "César Yanis",
+      "href_perfil": "/cesar-yanis/profil/spieler/741098",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/01/1996 (30)",
+      "club_actual": "CD Cobresal",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "126019",
+      "nombre": "Alberto Quintero",
+      "href_perfil": "/alberto-quintero/profil/spieler/126019",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/12/1987 (38)",
+      "club_actual": "CD Plaza Amador",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "569205",
+      "nombre": "Tomás Rodríguez",
+      "href_perfil": "/tomas-rodriguez/profil/spieler/569205",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/03/1999 (27)",
+      "club_actual": "Deportivo Saprissa",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "860998",
+      "nombre": "Azarías Londoño",
+      "href_perfil": "/azarias-londono/profil/spieler/860998",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/06/2001 (25)",
+      "club_actual": "CD Universidad Católica",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "546803",
+      "nombre": "José Fajardo",
+      "href_perfil": "/jose-fajardo/profil/spieler/546803",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/08/1993 (32)",
+      "club_actual": "CD Universidad Católica",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "177064",
+      "nombre": "Cecilio Waterman",
+      "href_perfil": "/cecilio-waterman/profil/spieler/177064",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/04/1991 (35)",
+      "club_actual": "Universidad de Concepción",
+      "valor_mercado_raw": "€250k"
+    }
+  ]
+}

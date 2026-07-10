@@ -1,0 +1,51 @@
+{
+  "nombre": "Aaron Tshibola",
+  "href_perfil": "/aaron-tshibola/profil/spieler/243633",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "373'"
+    },
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "464'"
+    },
+    {
+      "competicion_raw": "Premiership Relegation",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "422'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "372'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,631'"
+    }
+  ]
+}

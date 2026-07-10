@@ -1,0 +1,51 @@
+{
+  "nombre": "Gaël Kakuta",
+  "href_perfil": "/gael-kakuta/profil/spieler/74297",
+  "competiciones": [
+    {
+      "competicion_raw": "1.Lig",
+      "partidos": "20",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,611'"
+    },
+    {
+      "competicion_raw": "Super League Play-out",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "201'"
+    },
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "275'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "9",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,087'"
+    }
+  ]
+}

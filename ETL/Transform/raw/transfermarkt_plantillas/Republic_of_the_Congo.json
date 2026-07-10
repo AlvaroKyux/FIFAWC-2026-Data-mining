@@ -1,0 +1,213 @@
+{
+  "pais": "Republic of the Congo",
+  "href_seleccion": "/republik-kongo/startseite/verein/3702",
+  "jugadores": [
+    {
+      "player_id": "551160",
+      "nombre": "Perrauld Ndinga",
+      "href_perfil": "/perrauld-ndinga/profil/spieler/551160",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/05/1999 (27)",
+      "club_actual": "AS Mangasport Moanda",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1134107",
+      "nombre": "Chelcy Prince Exauce Bonazebi",
+      "href_perfil": "/chelcy-prince-exauce-bonazebi/profil/spieler/1134107",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/05/2006 (20)",
+      "club_actual": "CARA Brazzaville",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1149253",
+      "nombre": "Simon Ulrich Samba",
+      "href_perfil": "/simon-ulrich-samba/profil/spieler/1149253",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/07/2001 (24)",
+      "club_actual": "AS Otôho",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1072411",
+      "nombre": "Janard Mbemba",
+      "href_perfil": "/janard-mbemba/profil/spieler/1072411",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "06/03/2002 (24)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1113528",
+      "nombre": "Christ Makosso",
+      "href_perfil": "/christ-makosso/profil/spieler/1113528",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/05/2004 (22)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "176361",
+      "nombre": "Romaric Etou",
+      "href_perfil": "/romaric-etou/profil/spieler/176361",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/01/1995 (31)",
+      "club_actual": "FC Dila Gori",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "280096",
+      "nombre": "Beranger Itoua",
+      "href_perfil": "/beranger-itoua/profil/spieler/280096",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/05/1992 (34)",
+      "club_actual": "AS Otôho",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272920",
+      "nombre": "Charles Atipo",
+      "href_perfil": "/charles-atipo/profil/spieler/1272920",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/12/2002 (23)",
+      "club_actual": "FC Les Aigles du Congo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "752446",
+      "nombre": "Prince Mouandza",
+      "href_perfil": "/prince-mouandza/profil/spieler/752446",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/10/2001 (24)",
+      "club_actual": "AS Otôho",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1434034",
+      "nombre": "Jhon Kapaya",
+      "href_perfil": "/jhon-kapaya/profil/spieler/1434034",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/09/2003 (22)",
+      "club_actual": "AC Léopards de Dolisie",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "312825",
+      "nombre": "Fred Ngoma",
+      "href_perfil": "/fred-ngoma/profil/spieler/312825",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/11/1997 (28)",
+      "club_actual": "Olympique Safi",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1078180",
+      "nombre": "Ceti Junior Tchibinda",
+      "href_perfil": "/ceti-junior-tchibinda/profil/spieler/1078180",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/04/2005 (21)",
+      "club_actual": "BFC Daugavpils",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1111833",
+      "nombre": "Gédéon Nongo",
+      "href_perfil": "/gedeon-nongo/profil/spieler/1111833",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/12/2007 (18)",
+      "club_actual": "AS Otôho",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "847467",
+      "nombre": "Glid Otanga",
+      "href_perfil": "/glid-otanga/profil/spieler/847467",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/08/2000 (25)",
+      "club_actual": "Ihud Bnei Sakhnin",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1099992",
+      "nombre": "Venold Dzaba",
+      "href_perfil": "/venold-dzaba/profil/spieler/1099992",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/05/1998 (28)",
+      "club_actual": "Inter Club de Brazzaville",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "398886",
+      "nombre": "Merveil Ndockyt",
+      "href_perfil": "/merveil-ndockyt/profil/spieler/398886",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/07/1998 (27)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1111807",
+      "nombre": "Inno Jospin Loemba",
+      "href_perfil": "/inno-jospin-loemba/profil/spieler/1111807",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/08/2004 (21)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1268512",
+      "nombre": "Declan Moussavou",
+      "href_perfil": "/declan-moussavou/profil/spieler/1268512",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/08/2006 (19)",
+      "club_actual": "AC Léopards de Dolisie",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "864506",
+      "nombre": "Wilfrid Nkaya",
+      "href_perfil": "/wilfrid-nkaya/profil/spieler/864506",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/09/1999 (26)",
+      "club_actual": "ES Sétif",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "458718",
+      "nombre": "Ismaël Ankobo",
+      "href_perfil": "/ismael-ankobo/profil/spieler/458718",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "13/10/1997 (28)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1072377",
+      "nombre": "Déo Bassinga",
+      "href_perfil": "/deo-bassinga/profil/spieler/1072377",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/08/2005 (20)",
+      "club_actual": "FUS Rabat",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "1434036",
+      "nombre": "Carly Ekongo",
+      "href_perfil": "/carly-ekongo/profil/spieler/1434036",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/03/2005 (21)",
+      "club_actual": "Étoile Filante Ouagadougou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1455435",
+      "nombre": "Mignon Koto",
+      "href_perfil": "/mignon-koto/profil/spieler/1455435",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "04/11/2004 (21)",
+      "club_actual": "Dubai City FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

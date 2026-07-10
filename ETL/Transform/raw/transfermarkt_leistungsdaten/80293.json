@@ -1,0 +1,42 @@
+{
+  "nombre": "Aïssa Mandi",
+  "href_perfil": "/aissa-mandi/profil/spieler/80293",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,427'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "851'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,278'"
+    }
+  ]
+}

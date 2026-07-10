@@ -1,0 +1,60 @@
+{
+  "nombre": "Nélson Semedo",
+  "href_perfil": "/nelson-semedo/profil/spieler/231572",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,943'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "731'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "229'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "3,023'"
+    }
+  ]
+}

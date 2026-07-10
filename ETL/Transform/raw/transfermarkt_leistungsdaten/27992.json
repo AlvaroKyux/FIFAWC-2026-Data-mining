@@ -1,0 +1,42 @@
+{
+  "nombre": "Luka Modrić",
+  "href_perfil": "/luka-modric/profil/spieler/27992",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,816'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "33'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "15'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,864'"
+    }
+  ]
+}

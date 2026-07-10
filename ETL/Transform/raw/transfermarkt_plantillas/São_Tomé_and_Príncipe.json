@@ -1,0 +1,222 @@
+{
+  "pais": "São Tomé and Príncipe",
+  "href_seleccion": "/sao-tome-und-principe/startseite/verein/15236",
+  "jugadores": [
+    {
+      "player_id": "1271376",
+      "nombre": "Yaniel Bonfim",
+      "href_perfil": "/yaniel-bonfim/profil/spieler/1271376",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/02/2004 (22)",
+      "club_actual": "Celtic Castilla CF",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "998472",
+      "nombre": "Feher Mendes",
+      "href_perfil": "/feher-mendes/profil/spieler/998472",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/01/2004 (22)",
+      "club_actual": "SL Cartaxo",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1208675",
+      "nombre": "Gilberto d'Almeida",
+      "href_perfil": "/gilberto-dalmeida/profil/spieler/1208675",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/12/2000 (25)",
+      "club_actual": "6 de Setembro",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "702883",
+      "nombre": "Vavá Pequeno",
+      "href_perfil": "/vava-pequeno/profil/spieler/702883",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1994 (32)",
+      "club_actual": "GD Fabril Barreiro",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "830767",
+      "nombre": "Ricardo Fernandes",
+      "href_perfil": "/ricardo-fernandes/profil/spieler/830767",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/08/2002 (23)",
+      "club_actual": "FC Oliveira do Hospital",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1277852",
+      "nombre": "Samuca",
+      "href_perfil": "/samuca/profil/spieler/1277852",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/06/2006 (20)",
+      "club_actual": "CF Estrela Amadora U23",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "889683",
+      "nombre": "Rogério",
+      "href_perfil": "/rogerio/profil/spieler/889683",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/08/2002 (23)",
+      "club_actual": "FC Oliveira do Hospital",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "435306",
+      "nombre": "Paulo Lima",
+      "href_perfil": "/paulo-lima/profil/spieler/435306",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/06/1998 (28)",
+      "club_actual": "Vaasan Palloseura",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "588090",
+      "nombre": "Joel Neves",
+      "href_perfil": "/joel-neves/profil/spieler/588090",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/05/1996 (30)",
+      "club_actual": "Clube Oriental Lissabon",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1208677",
+      "nombre": "Luís Costa",
+      "href_perfil": "/luis-costa/profil/spieler/1208677",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "11/10/1999 (26)",
+      "club_actual": "SC Praia Cruz",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1387225",
+      "nombre": "Waldimison",
+      "href_perfil": "/waldimison/profil/spieler/1387225",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/06/1997 (29)",
+      "club_actual": "Associação Murteirense",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1065177",
+      "nombre": "Adjakson Ramos",
+      "href_perfil": "/adjakson-ramos/profil/spieler/1065177",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/10/2002 (23)",
+      "club_actual": "SV Tasmania Berlin",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1470454",
+      "nombre": "Anderson Quaresma Estevão",
+      "href_perfil": "/anderson-quaresma-estevao/profil/spieler/1470454",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/06/2006 (20)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1314684",
+      "nombre": "Nicola Bragança",
+      "href_perfil": "/nicola-braganca/profil/spieler/1314684",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/04/2000 (26)",
+      "club_actual": "Juventude Évora SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "134283",
+      "nombre": "Mauro Vilhete",
+      "href_perfil": "/mauro-vilhete/profil/spieler/134283",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/1993 (33)",
+      "club_actual": "Hemel Hempstead Town",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1271379",
+      "nombre": "Sérgio Malé",
+      "href_perfil": "/sergio-male/profil/spieler/1271379",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/05/2004 (22)",
+      "club_actual": "SU 1º Dezembro",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "842124",
+      "nombre": "Adjeil Neves",
+      "href_perfil": "/adjeil-neves/profil/spieler/842124",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/10/1996 (29)",
+      "club_actual": "Spartak Pleven",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "836182",
+      "nombre": "Ronaldo Lumungo",
+      "href_perfil": "/ronaldo-lumungo/profil/spieler/836182",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/07/2001 (24)",
+      "club_actual": "FC Paços de Ferreira",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "539505",
+      "nombre": "Ricardo Cardoso",
+      "href_perfil": "/ricardo-cardoso/profil/spieler/539505",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/09/2001 (24)",
+      "club_actual": "US Affrico",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1302176",
+      "nombre": "Winilson Lopes",
+      "href_perfil": "/winilson-lopes/profil/spieler/1302176",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/03/2007 (19)",
+      "club_actual": "CD Santa Clara U23",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "329653",
+      "nombre": "Marcos Barbeiro",
+      "href_perfil": "/marcos-barbeiro/profil/spieler/329653",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/07/1995 (30)",
+      "club_actual": "AC Malveira",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1023744",
+      "nombre": "Gil Carvalho",
+      "href_perfil": "/gil-carvalho/profil/spieler/1023744",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/02/1997 (29)",
+      "club_actual": "Hythe Town FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1126756",
+      "nombre": "Kelve Semedo",
+      "href_perfil": "/kelve-semedo/profil/spieler/1126756",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/05/2004 (22)",
+      "club_actual": "CD Fátima",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1470455",
+      "nombre": "Pedro Laidy Borges Nunes Monteiro",
+      "href_perfil": "/pedro-laidy-borges-nunes-monteiro/profil/spieler/1470455",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "18/09/1998 (27)",
+      "club_actual": "SL Cartaxo",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

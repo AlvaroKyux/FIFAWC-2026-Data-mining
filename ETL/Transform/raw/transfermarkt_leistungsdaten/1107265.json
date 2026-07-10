@@ -1,0 +1,33 @@
+{
+  "nombre": "Ime Okon",
+  "href_perfil": "/ime-okon/profil/spieler/1107265",
+  "competiciones": [
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,716'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,806'"
+    }
+  ]
+}

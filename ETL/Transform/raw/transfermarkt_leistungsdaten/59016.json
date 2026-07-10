@@ -1,0 +1,51 @@
+{
+  "nombre": "David Alaba",
+  "href_perfil": "/david-alaba/profil/spieler/59016",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "421'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "115'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "25'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "14'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "575'"
+    }
+  ]
+}

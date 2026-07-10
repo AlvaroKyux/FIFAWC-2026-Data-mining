@@ -1,0 +1,69 @@
+{
+  "nombre": "Hans Vanaken",
+  "href_perfil": "/hans-vanaken/profil/spieler/137576",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "29",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,565'"
+    },
+    {
+      "competicion_raw": "Jupiler Pro League Champions' Play-Offs",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "801'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "225'"
+    },
+    {
+      "competicion_raw": "Volkswagen Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "57",
+      "goles": "12",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "4,941'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Raúl Rangel",
+  "href_perfil": "/raul-rangel/profil/spieler/802855",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "17",
+      "goles": "22",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "15",
+      "goles": "17",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "42",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    }
+  ]
+}

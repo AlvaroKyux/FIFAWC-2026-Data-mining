@@ -1,0 +1,33 @@
+{
+  "nombre": "Yan Diomande",
+  "href_perfil": "/yan-diomande/profil/spieler/1390649",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "33",
+      "goles": "12",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,483'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "241'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "13",
+      "asistencias": "10",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,724'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Sander Tangvik",
+  "href_perfil": "/sander-tangvik/profil/spieler/549378",
+  "competiciones": [
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "7",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "750'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Ali Ahmed",
+  "href_perfil": "/ali-ahmed/profil/spieler/995642",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "19",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,312'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "153'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,465'"
+    }
+  ]
+}

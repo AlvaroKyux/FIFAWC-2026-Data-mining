@@ -1,0 +1,42 @@
+{
+  "nombre": "Yuito Suzuki",
+  "href_perfil": "/yuito-suzuki/profil/spieler/668606",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "25",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,637'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "892'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "422'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "9",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,951'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Ahmed Basil Fadhil",
+  "href_perfil": "/ahmed-basil-fadhil/profil/spieler/560952",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "27",
+      "goles": "23",
+      "asistencias": "12",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,371'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "5",
+      "goles": "13",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "36",
+      "asistencias": "12",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,821'"
+    }
+  ]
+}

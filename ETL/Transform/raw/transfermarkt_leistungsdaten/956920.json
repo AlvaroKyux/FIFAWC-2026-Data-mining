@@ -1,0 +1,42 @@
+{
+  "nombre": "Nestory Irankunda",
+  "href_perfil": "/nestory-irankunda/profil/spieler/956920",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "40",
+      "goles": "4",
+      "asistencias": "5",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "2,031'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "4",
+      "asistencias": "5",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "2,211'"
+    }
+  ]
+}

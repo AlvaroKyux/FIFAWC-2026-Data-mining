@@ -1,0 +1,267 @@
+{
+  "pais": "North Korea",
+  "href_seleccion": "/nordkorea/startseite/verein/15457",
+  "jugadores": [
+    {
+      "player_id": "551935",
+      "nombre": "Ju-hyok Kang",
+      "href_perfil": "/ju-hyok-kang/profil/spieler/551935",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/1997 (29)",
+      "club_actual": "Hwaebul SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "738843",
+      "nombre": "Kwang-jun Yu",
+      "href_perfil": "/kwang-jun-yu/profil/spieler/738843",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/11/2000 (25)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "543321",
+      "nombre": "Tae-song Sin",
+      "href_perfil": "/tae-song-sin/profil/spieler/543321",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/05/2000 (26)",
+      "club_actual": "4.25 SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "738841",
+      "nombre": "Yu-song Kim",
+      "href_perfil": "/yu-song-kim/profil/spieler/738841",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/07/2003 (22)",
+      "club_actual": "Amnokgang SC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "193968",
+      "nombre": "Kuk-chol Jang",
+      "href_perfil": "/kuk-chol-jang/profil/spieler/193968",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/02/1994 (32)",
+      "club_actual": "Hwaebul SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "551938",
+      "nombre": "Kum-song Jong",
+      "href_perfil": "/kum-song-jong/profil/spieler/551938",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/1997 (29)",
+      "club_actual": "Rimyongsu SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1387014",
+      "nombre": "Hwi-nam Jong",
+      "href_perfil": "/hwi-nam-jong/profil/spieler/1387014",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/05/2003 (23)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "543338",
+      "nombre": "Pom-hyok Kim",
+      "href_perfil": "/pom-hyok-kim/profil/spieler/543338",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/04/2000 (26)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "674221",
+      "nombre": "Ok-chol Choe",
+      "href_perfil": "/ok-chol-choe/profil/spieler/674221",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/11/1998 (27)",
+      "club_actual": "Kigwancha SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1247025",
+      "nombre": "Sung-hye Kim",
+      "href_perfil": "/sung-hye-kim/profil/spieler/1247025",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/01/2003 (23)",
+      "club_actual": "Sonbong SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "877725",
+      "nombre": "Jin-hyok Kim",
+      "href_perfil": "/jin-hyok-kim/profil/spieler/877725",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/03/2002 (24)",
+      "club_actual": "Sonbong SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1387015",
+      "nombre": "Ryong-il Choe",
+      "href_perfil": "/ryong-il-choe/profil/spieler/1387015",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/03/2004 (22)",
+      "club_actual": "4.25 SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "543335",
+      "nombre": "Tam Kye",
+      "href_perfil": "/tam-kye/profil/spieler/543335",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/10/2000 (25)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1387012",
+      "nombre": "Myong-song Ra",
+      "href_perfil": "/myong-song-ra/profil/spieler/1387012",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/01/2003 (23)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1387013",
+      "nombre": "Chung-guk Han",
+      "href_perfil": "/chung-guk-han/profil/spieler/1387013",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "28/03/2002 (24)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "555909",
+      "nombre": "Kuk-chol Kang",
+      "href_perfil": "/kuk-chol-kang/profil/spieler/555909",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/09/1999 (26)",
+      "club_actual": "Rimyongsu SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "375964",
+      "nombre": "Un-chol Ri",
+      "href_perfil": "/un-chol-ri/profil/spieler/375964",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/07/1995 (30)",
+      "club_actual": "Kigwancha SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1312267",
+      "nombre": "Kwang-nam Sin",
+      "href_perfil": "/kwang-nam-sin/profil/spieler/1312267",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/11/2003 (22)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1203767",
+      "nombre": "Kuk Choe",
+      "href_perfil": "/kuk-choe/profil/spieler/1203767",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2005 (21)",
+      "club_actual": "Wolmido SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "949710",
+      "nombre": "Il-song Ri",
+      "href_perfil": "/il-song-ri/profil/spieler/949710",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/01/2004 (22)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "375968",
+      "nombre": "Ju-song Choe",
+      "href_perfil": "/ju-song-choe/profil/spieler/375968",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/01/1996 (30)",
+      "club_actual": "Amnokgang SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "631033",
+      "nombre": "Kuk-jin Kim",
+      "href_perfil": "/kuk-jin-kim/profil/spieler/631033",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/10/2000 (25)",
+      "club_actual": "Kigwancha SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "655532",
+      "nombre": "Chung-song Paek",
+      "href_perfil": "/chung-song-paek/profil/spieler/655532",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/02/2000 (26)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "734411",
+      "nombre": "Kwang-hun Pak",
+      "href_perfil": "/kwang-hun-pak/profil/spieler/734411",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/04/1997 (29)",
+      "club_actual": "Rimyongsu SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1321149",
+      "nombre": "Kwang-myong Ryang",
+      "href_perfil": "/kwang-myong-ryang/profil/spieler/1321149",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/04/2005 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "402193",
+      "nombre": "Kwang-song Han",
+      "href_perfil": "/kwang-song-han/profil/spieler/402193",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/09/1998 (27)",
+      "club_actual": "4.25 SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "877743",
+      "nombre": "Jo-guk Ri",
+      "href_perfil": "/jo-guk-ri/profil/spieler/877743",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/05/2002 (24)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "193970",
+      "nombre": "Il-gwan Jong",
+      "href_perfil": "/il-gwan-jong/profil/spieler/193970",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/10/1992 (33)",
+      "club_actual": "Ryomyong SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1387011",
+      "nombre": "Kum-chol Ri",
+      "href_perfil": "/kum-chol-ri/profil/spieler/1387011",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/03/2004 (22)",
+      "club_actual": "4.25 SC",
+      "valor_mercado_raw": "€125k"
+    }
+  ]
+}

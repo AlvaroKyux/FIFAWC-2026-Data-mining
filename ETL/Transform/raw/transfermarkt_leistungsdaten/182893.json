@@ -1,0 +1,60 @@
+{
+  "nombre": "Seko Fofana",
+  "href_perfil": "/seko-fofana/profil/spieler/182893",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "12",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "276'"
+    },
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "654'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "317'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "83'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,330'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Nicolás Tagliafico",
+  "href_perfil": "/nicolas-tagliafico/profil/spieler/131225",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "20",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "1,310'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "560'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "149'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "2",
+      "minutos_raw": "2,019'"
+    }
+  ]
+}

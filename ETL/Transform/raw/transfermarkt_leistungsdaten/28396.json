@@ -1,0 +1,51 @@
+{
+  "nombre": "Edin Dzeko",
+  "href_perfil": "/edin-dzeko/profil/spieler/28396",
+  "competiciones": [
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "11",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "599'"
+    },
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "236'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "376'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "110'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,321'"
+    }
+  ]
+}

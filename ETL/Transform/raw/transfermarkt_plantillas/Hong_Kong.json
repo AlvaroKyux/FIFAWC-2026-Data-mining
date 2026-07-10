@@ -1,0 +1,204 @@
+{
+  "pais": "Hong Kong",
+  "href_seleccion": "/hongkong/startseite/verein/15977",
+  "jugadores": [
+    {
+      "player_id": "840686",
+      "nombre": "Cheuk-Hei Pong",
+      "href_perfil": "/cheuk-hei-pong/profil/spieler/840686",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/01/2004 (22)",
+      "club_actual": "Kitchee",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "502990",
+      "nombre": "Ka-Wing Tse",
+      "href_perfil": "/ka-wing-tse/profil/spieler/502990",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/09/1999 (26)",
+      "club_actual": "Tai Po",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "395811",
+      "nombre": "Ka-Yu Yip",
+      "href_perfil": "/ka-yu-yip/profil/spieler/395811",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/12/1996 (29)",
+      "club_actual": "Hong Kong Rangers",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "498732",
+      "nombre": "Oliver Gerbig",
+      "href_perfil": "/oliver-gerbig/profil/spieler/498732",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/12/1998 (27)",
+      "club_actual": "Henan FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "391363",
+      "nombre": "Vas Nuñez",
+      "href_perfil": "/vas-nunez/profil/spieler/391363",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/11/1995 (30)",
+      "club_actual": "Yanbian Longding",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "855844",
+      "nombre": "Chi-Kin Jason Kam",
+      "href_perfil": "/chi-kin-jason-kam/profil/spieler/855844",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/03/2004 (22)",
+      "club_actual": "Kitchee",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "605149",
+      "nombre": "Remi Dujardin",
+      "href_perfil": "/remi-dujardin/profil/spieler/605149",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/06/1997 (29)",
+      "club_actual": "Nantong Zhiyun",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "612389",
+      "nombre": "Ming-Him Sun",
+      "href_perfil": "/ming-him-sun/profil/spieler/612389",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/06/2000 (26)",
+      "club_actual": "Tianjin Jinmen Tiger",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "491836",
+      "nombre": "Lok-Kan Jordan Lam",
+      "href_perfil": "/lok-kan-jordan-lam/profil/spieler/491836",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/02/1999 (27)",
+      "club_actual": "Kitchee",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "542228",
+      "nombre": "Tze-Nam Yue",
+      "href_perfil": "/tze-nam-yue/profil/spieler/542228",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/05/1998 (28)",
+      "club_actual": "Beijing Guoan",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "791690",
+      "nombre": "Jay Haddow",
+      "href_perfil": "/jay-haddow/profil/spieler/791690",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2004 (22)",
+      "club_actual": "Kitchee",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "278983",
+      "nombre": "Chun-Lok Tan",
+      "href_perfil": "/chun-lok-tan/profil/spieler/278983",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/1996 (30)",
+      "club_actual": "Kitchee",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "832658",
+      "nombre": "Cheuk-Pan Ngan",
+      "href_perfil": "/cheuk-pan-ngan/profil/spieler/832658",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/01/1998 (28)",
+      "club_actual": "Qingdao Hainiu",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "832659",
+      "nombre": "Hei-Wai Ma",
+      "href_perfil": "/hei-wai-ma/profil/spieler/832659",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/2004 (22)",
+      "club_actual": "Shaanxi Union",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "201876",
+      "nombre": "Wai Wong",
+      "href_perfil": "/wai-wong/profil/spieler/201876",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/09/1992 (33)",
+      "club_actual": "Nanjing City",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "201801",
+      "nombre": "Siu-Kwan Philip Chan",
+      "href_perfil": "/siu-kwan-philip-chan/profil/spieler/201801",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/08/1992 (33)",
+      "club_actual": "Tai Po",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1046583",
+      "nombre": "Raphaël Merkies",
+      "href_perfil": "/raphael-merkies/profil/spieler/1046583",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/04/2002 (24)",
+      "club_actual": "Shandong Taishan",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "930159",
+      "nombre": "Yu-Hei Ng",
+      "href_perfil": "/yu-hei-ng/profil/spieler/930159",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/02/2006 (20)",
+      "club_actual": "Chongqing Tonglianglong",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "416160",
+      "nombre": "Everton Camargo",
+      "href_perfil": "/everton-camargo/profil/spieler/416160",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/05/1991 (35)",
+      "club_actual": "Lee Man",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "818222",
+      "nombre": "Sohgo Ichikawa",
+      "href_perfil": "/sohgo-ichikawa/profil/spieler/818222",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/07/2004 (21)",
+      "club_actual": "Southern District",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "605150",
+      "nombre": "Matt Orr",
+      "href_perfil": "/matt-orr/profil/spieler/605150",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/1997 (29)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "840528",
+      "nombre": "Ka-Kiu Lau",
+      "href_perfil": "/ka-kiu-lau/profil/spieler/840528",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/02/2002 (24)",
+      "club_actual": "Lee Man",
+      "valor_mercado_raw": "€75k"
+    }
+  ]
+}

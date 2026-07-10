@@ -1,0 +1,60 @@
+{
+  "nombre": "Meschack Elia",
+  "href_perfil": "/meschack-elia/profil/spieler/423678",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "22",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "813'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "176'"
+    },
+    {
+      "competicion_raw": "Super League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Swiss Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "989'"
+    }
+  ]
+}

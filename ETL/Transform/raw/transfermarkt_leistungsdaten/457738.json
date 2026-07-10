@@ -1,0 +1,51 @@
+{
+  "nombre": "Jovo Lukić",
+  "href_perfil": "/jovo-lukic/profil/spieler/457738",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperLiga",
+      "partidos": "25",
+      "goles": "15",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,969'"
+    },
+    {
+      "competicion_raw": "SuperLiga - Championship group",
+      "partidos": "7",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "536'"
+    },
+    {
+      "competicion_raw": "Romanian Cup",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "448'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "130'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "20",
+      "asistencias": "3",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,083'"
+    }
+  ]
+}

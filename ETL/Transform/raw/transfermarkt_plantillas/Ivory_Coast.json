@@ -1,0 +1,240 @@
+{
+  "pais": "Ivory Coast",
+  "href_seleccion": "/elfenbeinkuste/startseite/verein/3591",
+  "jugadores": [
+    {
+      "player_id": "418651",
+      "nombre": "Yahia Fofana",
+      "href_perfil": "/yahia-fofana/profil/spieler/418651",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/08/2000 (25)",
+      "club_actual": "Caykur Rizespor",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "357117",
+      "nombre": "Alban Lafont",
+      "href_perfil": "/alban-lafont/profil/spieler/357117",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/01/1999 (27)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "911985",
+      "nombre": "Mohamed Koné",
+      "href_perfil": "/mohamed-kone/profil/spieler/911985",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/03/2002 (24)",
+      "club_actual": "Royal Charleroi SC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "974982",
+      "nombre": "Ousmane Diomande",
+      "href_perfil": "/ousmane-diomande/profil/spieler/974982",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/12/2003 (22)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€42.00m"
+    },
+    {
+      "player_id": "371149",
+      "nombre": "Evan Ndicka",
+      "href_perfil": "/evan-ndicka/profil/spieler/371149",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/08/1999 (26)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "683895",
+      "nombre": "Emmanuel Agbadou",
+      "href_perfil": "/emmanuel-agbadou/profil/spieler/683895",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/1997 (29)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "644771",
+      "nombre": "Odilon Kossounou",
+      "href_perfil": "/odilon-kossounou/profil/spieler/644771",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/01/2001 (25)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "469976",
+      "nombre": "Christopher Operi",
+      "href_perfil": "/christopher-operi/profil/spieler/469976",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/04/1997 (29)",
+      "club_actual": "Basaksehir FK",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "422850",
+      "nombre": "Ghislain Konan",
+      "href_perfil": "/ghislain-konan/profil/spieler/422850",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/12/1995 (30)",
+      "club_actual": "Gil Vicente FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "648779",
+      "nombre": "Wilfried Singo",
+      "href_perfil": "/wilfried-singo/profil/spieler/648779",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/12/2000 (25)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "711980",
+      "nombre": "Guéla Doué",
+      "href_perfil": "/guela-doue/profil/spieler/711980",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/10/2002 (23)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "375885",
+      "nombre": "Ibrahim Sangaré",
+      "href_perfil": "/ibrahim-sangare/profil/spieler/375885",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/12/1997 (28)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "178614",
+      "nombre": "Jean Michaël Seri",
+      "href_perfil": "/jean-michael-seri/profil/spieler/178614",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/07/1991 (34)",
+      "club_actual": "NK Maribor",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1279526",
+      "nombre": "Christ Inao Oulaï",
+      "href_perfil": "/christ-inao-oulai/profil/spieler/1279526",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/2006 (20)",
+      "club_actual": "Trabzonspor",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "294808",
+      "nombre": "Franck Kessié",
+      "href_perfil": "/franck-kessie/profil/spieler/294808",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/12/1996 (29)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "182893",
+      "nombre": "Seko Fofana",
+      "href_perfil": "/seko-fofana/profil/spieler/182893",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/1995 (31)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "1390649",
+      "nombre": "Yan Diomande",
+      "href_perfil": "/yan-diomande/profil/spieler/1390649",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/11/2006 (19)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "1067904",
+      "nombre": "Bazoumana Touré",
+      "href_perfil": "/bazoumana-toure/profil/spieler/1067904",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/03/2006 (20)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "658536",
+      "nombre": "Simon Adingra",
+      "href_perfil": "/simon-adingra/profil/spieler/658536",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "624913",
+      "nombre": "Parfait Guiagon",
+      "href_perfil": "/parfait-guiagon/profil/spieler/624913",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/02/2001 (25)",
+      "club_actual": "Royal Charleroi SC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "536835",
+      "nombre": "Amad Diallo",
+      "href_perfil": "/amad-diallo/profil/spieler/536835",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/07/2002 (23)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "500689",
+      "nombre": "Evann Guessand",
+      "href_perfil": "/evann-guessand/profil/spieler/500689",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/07/2001 (24)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "343052",
+      "nombre": "Nicolas Pépé",
+      "href_perfil": "/nicolas-pepe/profil/spieler/343052",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/05/1995 (31)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "827734",
+      "nombre": "Ange-Yoan Bonny",
+      "href_perfil": "/ange-yoan-bonny/profil/spieler/827734",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/10/2003 (22)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "659542",
+      "nombre": "Elye Wahi",
+      "href_perfil": "/elye-wahi/profil/spieler/659542",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/01/2003 (23)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "847279",
+      "nombre": "Oumar Diakité",
+      "href_perfil": "/oumar-diakite/profil/spieler/847279",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/12/2003 (22)",
+      "club_actual": "Cercle Brugge ",
+      "valor_mercado_raw": "€5.00m"
+    }
+  ]
+}

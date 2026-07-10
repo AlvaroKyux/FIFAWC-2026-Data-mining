@@ -1,0 +1,33 @@
+{
+  "nombre": "Lawrence Ati Zigi",
+  "href_perfil": "/lawrence-ati-zigi/profil/spieler/254285",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "35",
+      "goles": "45",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,150'"
+    },
+    {
+      "competicion_raw": "Swiss Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "45",
+      "asistencias": "9",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,285'"
+    }
+  ]
+}

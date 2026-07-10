@@ -1,0 +1,33 @@
+{
+  "nombre": "Yassin Fortuné",
+  "href_perfil": "/yassin-fortune/profil/spieler/342878",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal 2",
+      "partidos": "23",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,248'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "71'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,319'"
+    }
+  ]
+}

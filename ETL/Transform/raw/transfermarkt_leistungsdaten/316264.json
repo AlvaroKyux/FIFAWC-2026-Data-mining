@@ -1,0 +1,51 @@
+{
+  "nombre": "Martin Ødegaard",
+  "href_perfil": "/martin-odegaard/profil/spieler/316264",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,371'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "440'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "82'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "91'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "8",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,984'"
+    }
+  ]
+}

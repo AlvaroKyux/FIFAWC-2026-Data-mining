@@ -1,0 +1,51 @@
+{
+  "nombre": "Jens Petter Hauge",
+  "href_perfil": "/jens-petter-hauge/profil/spieler/422355",
+  "competiciones": [
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "6",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "988'"
+    },
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "784'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "471'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "130'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "8",
+      "asistencias": "9",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,373'"
+    }
+  ]
+}

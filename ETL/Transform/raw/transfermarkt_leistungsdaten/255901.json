@@ -1,0 +1,69 @@
+{
+  "nombre": "Rodrigo De Paul",
+  "href_perfil": "/rodrigo-de-paul/profil/spieler/255901",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "13",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,170'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    }
+  ]
+}

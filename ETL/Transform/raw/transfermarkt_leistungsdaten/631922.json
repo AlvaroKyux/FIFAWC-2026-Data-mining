@@ -1,0 +1,60 @@
+{
+  "nombre": "Firas Al-Buraikan",
+  "href_perfil": "/firas-al-buraikan/profil/spieler/631922",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "34",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,729'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "534'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "156'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "22'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "51",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,576'"
+    }
+  ]
+}

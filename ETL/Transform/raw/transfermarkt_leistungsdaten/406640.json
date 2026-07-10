@@ -1,0 +1,42 @@
+{
+  "nombre": "Felix Nmecha",
+  "href_perfil": "/felix-nmecha/profil/spieler/406640",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "29",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,190'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "753'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "193'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,136'"
+    }
+  ]
+}

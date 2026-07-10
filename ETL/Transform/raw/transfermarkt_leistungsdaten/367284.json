@@ -1,0 +1,33 @@
+{
+  "nombre": "Leo Østigård",
+  "href_perfil": "/leo-ostigard/profil/spieler/367284",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,623'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "21'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,644'"
+    }
+  ]
+}

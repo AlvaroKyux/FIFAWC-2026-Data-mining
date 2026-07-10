@@ -1,0 +1,51 @@
+{
+  "nombre": "Manuel Neuer",
+  "href_perfil": "/manuel-neuer/profil/spieler/17259",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "22",
+      "goles": "20",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,860'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "17",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "40",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,210'"
+    }
+  ]
+}

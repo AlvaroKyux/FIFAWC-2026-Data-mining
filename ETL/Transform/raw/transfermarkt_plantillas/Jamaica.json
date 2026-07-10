@@ -1,0 +1,222 @@
+{
+  "pais": "Jamaica",
+  "href_seleccion": "/jamaika/startseite/verein/3671",
+  "jugadores": [
+    {
+      "player_id": "581673",
+      "nombre": "Coniah Boyce-Clarke",
+      "href_perfil": "/coniah-boyce-clarke/profil/spieler/581673",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/2003 (23)",
+      "club_actual": "Aldershot Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "881778",
+      "nombre": "Tafari Chambers",
+      "href_perfil": "/tafari-chambers/profil/spieler/881778",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/09/2000 (25)",
+      "club_actual": "Mount Pleasant FA",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1070314",
+      "nombre": "Joshua Grant",
+      "href_perfil": "/joshua-grant/profil/spieler/1070314",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/05/2007 (19)",
+      "club_actual": "FC Naples",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "412823",
+      "nombre": "Joel Latibeaudiere",
+      "href_perfil": "/joel-latibeaudiere/profil/spieler/412823",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/01/2000 (26)",
+      "club_actual": "Coventry City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "271716",
+      "nombre": "Damion Lowe",
+      "href_perfil": "/damion-lowe/profil/spieler/271716",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/05/1993 (33)",
+      "club_actual": "Dewa United Banten FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "909018",
+      "nombre": "Jeovanni Laing",
+      "href_perfil": "/jeovanni-laing/profil/spieler/909018",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/12/2000 (25)",
+      "club_actual": "Cavalier FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1031259",
+      "nombre": "Odin Samuels-Smith",
+      "href_perfil": "/odin-samuels-smith/profil/spieler/1031259",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/2006 (20)",
+      "club_actual": "Everton FC U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "367429",
+      "nombre": "Raheem Edwards",
+      "href_perfil": "/raheem-edwards/profil/spieler/367429",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/07/1995 (30)",
+      "club_actual": "Toronto FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "882003",
+      "nombre": "Ronaldo Webster",
+      "href_perfil": "/ronaldo-webster/profil/spieler/882003",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/07/2001 (24)",
+      "club_actual": "Shkendija Tetovo",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "909048",
+      "nombre": "Christopher Ainsworth",
+      "href_perfil": "/christopher-ainsworth/profil/spieler/909048",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/08/2005 (20)",
+      "club_actual": "Cavalier FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "712099",
+      "nombre": "Dexter Lembikisa",
+      "href_perfil": "/dexter-lembikisa/profil/spieler/712099",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/11/2003 (22)",
+      "club_actual": "Wolverhampton Wanderers U21",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1152022",
+      "nombre": "Marlon van de Wetering",
+      "href_perfil": "/marlon-van-de-wetering/profil/spieler/1152022",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/11/2007 (18)",
+      "club_actual": "FC Eindhoven",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "206225",
+      "nombre": "Isaac Hayden",
+      "href_perfil": "/isaac-hayden/profil/spieler/206225",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/03/1995 (31)",
+      "club_actual": "Queens Park Rangers",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "814526",
+      "nombre": "Brandon Cover",
+      "href_perfil": "/brandon-cover/profil/spieler/814526",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/09/2003 (22)",
+      "club_actual": "Rotherham United",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "819863",
+      "nombre": "Courtney Clarke",
+      "href_perfil": "/courtney-clarke/profil/spieler/819863",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/04/2003 (23)",
+      "club_actual": "Walsall FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "965971",
+      "nombre": "Tyrese Hall",
+      "href_perfil": "/tyrese-hall/profil/spieler/965971",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/09/2005 (20)",
+      "club_actual": "Tottenham Hotspur U21",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1123738",
+      "nombre": "Nickalia Fuller",
+      "href_perfil": "/nickalia-fuller/profil/spieler/1123738",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/12/2004 (21)",
+      "club_actual": "Tivoli Gardens FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1124543",
+      "nombre": "Kaheim Dixon",
+      "href_perfil": "/kaheim-dixon/profil/spieler/1124543",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/10/2004 (21)",
+      "club_actual": "Charlton Athletic",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "871170",
+      "nombre": "Bailey Cadamarteri",
+      "href_perfil": "/bailey-cadamarteri/profil/spieler/871170",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/05/2005 (21)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "847371",
+      "nombre": "Dajaune Brown",
+      "href_perfil": "/dajaune-brown/profil/spieler/847371",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/10/2005 (20)",
+      "club_actual": "Derby County",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1105464",
+      "nombre": "Nicholas Simmonds",
+      "href_perfil": "/nicholas-simmonds/profil/spieler/1105464",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/12/2006 (19)",
+      "club_actual": "FC Dallas",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1122406",
+      "nombre": "Dwight Merrick",
+      "href_perfil": "/dwight-merrick/profil/spieler/1122406",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/05/2003 (23)",
+      "club_actual": "Montego Bay United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1335622",
+      "nombre": "Nickyle Ellis",
+      "href_perfil": "/nickyle-ellis/profil/spieler/1335622",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "08/05/2004 (22)",
+      "club_actual": "Racing United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1335630",
+      "nombre": "Caelan Cadamarteri",
+      "href_perfil": "/caelan-cadamarteri/profil/spieler/1335630",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/11/2009 (16)",
+      "club_actual": "Manchester City Youth",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

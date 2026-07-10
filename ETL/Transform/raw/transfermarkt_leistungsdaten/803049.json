@@ -1,0 +1,51 @@
+{
+  "nombre": "Ermin Mahmic",
+  "href_perfil": "/ermin-mahmic/profil/spieler/803049",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "25",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,310'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "242'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "CFL",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "73'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "8",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,789'"
+    }
+  ]
+}

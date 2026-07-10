@@ -1,0 +1,42 @@
+{
+  "nombre": "Godfried Roemeratoe",
+  "href_perfil": "/godfried-roemeratoe/profil/spieler/393241",
+  "competiciones": [
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,283'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Play-Offs",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "131'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "147'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,561'"
+    }
+  ]
+}

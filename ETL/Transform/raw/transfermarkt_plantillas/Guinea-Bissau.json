@@ -1,0 +1,222 @@
+{
+  "pais": "Guinea-Bissau",
+  "href_seleccion": "/guinea-bissau/startseite/verein/3701",
+  "jugadores": [
+    {
+      "player_id": "821730",
+      "nombre": "Manuel Baldé",
+      "href_perfil": "/manuel-balde/profil/spieler/821730",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/11/2002 (23)",
+      "club_actual": "FC Penafiel",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1023698",
+      "nombre": "Fernando Embadje",
+      "href_perfil": "/fernando-embadje/profil/spieler/1023698",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/07/2003 (22)",
+      "club_actual": "SD Sarriana",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1454884",
+      "nombre": "Ricardino",
+      "href_perfil": "/ricardino/profil/spieler/1454884",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/01/2002 (24)",
+      "club_actual": "Sport Bissau e Benfica",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "520530",
+      "nombre": "Fali Candé",
+      "href_perfil": "/fali-cande/profil/spieler/520530",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/1998 (28)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "816572",
+      "nombre": "Gilberto Batista",
+      "href_perfil": "/gilberto-batista/profil/spieler/816572",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/12/2003 (22)",
+      "club_actual": "Moreirense FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "709999",
+      "nombre": "Víctor Rofino",
+      "href_perfil": "/victor-rofino/profil/spieler/709999",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/07/2002 (23)",
+      "club_actual": "UD Leiria",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "410212",
+      "nombre": "Sori Mané",
+      "href_perfil": "/sori-mane/profil/spieler/410212",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Torpedo Kutaisi",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "352448",
+      "nombre": "Opa Sangante",
+      "href_perfil": "/opa-sangante/profil/spieler/352448",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/02/1991 (35)",
+      "club_actual": "USL Dunkerque",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "448468",
+      "nombre": "Jefferson Encada",
+      "href_perfil": "/jefferson-encada/profil/spieler/448468",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/04/1998 (28)",
+      "club_actual": "CF Estrela Amadora",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "291399",
+      "nombre": "Nanu",
+      "href_perfil": "/nanu/profil/spieler/291399",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/05/1994 (32)",
+      "club_actual": "APOEL Nicosia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "816576",
+      "nombre": "Edson Silva",
+      "href_perfil": "/edson-silva/profil/spieler/816576",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/05/2001 (25)",
+      "club_actual": "Botev Plovdiv",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1077256",
+      "nombre": "Nito",
+      "href_perfil": "/nito/profil/spieler/1077256",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/2002 (24)",
+      "club_actual": "FC Paços de Ferreira",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1396595",
+      "nombre": "Renato Nhaga",
+      "href_perfil": "/renato-nhaga/profil/spieler/1396595",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/2007 (19)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "323589",
+      "nombre": "Dálcio",
+      "href_perfil": "/dalcio/profil/spieler/323589",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/05/1996 (30)",
+      "club_actual": "APOEL Nicosia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "512916",
+      "nombre": "Panutche Camara",
+      "href_perfil": "/panutche-camara/profil/spieler/512916",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/1997 (29)",
+      "club_actual": "Dundee United FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "671649",
+      "nombre": "Álvaro Djaló",
+      "href_perfil": "/alvaro-djalo/profil/spieler/671649",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/08/1999 (26)",
+      "club_actual": "Al-Gharafa SC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "1067111",
+      "nombre": "Alassan Manjam",
+      "href_perfil": "/alassan-manjam/profil/spieler/1067111",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/09/2002 (23)",
+      "club_actual": "CD Tenerife",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "382032",
+      "nombre": "Marculino Ninte",
+      "href_perfil": "/marculino-ninte/profil/spieler/382032",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/07/1997 (28)",
+      "club_actual": "CD Mafra",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "374987",
+      "nombre": "Elves Baldé",
+      "href_perfil": "/elves-balde/profil/spieler/374987",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/10/1999 (26)",
+      "club_actual": "Radomiak Radom",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "514623",
+      "nombre": "Mauro Rodrigues",
+      "href_perfil": "/mauro-rodrigues/profil/spieler/514623",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/04/2001 (25)",
+      "club_actual": "FC Oleksandriya",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "595809",
+      "nombre": "Beto",
+      "href_perfil": "/beto/profil/spieler/595809",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/01/1998 (28)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "842517",
+      "nombre": "Tamble",
+      "href_perfil": "/tamble/profil/spieler/842517",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/11/2000 (25)",
+      "club_actual": "Rio Ave FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "356450",
+      "nombre": "Flávio Silva",
+      "href_perfil": "/flavio-silva/profil/spieler/356450",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Kaizer Chiefs",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1013774",
+      "nombre": "Marciano Sanca",
+      "href_perfil": "/marciano-sanca/profil/spieler/1013774",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/03/2004 (22)",
+      "club_actual": "UD Almería B",
+      "valor_mercado_raw": "€150k"
+    }
+  ]
+}

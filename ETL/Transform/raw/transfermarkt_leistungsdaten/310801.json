@@ -1,0 +1,24 @@
+{
+  "nombre": "Mohammad Al-Dawoud",
+  "href_perfil": "/mohammad-al-dawoud/profil/spieler/310801",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "19",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,258'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,258'"
+    }
+  ]
+}

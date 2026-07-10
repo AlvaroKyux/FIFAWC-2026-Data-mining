@@ -1,0 +1,51 @@
+{
+  "nombre": "Fabinho",
+  "href_perfil": "/fabinho/profil/spieler/225693",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "2,642'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "874'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "300'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "10",
+      "rojas": "1",
+      "minutos_raw": "3,906'"
+    }
+  ]
+}

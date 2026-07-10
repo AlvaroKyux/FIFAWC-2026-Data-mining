@@ -1,0 +1,42 @@
+{
+  "nombre": "Bamba Dieng",
+  "href_perfil": "/bamba-dieng/profil/spieler/822458",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "22",
+      "goles": "10",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,219'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "209'"
+    },
+    {
+      "competicion_raw": "National 1 - Grp. A",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "16",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,473'"
+    }
+  ]
+}

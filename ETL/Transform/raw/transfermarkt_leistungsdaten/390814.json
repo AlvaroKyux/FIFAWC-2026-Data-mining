@@ -1,0 +1,33 @@
+{
+  "nombre": "Trevor Doornbusch",
+  "href_perfil": "/trevor-doornbusch/profil/spieler/390814",
+  "competiciones": [
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "56'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "56'"
+    }
+  ]
+}

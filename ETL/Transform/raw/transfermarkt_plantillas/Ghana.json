@@ -1,0 +1,240 @@
+{
+  "pais": "Ghana",
+  "href_seleccion": "/ghana/startseite/verein/3441",
+  "jugadores": [
+    {
+      "player_id": "254285",
+      "nombre": "Lawrence Ati Zigi",
+      "href_perfil": "/lawrence-ati-zigi/profil/spieler/254285",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/11/1996 (29)",
+      "club_actual": "FC St. Gallen 1879",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "576099",
+      "nombre": "Joseph Anang",
+      "href_perfil": "/joseph-anang/profil/spieler/576099",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/06/2000 (26)",
+      "club_actual": "St. Patrick's Athletic",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "837368",
+      "nombre": "Benjamin Asare",
+      "href_perfil": "/benjamin-asare/profil/spieler/837368",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/07/1992 (33)",
+      "club_actual": "Hearts of Oak",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1113451",
+      "nombre": "Kojo Peprah Oppong",
+      "href_perfil": "/kojo-peprah-oppong/profil/spieler/1113451",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/06/2004 (22)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "798404",
+      "nombre": "Alidu Seidu",
+      "href_perfil": "/alidu-seidu/profil/spieler/798404",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/06/2000 (26)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "734676",
+      "nombre": "Jonas Adjetey",
+      "href_perfil": "/jonas-adjetey/profil/spieler/734676",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/12/2003 (22)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "408563",
+      "nombre": "Jerome Opoku",
+      "href_perfil": "/jerome-opoku/profil/spieler/408563",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/10/1998 (27)",
+      "club_actual": "Basaksehir FK",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "451801",
+      "nombre": "Abdul Mumin",
+      "href_perfil": "/abdul-mumin/profil/spieler/451801",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/06/1998 (28)",
+      "club_actual": "Rayo Vallecano",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "241457",
+      "nombre": "Derrick Luckassen",
+      "href_perfil": "/derrick-luckassen/profil/spieler/241457",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/07/1995 (30)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "397171",
+      "nombre": "Gideon Mensah",
+      "href_perfil": "/gideon-mensah/profil/spieler/397171",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/07/1998 (27)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "224884",
+      "nombre": "Abdul Rahman Baba",
+      "href_perfil": "/abdul-rahman-baba/profil/spieler/224884",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/07/1994 (31)",
+      "club_actual": "PAOK Thessaloniki",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "830890",
+      "nombre": "Marvin Senaya",
+      "href_perfil": "/marvin-senaya/profil/spieler/830890",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/01/2001 (25)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "395695",
+      "nombre": "Elisha Owusu",
+      "href_perfil": "/elisha-owusu/profil/spieler/395695",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/11/1997 (28)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "230784",
+      "nombre": "Thomas Partey",
+      "href_perfil": "/thomas-partey/profil/spieler/230784",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/06/1993 (33)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "1240763",
+      "nombre": "Caleb Yirenkyi",
+      "href_perfil": "/caleb-yirenkyi/profil/spieler/1240763",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/2006 (20)",
+      "club_actual": "FC Nordsjaelland",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "538006",
+      "nombre": "Kwasi Sibo",
+      "href_perfil": "/kwasi-sibo/profil/spieler/538006",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/06/1998 (28)",
+      "club_actual": "Real Oviedo",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "579263",
+      "nombre": "Augustine Boakye",
+      "href_perfil": "/augustine-boakye/profil/spieler/579263",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/11/2000 (25)",
+      "club_actual": "AS Saint-Étienne",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "746695",
+      "nombre": "Kamaldeen Sulemana",
+      "href_perfil": "/kamaldeen-sulemana/profil/spieler/746695",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/02/2002 (24)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "1119447",
+      "nombre": "Christopher Bonsu Baah",
+      "href_perfil": "/christopher-bonsu-baah/profil/spieler/1119447",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/12/2004 (21)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "583255",
+      "nombre": "Antoine Semenyo",
+      "href_perfil": "/antoine-semenyo/profil/spieler/583255",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/01/2000 (26)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "864121",
+      "nombre": "Abdul Fatawu",
+      "href_perfil": "/abdul-fatawu/profil/spieler/864121",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/03/2004 (22)",
+      "club_actual": "Leicester City",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "955070",
+      "nombre": "Ernest Nuamah",
+      "href_perfil": "/ernest-nuamah/profil/spieler/955070",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/11/2003 (22)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "255508",
+      "nombre": "Iñaki Williams",
+      "href_perfil": "/inaki-williams/profil/spieler/255508",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/06/1994 (32)",
+      "club_actual": "Athletic Bilbao",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "451747",
+      "nombre": "Brandon Thomas-Asante",
+      "href_perfil": "/brandon-thomas-asante/profil/spieler/451747",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/12/1998 (27)",
+      "club_actual": "Coventry City",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "734799",
+      "nombre": "Prince Adu",
+      "href_perfil": "/prince-adu/profil/spieler/734799",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/09/2003 (22)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "108354",
+      "nombre": "Jordan Ayew",
+      "href_perfil": "/jordan-ayew/profil/spieler/108354",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/09/1991 (34)",
+      "club_actual": "Leicester City",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

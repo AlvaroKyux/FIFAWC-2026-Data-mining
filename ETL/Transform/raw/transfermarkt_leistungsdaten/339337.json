@@ -1,0 +1,51 @@
+{
+  "nombre": "Armando Obispo",
+  "href_perfil": "/armando-obispo/profil/spieler/339337",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "807'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "322'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Johan Cruijff Schaal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "4'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,403'"
+    }
+  ]
+}

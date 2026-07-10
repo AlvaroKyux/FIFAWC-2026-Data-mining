@@ -1,0 +1,24 @@
+{
+  "nombre": "Zaid Ismail",
+  "href_perfil": "/zaid-ismail/profil/spieler/1132850",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,614'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,614'"
+    }
+  ]
+}

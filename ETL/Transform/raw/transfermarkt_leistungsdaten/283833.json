@@ -1,0 +1,51 @@
+{
+  "nombre": "Mehdi Torabi",
+  "href_perfil": "/mehdi-torabi/profil/spieler/283833",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,208'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "311'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "87'"
+    },
+    {
+      "competicion_raw": "Iran Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,673'"
+    }
+  ]
+}

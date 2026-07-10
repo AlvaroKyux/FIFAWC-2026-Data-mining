@@ -1,0 +1,42 @@
+{
+  "nombre": "Lyndon Dykes",
+  "href_perfil": "/lyndon-dykes/profil/spieler/347138",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "41",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,937'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "80'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,017'"
+    }
+  ]
+}

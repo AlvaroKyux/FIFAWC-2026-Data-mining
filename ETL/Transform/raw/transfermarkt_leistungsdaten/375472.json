@@ -1,0 +1,42 @@
+{
+  "nombre": "Duke Lacroix",
+  "href_perfil": "/duke-lacroix/profil/spieler/375472",
+  "competiciones": [
+    {
+      "competicion_raw": "USLC",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "4'"
+    },
+    {
+      "competicion_raw": "USL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    }
+  ]
+}

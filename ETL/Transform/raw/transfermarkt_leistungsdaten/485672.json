@@ -1,0 +1,51 @@
+{
+  "nombre": "Elijah Just",
+  "href_perfil": "/elijah-just/profil/spieler/485672",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "30",
+      "goles": "7",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,294'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "410'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "409'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "102'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "7",
+      "asistencias": "8",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,215'"
+    }
+  ]
+}

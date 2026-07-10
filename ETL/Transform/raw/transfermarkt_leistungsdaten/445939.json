@@ -1,0 +1,51 @@
+{
+  "nombre": "Omar Marmoush",
+  "href_perfil": "/omar-marmoush/profil/spieler/445939",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "21",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "699'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "222'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "292'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,393'"
+    }
+  ]
+}

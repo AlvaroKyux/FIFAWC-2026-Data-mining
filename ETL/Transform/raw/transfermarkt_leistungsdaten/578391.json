@@ -1,0 +1,51 @@
+{
+  "nombre": "Rayan Aït-Nouri",
+  "href_perfil": "/rayan-ait-nouri/profil/spieler/578391",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "976'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "339'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "155'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,605'"
+    }
+  ]
+}

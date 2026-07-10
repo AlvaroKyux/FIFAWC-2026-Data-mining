@@ -1,0 +1,60 @@
+{
+  "nombre": "Ali Olwan",
+  "href_perfil": "/ali-olwan/profil/spieler/664057",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "11",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "905'"
+    },
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "126'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Iraq FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,031'"
+    }
+  ]
+}

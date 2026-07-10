@@ -1,0 +1,240 @@
+{
+  "pais": "San Marino",
+  "href_seleccion": "/san-marino/startseite/verein/10521",
+  "jugadores": [
+    {
+      "player_id": "463559",
+      "nombre": "Edoardo Colombo",
+      "href_perfil": "/edoardo-colombo/profil/spieler/463559",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/01/2001 (25)",
+      "club_actual": "Gzira United FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "471469",
+      "nombre": "Mirco De Angelis",
+      "href_perfil": "/mirco-de-angelis/profil/spieler/471469",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/03/2000 (26)",
+      "club_actual": "SS Folgore/Falciano",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "702619",
+      "nombre": "Pietro Amici",
+      "href_perfil": "/pietro-amici/profil/spieler/702619",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/01/2004 (22)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "697863",
+      "nombre": "Mattia Sancisi",
+      "href_perfil": "/mattia-sancisi/profil/spieler/697863",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/04/2003 (23)",
+      "club_actual": "Tre Fiori FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "616906",
+      "nombre": "Filippo Fabbri",
+      "href_perfil": "/filippo-fabbri/profil/spieler/616906",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/01/2002 (24)",
+      "club_actual": "Tropical Coriano",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "342930",
+      "nombre": "Michele Cevoli",
+      "href_perfil": "/michele-cevoli/profil/spieler/342930",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/07/1998 (27)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "743040",
+      "nombre": "Dante Rossi",
+      "href_perfil": "/dante-rossi/profil/spieler/743040",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/07/1987 (38)",
+      "club_actual": "Tropical Coriano",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "697861",
+      "nombre": "Marco Pasolini",
+      "href_perfil": "/marco-pasolini/profil/spieler/697861",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2003 (23)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1005012",
+      "nombre": "Alberto Riccardi",
+      "href_perfil": "/alberto-riccardi/profil/spieler/1005012",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/10/2006 (19)",
+      "club_actual": "Tropical Coriano",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "471677",
+      "nombre": "Alessandro Tosi",
+      "href_perfil": "/alessandro-tosi/profil/spieler/471677",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/04/2001 (25)",
+      "club_actual": "Lucchese Calcio",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1070923",
+      "nombre": "Pietro Marinucci",
+      "href_perfil": "/pietro-marinucci/profil/spieler/1070923",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/10/2007 (18)",
+      "club_actual": "San Marino Academy U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "949273",
+      "nombre": "Giacomo Benvenuti",
+      "href_perfil": "/giacomo-benvenuti/profil/spieler/949273",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/02/2006 (20)",
+      "club_actual": "Sassuolo Primavera",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "739784",
+      "nombre": "Simone Giocondi",
+      "href_perfil": "/simone-giocondi/profil/spieler/739784",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/04/2002 (24)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "949262",
+      "nombre": "Matteo Valli Casadei",
+      "href_perfil": "/matteo-valli-casadei/profil/spieler/949262",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/06/2005 (21)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "342936",
+      "nombre": "Marcello Mularoni",
+      "href_perfil": "/marcello-mularoni/profil/spieler/342936",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/1998 (27)",
+      "club_actual": "SS Cosmos",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "627448",
+      "nombre": "Lorenzo Capicchioni",
+      "href_perfil": "/lorenzo-capicchioni/profil/spieler/627448",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/01/2002 (24)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "866329",
+      "nombre": "Samuele Zannoni",
+      "href_perfil": "/samuele-zannoni/profil/spieler/866329",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/2002 (24)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "627606",
+      "nombre": "Lorenzo Lazzari",
+      "href_perfil": "/lorenzo-lazzari/profil/spieler/627606",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/06/2003 (23)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1197385",
+      "nombre": "Cristian Meloni",
+      "href_perfil": "/cristian-meloni/profil/spieler/1197385",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/2008 (18)",
+      "club_actual": "San Marino Academy U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "355611",
+      "nombre": "Filippo Berardi",
+      "href_perfil": "/filippo-berardi/profil/spieler/355611",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/05/1997 (29)",
+      "club_actual": "SP Tre Penne",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "471680",
+      "nombre": "Samuel Pancotti",
+      "href_perfil": "/samuel-pancotti/profil/spieler/471680",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "31/10/2000 (25)",
+      "club_actual": "SS Folgore/Falciano",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1340667",
+      "nombre": "Simone Tamagnini",
+      "href_perfil": "/simone-tamagnini/profil/spieler/1340667",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "17/01/2008 (18)",
+      "club_actual": "San Marino Academy",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "401384",
+      "nombre": "Nicola Nanni",
+      "href_perfil": "/nicola-nanni/profil/spieler/401384",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/05/2000 (26)",
+      "club_actual": "Arzignano Valchiampo",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1070667",
+      "nombre": "Gabriel Capicchioni",
+      "href_perfil": "/gabriel-capicchioni/profil/spieler/1070667",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/05/2006 (20)",
+      "club_actual": "Tropical Coriano",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1000693",
+      "nombre": "Fausto Salicioni",
+      "href_perfil": "/fausto-salicioni/profil/spieler/1000693",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/01/2006 (20)",
+      "club_actual": "Virtus Entella Primavera",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1005023",
+      "nombre": "Nicolas Giacopetti",
+      "href_perfil": "/nicolas-giacopetti/profil/spieler/1005023",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/06/2006 (20)",
+      "club_actual": "CBR Carli Pietracuta",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

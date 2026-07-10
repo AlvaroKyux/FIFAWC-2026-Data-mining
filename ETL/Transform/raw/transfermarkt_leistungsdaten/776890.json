@@ -1,0 +1,51 @@
+{
+  "nombre": "Nicolas Jackson",
+  "href_perfil": "/nicolas-jackson/profil/spieler/776890",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "23",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,004'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "313'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "11",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,320'"
+    }
+  ]
+}

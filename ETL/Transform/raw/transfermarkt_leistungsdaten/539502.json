@@ -1,0 +1,51 @@
+{
+  "nombre": "Ben Waine",
+  "href_perfil": "/ben-waine/profil/spieler/539502",
+  "competiciones": [
+    {
+      "competicion_raw": "League One",
+      "partidos": "27",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,133'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "424'"
+    },
+    {
+      "competicion_raw": "EFL Trophy",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "288'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,935'"
+    }
+  ]
+}

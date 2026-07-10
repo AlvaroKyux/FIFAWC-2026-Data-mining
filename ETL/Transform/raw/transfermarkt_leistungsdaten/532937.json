@@ -1,0 +1,33 @@
+{
+  "nombre": "Johan Vásquez",
+  "href_perfil": "/johan-vasquez/profil/spieler/532937",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "3,217'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "3,487'"
+    }
+  ]
+}

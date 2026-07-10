@@ -1,0 +1,33 @@
+{
+  "nombre": "Ahmed Qasem",
+  "href_perfil": "/ahmed-qasem/profil/spieler/833817",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "731'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "229'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "960'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Mahmoud Al-Mardi",
+  "href_perfil": "/mahmoud-al-mardi/profil/spieler/401086",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "834'"
+    },
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "451'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "264'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "58'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "3",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,607'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Cecilio Waterman",
+  "href_perfil": "/cecilio-waterman/profil/spieler/177064",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Primera",
+      "partidos": "11",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "965'"
+    },
+    {
+      "competicion_raw": "Copa de la Liga",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Copa Chile",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,145'"
+    }
+  ]
+}

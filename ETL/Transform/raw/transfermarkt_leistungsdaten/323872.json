@@ -1,0 +1,33 @@
+{
+  "nombre": "Andrés Cubas",
+  "href_perfil": "/andres-cubas/profil/spieler/323872",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "864'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "122'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "986'"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nombre": "Noor Bane Ataya",
+  "href_perfil": "/noor-bane-ataya/profil/spieler/261837",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "24",
+      "goles": "22",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "22",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,135'"
+    }
+  ]
+}

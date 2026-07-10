@@ -1,0 +1,33 @@
+{
+  "nombre": "Lionel Messi",
+  "href_perfil": "/lionel-messi/profil/spieler/28003",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "12",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,243'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "13",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,423'"
+    }
+  ]
+}

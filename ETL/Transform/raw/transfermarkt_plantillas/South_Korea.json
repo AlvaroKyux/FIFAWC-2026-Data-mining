@@ -1,0 +1,240 @@
+{
+  "pais": "South Korea",
+  "href_seleccion": "/sudkorea/startseite/verein/3589",
+  "jugadores": [
+    {
+      "player_id": "508237",
+      "nombre": "Bum-keun Song",
+      "href_perfil": "/bum-keun-song/profil/spieler/508237",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/10/1997 (28)",
+      "club_actual": "Jeonbuk Hyundai Motors",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "260171",
+      "nombre": "Hyeon-woo Jo",
+      "href_perfil": "/hyeon-woo-jo/profil/spieler/260171",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/09/1991 (34)",
+      "club_actual": "Ulsan HD FC",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "92076",
+      "nombre": "Seung-gyu Kim",
+      "href_perfil": "/seung-gyu-kim/profil/spieler/92076",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/09/1990 (35)",
+      "club_actual": "FC Tokyo",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "503482",
+      "nombre": "Min-jae Kim",
+      "href_perfil": "/min-jae-kim/profil/spieler/503482",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/11/1996 (29)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "706963",
+      "nombre": "Han-beom Lee",
+      "href_perfil": "/han-beom-lee/profil/spieler/706963",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/2002 (24)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "645847",
+      "nombre": "Tae-hyeon Kim",
+      "href_perfil": "/tae-hyeon-kim/profil/spieler/645847",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/09/2000 (25)",
+      "club_actual": "Kashima Antlers",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "763349",
+      "nombre": "Gi-hyuk Lee",
+      "href_perfil": "/gi-hyuk-lee/profil/spieler/763349",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/07/2000 (25)",
+      "club_actual": "Gangwon FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "550978",
+      "nombre": "Wi-je Cho",
+      "href_perfil": "/wi-je-cho/profil/spieler/550978",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/08/2001 (24)",
+      "club_actual": "Jeonbuk Hyundai Motors",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "639027",
+      "nombre": "Tae-seok Lee",
+      "href_perfil": "/tae-seok-lee/profil/spieler/639027",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/07/2002 (23)",
+      "club_actual": "Austria Vienna",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "639414",
+      "nombre": "Young-woo Seol",
+      "href_perfil": "/young-woo-seol/profil/spieler/639414",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/12/1998 (27)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "524592",
+      "nombre": "Moon-hwan Kim",
+      "href_perfil": "/moon-hwan-kim/profil/spieler/524592",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/08/1995 (30)",
+      "club_actual": "Daejeon Hana Citizen",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "365394",
+      "nombre": "In-beom Hwang",
+      "href_perfil": "/in-beom-hwang/profil/spieler/365394",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/09/1996 (29)",
+      "club_actual": "Feyenoord Rotterdam",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "557469",
+      "nombre": "Jin-seob Park",
+      "href_perfil": "/jin-seob-park/profil/spieler/557469",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/1995 (30)",
+      "club_actual": "Zhejiang FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "613192",
+      "nombre": "Jens Castrop",
+      "href_perfil": "/jens-castrop/profil/spieler/613192",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/07/2003 (22)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "282689",
+      "nombre": "Seung-ho Paik",
+      "href_perfil": "/seung-ho-paik/profil/spieler/282689",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/1997 (29)",
+      "club_actual": "Birmingham City",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "365377",
+      "nombre": "Jin-gyu Kim",
+      "href_perfil": "/jin-gyu-kim/profil/spieler/365377",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/02/1997 (29)",
+      "club_actual": "Jeonbuk Hyundai Motors",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "557149",
+      "nombre": "Kang-in Lee",
+      "href_perfil": "/kang-in-lee/profil/spieler/557149",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/02/2001 (25)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "912081",
+      "nombre": "Jun-ho Bae",
+      "href_perfil": "/jun-ho-bae/profil/spieler/912081",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/2003 (22)",
+      "club_actual": "Stoke City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "314398",
+      "nombre": "Jae-sung Lee",
+      "href_perfil": "/jae-sung-lee/profil/spieler/314398",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/08/1992 (33)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "558086",
+      "nombre": "Dong-gyeong Lee",
+      "href_perfil": "/dong-gyeong-lee/profil/spieler/558086",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/09/1997 (28)",
+      "club_actual": "Ulsan HD FC",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "91845",
+      "nombre": "Heung-min Son",
+      "href_perfil": "/heung-min-son/profil/spieler/91845",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/07/1992 (33)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "706968",
+      "nombre": "Ji-sung Eom",
+      "href_perfil": "/ji-sung-eom/profil/spieler/706968",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/05/2002 (24)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "853110",
+      "nombre": "Hyun-jun Yang",
+      "href_perfil": "/hyun-jun-yang/profil/spieler/853110",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/05/2002 (24)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "639246",
+      "nombre": "Hyeon-gyu Oh",
+      "href_perfil": "/hyeon-gyu-oh/profil/spieler/639246",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/04/2001 (25)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "292246",
+      "nombre": "Hee-chan Hwang",
+      "href_perfil": "/hee-chan-hwang/profil/spieler/292246",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/01/1996 (30)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "652537",
+      "nombre": "Gue-sung Cho",
+      "href_perfil": "/gue-sung-cho/profil/spieler/652537",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/01/1998 (28)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€2.50m"
+    }
+  ]
+}

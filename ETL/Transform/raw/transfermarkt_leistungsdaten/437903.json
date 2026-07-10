@@ -1,0 +1,51 @@
+{
+  "nombre": "Abdullah Al-Khaibari",
+  "href_perfil": "/abdullah-al-khaibari/profil/spieler/437903",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,679'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "462'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "130'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,451'"
+    }
+  ]
+}

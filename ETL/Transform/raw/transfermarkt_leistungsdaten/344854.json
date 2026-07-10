@@ -1,0 +1,60 @@
+{
+  "nombre": "Jesús Gallardo",
+  "href_perfil": "/jesus-gallardo/profil/spieler/344854",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "14",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,170'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "987'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "570'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "444'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "8",
+      "asistencias": "6",
+      "amarillas": "13",
+      "rojas": "-",
+      "minutos_raw": "3,171'"
+    }
+  ]
+}

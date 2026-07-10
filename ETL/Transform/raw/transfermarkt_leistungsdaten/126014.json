@@ -1,0 +1,33 @@
+{
+  "nombre": "Leandro Bacuna",
+  "href_perfil": "/leandro-bacuna/profil/spieler/126014",
+  "competiciones": [
+    {
+      "competicion_raw": "1.Lig",
+      "partidos": "35",
+      "goles": "9",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,900'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "139'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "9",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,039'"
+    }
+  ]
+}

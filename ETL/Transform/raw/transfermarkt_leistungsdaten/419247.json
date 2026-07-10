@@ -1,0 +1,42 @@
+{
+  "nombre": "Cristian Martínez",
+  "href_perfil": "/cristian-martinez/profil/spieler/419247",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligat ha'Al",
+      "partidos": "25",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,966'"
+    },
+    {
+      "competicion_raw": "Ligat ha'Al - Relegation round",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "471'"
+    },
+    {
+      "competicion_raw": "Gvia haMedina",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,617'"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "pais": "Denmark",
+  "href_seleccion": "/danemark/startseite/verein/3436",
+  "jugadores": [
+    {
+      "player_id": "400536",
+      "nombre": "Mads Hermansen",
+      "href_perfil": "/mads-hermansen/profil/spieler/400536",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/07/2000 (25)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "585323",
+      "nombre": "Filip Jørgensen",
+      "href_perfil": "/filip-jorgensen/profil/spieler/585323",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/04/2002 (24)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "592924",
+      "nombre": "Andreas Jungdal",
+      "href_perfil": "/andreas-jungdal/profil/spieler/592924",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/02/2002 (24)",
+      "club_actual": "KVC Westerlo",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "260827",
+      "nombre": "Joachim Andersen",
+      "href_perfil": "/joachim-andersen/profil/spieler/260827",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/05/1996 (30)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "926978",
+      "nombre": "Lucas Høgsberg",
+      "href_perfil": "/lucas-hogsberg/profil/spieler/926978",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/06/2006 (20)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "644408",
+      "nombre": "Oliver Provstgaard",
+      "href_perfil": "/oliver-provstgaard/profil/spieler/644408",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/06/2003 (23)",
+      "club_actual": "SS Lazio",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "196948",
+      "nombre": "Andreas Christensen",
+      "href_perfil": "/andreas-christensen/profil/spieler/196948",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/04/1996 (30)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "369674",
+      "nombre": "Joakim Maehle",
+      "href_perfil": "/joakim-maehle/profil/spieler/369674",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/05/1997 (29)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "623772",
+      "nombre": "Victor Bak",
+      "href_perfil": "/victor-bak/profil/spieler/623772",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/10/2003 (22)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "369684",
+      "nombre": "Rasmus Kristensen",
+      "href_perfil": "/rasmus-kristensen/profil/spieler/369684",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/07/1997 (28)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "452607",
+      "nombre": "Alexander Bah",
+      "href_perfil": "/alexander-bah/profil/spieler/452607",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/12/1997 (28)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "167799",
+      "nombre": "Pierre-Emile Højbjerg",
+      "href_perfil": "/pierre-emile-hojbjerg/profil/spieler/167799",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/08/1995 (30)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "926993",
+      "nombre": "Victor Froholdt",
+      "href_perfil": "/victor-froholdt/profil/spieler/926993",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/02/2006 (20)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "289835",
+      "nombre": "Jens Stage",
+      "href_perfil": "/jens-stage/profil/spieler/289835",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/1996 (29)",
+      "club_actual": "SV Werder Bremen",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "953004",
+      "nombre": "Thomas Jørgensen",
+      "href_perfil": "/thomas-jorgensen/profil/spieler/953004",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/09/2005 (20)",
+      "club_actual": "Viborg FF",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "503866",
+      "nombre": "Albert Grønbæk",
+      "href_perfil": "/albert-gronbaek/profil/spieler/503866",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/05/2001 (25)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "69633",
+      "nombre": "Christian Eriksen",
+      "href_perfil": "/christian-eriksen/profil/spieler/69633",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/02/1992 (34)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "926952",
+      "nombre": "Patrick Dorgu",
+      "href_perfil": "/patrick-dorgu/profil/spieler/926952",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/10/2004 (21)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "881297",
+      "nombre": "Adam Daghim",
+      "href_perfil": "/adam-daghim/profil/spieler/881297",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/09/2005 (20)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "542684",
+      "nombre": "Jacob Trenskow",
+      "href_perfil": "/jacob-trenskow/profil/spieler/542684",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/11/2000 (25)",
+      "club_actual": "SC Heerenveen",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "610442",
+      "nombre": "Rasmus Højlund",
+      "href_perfil": "/rasmus-hojlund/profil/spieler/610442",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/02/2003 (23)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "609556",
+      "nombre": "William Osula",
+      "href_perfil": "/william-osula/profil/spieler/609556",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/08/2003 (22)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "542877",
+      "nombre": "Kasper Høgh",
+      "href_perfil": "/kasper-hogh/profil/spieler/542877",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/12/2000 (25)",
+      "club_actual": "FK Bodø/Glimt",
+      "valor_mercado_raw": "€12.00m"
+    }
+  ]
+}

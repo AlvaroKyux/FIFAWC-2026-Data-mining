@@ -1,0 +1,33 @@
+{
+  "nombre": "Marwane Saadane",
+  "href_perfil": "/marwane-saadane/profil/spieler/210009",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,496'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,766'"
+    }
+  ]
+}

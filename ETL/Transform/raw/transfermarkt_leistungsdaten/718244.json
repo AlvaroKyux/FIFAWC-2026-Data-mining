@@ -1,0 +1,42 @@
+{
+  "nombre": "Carl Sainté",
+  "href_perfil": "/carl-sainte/profil/spieler/718244",
+  "competiciones": [
+    {
+      "competicion_raw": "USLC",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "185'"
+    },
+    {
+      "competicion_raw": "USL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "64'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "249'"
+    }
+  ]
+}

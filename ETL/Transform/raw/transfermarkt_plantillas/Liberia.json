@@ -1,0 +1,240 @@
+{
+  "pais": "Liberia",
+  "href_seleccion": "/liberia/startseite/verein/9172",
+  "jugadores": [
+    {
+      "player_id": "402239",
+      "nombre": "Tommy Songo",
+      "href_perfil": "/tommy-songo/profil/spieler/402239",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/04/1995 (31)",
+      "club_actual": "LISCR FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "615750",
+      "nombre": "Ashley Williams",
+      "href_perfil": "/ashley-williams/profil/spieler/615750",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/10/2000 (25)",
+      "club_actual": "LISCR FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "800161",
+      "nombre": "Amos Wesseh",
+      "href_perfil": "/amos-wesseh/profil/spieler/800161",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/12/2000 (25)",
+      "club_actual": "RKSV ROHDA Raalte",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1023986",
+      "nombre": "Junior Yeanaye",
+      "href_perfil": "/junior-yeanaye/profil/spieler/1023986",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/12/2004 (21)",
+      "club_actual": "Nimba Kwado FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1303226",
+      "nombre": "Jusu O. Dukuly",
+      "href_perfil": "/jusu-o-dukuly/profil/spieler/1303226",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "11/11/2005 (20)",
+      "club_actual": "Watanga FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "686806",
+      "nombre": "Sampson Dweh",
+      "href_perfil": "/sampson-dweh/profil/spieler/686806",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/10/2001 (24)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "1381926",
+      "nombre": "George Wallace",
+      "href_perfil": "/george-wallace/profil/spieler/1381926",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/10/2005 (20)",
+      "club_actual": "KF Korabi",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "601246",
+      "nombre": "Prince Balde",
+      "href_perfil": "/prince-balde/profil/spieler/601246",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/03/1998 (28)",
+      "club_actual": "Trelleborgs FF",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "722335",
+      "nombre": "Armah Vaikainah",
+      "href_perfil": "/armah-vaikainah/profil/spieler/722335",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/1995 (31)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1174744",
+      "nombre": "Emmanuel Fully",
+      "href_perfil": "/emmanuel-fully/profil/spieler/1174744",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/03/2006 (20)",
+      "club_actual": "FK Teplice",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1271108",
+      "nombre": "Nelson Laomie",
+      "href_perfil": "/nelson-laomie/profil/spieler/1271108",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/04/2005 (21)",
+      "club_actual": "CD Costa do Sol",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1174740",
+      "nombre": "Philip Tarnue",
+      "href_perfil": "/philip-tarnue/profil/spieler/1174740",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/12/2005 (20)",
+      "club_actual": "Minnesota United FC 2",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1307255",
+      "nombre": "Meshach Greene",
+      "href_perfil": "/meshach-greene/profil/spieler/1307255",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Paynesville FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "401475",
+      "nombre": "Oscar",
+      "href_perfil": "/oscar/profil/spieler/401475",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/07/1998 (27)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "941649",
+      "nombre": "Divine Teah",
+      "href_perfil": "/divine-teah/profil/spieler/941649",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/04/2006 (20)",
+      "club_actual": "SK Slavia Prague B",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "505198",
+      "nombre": "Mo Sangare",
+      "href_perfil": "/mo-sangare/profil/spieler/505198",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/12/1998 (27)",
+      "club_actual": "Morecambe FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1000749",
+      "nombre": "Solomon Tweh",
+      "href_perfil": "/solomon-tweh/profil/spieler/1000749",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/08/2004 (21)",
+      "club_actual": "Al-Raed SFC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1139635",
+      "nombre": "Tito Yormie Jr.",
+      "href_perfil": "/tito-yormie-jr-/profil/spieler/1139635",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/2002 (24)",
+      "club_actual": "Neman Grodno",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "496847",
+      "nombre": "Abdulai Bility",
+      "href_perfil": "/abdulai-bility/profil/spieler/496847",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/1999 (26)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "990380",
+      "nombre": "Jegbay Morris Konneh",
+      "href_perfil": "/jegbay-morris-konneh/profil/spieler/990380",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/11/2003 (22)",
+      "club_actual": "FC Gar'ou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "722336",
+      "nombre": "Edward Ledlum",
+      "href_perfil": "/edward-ledlum/profil/spieler/722336",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/06/1999 (27)",
+      "club_actual": "ASO Chlef",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1172048",
+      "nombre": "Daniel Toe",
+      "href_perfil": "/daniel-toe/profil/spieler/1172048",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/07/2000 (25)",
+      "club_actual": "LISCR FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "601247",
+      "nombre": "Nicholas Andrews",
+      "href_perfil": "/nicholas-andrews/profil/spieler/601247",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/08/1998 (27)",
+      "club_actual": "Fgura United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "596150",
+      "nombre": "Ayouba Kosiah",
+      "href_perfil": "/ayouba-kosiah/profil/spieler/596150",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/07/2001 (24)",
+      "club_actual": "FK Radnik Surdulica",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1121304",
+      "nombre": "Emmanuel Gono",
+      "href_perfil": "/emmanuel-gono/profil/spieler/1121304",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/10/2005 (20)",
+      "club_actual": "IK Oddevold",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1163581",
+      "nombre": "Mamadu Bah",
+      "href_perfil": "/mamadu-bah/profil/spieler/1163581",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/05/2001 (25)",
+      "club_actual": "Zed FC",
+      "valor_mercado_raw": "€150k"
+    }
+  ]
+}

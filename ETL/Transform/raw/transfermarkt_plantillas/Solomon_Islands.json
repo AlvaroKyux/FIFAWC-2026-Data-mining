@@ -1,0 +1,213 @@
+{
+  "pais": "Solomon Islands",
+  "href_seleccion": "/salomon-inseln/startseite/verein/15740",
+  "jugadores": [
+    {
+      "player_id": "216219",
+      "nombre": "Phillip Mango",
+      "href_perfil": "/phillip-mango/profil/spieler/216219",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/08/1995 (30)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "718345",
+      "nombre": "Junior Petua",
+      "href_perfil": "/junior-petua/profil/spieler/718345",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/12/2003 (22)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1393898",
+      "nombre": "Eric Wanega",
+      "href_perfil": "/eric-wanega/profil/spieler/1393898",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/12/1992 (33)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1236369",
+      "nombre": "Clivert Sam",
+      "href_perfil": "/clivert-sam/profil/spieler/1236369",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "01/08/2004 (21)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1284538",
+      "nombre": "Jayroll Patty",
+      "href_perfil": "/jayroll-patty/profil/spieler/1284538",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "05/06/2007 (19)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "983892",
+      "nombre": "David Supa",
+      "href_perfil": "/david-supa/profil/spieler/983892",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/12/2000 (25)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "616242",
+      "nombre": "Javin Wae",
+      "href_perfil": "/javin-wae/profil/spieler/616242",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/11/2002 (23)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1284526",
+      "nombre": "Gordon Iro",
+      "href_perfil": "/gordon-iro/profil/spieler/1284526",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/12/2005 (20)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "602337",
+      "nombre": "Junior David",
+      "href_perfil": "/junior-david/profil/spieler/602337",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2001 (24)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "602345",
+      "nombre": "William Komasi",
+      "href_perfil": "/william-komasi/profil/spieler/602345",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/06/2000 (26)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1025601",
+      "nombre": "Hudson Oreinima",
+      "href_perfil": "/hudson-oreinima/profil/spieler/1025601",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/06/2000 (26)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1144941",
+      "nombre": "Ben Fox",
+      "href_perfil": "/ben-fox/profil/spieler/1144941",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/07/2001 (24)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1284541",
+      "nombre": "Martin Koto",
+      "href_perfil": "/martin-koto/profil/spieler/1284541",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/06/2006 (20)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529088",
+      "nombre": "Danford Fiumae",
+      "href_perfil": "/danford-fiumae/profil/spieler/1529088",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1369741",
+      "nombre": "Rovu Boyers",
+      "href_perfil": "/rovu-boyers/profil/spieler/1369741",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/04/2003 (23)",
+      "club_actual": "Christchurch United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "160477",
+      "nombre": "Gagame Feni",
+      "href_perfil": "/gagame-feni/profil/spieler/160477",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/08/1992 (33)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1025604",
+      "nombre": "Junior Fordney",
+      "href_perfil": "/junior-fordney/profil/spieler/1025604",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/11/1999 (26)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1144940",
+      "nombre": "Bobby Leslie",
+      "href_perfil": "/bobby-leslie/profil/spieler/1144940",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/03/2000 (26)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1025602",
+      "nombre": "Clifford Fafale",
+      "href_perfil": "/clifford-fafale/profil/spieler/1025602",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/02/1993 (33)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "616253",
+      "nombre": "Raphael Lea'i",
+      "href_perfil": "/raphael-leai/profil/spieler/616253",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/09/2003 (22)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "326285",
+      "nombre": "Atkin Kaua",
+      "href_perfil": "/atkin-kaua/profil/spieler/326285",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/04/1996 (30)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "487081",
+      "nombre": "Don Keana",
+      "href_perfil": "/don-keana/profil/spieler/487081",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/09/2000 (25)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "718348",
+      "nombre": "Barrie Limoki",
+      "href_perfil": "/barrie-limoki/profil/spieler/718348",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "02/03/2004 (22)",
+      "club_actual": "Solomon Kings FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

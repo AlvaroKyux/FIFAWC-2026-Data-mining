@@ -1,0 +1,42 @@
+{
+  "nombre": "Bart Verbruggen",
+  "href_perfil": "/bart-verbruggen/profil/spieler/565093",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "38",
+      "goles": "46",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,420'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "46",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,420'"
+    }
+  ]
+}

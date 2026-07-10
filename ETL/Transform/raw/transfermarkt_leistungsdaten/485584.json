@@ -1,0 +1,51 @@
+{
+  "nombre": "Anass Salah-Eddine",
+  "href_perfil": "/anass-salah-eddine/profil/spieler/485584",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,092'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "511'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "27'"
+    },
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,630'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Zion Suzuki",
+  "href_perfil": "/zion-suzuki/profil/spieler/432298",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "20",
+      "goles": "28",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "30",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,980'"
+    }
+  ]
+}

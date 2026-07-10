@@ -1,0 +1,42 @@
+{
+  "nombre": "Moussa Niakhaté",
+  "href_perfil": "/moussa-niakhate/profil/spieler/291200",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,758'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "739'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,677'"
+    }
+  ]
+}

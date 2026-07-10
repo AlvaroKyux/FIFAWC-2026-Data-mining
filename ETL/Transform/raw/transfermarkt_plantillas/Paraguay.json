@@ -1,0 +1,240 @@
+{
+  "pais": "Paraguay",
+  "href_seleccion": "/paraguay/startseite/verein/3581",
+  "jugadores": [
+    {
+      "player_id": "643259",
+      "nombre": "Orlando Gill",
+      "href_perfil": "/orlando-gill/profil/spieler/643259",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/06/2000 (26)",
+      "club_actual": "CA San Lorenzo de Almagro",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "301722",
+      "nombre": "Gastón Olveira",
+      "href_perfil": "/gaston-olveira/profil/spieler/301722",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/04/1993 (33)",
+      "club_actual": "Club Olimpia",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "107318",
+      "nombre": "Roberto Fernández",
+      "href_perfil": "/roberto-fernandez/profil/spieler/107318",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/03/1988 (38)",
+      "club_actual": "Club Cerro Porteño",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "353032",
+      "nombre": "Omar Alderete",
+      "href_perfil": "/omar-alderete/profil/spieler/353032",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/12/1996 (29)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "215390",
+      "nombre": "Gustavo Gómez",
+      "href_perfil": "/gustavo-gomez/profil/spieler/215390",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/05/1993 (33)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "402627",
+      "nombre": "José Canale",
+      "href_perfil": "/jose-canale/profil/spieler/402627",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/07/1996 (29)",
+      "club_actual": "CA Lanús",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "273000",
+      "nombre": "Júnior Alonso",
+      "href_perfil": "/junior-alonso/profil/spieler/273000",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/02/1993 (33)",
+      "club_actual": "Clube Atlético Mineiro",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "285548",
+      "nombre": "Fabián Balbuena",
+      "href_perfil": "/fabian-balbuena/profil/spieler/285548",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/08/1991 (34)",
+      "club_actual": "Grêmio Foot-Ball Porto Alegrense",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "389399",
+      "nombre": "Gustavo Velázquez",
+      "href_perfil": "/gustavo-velazquez/profil/spieler/389399",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/04/1991 (35)",
+      "club_actual": "Club Cerro Porteño",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1371519",
+      "nombre": "Alexandro Maidana",
+      "href_perfil": "/alexandro-maidana/profil/spieler/1371519",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/07/2005 (20)",
+      "club_actual": "CA Talleres",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "756494",
+      "nombre": "Juan José Cáceres",
+      "href_perfil": "/juan-jose-caceres/profil/spieler/756494",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/06/2000 (26)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "323872",
+      "nombre": "Andrés Cubas",
+      "href_perfil": "/andres-cubas/profil/spieler/323872",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/05/1996 (30)",
+      "club_actual": "Vancouver Whitecaps FC",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "491596",
+      "nombre": "Braian Ojeda",
+      "href_perfil": "/braian-ojeda/profil/spieler/491596",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/06/2000 (26)",
+      "club_actual": "Orlando City SC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "996897",
+      "nombre": "Diego Gómez",
+      "href_perfil": "/diego-gomez/profil/spieler/996897",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/2003 (23)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "861852",
+      "nombre": "Damián Bobadilla",
+      "href_perfil": "/damian-bobadilla/profil/spieler/861852",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/07/2001 (24)",
+      "club_actual": "São Paulo Futebol Clube",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "661269",
+      "nombre": "Matías Galarza",
+      "href_perfil": "/matias-galarza/profil/spieler/661269",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/02/2002 (24)",
+      "club_actual": "Atlanta United FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "660867",
+      "nombre": "Julio Enciso",
+      "href_perfil": "/julio-enciso/profil/spieler/660867",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2004 (22)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "678439",
+      "nombre": "Mauricio",
+      "href_perfil": "/mauricio/profil/spieler/678439",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/2001 (25)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "355817",
+      "nombre": "Kaku",
+      "href_perfil": "/kaku/profil/spieler/355817",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1995 (31)",
+      "club_actual": "Al-Ain FC",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "891672",
+      "nombre": "Gustavo Caballero",
+      "href_perfil": "/gustavo-caballero/profil/spieler/891672",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/09/2001 (24)",
+      "club_actual": "Portsmouth FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "272999",
+      "nombre": "Miguel Almirón",
+      "href_perfil": "/miguel-almiron/profil/spieler/272999",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/02/1994 (32)",
+      "club_actual": "Atlanta United FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "745191",
+      "nombre": "Ramón Sosa",
+      "href_perfil": "/ramon-sosa/profil/spieler/745191",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "31/08/1999 (26)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "675178",
+      "nombre": "Isidro Pitta",
+      "href_perfil": "/isidro-pitta/profil/spieler/675178",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/08/1999 (26)",
+      "club_actual": "Red Bull Bragantino",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "970518",
+      "nombre": "Álex Arce",
+      "href_perfil": "/alex-arce/profil/spieler/970518",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/06/1995 (31)",
+      "club_actual": "CS Independiente Rivadavia",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "234523",
+      "nombre": "Antonio Sanabria",
+      "href_perfil": "/antonio-sanabria/profil/spieler/234523",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/03/1996 (30)",
+      "club_actual": "US Cremonese",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "358418",
+      "nombre": "Gabriel Ávalos",
+      "href_perfil": "/gabriel-avalos/profil/spieler/358418",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/10/1990 (35)",
+      "club_actual": "CA Independiente",
+      "valor_mercado_raw": "€750k"
+    }
+  ]
+}

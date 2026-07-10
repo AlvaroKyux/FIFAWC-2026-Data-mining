@@ -1,0 +1,51 @@
+{
+  "nombre": "Arya Yousefi",
+  "href_perfil": "/arya-yousefi/profil/spieler/932724",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "20",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,793'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "525'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,588'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "David Affengruber",
+  "href_perfil": "/david-affengruber/profil/spieler/452483",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,953'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "143'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,096'"
+    }
+  ]
+}

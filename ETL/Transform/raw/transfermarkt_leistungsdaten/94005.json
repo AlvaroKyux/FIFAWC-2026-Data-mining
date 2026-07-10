@@ -1,0 +1,42 @@
+{
+  "nombre": "Sead Kolasinac",
+  "href_perfil": "/sead-kolasinac/profil/spieler/94005",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "19",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,219'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "381'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "207'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,807'"
+    }
+  ]
+}

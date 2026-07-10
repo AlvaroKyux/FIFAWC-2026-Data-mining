@@ -1,0 +1,24 @@
+{
+  "nombre": "Jason Geria",
+  "href_perfil": "/jason-geria/profil/spieler/185175",
+  "competiciones": [
+    {
+      "competicion_raw": "J2/J3 Special Season",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "985'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "985'"
+    }
+  ]
+}

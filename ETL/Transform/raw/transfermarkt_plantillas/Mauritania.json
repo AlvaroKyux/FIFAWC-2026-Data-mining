@@ -1,0 +1,231 @@
+{
+  "pais": "Mauritania",
+  "href_seleccion": "/mauretanien/startseite/verein/14238",
+  "jugadores": [
+    {
+      "player_id": "917147",
+      "nombre": "Mamadou Diop",
+      "href_perfil": "/mamadou-diop/profil/spieler/917147",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/01/2000 (26)",
+      "club_actual": "Grenoble Foot 38",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "661929",
+      "nombre": "Babacar Diop",
+      "href_perfil": "/babacar-diop/profil/spieler/661929",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/09/1995 (30)",
+      "club_actual": "FC Nouadhibou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1433739",
+      "nombre": "Khalidou Ba",
+      "href_perfil": "/khalidou-ba/profil/spieler/1433739",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/12/1996 (29)",
+      "club_actual": "ASC Gendrim",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "192492",
+      "nombre": "Jordan Lefort",
+      "href_perfil": "/jordan-lefort/profil/spieler/192492",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/08/1993 (32)",
+      "club_actual": "Angers SCO",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "353374",
+      "nombre": "Lamine Ba",
+      "href_perfil": "/lamine-ba/profil/spieler/353374",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/08/1997 (28)",
+      "club_actual": "Slask Wroclaw",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "876730",
+      "nombre": "Nouh Mohamed El Abd",
+      "href_perfil": "/nouh-mohamed-el-abd/profil/spieler/876730",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/12/2000 (25)",
+      "club_actual": "AS FAR Rabat",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "951241",
+      "nombre": "Demini Saleck",
+      "href_perfil": "/demini-saleck/profil/spieler/951241",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/11/1994 (31)",
+      "club_actual": "FC Nouadhibou",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1239992",
+      "nombre": "Said Imigene",
+      "href_perfil": "/said-imigene/profil/spieler/1239992",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/01/2005 (21)",
+      "club_actual": "CD Leganés B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "393436",
+      "nombre": "Aly Abeid",
+      "href_perfil": "/aly-abeid/profil/spieler/393436",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/12/1997 (28)",
+      "club_actual": "CFR Cluj",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "568685",
+      "nombre": "Khadim Diaw",
+      "href_perfil": "/khadim-diaw/profil/spieler/568685",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/07/1998 (27)",
+      "club_actual": "Al-Nasr SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "995279",
+      "nombre": "Ibrahima Keita",
+      "href_perfil": "/ibrahima-keita/profil/spieler/995279",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/11/2001 (24)",
+      "club_actual": "Esperance Tunis",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "980575",
+      "nombre": "Oumar Ngom",
+      "href_perfil": "/oumar-ngom/profil/spieler/980575",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/03/2004 (22)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1176215",
+      "nombre": "Bahmed Deuff",
+      "href_perfil": "/bahmed-deuff/profil/spieler/1176215",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/03/2006 (20)",
+      "club_actual": "FC Nantes",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "715206",
+      "nombre": "Sidi Yacoub",
+      "href_perfil": "/sidi-yacoub/profil/spieler/715206",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/12/1995 (30)",
+      "club_actual": "Al-Tahaddy SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "419999",
+      "nombre": "Guessouma Fofana",
+      "href_perfil": "/guessouma-fofana/profil/spieler/419999",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/12/1992 (33)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1164688",
+      "nombre": "Maata Magassa",
+      "href_perfil": "/maata-magassa/profil/spieler/1164688",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/10/2003 (22)",
+      "club_actual": "Zed FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "563734",
+      "nombre": "Mamadou Fofana",
+      "href_perfil": "/mamadou-fofana/profil/spieler/563734",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/09/2000 (25)",
+      "club_actual": "FC Blau-Weiss Linz",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "970137",
+      "nombre": "Beyatt Lekoueiry",
+      "href_perfil": "/beyatt-lekoueiry/profil/spieler/970137",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/2005 (21)",
+      "club_actual": "FC Lausanne-Sport",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "615636",
+      "nombre": "Abdallahi Mahmoud",
+      "href_perfil": "/abdallahi-mahmoud/profil/spieler/615636",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/2000 (26)",
+      "club_actual": "FC Nouadhibou",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "795657",
+      "nombre": "Djeidi Gassama",
+      "href_perfil": "/djeidi-gassama/profil/spieler/795657",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/09/2003 (22)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "422377",
+      "nombre": "Aboubakary Koita",
+      "href_perfil": "/aboubakary-koita/profil/spieler/422377",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/09/1998 (27)",
+      "club_actual": "AEK Athens",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "702354",
+      "nombre": "Idrissa Thiam",
+      "href_perfil": "/idrissa-thiam/profil/spieler/702354",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/09/2000 (25)",
+      "club_actual": "Al-Mesaimeer SC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "626053",
+      "nombre": "Hemeya Tanji",
+      "href_perfil": "/hemeya-tanji/profil/spieler/626053",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/05/1998 (28)",
+      "club_actual": "Olympic Azzawiya SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "441220",
+      "nombre": "Mamadou Diallo",
+      "href_perfil": "/mamadou-diallo/profil/spieler/441220",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/12/1996 (29)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "562601",
+      "nombre": "Souleymane Anne",
+      "href_perfil": "/souleymane-anne/profil/spieler/562601",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/12/1997 (28)",
+      "club_actual": "Al-Kharaitiyat SC",
+      "valor_mercado_raw": "€250k"
+    }
+  ]
+}

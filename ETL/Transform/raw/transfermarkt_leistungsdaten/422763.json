@@ -1,0 +1,69 @@
+{
+  "nombre": "Nicolas Raskin",
+  "href_perfil": "/nicolas-raskin/profil/spieler/422763",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,620'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "691'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "431'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "177'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "7",
+      "asistencias": "9",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "4,204'"
+    }
+  ]
+}

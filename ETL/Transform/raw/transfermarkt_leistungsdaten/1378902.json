@@ -1,0 +1,24 @@
+{
+  "nombre": "Anas Badawi",
+  "href_perfil": "/anas-badawi/profil/spieler/1378902",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,079'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,079'"
+    }
+  ]
+}

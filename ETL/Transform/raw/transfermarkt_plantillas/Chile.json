@@ -1,0 +1,231 @@
+{
+  "pais": "Chile",
+  "href_seleccion": "/chile/startseite/verein/3700",
+  "jugadores": [
+    {
+      "player_id": "248352",
+      "nombre": "Brayan Cortés",
+      "href_perfil": "/brayan-cortes/profil/spieler/248352",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/03/1995 (31)",
+      "club_actual": "AA Argentinos Juniors",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "886152",
+      "nombre": "Thomas Gillier",
+      "href_perfil": "/thomas-gillier/profil/spieler/886152",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/05/2004 (22)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "243591",
+      "nombre": "Lawrence Vigouroux",
+      "href_perfil": "/lawrence-vigouroux/profil/spieler/243591",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/11/1993 (32)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "249730",
+      "nombre": "Guillermo Maripán",
+      "href_perfil": "/guillermo-maripan/profil/spieler/249730",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/05/1994 (32)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "1101447",
+      "nombre": "Iván Román",
+      "href_perfil": "/ivan-roman/profil/spieler/1101447",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/07/2006 (19)",
+      "club_actual": "Clube Atlético Mineiro",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "371436",
+      "nombre": "Francisco Sierralta",
+      "href_perfil": "/francisco-sierralta/profil/spieler/371436",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/05/1997 (29)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "209513",
+      "nombre": "Igor Lichnovsky",
+      "href_perfil": "/igor-lichnovsky/profil/spieler/209513",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/03/1994 (32)",
+      "club_actual": "Fatih Karagümrük",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "385105",
+      "nombre": "Gabriel Suazo",
+      "href_perfil": "/gabriel-suazo/profil/spieler/385105",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/08/1997 (28)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "981821",
+      "nombre": "Diego Ulloa",
+      "href_perfil": "/diego-ulloa/profil/spieler/981821",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/06/2003 (23)",
+      "club_actual": "CSD Colo-Colo",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "371988",
+      "nombre": "Fabián Hormazábal",
+      "href_perfil": "/fabian-hormazabal/profil/spieler/371988",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/04/1996 (30)",
+      "club_actual": "Club Universidad de Chile",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "1119917",
+      "nombre": "Felipe Faúndez",
+      "href_perfil": "/felipe-faundez/profil/spieler/1119917",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/03/2006 (20)",
+      "club_actual": "CD O'Higgins",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "662740",
+      "nombre": "Vicente Pizarro",
+      "href_perfil": "/vicente-pizarro/profil/spieler/662740",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/11/2002 (23)",
+      "club_actual": "CA Rosario Central",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "265726",
+      "nombre": "Rodrigo Echeverría",
+      "href_perfil": "/rodrigo-echeverria/profil/spieler/265726",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/04/1995 (31)",
+      "club_actual": "Club León FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "538281",
+      "nombre": "Víctor Méndez",
+      "href_perfil": "/victor-mendez/profil/spieler/538281",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/09/1999 (26)",
+      "club_actual": "CSD Colo-Colo",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "843286",
+      "nombre": "Felipe Loyola",
+      "href_perfil": "/felipe-loyola/profil/spieler/843286",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/11/2000 (25)",
+      "club_actual": "Pisa Sporting Club",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "511436",
+      "nombre": "Matías Sepúlveda",
+      "href_perfil": "/matias-sepulveda/profil/spieler/511436",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/1999 (27)",
+      "club_actual": "CA Lanús",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1240381",
+      "nombre": "Lautaro Millán",
+      "href_perfil": "/lautaro-millan/profil/spieler/1240381",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/08/2005 (20)",
+      "club_actual": "CA Independiente",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "507412",
+      "nombre": "Nils Reichmuth",
+      "href_perfil": "/nils-reichmuth/profil/spieler/507412",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/2002 (24)",
+      "club_actual": "FC Thun",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1023668",
+      "nombre": "Agustín Arce",
+      "href_perfil": "/agustin-arce/profil/spieler/1023668",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/2005 (21)",
+      "club_actual": "Club Universidad de Chile",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "912392",
+      "nombre": "Lucas Cepeda",
+      "href_perfil": "/lucas-cepeda/profil/spieler/912392",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/10/2002 (23)",
+      "club_actual": "Elche CF",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "737923",
+      "nombre": "Clemente Montes",
+      "href_perfil": "/clemente-montes/profil/spieler/737923",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/04/2001 (25)",
+      "club_actual": "CD Universidad Católica",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "881116",
+      "nombre": "Darío Osorio",
+      "href_perfil": "/dario-osorio/profil/spieler/881116",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/01/2004 (22)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "965323",
+      "nombre": "Maximiliano Gutiérrez",
+      "href_perfil": "/maximiliano-gutierrez/profil/spieler/965323",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/05/2004 (22)",
+      "club_actual": "CA Independiente",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "662739",
+      "nombre": "Gonzalo Tapia",
+      "href_perfil": "/gonzalo-tapia/profil/spieler/662739",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/02/2002 (24)",
+      "club_actual": "São Paulo Futebol Clube",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "461608",
+      "nombre": "Iván Morales",
+      "href_perfil": "/ivan-morales/profil/spieler/461608",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/07/1999 (26)",
+      "club_actual": "AA Argentinos Juniors",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

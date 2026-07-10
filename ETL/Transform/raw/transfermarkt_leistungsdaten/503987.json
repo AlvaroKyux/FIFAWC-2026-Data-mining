@@ -1,0 +1,51 @@
+{
+  "nombre": "Noni Madueke",
+  "href_perfil": "/noni-madueke/profil/spieler/503987",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "26",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,217'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "609'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "271'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "160'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,257'"
+    }
+  ]
+}

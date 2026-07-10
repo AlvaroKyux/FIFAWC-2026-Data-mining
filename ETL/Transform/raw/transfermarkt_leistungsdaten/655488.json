@@ -1,0 +1,51 @@
+{
+  "nombre": "Gabriel Martinelli",
+  "href_perfil": "/gabriel-martinelli/profil/spieler/655488",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,073'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "14",
+      "goles": "6",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "698'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "261'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "352'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "53",
+      "goles": "11",
+      "asistencias": "7",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,384'"
+    }
+  ]
+}

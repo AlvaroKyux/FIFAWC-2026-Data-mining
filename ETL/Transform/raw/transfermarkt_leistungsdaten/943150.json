@@ -1,0 +1,42 @@
+{
+  "nombre": "Al-Hashmi Al-Hussain",
+  "href_perfil": "/al-hashmi-al-hussain/profil/spieler/943150",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "698'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "147'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "72'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "917'"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "pais": "Samoa",
+  "href_seleccion": "/samoa/startseite/verein/15235",
+  "jugadores": [
+    {
+      "player_id": "1267524",
+      "nombre": "Pele Fatu",
+      "href_perfil": "/pele-fatu/profil/spieler/1267524",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/2001 (25)",
+      "club_actual": "Vaivase-tai",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272527",
+      "nombre": "Paul Taupau",
+      "href_perfil": "/paul-taupau/profil/spieler/1272527",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/01/2001 (25)",
+      "club_actual": "Franklin United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053060",
+      "nombre": "Joel Bartley",
+      "href_perfil": "/joel-bartley/profil/spieler/1053060",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/04/2005 (21)",
+      "club_actual": "Camden Tigers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1097581",
+      "nombre": "Kirk Auvele",
+      "href_perfil": "/kirk-auvele/profil/spieler/1097581",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/06/2006 (20)",
+      "club_actual": "Vaivase-tai",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1284637",
+      "nombre": "Lonokaehu Tuitele",
+      "href_perfil": "/lonokaehu-tuitele/profil/spieler/1284637",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "256538",
+      "nombre": "Viliami Viliamu",
+      "href_perfil": "/viliami-viliamu/profil/spieler/256538",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "25/06/1995 (31)",
+      "club_actual": "Vaipuna SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "444434",
+      "nombre": "Jefferson Faamatau",
+      "href_perfil": "/jefferson-faamatau/profil/spieler/444434",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "12/07/2000 (25)",
+      "club_actual": "Vaipuna SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "710540",
+      "nombre": "Jerrymiah Maiava",
+      "href_perfil": "/jerrymiah-maiava/profil/spieler/710540",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "19/09/2000 (25)",
+      "club_actual": "Vaivase-tai",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053071",
+      "nombre": "Luke Salisbury",
+      "href_perfil": "/luke-salisbury/profil/spieler/1053071",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/09/2004 (21)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "878183",
+      "nombre": "Harry Chote",
+      "href_perfil": "/harry-chote/profil/spieler/878183",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/11/1999 (26)",
+      "club_actual": "Island Bay United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "177559",
+      "nombre": "Andrew Setefano",
+      "href_perfil": "/andrew-setefano/profil/spieler/177559",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/08/1987 (38)",
+      "club_actual": "Pago Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053072",
+      "nombre": "Luke Tolo Kent",
+      "href_perfil": "/luke-tolo-kent/profil/spieler/1053072",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/04/2003 (23)",
+      "club_actual": "Miramar Rangers AFC Youth",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "921209",
+      "nombre": "Kaleb De Groot-Green",
+      "href_perfil": "/kaleb-de-groot-green/profil/spieler/921209",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2002 (24)",
+      "club_actual": "Coastal Spirit FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "486334",
+      "nombre": "Dauntae Mariner",
+      "href_perfil": "/dauntae-mariner/profil/spieler/486334",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/01/2000 (26)",
+      "club_actual": "South Island United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "597683",
+      "nombre": "John Tumua-Leo",
+      "href_perfil": "/john-tumua-leo/profil/spieler/597683",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "15/01/2003 (23)",
+      "club_actual": "Lupe Ole Soaga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1097589",
+      "nombre": "Timoteo Lesatele",
+      "href_perfil": "/timoteo-lesatele/profil/spieler/1097589",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "29/12/2006 (19)",
+      "club_actual": "Vaipuna SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1205269",
+      "nombre": "Reupena Fasi",
+      "href_perfil": "/reupena-fasi/profil/spieler/1205269",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "14/01/2005 (21)",
+      "club_actual": "Gold Star Sogi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053065",
+      "nombre": "Jesse Vine",
+      "href_perfil": "/jesse-vine/profil/spieler/1053065",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2003 (23)",
+      "club_actual": "Kemps Creek United SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597684",
+      "nombre": "Jarvis Vaai",
+      "href_perfil": "/jarvis-vaai/profil/spieler/597684",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/04/2003 (23)",
+      "club_actual": "Nelson Suburbs FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1097598",
+      "nombre": "Pharrell Trainor",
+      "href_perfil": "/pharrell-trainor/profil/spieler/1097598",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/2006 (20)",
+      "club_actual": "Maitland FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "444429",
+      "nombre": "Dilo Tumua",
+      "href_perfil": "/dilo-tumua/profil/spieler/444429",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/03/2000 (26)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "486333",
+      "nombre": "Darcy Knight",
+      "href_perfil": "/darcy-knight/profil/spieler/486333",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/02/2000 (26)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053080",
+      "nombre": "Ethan Stowers",
+      "href_perfil": "/ethan-stowers/profil/spieler/1053080",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/10/2005 (20)",
+      "club_actual": "Vaipuna SC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

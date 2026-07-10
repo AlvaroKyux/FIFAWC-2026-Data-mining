@@ -1,0 +1,213 @@
+{
+  "pais": "Pakistan",
+  "href_seleccion": "/pakistan/startseite/verein/15352",
+  "jugadores": [
+    {
+      "player_id": "70551",
+      "nombre": "Yousuf Butt",
+      "href_perfil": "/yousuf-butt/profil/spieler/70551",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/10/1989 (36)",
+      "club_actual": "Stallion Laguna FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "366578",
+      "nombre": "Saqib Hanif",
+      "href_perfil": "/saqib-hanif/profil/spieler/366578",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/04/1994 (32)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1179915",
+      "nombre": "Hassan Ali",
+      "href_perfil": "/hassan-ali/profil/spieler/1179915",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/2003 (23)",
+      "club_actual": "WAPDA FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "701224",
+      "nombre": "Abdullah Iqbal",
+      "href_perfil": "/abdullah-iqbal/profil/spieler/701224",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/07/2002 (23)",
+      "club_actual": "Mjällby AIF",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "282820",
+      "nombre": "Easah Suliman",
+      "href_perfil": "/easah-suliman/profil/spieler/282820",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/01/1998 (28)",
+      "club_actual": "Sumgayit PFC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1028564",
+      "nombre": "Mamoon Moosa Khan",
+      "href_perfil": "/mamoon-moosa-khan/profil/spieler/1028564",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/12/2001 (24)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1096510",
+      "nombre": "Mohib Ullah",
+      "href_perfil": "/mohib-ullah/profil/spieler/1096510",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/05/2005 (21)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1076776",
+      "nombre": "Abdullah Shah",
+      "href_perfil": "/abdullah-shah/profil/spieler/1076776",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/02/2001 (25)",
+      "club_actual": "Brothers Union",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "569653",
+      "nombre": "Mohammad Fazal",
+      "href_perfil": "/mohammad-fazal/profil/spieler/569653",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/05/2002 (24)",
+      "club_actual": "Nordic United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "678912",
+      "nombre": "Ali Khan Niazi",
+      "href_perfil": "/ali-khan-niazi/profil/spieler/678912",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/12/2000 (25)",
+      "club_actual": "SA Gardens FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1179918",
+      "nombre": "Mohammad Hayan Khattak",
+      "href_perfil": "/mohammad-hayan-khattak/profil/spieler/1179918",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/01/2003 (23)",
+      "club_actual": "Brothers Union",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1076787",
+      "nombre": "Alamgir Ghazi",
+      "href_perfil": "/alamgir-ghazi/profil/spieler/1076787",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/05/2001 (25)",
+      "club_actual": "Brothers Union",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "879396",
+      "nombre": "Harun Hamid",
+      "href_perfil": "/harun-hamid/profil/spieler/879396",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/11/2003 (22)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "409053",
+      "nombre": "Rahis Nabi",
+      "href_perfil": "/rahis-nabi/profil/spieler/409053",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/04/1999 (27)",
+      "club_actual": "Sporting Khalsa",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1531181",
+      "nombre": "Ali Agha Hazara",
+      "href_perfil": "/ali-agha-hazara/profil/spieler/1531181",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/1997 (29)",
+      "club_actual": "Khan Research Laboratories FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "181554",
+      "nombre": "Adil Nabi",
+      "href_perfil": "/adil-nabi/profil/spieler/181554",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/1994 (32)",
+      "club_actual": "Harborough Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "643887",
+      "nombre": "Haris Zeb",
+      "href_perfil": "/haris-zeb/profil/spieler/643887",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/05/2001 (25)",
+      "club_actual": "Broadmeadow Magic FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1028558",
+      "nombre": "Shayak Dost",
+      "href_perfil": "/shayak-dost/profil/spieler/1028558",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/05/2002 (24)",
+      "club_actual": "Brothers Union",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "318799",
+      "nombre": "Otis Khan",
+      "href_perfil": "/otis-khan/profil/spieler/318799",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/09/1995 (30)",
+      "club_actual": "Altrincham FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "669211",
+      "nombre": "Ali Khan",
+      "href_perfil": "/ali-khan/profil/spieler/669211",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/03/2001 (25)",
+      "club_actual": "Vasalunds IF",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "801988",
+      "nombre": "Abdul Arshad",
+      "href_perfil": "/abdul-arshad/profil/spieler/801988",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/02/2003 (23)",
+      "club_actual": "Kolding IF",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "802912",
+      "nombre": "Ali Shah",
+      "href_perfil": "/ali-shah/profil/spieler/802912",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/03/2003 (23)",
+      "club_actual": "Hellerup IK",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1129194",
+      "nombre": "Umar Nawaz",
+      "href_perfil": "/umar-nawaz/profil/spieler/1129194",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/11/2008 (17)",
+      "club_actual": "FC Wrexham U18",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

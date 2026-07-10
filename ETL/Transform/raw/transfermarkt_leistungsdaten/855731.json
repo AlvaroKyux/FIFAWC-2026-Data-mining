@@ -1,0 +1,51 @@
+{
+  "nombre": "Jordan Bos",
+  "href_perfil": "/jordan-bos/profil/spieler/855731",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "28",
+      "goles": "4",
+      "asistencias": "9",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,058'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "237'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "4",
+      "asistencias": "11",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,565'"
+    }
+  ]
+}

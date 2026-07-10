@@ -1,0 +1,51 @@
+{
+  "nombre": "Willy Semedo",
+  "href_perfil": "/willy-semedo/profil/spieler/531450",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "28",
+      "goles": "17",
+      "asistencias": "9",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,212'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "539'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "483'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "54'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "22",
+      "asistencias": "11",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,288'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Woodensky Pierre",
+  "href_perfil": "/woodensky-pierre/profil/spieler/1017735",
+  "competiciones": [
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "242'"
+    },
+    {
+      "competicion_raw": "CONCACAF Caribbean Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "202'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "444'"
+    }
+  ]
+}

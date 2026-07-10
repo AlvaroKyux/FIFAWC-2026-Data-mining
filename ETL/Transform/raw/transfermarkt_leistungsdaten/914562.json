@@ -1,0 +1,69 @@
+{
+  "nombre": "Désiré Doué",
+  "href_perfil": "/desire-doue/profil/spieler/914562",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "23",
+      "goles": "7",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,356'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "13",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "871'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "86'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "78'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "77'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "13",
+      "asistencias": "11",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,558'"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nombre": "Anthony Ralston",
+  "href_perfil": "/anthony-ralston/profil/spieler/388171",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "20",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,186'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "172'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "114'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "193'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "161'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,036'"
+    }
+  ]
+}

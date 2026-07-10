@@ -1,0 +1,51 @@
+{
+  "nombre": "Ramón Sosa",
+  "href_perfil": "/ramon-sosa/profil/spieler/745191",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "15",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "685'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "473'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "267'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "68'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,493'"
+    }
+  ]
+}

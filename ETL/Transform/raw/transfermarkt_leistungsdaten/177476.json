@@ -1,0 +1,51 @@
+{
+  "nombre": "Nathan Aké",
+  "href_perfil": "/nathan-ake/profil/spieler/177476",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "688'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "493'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "238'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "225'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,644'"
+    }
+  ]
+}

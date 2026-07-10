@@ -1,0 +1,60 @@
+{
+  "nombre": "Tahsin Mohammed Jamshid",
+  "href_perfil": "/tahsin-mohammed-jamshid/profil/spieler/1143849",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "372'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "41'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "58'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "79'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "550'"
+    }
+  ]
+}

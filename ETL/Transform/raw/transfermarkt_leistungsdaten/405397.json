@@ -1,0 +1,33 @@
+{
+  "nombre": "Keito Nakamura",
+  "href_perfil": "/keito-nakamura/profil/spieler/405397",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "29",
+      "goles": "14",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,357'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "134'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "14",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,491'"
+    }
+  ]
+}

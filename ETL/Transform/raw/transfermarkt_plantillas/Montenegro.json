@@ -1,0 +1,258 @@
+{
+  "pais": "Montenegro",
+  "href_seleccion": "/montenegro/startseite/verein/11953",
+  "jugadores": [
+    {
+      "player_id": "502017",
+      "nombre": "Balsa Popovic",
+      "href_perfil": "/balsa-popovic/profil/spieler/502017",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/06/2000 (26)",
+      "club_actual": "OFK Beograd",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "938509",
+      "nombre": "Igor Nikic",
+      "href_perfil": "/igor-nikic/profil/spieler/938509",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/08/2000 (25)",
+      "club_actual": "CD Mirandés",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "188930",
+      "nombre": "Danijel Petkovic",
+      "href_perfil": "/danijel-petkovic/profil/spieler/188930",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/05/1993 (33)",
+      "club_actual": "FK Liepaja",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "542797",
+      "nombre": "Miso Dubljanic",
+      "href_perfil": "/miso-dubljanic/profil/spieler/542797",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/12/1999 (26)",
+      "club_actual": "FK Rudar Prijedor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "227538",
+      "nombre": "Igor Vujacic",
+      "href_perfil": "/igor-vujacic/profil/spieler/227538",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/1994 (31)",
+      "club_actual": "Rubin Kazan",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "617460",
+      "nombre": "Slobodan Rubežić",
+      "href_perfil": "/slobodan-rubezic/profil/spieler/617460",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/03/2000 (26)",
+      "club_actual": "Korona Kielce",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "311146",
+      "nombre": "Nikola Sipcic",
+      "href_perfil": "/nikola-sipcic/profil/spieler/311146",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/05/1995 (31)",
+      "club_actual": "Asteras Aktor",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "650460",
+      "nombre": "Andrija Raznatovic",
+      "href_perfil": "/andrija-raznatovic/profil/spieler/650460",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/12/2000 (25)",
+      "club_actual": "FK Sutjeska Niksic",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "144339",
+      "nombre": "Risto Radunovic",
+      "href_perfil": "/risto-radunovic/profil/spieler/144339",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/05/1992 (34)",
+      "club_actual": "FCSB",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "294987",
+      "nombre": "Andrija Vukcevic",
+      "href_perfil": "/andrija-vukcevic/profil/spieler/294987",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/10/1996 (29)",
+      "club_actual": "Preston North End",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "944581",
+      "nombre": "Milan Roganovic",
+      "href_perfil": "/milan-roganovic/profil/spieler/944581",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/10/2005 (20)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "98101",
+      "nombre": "Marko Vesovic",
+      "href_perfil": "/marko-vesovic/profil/spieler/98101",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/08/1991 (34)",
+      "club_actual": "NK Lokomotiva Zagreb",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "352599",
+      "nombre": "Stefan Loncar",
+      "href_perfil": "/stefan-loncar/profil/spieler/352599",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/02/1996 (30)",
+      "club_actual": "Akron Tolyatti",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "986291",
+      "nombre": "Andrija Bulatovic",
+      "href_perfil": "/andrija-bulatovic/profil/spieler/986291",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/12/2006 (19)",
+      "club_actual": "RC Lens",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "542824",
+      "nombre": "Novica Erakovic",
+      "href_perfil": "/novica-erakovic/profil/spieler/542824",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/11/1999 (26)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "502084",
+      "nombre": "Milos Brnovic",
+      "href_perfil": "/milos-brnovic/profil/spieler/502084",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/04/2000 (26)",
+      "club_actual": "Arsenal Tula",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "624353",
+      "nombre": "Milan Vukotic",
+      "href_perfil": "/milan-vukotic/profil/spieler/624353",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/10/2002 (23)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "530038",
+      "nombre": "Aleksa Latkovic",
+      "href_perfil": "/aleksa-latkovic/profil/spieler/530038",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/10/2000 (25)",
+      "club_actual": "NK Varazdin",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "677663",
+      "nombre": "Marko Simun",
+      "href_perfil": "/marko-simun/profil/spieler/677663",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/06/2001 (25)",
+      "club_actual": "FK Sutjeska Niksic",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "349300",
+      "nombre": "Sead Haksabanovic",
+      "href_perfil": "/sead-haksabanovic/profil/spieler/349300",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/05/1999 (27)",
+      "club_actual": "Malmö FF",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "246827",
+      "nombre": "Vladimir Jovovic",
+      "href_perfil": "/vladimir-jovovic/profil/spieler/246827",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/10/1994 (31)",
+      "club_actual": "Neftchi Fergana",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "293239",
+      "nombre": "Driton Camaj",
+      "href_perfil": "/driton-camaj/profil/spieler/293239",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/03/1997 (29)",
+      "club_actual": "FK Novi Pazar",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "46104",
+      "nombre": "Stevan Jovetić",
+      "href_perfil": "/stevan-jovetic/profil/spieler/46104",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "02/11/1989 (36)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "434433",
+      "nombre": "Nikola Krstović",
+      "href_perfil": "/nikola-krstovic/profil/spieler/434433",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/04/2000 (26)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "987672",
+      "nombre": "Andrej Kostic",
+      "href_perfil": "/andrej-kostic/profil/spieler/987672",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/01/2007 (19)",
+      "club_actual": "FK Partizan Belgrade",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "542819",
+      "nombre": "Milutin Osmajic",
+      "href_perfil": "/milutin-osmajic/profil/spieler/542819",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/07/1999 (26)",
+      "club_actual": "Preston North End",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "455594",
+      "nombre": "Balsa Sekulic",
+      "href_perfil": "/balsa-sekulic/profil/spieler/455594",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/06/1998 (28)",
+      "club_actual": "FK Mornar Bar",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "149738",
+      "nombre": "Stefan Mugosa",
+      "href_perfil": "/stefan-mugosa/profil/spieler/149738",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/02/1992 (34)",
+      "club_actual": "Incheon United",
+      "valor_mercado_raw": "€400k"
+    }
+  ]
+}

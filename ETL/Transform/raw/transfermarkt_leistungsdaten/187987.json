@@ -1,0 +1,42 @@
+{
+  "nombre": "Ahmed Alaaeldin",
+  "href_perfil": "/ahmed-alaaeldin/profil/spieler/187987",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "20",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "919'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "287'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "42'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,248'"
+    }
+  ]
+}

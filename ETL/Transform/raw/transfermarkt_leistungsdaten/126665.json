@@ -1,0 +1,42 @@
+{
+  "nombre": "Idrissa Gueye",
+  "href_perfil": "/idrissa-gueye/profil/spieler/126665",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,102'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,102'"
+    }
+  ]
+}

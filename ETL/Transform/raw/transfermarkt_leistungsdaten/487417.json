@@ -1,0 +1,51 @@
+{
+  "nombre": "Liam Millar",
+  "href_perfil": "/liam-millar/profil/spieler/487417",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "33",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,848'"
+    },
+    {
+      "competicion_raw": "Championship Play-Offs",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "154'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,212'"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "pais": "India",
+  "href_seleccion": "/indien/startseite/verein/13957",
+  "jugadores": [
+    {
+      "player_id": "742268",
+      "nombre": "Hrithik Tiwari",
+      "href_perfil": "/hrithik-tiwari/profil/spieler/742268",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/01/2002 (24)",
+      "club_actual": "FC Goa",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "173146",
+      "nombre": "Gurpreet Singh Sandhu",
+      "href_perfil": "/gurpreet-singh-sandhu/profil/spieler/173146",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/02/1992 (34)",
+      "club_actual": "Bengaluru FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "382358",
+      "nombre": "Albino Gomes",
+      "href_perfil": "/albino-gomes/profil/spieler/382358",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/02/1994 (32)",
+      "club_actual": "Jamshedpur FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "284997",
+      "nombre": "Sandesh Jhingan",
+      "href_perfil": "/sandesh-jhingan/profil/spieler/284997",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/07/1993 (32)",
+      "club_actual": "FC Goa",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "759945",
+      "nombre": "Bijoy Varghese",
+      "href_perfil": "/bijoy-varghese/profil/spieler/759945",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/03/2000 (26)",
+      "club_actual": "Punjab FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1112953",
+      "nombre": "Pramveer",
+      "href_perfil": "/pramveer/profil/spieler/1112953",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/06/2007 (19)",
+      "club_actual": "Punjab FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "559482",
+      "nombre": "Naorem Roshan Singh",
+      "href_perfil": "/naorem-roshan-singh/profil/spieler/559482",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/02/1999 (27)",
+      "club_actual": "Bengaluru FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "642347",
+      "nombre": "Akash Mishra",
+      "href_perfil": "/akash-mishra/profil/spieler/642347",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/11/2001 (24)",
+      "club_actual": "Mumbai City FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "480796",
+      "nombre": "Nikhil Poojary",
+      "href_perfil": "/nikhil-poojary/profil/spieler/480796",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/09/1995 (30)",
+      "club_actual": "Bengaluru FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "927104",
+      "nombre": "Nikhil Barla",
+      "href_perfil": "/nikhil-barla/profil/spieler/927104",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/08/2003 (22)",
+      "club_actual": "Jamshedpur FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "400929",
+      "nombre": "Rahul Bheke",
+      "href_perfil": "/rahul-bheke/profil/spieler/400929",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/12/1990 (35)",
+      "club_actual": "Bengaluru FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "543342",
+      "nombre": "Jeakson Singh",
+      "href_perfil": "/jeakson-singh/profil/spieler/543342",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/06/2001 (25)",
+      "club_actual": "East Bengal FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "652435",
+      "nombre": "Ricky Shabong",
+      "href_perfil": "/ricky-shabong/profil/spieler/652435",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/2002 (23)",
+      "club_actual": "Punjab FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "758876",
+      "nombre": "Macarton Louis Nickson",
+      "href_perfil": "/macarton-louis-nickson/profil/spieler/758876",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/03/2004 (22)",
+      "club_actual": "NorthEast United FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "760456",
+      "nombre": "Noufal PN",
+      "href_perfil": "/noufal-pn/profil/spieler/760456",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "30/10/2000 (25)",
+      "club_actual": "Mumbai City FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1005296",
+      "nombre": "Sanan Mohammed K",
+      "href_perfil": "/sanan-mohammed-k/profil/spieler/1005296",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/04/2004 (22)",
+      "club_actual": "Jamshedpur FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "462120",
+      "nombre": "Farukh Choudhary",
+      "href_perfil": "/farukh-choudhary/profil/spieler/462120",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/11/1996 (29)",
+      "club_actual": "Chennaiyin FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "425586",
+      "nombre": "Lallianzuala Chhangte",
+      "href_perfil": "/lallianzuala-chhangte/profil/spieler/425586",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/08/1997 (28)",
+      "club_actual": "Mumbai City FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "642350",
+      "nombre": "Vikram Partap Singh",
+      "href_perfil": "/vikram-partap-singh/profil/spieler/642350",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/01/2002 (24)",
+      "club_actual": "Mumbai City FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "760172",
+      "nombre": "Parthib Gogoi",
+      "href_perfil": "/parthib-gogoi/profil/spieler/760172",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/01/2003 (23)",
+      "club_actual": "NorthEast United FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "280922",
+      "nombre": "Edmund Lalrindika",
+      "href_perfil": "/edmund-lalrindika/profil/spieler/280922",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/04/1999 (27)",
+      "club_actual": "East Bengal FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "543344",
+      "nombre": "Rahim Ali",
+      "href_perfil": "/rahim-ali/profil/spieler/543344",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/04/2000 (26)",
+      "club_actual": "Odisha FC",
+      "valor_mercado_raw": "€125k"
+    }
+  ]
+}

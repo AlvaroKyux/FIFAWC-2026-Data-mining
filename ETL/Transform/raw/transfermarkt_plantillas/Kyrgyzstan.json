@@ -1,0 +1,240 @@
+{
+  "pais": "Kyrgyzstan",
+  "href_seleccion": "/kirgisistan/startseite/verein/3956",
+  "jugadores": [
+    {
+      "player_id": "749087",
+      "nombre": "Erzhan Tokotaev",
+      "href_perfil": "/erzhan-tokotaev/profil/spieler/749087",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/07/2000 (25)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "763958",
+      "nombre": "Artem Pryadkin",
+      "href_perfil": "/artem-pryadkin/profil/spieler/763958",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/09/2001 (24)",
+      "club_actual": "FC Bishkek City",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "765246",
+      "nombre": "Sultan Chomoev",
+      "href_perfil": "/sultan-chomoev/profil/spieler/765246",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/01/2003 (23)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "257141",
+      "nombre": "Tamirlan Kozubaev",
+      "href_perfil": "/tamirlan-kozubaev/profil/spieler/257141",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/07/1994 (31)",
+      "club_actual": "Persita Tangerang",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "765414",
+      "nombre": "Arslan Bekberdinov",
+      "href_perfil": "/arslan-bekberdinov/profil/spieler/765414",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/08/2003 (22)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "993260",
+      "nombre": "Ulanbek Sulaymanov",
+      "href_perfil": "/ulanbek-sulaymanov/profil/spieler/993260",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/10/2002 (23)",
+      "club_actual": "FC Ozgon",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "751101",
+      "nombre": "Valeriy Murzakov",
+      "href_perfil": "/valeriy-murzakov/profil/spieler/751101",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/09/2003 (22)",
+      "club_actual": "Talant Besh-Küngöy",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "766538",
+      "nombre": "Ermek Kenzhebaev",
+      "href_perfil": "/ermek-kenzhebaev/profil/spieler/766538",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/04/2003 (23)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "765431",
+      "nombre": "Said Datsiev",
+      "href_perfil": "/said-datsiev/profil/spieler/765431",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/04/2003 (23)",
+      "club_actual": "Bars Karakol ",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "907042",
+      "nombre": "Eldiyar Zarypbekov",
+      "href_perfil": "/eldiyar-zarypbekov/profil/spieler/907042",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2001 (24)",
+      "club_actual": "Chernomorets Novorossijsk",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "812538",
+      "nombre": "Bektur Kochkonbaev",
+      "href_perfil": "/bektur-kochkonbaev/profil/spieler/812538",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/2003 (23)",
+      "club_actual": "FC Ozgon",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "749033",
+      "nombre": "Adil Kadyrzhanov",
+      "href_perfil": "/adil-kadyrzhanov/profil/spieler/749033",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/07/2000 (25)",
+      "club_actual": "FK Dordoi Bishkek",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "914997",
+      "nombre": "Erbol Atabaev",
+      "href_perfil": "/erbol-atabaev/profil/spieler/914997",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/08/2001 (24)",
+      "club_actual": "Muras United Dzhalal-Abad",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "699185",
+      "nombre": "Alimardon Shukurov",
+      "href_perfil": "/alimardon-shukurov/profil/spieler/699185",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/09/1999 (26)",
+      "club_actual": "Muras United Dzhalal-Abad",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "253603",
+      "nombre": "Magamed Uzdenov",
+      "href_perfil": "/magamed-uzdenov/profil/spieler/253603",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/02/1994 (32)",
+      "club_actual": "Bars Karakol ",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "472382",
+      "nombre": "Odilzhon Abdurakhmanov",
+      "href_perfil": "/odilzhon-abdurakhmanov/profil/spieler/472382",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/1996 (30)",
+      "club_actual": "Dong A Thanh Hoa FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "224695",
+      "nombre": "Kayrat Zhyrgalbek uulu",
+      "href_perfil": "/kayrat-zhyrgalbek-uulu/profil/spieler/224695",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "13/06/1993 (33)",
+      "club_actual": "Bars Karakol ",
+      "valor_mercado_raw": "€375k"
+    },
+    {
+      "player_id": "750649",
+      "nombre": "Amir Zhaparov",
+      "href_perfil": "/amir-zhaparov/profil/spieler/750649",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/08/2000 (25)",
+      "club_actual": "Muras United Dzhalal-Abad",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "829279",
+      "nombre": "Kimi Merk",
+      "href_perfil": "/kimi-merk/profil/spieler/829279",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/07/2004 (21)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "497836",
+      "nombre": "Murolimzhon Akhmedov",
+      "href_perfil": "/murolimzhon-akhmedov/profil/spieler/497836",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/1992 (34)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "663146",
+      "nombre": "Gulzhigit Alykulov",
+      "href_perfil": "/gulzhigit-alykulov/profil/spieler/663146",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/11/2000 (25)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "655838",
+      "nombre": "Beknaz Almazbekov",
+      "href_perfil": "/beknaz-almazbekov/profil/spieler/655838",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/06/2005 (21)",
+      "club_actual": "Rukh Lviv",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "750748",
+      "nombre": "Nurdoolot Stalbekov",
+      "href_perfil": "/nurdoolot-stalbekov/profil/spieler/750748",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/09/2001 (24)",
+      "club_actual": "Isloch Minsk Region",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "749089",
+      "nombre": "Gulzhigit Borubaev",
+      "href_perfil": "/gulzhigit-borubaev/profil/spieler/749089",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/04/2000 (26)",
+      "club_actual": "Neman Grodno",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "516038",
+      "nombre": "Kai Merk",
+      "href_perfil": "/kai-merk/profil/spieler/516038",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/08/1998 (27)",
+      "club_actual": "Alga Bishkek",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "606632",
+      "nombre": "Ernist Batyrkanov",
+      "href_perfil": "/ernist-batyrkanov/profil/spieler/606632",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/02/1998 (28)",
+      "club_actual": "FK Dordoi Bishkek",
+      "valor_mercado_raw": "€225k"
+    }
+  ]
+}

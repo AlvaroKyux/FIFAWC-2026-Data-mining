@@ -1,0 +1,51 @@
+{
+  "nombre": "Themba Zwane",
+  "href_perfil": "/themba-zwane/profil/spieler/176578",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "533'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "33'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "100'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "88'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "754'"
+    }
+  ]
+}

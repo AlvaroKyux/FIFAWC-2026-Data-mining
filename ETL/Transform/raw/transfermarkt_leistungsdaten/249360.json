@@ -1,0 +1,42 @@
+{
+  "nombre": "Ali Alipour",
+  "href_perfil": "/ali-alipour/profil/spieler/249360",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "22",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,948'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Champions League Two Play-off",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "6",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,068'"
+    }
+  ]
+}

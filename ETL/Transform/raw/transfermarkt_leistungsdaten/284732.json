@@ -1,0 +1,42 @@
+{
+  "nombre": "Ramy Bensebaini",
+  "href_perfil": "/ramy-bensebaini/profil/spieler/284732",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "21",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,528'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "774'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "94'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "7",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "1",
+      "minutos_raw": "2,396'"
+    }
+  ]
+}

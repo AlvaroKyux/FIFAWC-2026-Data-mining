@@ -1,0 +1,51 @@
+{
+  "nombre": "Mauricio",
+  "href_perfil": "/mauricio/profil/spieler/678439",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "15",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "943'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "710'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "107'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "137'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,897'"
+    }
+  ]
+}

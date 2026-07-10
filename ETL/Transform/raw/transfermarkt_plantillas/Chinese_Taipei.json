@@ -1,0 +1,213 @@
+{
+  "pais": "Chinese Taipei",
+  "href_seleccion": "/chinesisch-taipeh-taiwan-/startseite/verein/15363",
+  "jugadores": [
+    {
+      "player_id": "1199298",
+      "nombre": "Odo Jacobs",
+      "href_perfil": "/odo-jacobs/profil/spieler/1199298",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/11/2004 (21)",
+      "club_actual": "Hang Yuan FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "497303",
+      "nombre": "Chiu-Lin Huang",
+      "href_perfil": "/chiu-lin-huang/profil/spieler/497303",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/06/1997 (29)",
+      "club_actual": "Taiwan Power Company",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "407399",
+      "nombre": "Shuo-Che Tsai",
+      "href_perfil": "/shuo-che-tsai/profil/spieler/407399",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/01/1996 (30)",
+      "club_actual": "Tainan City TSG",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "364181",
+      "nombre": "Ruei Wang",
+      "href_perfil": "/ruei-wang/profil/spieler/364181",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/08/1993 (32)",
+      "club_actual": "Tainan City TSG",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "626668",
+      "nombre": "Tzu-Ming Huang",
+      "href_perfil": "/tzu-ming-huang/profil/spieler/626668",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/11/2000 (25)",
+      "club_actual": "Taiwan Power Company",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1207660",
+      "nombre": "Chun-Lin Huang",
+      "href_perfil": "/chun-lin-huang/profil/spieler/1207660",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/01/2005 (21)",
+      "club_actual": "Hang Yuan FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1268958",
+      "nombre": "Jason Hsu",
+      "href_perfil": "/jason-hsu/profil/spieler/1268958",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/12/2002 (23)",
+      "club_actual": "Fordham Rams (Fordham University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1313785",
+      "nombre": "Martin Baudelet",
+      "href_perfil": "/martin-baudelet/profil/spieler/1313785",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/01/2003 (23)",
+      "club_actual": "Erie Commodores FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "675763",
+      "nombre": "Christopher Tiao",
+      "href_perfil": "/christopher-tiao/profil/spieler/675763",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/05/2001 (25)",
+      "club_actual": "One Knoxville SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "760917",
+      "nombre": "Po-Wei Kuo",
+      "href_perfil": "/po-wei-kuo/profil/spieler/760917",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/12/1998 (27)",
+      "club_actual": "Tainan City TSG",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "512081",
+      "nombre": "Meng-Cheng Tsai",
+      "href_perfil": "/meng-cheng-tsai/profil/spieler/512081",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Athletic Club Taipei",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "760952",
+      "nombre": "William López",
+      "href_perfil": "/william-lopez/profil/spieler/760952",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/11/1993 (32)",
+      "club_actual": "Hang Yuan FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "589937",
+      "nombre": "Shao-Chieh Tu",
+      "href_perfil": "/shao-chieh-tu/profil/spieler/589937",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/01/1999 (27)",
+      "club_actual": "Taiwan Power Company",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "589942",
+      "nombre": "Yen-Shu Wu",
+      "href_perfil": "/yen-shu-wu/profil/spieler/589942",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/10/1999 (26)",
+      "club_actual": "Dalian K'un City",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1060226",
+      "nombre": "Kuan-Yi Li",
+      "href_perfil": "/kuan-yi-li/profil/spieler/1060226",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/10/2003 (22)",
+      "club_actual": "Tainan City TSG",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "69690",
+      "nombre": "Po-Liang Chen",
+      "href_perfil": "/po-liang-chen/profil/spieler/69690",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/08/1988 (37)",
+      "club_actual": "Dingnan United",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "651962",
+      "nombre": "Emilio Estevez",
+      "href_perfil": "/emilio-estevez/profil/spieler/651962",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/08/1998 (27)",
+      "club_actual": "Tanjong Pagar United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1070888",
+      "nombre": "Chen Lin",
+      "href_perfil": "/chen-lin/profil/spieler/1070888",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "02/09/2003 (22)",
+      "club_actual": "Taiwan Power Company",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1060220",
+      "nombre": "Po-Chieh Hsu",
+      "href_perfil": "/po-chieh-hsu/profil/spieler/1060220",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/11/2003 (22)",
+      "club_actual": "Taiwan Power Company",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "760711",
+      "nombre": "Ange Kouamé",
+      "href_perfil": "/ange-kouame/profil/spieler/760711",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/12/1996 (29)",
+      "club_actual": "Liaoning Tieren",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "767439",
+      "nombre": "Wei-Chieh Huang",
+      "href_perfil": "/wei-chieh-huang/profil/spieler/767439",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/12/2004 (21)",
+      "club_actual": "Athletic Club Taipei",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "810716",
+      "nombre": "Yao-Hsing Yu",
+      "href_perfil": "/yao-hsing-yu/profil/spieler/810716",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/02/2002 (24)",
+      "club_actual": "Guangxi Hengchen",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1195958",
+      "nombre": "Chao-Jing Yang",
+      "href_perfil": "/chao-jing-yang/profil/spieler/1195958",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/11/2005 (20)",
+      "club_actual": "Taichung Rock",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

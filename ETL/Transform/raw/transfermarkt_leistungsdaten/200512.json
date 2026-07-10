@@ -1,0 +1,51 @@
+{
+  "nombre": "Sadio Mané",
+  "href_perfil": "/sadio-mane/profil/spieler/200512",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "25",
+      "goles": "10",
+      "asistencias": "6",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,136'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "8",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "439'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "117'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "25'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "14",
+      "asistencias": "9",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,717'"
+    }
+  ]
+}

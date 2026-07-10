@@ -1,0 +1,42 @@
+{
+  "nombre": "Logan Costa",
+  "href_perfil": "/logan-costa/profil/spieler/484988",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "28'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "28'"
+    }
+  ]
+}

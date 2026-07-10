@@ -1,0 +1,33 @@
+{
+  "nombre": "Nikola Vasilj",
+  "href_perfil": "/nikola-vasilj/profil/spieler/248454",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "34",
+      "goles": "60",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "61",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,270'"
+    }
+  ]
+}

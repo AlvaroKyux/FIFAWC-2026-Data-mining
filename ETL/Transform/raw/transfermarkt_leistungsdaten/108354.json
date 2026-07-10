@@ -1,0 +1,42 @@
+{
+  "nombre": "Jordan Ayew",
+  "href_perfil": "/jordan-ayew/profil/spieler/108354",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "42",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,259'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "99'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "8'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,366'"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "pais": "Saint Lucia",
+  "href_seleccion": "/st-lucia/startseite/verein/17761",
+  "jugadores": [
+    {
+      "player_id": "703902",
+      "nombre": "Devone St. Prix",
+      "href_perfil": "/devone-st-prix/profil/spieler/703902",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/09/1997 (28)",
+      "club_actual": "La Clery FL",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1375257",
+      "nombre": "A'dee Germé",
+      "href_perfil": "/adee-germe/profil/spieler/1375257",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/01/2008 (18)",
+      "club_actual": "Uptown Rebels SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953208",
+      "nombre": "Darren Donaie",
+      "href_perfil": "/darren-donaie/profil/spieler/953208",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/05/2003 (23)",
+      "club_actual": "Molynes United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529135",
+      "nombre": "Ajani Louis",
+      "href_perfil": "/ajani-louis/profil/spieler/1529135",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022776",
+      "nombre": "Doneal Lionel",
+      "href_perfil": "/doneal-lionel/profil/spieler/1022776",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/07/1998 (27)",
+      "club_actual": "La Clery FL",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "518811",
+      "nombre": "Melvin Doxilly",
+      "href_perfil": "/melvin-doxilly/profil/spieler/518811",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/01/1998 (28)",
+      "club_actual": "Mount Pleasant FA",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1204429",
+      "nombre": "Eymani Butcher",
+      "href_perfil": "/eymani-butcher/profil/spieler/1204429",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/12/2007 (18)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "683857",
+      "nombre": "Arkell Jude-Boyd",
+      "href_perfil": "/arkell-jude-boyd/profil/spieler/683857",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/01/2003 (23)",
+      "club_actual": "Cheltenham Town",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "518816",
+      "nombre": "Alvinus Myers",
+      "href_perfil": "/alvinus-myers/profil/spieler/518816",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/01/1998 (28)",
+      "club_actual": "Spanish Town Police FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "966463",
+      "nombre": "Bayan Aman",
+      "href_perfil": "/bayan-aman/profil/spieler/966463",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/2005 (20)",
+      "club_actual": "FK Velez Nevesinje",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1415199",
+      "nombre": "Trent Alexander",
+      "href_perfil": "/trent-alexander/profil/spieler/1415199",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "16/08/2001 (24)",
+      "club_actual": "Square United Vieux Fort",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953336",
+      "nombre": "Hemaiael Charlery",
+      "href_perfil": "/hemaiael-charlery/profil/spieler/953336",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/10/2004 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1123496",
+      "nombre": "Jahlil Evans",
+      "href_perfil": "/jahlil-evans/profil/spieler/1123496",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/09/2004 (21)",
+      "club_actual": "Cimpex Orion Gros Islet",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1375263",
+      "nombre": "Thierry Morille",
+      "href_perfil": "/thierry-morille/profil/spieler/1375263",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "30/08/2008 (17)",
+      "club_actual": "Northern United All Stars",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1375266",
+      "nombre": "Shevon Byron",
+      "href_perfil": "/shevon-byron/profil/spieler/1375266",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/04/2008 (18)",
+      "club_actual": "Mount Pleasant Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "625140",
+      "nombre": "Ridel Stanislas",
+      "href_perfil": "/ridel-stanislas/profil/spieler/625140",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "07/09/1997 (28)",
+      "club_actual": "Grenades FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "346019",
+      "nombre": "Lester Joseph",
+      "href_perfil": "/lester-joseph/profil/spieler/346019",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/1993 (33)",
+      "club_actual": "Grenades FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953214",
+      "nombre": "Shaquan Nelson",
+      "href_perfil": "/shaquan-nelson/profil/spieler/953214",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2004 (22)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953212",
+      "nombre": "Kegan Caull",
+      "href_perfil": "/kegan-caull/profil/spieler/953212",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/03/2004 (22)",
+      "club_actual": "Montego Bay United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1495908",
+      "nombre": "Donavan Phillip",
+      "href_perfil": "/donavan-phillip/profil/spieler/1495908",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/01/2005 (21)",
+      "club_actual": "Colorado Rapids",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1415197",
+      "nombre": "Mervin St. Romain",
+      "href_perfil": "/mervin-st-romain/profil/spieler/1415197",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/12/2005 (20)",
+      "club_actual": "La Clery FL",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Anthony Valencia",
+  "href_perfil": "/anthony-valencia/profil/spieler/974374",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "14",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "672'"
+    },
+    {
+      "competicion_raw": "JPL Europe Play-Offs",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "653'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "150'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,475'"
+    }
+  ]
+}

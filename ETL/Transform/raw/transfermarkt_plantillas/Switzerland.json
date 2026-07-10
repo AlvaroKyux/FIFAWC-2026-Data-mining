@@ -1,0 +1,240 @@
+{
+  "pais": "Switzerland",
+  "href_seleccion": "/schweiz/startseite/verein/3384",
+  "jugadores": [
+    {
+      "player_id": "257814",
+      "nombre": "Gregor Kobel",
+      "href_perfil": "/gregor-kobel/profil/spieler/257814",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/12/1997 (28)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "500763",
+      "nombre": "Marvin Keller",
+      "href_perfil": "/marvin-keller/profil/spieler/500763",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/07/2002 (23)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "147051",
+      "nombre": "Yvon Mvogo",
+      "href_perfil": "/yvon-mvogo/profil/spieler/147051",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/06/1994 (32)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "284730",
+      "nombre": "Manuel Akanji",
+      "href_perfil": "/manuel-akanji/profil/spieler/284730",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/07/1995 (30)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "635645",
+      "nombre": "Aurèle Amenda",
+      "href_perfil": "/aurele-amenda/profil/spieler/635645",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/07/2003 (22)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "539798",
+      "nombre": "Luca Jaquez",
+      "href_perfil": "/luca-jaquez/profil/spieler/539798",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/06/2003 (23)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "192635",
+      "nombre": "Nico Elvedi",
+      "href_perfil": "/nico-elvedi/profil/spieler/192635",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/09/1996 (29)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "298583",
+      "nombre": "Eray Cömert",
+      "href_perfil": "/eray-comert/profil/spieler/298583",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/02/1998 (28)",
+      "club_actual": "Valencia CF",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "298603",
+      "nombre": "Miro Muheim",
+      "href_perfil": "/miro-muheim/profil/spieler/298603",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/03/1998 (28)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "86784",
+      "nombre": "Ricardo Rodríguez",
+      "href_perfil": "/ricardo-rodriguez/profil/spieler/86784",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/08/1992 (33)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "168989",
+      "nombre": "Silvan Widmer",
+      "href_perfil": "/silvan-widmer/profil/spieler/168989",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/03/1993 (33)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "334526",
+      "nombre": "Denis Zakaria",
+      "href_perfil": "/denis-zakaria/profil/spieler/334526",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/11/1996 (29)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "608172",
+      "nombre": "Ardon Jashari",
+      "href_perfil": "/ardon-jashari/profil/spieler/608172",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/07/2002 (23)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "111455",
+      "nombre": "Granit Xhaka",
+      "href_perfil": "/granit-xhaka/profil/spieler/111455",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/09/1992 (33)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "927353",
+      "nombre": "Johan Manzambi",
+      "href_perfil": "/johan-manzambi/profil/spieler/927353",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/10/2005 (20)",
+      "club_actual": "SC Freiburg",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "212723",
+      "nombre": "Djibril Sow",
+      "href_perfil": "/djibril-sow/profil/spieler/212723",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/1997 (29)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "237658",
+      "nombre": "Michel Aebischer",
+      "href_perfil": "/michel-aebischer/profil/spieler/237658",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/01/1997 (29)",
+      "club_actual": "Pisa Sporting Club",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "148252",
+      "nombre": "Remo Freuler",
+      "href_perfil": "/remo-freuler/profil/spieler/148252",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/04/1992 (34)",
+      "club_actual": "Bologna FC 1909",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "507341",
+      "nombre": "Fabian Rieder",
+      "href_perfil": "/fabian-rieder/profil/spieler/507341",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/02/2002 (24)",
+      "club_actual": "FC Augsburg",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "346890",
+      "nombre": "Noah Okafor",
+      "href_perfil": "/noah-okafor/profil/spieler/346890",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/05/2000 (26)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "345886",
+      "nombre": "Rubén Vargas",
+      "href_perfil": "/ruben-vargas/profil/spieler/345886",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/08/1998 (27)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "365108",
+      "nombre": "Dan Ndoye",
+      "href_perfil": "/dan-ndoye/profil/spieler/365108",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/10/2000 (25)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "250490",
+      "nombre": "Christian Fassnacht",
+      "href_perfil": "/christian-fassnacht/profil/spieler/250490",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/11/1993 (32)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "237662",
+      "nombre": "Breel Embolo",
+      "href_perfil": "/breel-embolo/profil/spieler/237662",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/02/1997 (29)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "548729",
+      "nombre": "Zeki Amdouni",
+      "href_perfil": "/zeki-amdouni/profil/spieler/548729",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/12/2000 (25)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "243856",
+      "nombre": "Cedric Itten",
+      "href_perfil": "/cedric-itten/profil/spieler/243856",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/12/1996 (29)",
+      "club_actual": "Fortuna Düsseldorf",
+      "valor_mercado_raw": "€1.80m"
+    }
+  ]
+}

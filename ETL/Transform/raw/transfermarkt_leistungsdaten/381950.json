@@ -1,0 +1,42 @@
+{
+  "nombre": "Alexis Saelemaekers",
+  "href_perfil": "/alexis-saelemaekers/profil/spieler/381950",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "35",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,802'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "206'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "69'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,077'"
+    }
+  ]
+}

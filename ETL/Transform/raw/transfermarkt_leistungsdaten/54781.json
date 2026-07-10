@@ -1,0 +1,69 @@
+{
+  "nombre": "Nicolás Otamendi",
+  "href_perfil": "/nicolas-otamendi/profil/spieler/54781",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,605'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "179'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "12",
+      "rojas": "1",
+      "minutos_raw": "4,314'"
+    }
+  ]
+}

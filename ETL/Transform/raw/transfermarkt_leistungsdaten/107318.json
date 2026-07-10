@@ -1,0 +1,33 @@
+{
+  "nombre": "Roberto Fernández",
+  "href_perfil": "/roberto-fernandez/profil/spieler/107318",
+  "competiciones": [
+    {
+      "competicion_raw": "Primera División Apertura",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    }
+  ]
+}

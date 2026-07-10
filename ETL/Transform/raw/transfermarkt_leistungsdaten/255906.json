@@ -1,0 +1,42 @@
+{
+  "nombre": "Scott McKenna",
+  "href_perfil": "/scott-mckenna/profil/spieler/255906",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,627'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "909'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,716'"
+    }
+  ]
+}

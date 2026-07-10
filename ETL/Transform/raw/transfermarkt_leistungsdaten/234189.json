@@ -1,0 +1,69 @@
+{
+  "nombre": "Trezeguet",
+  "href_perfil": "/trezeguet/profil/spieler/234189",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "16",
+      "goles": "8",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,248'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "9",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "690'"
+    },
+    {
+      "competicion_raw": "Championship Playoff",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "441'"
+    },
+    {
+      "competicion_raw": "Egyptian Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "156'"
+    },
+    {
+      "competicion_raw": "Egyptian League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Egypt Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "18",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,535'"
+    }
+  ]
+}

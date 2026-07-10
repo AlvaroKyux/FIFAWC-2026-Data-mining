@@ -1,0 +1,33 @@
+{
+  "nombre": "Yazan Al-Arab",
+  "href_perfil": "/yazan-al-arab/profil/spieler/539961",
+  "competiciones": [
+    {
+      "competicion_raw": "K League 1",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "855'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,215'"
+    }
+  ]
+}

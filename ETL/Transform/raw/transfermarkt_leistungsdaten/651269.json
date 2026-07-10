@@ -1,0 +1,60 @@
+{
+  "nombre": "Armin Gigovic",
+  "href_perfil": "/armin-gigovic/profil/spieler/651269",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,117'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "329'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "168'"
+    },
+    {
+      "competicion_raw": "Swiss Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "122'"
+    },
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "87'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,823'"
+    }
+  ]
+}

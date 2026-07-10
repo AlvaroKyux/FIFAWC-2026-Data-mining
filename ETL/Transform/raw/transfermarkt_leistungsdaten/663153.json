@@ -1,0 +1,33 @@
+{
+  "nombre": "Marko Farji",
+  "href_perfil": "/marko-farji/profil/spieler/663153",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie B",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "21'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "74'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "95'"
+    }
+  ]
+}

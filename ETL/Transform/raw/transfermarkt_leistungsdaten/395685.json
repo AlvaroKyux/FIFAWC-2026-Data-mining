@@ -1,0 +1,42 @@
+{
+  "nombre": "Gédéon Kalulu",
+  "href_perfil": "/gedeon-kalulu/profil/spieler/395685",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,197'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,377'"
+    }
+  ]
+}

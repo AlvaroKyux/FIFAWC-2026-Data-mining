@@ -1,0 +1,222 @@
+{
+  "pais": "Dominica",
+  "href_seleccion": "/dominica/startseite/verein/16033",
+  "jugadores": [
+    {
+      "player_id": "71719",
+      "nombre": "Glenson Prince",
+      "href_perfil": "/glenson-prince/profil/spieler/71719",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/09/1987 (38)",
+      "club_actual": "Retired",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "763215",
+      "nombre": "Jerome Burkard",
+      "href_perfil": "/jerome-burkard/profil/spieler/763215",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/11/2002 (23)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "614788",
+      "nombre": "Donté Newton",
+      "href_perfil": "/donte-newton/profil/spieler/614788",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/02/1999 (27)",
+      "club_actual": "Harlem United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240026",
+      "nombre": "Jaylan Jno Ville",
+      "href_perfil": "/jaylan-jno-ville/profil/spieler/1240026",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "24/04/2006 (20)",
+      "club_actual": "Portsmouth Bombers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240027",
+      "nombre": "Lyan Edwards",
+      "href_perfil": "/lyan-edwards/profil/spieler/1240027",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "08/12/2005 (20)",
+      "club_actual": "WE United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764754",
+      "nombre": "Mosiah Bonney",
+      "href_perfil": "/mosiah-bonney/profil/spieler/764754",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "26/10/2004 (21)",
+      "club_actual": "UHV Jaguars (Univ. of Houston-Victoria) ",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1444116",
+      "nombre": "Titus Sandy Jr.",
+      "href_perfil": "/titus-sandy-jr-/profil/spieler/1444116",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/01/2002 (24)",
+      "club_actual": "Orlando City B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "431116",
+      "nombre": "Eustace Marshall",
+      "href_perfil": "/eustace-marshall/profil/spieler/431116",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/02/1997 (29)",
+      "club_actual": "Centre Bath Estate FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628744",
+      "nombre": "Jervanie Xavier",
+      "href_perfil": "/jervanie-xavier/profil/spieler/628744",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/10/2000 (25)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953975",
+      "nombre": "Marcus Bredas",
+      "href_perfil": "/marcus-bredas/profil/spieler/953975",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/11/2003 (22)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "714919",
+      "nombre": "Nick Anthony",
+      "href_perfil": "/nick-anthony/profil/spieler/714919",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "07/01/1998 (28)",
+      "club_actual": "Centre Bath Estate FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953983",
+      "nombre": "Donte Warrington",
+      "href_perfil": "/donte-warrington/profil/spieler/953983",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "18/10/2004 (21)",
+      "club_actual": "Barbados Soccer Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953974",
+      "nombre": "Malachai Bonney",
+      "href_perfil": "/malachai-bonney/profil/spieler/953974",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "11/09/2006 (19)",
+      "club_actual": "Middleham United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "977373",
+      "nombre": "Savio Anselm",
+      "href_perfil": "/savio-anselm/profil/spieler/977373",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "21/09/2002 (23)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953982",
+      "nombre": "Keeyan Thomas",
+      "href_perfil": "/keeyan-thomas/profil/spieler/953982",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/11/2005 (20)",
+      "club_actual": "WE United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "659346",
+      "nombre": "Cobin Paul",
+      "href_perfil": "/cobin-paul/profil/spieler/659346",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "14/08/2000 (25)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "302033",
+      "nombre": "Briel Thomas",
+      "href_perfil": "/briel-thomas/profil/spieler/302033",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/11/1994 (31)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "606149",
+      "nombre": "Javid George",
+      "href_perfil": "/javid-george/profil/spieler/606149",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "14/06/1998 (28)",
+      "club_actual": "Harbour View FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "511452",
+      "nombre": "Fitz Jolly",
+      "href_perfil": "/fitz-jolly/profil/spieler/511452",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/1999 (27)",
+      "club_actual": "Centre Bath Estate FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1183422",
+      "nombre": "Troy Jules",
+      "href_perfil": "/troy-jules/profil/spieler/1183422",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/06/1999 (27)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414327",
+      "nombre": "Nathan Newton",
+      "href_perfil": "/nathan-newton/profil/spieler/1414327",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/06/1997 (29)",
+      "club_actual": "East Central FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "365870",
+      "nombre": "Travist Joseph",
+      "href_perfil": "/travist-joseph/profil/spieler/365870",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/05/1994 (32)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "608384",
+      "nombre": "Reon Cuffy",
+      "href_perfil": "/reon-cuffy/profil/spieler/608384",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/01/1999 (27)",
+      "club_actual": "East Central FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629328",
+      "nombre": "Audel Laville",
+      "href_perfil": "/audel-laville/profil/spieler/629328",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/09/2002 (23)",
+      "club_actual": "Dublanc FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

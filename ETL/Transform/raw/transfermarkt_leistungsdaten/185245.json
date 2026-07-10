@@ -1,0 +1,42 @@
+{
+  "nombre": "Jhon Córdoba",
+  "href_perfil": "/jhon-cordoba/profil/spieler/185245",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "28",
+      "goles": "17",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "2,484'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "12",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "667'"
+    },
+    {
+      "competicion_raw": "Russian Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "22",
+      "asistencias": "10",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "3,241'"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nombre": "Kieran Tierney",
+  "href_perfil": "/kieran-tierney/profil/spieler/300716",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,118'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "716'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "267'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "258'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "151'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "53",
+      "goles": "6",
+      "asistencias": "12",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,907'"
+    }
+  ]
+}

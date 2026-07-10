@@ -1,0 +1,42 @@
+{
+  "nombre": "Laros Duarte",
+  "href_perfil": "/laros-duarte/profil/spieler/258513",
+  "competiciones": [
+    {
+      "competicion_raw": "NB I.",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,469'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "Magyar Kupa",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "76'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,709'"
+    }
+  ]
+}

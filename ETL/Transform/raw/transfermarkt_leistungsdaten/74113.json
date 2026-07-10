@@ -1,0 +1,42 @@
+{
+  "nombre": "Camilo Vargas",
+  "href_perfil": "/camilo-vargas/profil/spieler/74113",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "16",
+      "goles": "18",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,440'"
+    },
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "15",
+      "goles": "30",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "52",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,970'"
+    }
+  ]
+}

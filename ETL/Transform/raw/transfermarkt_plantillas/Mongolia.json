@@ -1,0 +1,195 @@
+{
+  "pais": "Mongolia",
+  "href_seleccion": "/mongolei/startseite/verein/15739",
+  "jugadores": [
+    {
+      "player_id": "544298",
+      "nombre": "Saikhanchuluun Amarbayasgalan",
+      "href_perfil": "/saikhanchuluun-amarbayasgalan/profil/spieler/544298",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/08/1996 (29)",
+      "club_actual": "Central Stallions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1061345",
+      "nombre": "Enkh-Erdene Gan-Erdene",
+      "href_perfil": "/enkh-erdene-gan-erdene/profil/spieler/1061345",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/08/2003 (22)",
+      "club_actual": "Khoromkhon FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "610435",
+      "nombre": "Filip Andersen",
+      "href_perfil": "/filip-andersen/profil/spieler/610435",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/02/2003 (23)",
+      "club_actual": "Negeri Sembilan FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "545613",
+      "nombre": "Orkhon Munkh-Orgil",
+      "href_perfil": "/orkhon-munkh-orgil/profil/spieler/545613",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/01/1999 (27)",
+      "club_actual": "Taichung Futuro",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "841622",
+      "nombre": "Ganbat Dulguun",
+      "href_perfil": "/ganbat-dulguun/profil/spieler/841622",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/10/2004 (21)",
+      "club_actual": "Deren FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "911213",
+      "nombre": "Khashchuluun Naranbaatar",
+      "href_perfil": "/khashchuluun-naranbaatar/profil/spieler/911213",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/08/2004 (21)",
+      "club_actual": "Deren FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724077",
+      "nombre": "Tsogt-Ochir Jargaltuyaa",
+      "href_perfil": "/tsogt-ochir-jargaltuyaa/profil/spieler/724077",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/04/1998 (28)",
+      "club_actual": "FC Ulaanbaatar",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "902689",
+      "nombre": "Otgonbaatar Enkh-Orgil",
+      "href_perfil": "/otgonbaatar-enkh-orgil/profil/spieler/902689",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/04/1998 (28)",
+      "club_actual": "Central Stallions",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "229893",
+      "nombre": "Gerelt-Od Bat-Orgil",
+      "href_perfil": "/gerelt-od-bat-orgil/profil/spieler/229893",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2002 (24)",
+      "club_actual": "FC Ulaanbaatar",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1145934",
+      "nombre": "Togoo Munkhbaatar",
+      "href_perfil": "/togoo-munkhbaatar/profil/spieler/1145934",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/11/1999 (26)",
+      "club_actual": "Khoromkhon FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "522628",
+      "nombre": "Ganbold Ganbayar",
+      "href_perfil": "/ganbold-ganbayar/profil/spieler/522628",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/09/2000 (25)",
+      "club_actual": "KFC Komarno",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "68529",
+      "nombre": "Tsend-Ayush Khurelbaatar",
+      "href_perfil": "/tsend-ayush-khurelbaatar/profil/spieler/68529",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/1990 (36)",
+      "club_actual": "Khovd Western FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "547206",
+      "nombre": "Enkhbileg Pürevdorj",
+      "href_perfil": "/enkhbileg-purevdorj/profil/spieler/547206",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/1996 (30)",
+      "club_actual": "Central Stallions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "677772",
+      "nombre": "Dulguun Amaraa",
+      "href_perfil": "/dulguun-amaraa/profil/spieler/677772",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/02/2001 (25)",
+      "club_actual": "FC Ulaanbaatar",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1440505",
+      "nombre": "Khabul Baatar",
+      "href_perfil": "/khabul-baatar/profil/spieler/1440505",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/11/2008 (17)",
+      "club_actual": "Brooke House Football Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1061355",
+      "nombre": "Zayat Temuulen",
+      "href_perfil": "/zayat-temuulen/profil/spieler/1061355",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/12/2003 (22)",
+      "club_actual": "Khangarid FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "548363",
+      "nombre": "Batkhishig Mygmar",
+      "href_perfil": "/batkhishig-mygmar/profil/spieler/548363",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "10/09/1994 (31)",
+      "club_actual": "Bulgan SP Falcons",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1044752",
+      "nombre": "Tuguldur Gantogtokh",
+      "href_perfil": "/tuguldur-gantogtokh/profil/spieler/1044752",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/01/2005 (21)",
+      "club_actual": "SK Dynamo Ceske Budejovice",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "491433",
+      "nombre": "Oyunbaatar Mijiddorj",
+      "href_perfil": "/oyunbaatar-mijiddorj/profil/spieler/491433",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/08/1996 (29)",
+      "club_actual": "FC Ulaanbaatar",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "890756",
+      "nombre": "Buman-Uchral Bat-Od",
+      "href_perfil": "/buman-uchral-bat-od/profil/spieler/890756",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/11/2003 (22)",
+      "club_actual": "Deren-2",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1061358",
+      "nombre": "Uuganbat Temuulen",
+      "href_perfil": "/uuganbat-temuulen/profil/spieler/1061358",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "07/05/2005 (21)",
+      "club_actual": "FC Ulaanbaatar",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

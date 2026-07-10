@@ -1,0 +1,240 @@
+{
+  "pais": "Norway",
+  "href_seleccion": "/norwegen/startseite/verein/3440",
+  "jugadores": [
+    {
+      "player_id": "549378",
+      "nombre": "Sander Tangvik",
+      "href_perfil": "/sander-tangvik/profil/spieler/549378",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/11/2002 (23)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "380744",
+      "nombre": "Egil Selvik",
+      "href_perfil": "/egil-selvik/profil/spieler/380744",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/07/1997 (28)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "73517",
+      "nombre": "Ørjan Nyland",
+      "href_perfil": "/orjan-nyland/profil/spieler/73517",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/09/1990 (35)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "328658",
+      "nombre": "Kristoffer Ajer",
+      "href_perfil": "/kristoffer-ajer/profil/spieler/328658",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/04/1998 (28)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "367284",
+      "nombre": "Leo Østigård",
+      "href_perfil": "/leo-ostigard/profil/spieler/367284",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/11/1999 (26)",
+      "club_actual": "Genoa CFC",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "464469",
+      "nombre": "Torbjørn Heggem",
+      "href_perfil": "/torbjorn-heggem/profil/spieler/464469",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/01/1999 (27)",
+      "club_actual": "Bologna FC 1909",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "743088",
+      "nombre": "Henrik Falchener",
+      "href_perfil": "/henrik-falchener/profil/spieler/743088",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/05/2003 (23)",
+      "club_actual": "Viking FK",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "737837",
+      "nombre": "Sondre Langås",
+      "href_perfil": "/sondre-langas/profil/spieler/737837",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/02/2001 (25)",
+      "club_actual": "Derby County",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "661427",
+      "nombre": "David Møller Wolfe",
+      "href_perfil": "/david-moller-wolfe/profil/spieler/661427",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/04/2002 (24)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "364938",
+      "nombre": "Fredrik Bjørkan",
+      "href_perfil": "/fredrik-bjorkan/profil/spieler/364938",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/08/1998 (27)",
+      "club_actual": "FK Bodø/Glimt",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "370789",
+      "nombre": "Julian Ryerson",
+      "href_perfil": "/julian-ryerson/profil/spieler/370789",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/11/1997 (28)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "583404",
+      "nombre": "Marcus Pedersen",
+      "href_perfil": "/marcus-pedersen/profil/spieler/583404",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/07/2000 (25)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "333014",
+      "nombre": "Sander Berge",
+      "href_perfil": "/sander-berge/profil/spieler/333014",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/02/1998 (28)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "308439",
+      "nombre": "Patrick Berg",
+      "href_perfil": "/patrick-berg/profil/spieler/308439",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/11/1997 (28)",
+      "club_actual": "FK Bodø/Glimt",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "223367",
+      "nombre": "Fredrik Aursnes",
+      "href_perfil": "/fredrik-aursnes/profil/spieler/223367",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/12/1995 (30)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "564785",
+      "nombre": "Kristian Thorstvedt",
+      "href_perfil": "/kristian-thorstvedt/profil/spieler/564785",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/03/1999 (27)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "226524",
+      "nombre": "Morten Thorsby",
+      "href_perfil": "/morten-thorsby/profil/spieler/226524",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/05/1996 (30)",
+      "club_actual": "US Cremonese",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "316264",
+      "nombre": "Martin Ødegaard",
+      "href_perfil": "/martin-odegaard/profil/spieler/316264",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/12/1998 (27)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€65.00m"
+    },
+    {
+      "player_id": "647384",
+      "nombre": "Thelo Aasgaard",
+      "href_perfil": "/thelo-aasgaard/profil/spieler/647384",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "02/05/2002 (24)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "894914",
+      "nombre": "Antonio Nusa",
+      "href_perfil": "/antonio-nusa/profil/spieler/894914",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/04/2005 (21)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "670103",
+      "nombre": "Andreas Schjelderup",
+      "href_perfil": "/andreas-schjelderup/profil/spieler/670103",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/06/2004 (22)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "422355",
+      "nombre": "Jens Petter Hauge",
+      "href_perfil": "/jens-petter-hauge/profil/spieler/422355",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/10/1999 (26)",
+      "club_actual": "FK Bodø/Glimt",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "661207",
+      "nombre": "Oscar Bobb",
+      "href_perfil": "/oscar-bobb/profil/spieler/661207",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2003 (22)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "418560",
+      "nombre": "Erling Haaland",
+      "href_perfil": "/erling-haaland/profil/spieler/418560",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/07/2000 (25)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€200.00m"
+    },
+    {
+      "player_id": "429983",
+      "nombre": "Jørgen Strand Larsen",
+      "href_perfil": "/jorgen-strand-larsen/profil/spieler/429983",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/02/2000 (26)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "238407",
+      "nombre": "Alexander Sørloth",
+      "href_perfil": "/alexander-sorloth/profil/spieler/238407",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/12/1995 (30)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€18.00m"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pais": "Cuba",
+  "href_seleccion": "/kuba/startseite/verein/3808",
+  "jugadores": [
+    {
+      "player_id": "1019557",
+      "nombre": "Ismel Morgado",
+      "href_perfil": "/ismel-morgado/profil/spieler/1019557",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/2003 (23)",
+      "club_actual": "ART Municipal Jalapa",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "599401",
+      "nombre": "Raiko Arozarena",
+      "href_perfil": "/raiko-arozarena/profil/spieler/599401",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/03/1997 (29)",
+      "club_actual": "New Mexico United",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1240595",
+      "nombre": "Yurdi Hodelín",
+      "href_perfil": "/yurdi-hodelin/profil/spieler/1240595",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/09/2005 (20)",
+      "club_actual": "FC Moravia FCM",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1205406",
+      "nombre": "Ricardo Polo",
+      "href_perfil": "/ricardo-polo/profil/spieler/1205406",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "14/05/2005 (21)",
+      "club_actual": "Club Sport Sébaco",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1240597",
+      "nombre": "Leandro Mena",
+      "href_perfil": "/leandro-mena/profil/spieler/1240597",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/02/2005 (21)",
+      "club_actual": "Escorpiones de Belén",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1368922",
+      "nombre": "Camilo Pinillo",
+      "href_perfil": "/camilo-pinillo/profil/spieler/1368922",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/02/2005 (21)",
+      "club_actual": "K Lierse SK U21",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "675890",
+      "nombre": "Cavafe",
+      "href_perfil": "/cavafe/profil/spieler/675890",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/04/1999 (27)",
+      "club_actual": "Sitra Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1183411",
+      "nombre": "Karel Pérez",
+      "href_perfil": "/karel-perez/profil/spieler/1183411",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/08/2005 (20)",
+      "club_actual": "AD Sarchí",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1536997",
+      "nombre": "Dayron Reyes",
+      "href_perfil": "/dayron-reyes/profil/spieler/1536997",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/10/2004 (21)",
+      "club_actual": "FC La Habana",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181312",
+      "nombre": "Orlando Calvo",
+      "href_perfil": "/orlando-calvo/profil/spieler/1181312",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/04/1999 (27)",
+      "club_actual": "Escorpiones de Belén",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1020343",
+      "nombre": "Roberto Valdez",
+      "href_perfil": "/roberto-valdez/profil/spieler/1020343",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/04/2003 (23)",
+      "club_actual": "Masachapa FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629345",
+      "nombre": "Karel Espino",
+      "href_perfil": "/karel-espino/profil/spieler/629345",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/10/2001 (24)",
+      "club_actual": "Comunicaciones FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1240599",
+      "nombre": "Marcos Campos",
+      "href_perfil": "/marcos-campos/profil/spieler/1240599",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "15/11/2005 (20)",
+      "club_actual": "Club Sport Sébaco",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1305213",
+      "nombre": "Diego Catasus",
+      "href_perfil": "/diego-catasus/profil/spieler/1305213",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/2005 (21)",
+      "club_actual": "US Vibonese",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1020206",
+      "nombre": "Rey Ángel Rodríguez",
+      "href_perfil": "/rey-angel-rodriguez/profil/spieler/1020206",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/2003 (23)",
+      "club_actual": "Masachapa FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "794705",
+      "nombre": "Dairon Reyes",
+      "href_perfil": "/dairon-reyes/profil/spieler/794705",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/09/2003 (22)",
+      "club_actual": "Comunicaciones FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "109751",
+      "nombre": "Onel Hernández",
+      "href_perfil": "/onel-hernandez/profil/spieler/109751",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/02/1993 (33)",
+      "club_actual": "Port Vale FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "876530",
+      "nombre": "Yasnier Matos",
+      "href_perfil": "/yasnier-matos/profil/spieler/876530",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/03/2002 (24)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "487113",
+      "nombre": "Willian Pozo",
+      "href_perfil": "/willian-pozo/profil/spieler/487113",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/08/1997 (28)",
+      "club_actual": "Grorud IL",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1354778",
+      "nombre": "Eloy Nebreda",
+      "href_perfil": "/eloy-nebreda/profil/spieler/1354778",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/07/2007 (18)",
+      "club_actual": "Real Sociedad C",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629385",
+      "nombre": "Jorge Aguirre",
+      "href_perfil": "/jorge-aguirre/profil/spieler/629385",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/01/2000 (26)",
+      "club_actual": "Panetolikos",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "967826",
+      "nombre": "Alessio Raballo",
+      "href_perfil": "/alessio-raballo/profil/spieler/967826",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/09/2006 (19)",
+      "club_actual": "Empoli Primavera",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "247884",
+      "nombre": "Maikel Reyes",
+      "href_perfil": "/maikel-reyes/profil/spieler/247884",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/03/1993 (33)",
+      "club_actual": "Managua FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1202757",
+      "nombre": "Martín Rodríguez",
+      "href_perfil": "/martin-rodriguez/profil/spieler/1202757",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/08/2005 (20)",
+      "club_actual": "Manhattan Jaspers (Manhattan College)",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Chancel Mbemba",
+  "href_perfil": "/chancel-mbemba/profil/spieler/203348",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "952'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "705'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,657'"
+    }
+  ]
+}

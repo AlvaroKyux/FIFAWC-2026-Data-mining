@@ -1,0 +1,33 @@
+{
+  "nombre": "Melvin Mastil",
+  "href_perfil": "/melvin-mastil/profil/spieler/534398",
+  "competiciones": [
+    {
+      "competicion_raw": "Challenge League",
+      "partidos": "32",
+      "goles": "50",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "Swiss Cup",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "240'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "52",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,120'"
+    }
+  ]
+}

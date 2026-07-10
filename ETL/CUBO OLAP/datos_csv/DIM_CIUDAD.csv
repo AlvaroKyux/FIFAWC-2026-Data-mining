@@ -1,0 +1,33 @@
+id_ciudad,id_pais,pais,ciudad
+1,1,Mexico,Ciudad de Mexico
+2,1,Mexico,Guadalajara
+3,1,Mexico,Monterrey
+4,2,Estados Unidos,Nueva York
+5,2,Estados Unidos,Los Angeles
+6,2,Estados Unidos,Miami
+7,3,Canada,Toronto
+8,3,Canada,Vancouver
+9,4,Argentina,Buenos Aires
+10,4,Argentina,Cordoba
+11,5,Brasil,Sao Paulo
+12,5,Brasil,Rio de Janeiro
+13,6,Uruguay,Montevideo
+14,7,Espana,Madrid
+15,7,Espana,Barcelona
+16,7,Espana,Sevilla
+17,8,Francia,Paris
+18,8,Francia,Marsella
+19,9,Inglaterra,Londres
+20,9,Inglaterra,Manchester
+21,10,Alemania,Berlin
+22,10,Alemania,Munich
+23,11,Italia,Roma
+24,11,Italia,Milan
+25,12,Portugal,Lisboa
+26,12,Portugal,Oporto
+27,13,Marruecos,Casablanca
+28,13,Marruecos,Rabat
+29,14,Japon,Tokio
+30,14,Japon,Osaka
+31,15,Arabia Saudita,Riad
+32,15,Arabia Saudita,Jeda

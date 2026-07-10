@@ -1,0 +1,33 @@
+{
+  "nombre": "Nicolas Seiwald",
+  "href_perfil": "/nicolas-seiwald/profil/spieler/404950",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "33",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,704'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "342'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,046'"
+    }
+  ]
+}

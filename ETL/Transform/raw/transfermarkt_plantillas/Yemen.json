@@ -1,0 +1,213 @@
+{
+  "pais": "Yemen",
+  "href_seleccion": "/jemen/startseite/verein/15922",
+  "jugadores": [
+    {
+      "player_id": "877734",
+      "nombre": "Abdullah Al-Saadi",
+      "href_perfil": "/abdullah-al-saadi/profil/spieler/877734",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/04/2002 (24)",
+      "club_actual": "Fahman SCC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "950677",
+      "nombre": "Osama Haidar",
+      "href_perfil": "/osama-haidar/profil/spieler/950677",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/05/1999 (27)",
+      "club_actual": "Al-Ahli Club Sana'a",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1060047",
+      "nombre": "Osamah Mokref",
+      "href_perfil": "/osamah-mokref/profil/spieler/1060047",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/2005 (21)",
+      "club_actual": "Al-Wehda SSC (Yemen)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181537",
+      "nombre": "Ali Al-Dugin",
+      "href_perfil": "/ali-al-dugin/profil/spieler/1181537",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "02/05/2003 (23)",
+      "club_actual": "Al-Wehda SC (Yemen)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1092220",
+      "nombre": "Harwan Al-Zubaidi",
+      "href_perfil": "/harwan-al-zubaidi/profil/spieler/1092220",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/10/1999 (26)",
+      "club_actual": "Erbil SC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "950689",
+      "nombre": "Hamza Al-Rimi",
+      "href_perfil": "/hamza-al-rimi/profil/spieler/950689",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/02/2002 (24)",
+      "club_actual": "Al-Quwa Al-Jawiya",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1020541",
+      "nombre": "Amr Talal",
+      "href_perfil": "/amr-talal/profil/spieler/1020541",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1995 (31)",
+      "club_actual": "Dhofar Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1416256",
+      "nombre": "Nader Sahal",
+      "href_perfil": "/nader-sahal/profil/spieler/1416256",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1990 (36)",
+      "club_actual": "Tadamone Hadramout",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1193801",
+      "nombre": "Radhawan Al-Hubaishi",
+      "href_perfil": "/radhawan-al-hubaishi/profil/spieler/1193801",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/07/1993 (32)",
+      "club_actual": "Al-Tadamon Mukalla",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1060056",
+      "nombre": "Mamdooh Ban Agag",
+      "href_perfil": "/mamdooh-ban-agag/profil/spieler/1060056",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/08/2003 (22)",
+      "club_actual": "Al-Tadamon Mukalla",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "896876",
+      "nombre": "Ahmed Al-Wajeeh",
+      "href_perfil": "/ahmed-al-wajeeh/profil/spieler/896876",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/07/2002 (23)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "642476",
+      "nombre": "Rami Al-Wasmani",
+      "href_perfil": "/rami-al-wasmani/profil/spieler/642476",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/02/1997 (29)",
+      "club_actual": "Mosul SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "564301",
+      "nombre": "Nawaf Abdullah",
+      "href_perfil": "/nawaf-abdullah/profil/spieler/564301",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "31/12/1994 (31)",
+      "club_actual": "Budaiya Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "264235",
+      "nombre": "Osamah Anbar",
+      "href_perfil": "/osamah-anbar/profil/spieler/264235",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/01/1995 (31)",
+      "club_actual": "Al-Ahli Club Sana'a",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "950679",
+      "nombre": "Omar Al-Golan",
+      "href_perfil": "/omar-al-golan/profil/spieler/950679",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Tadamone Hadramout",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "714405",
+      "nombre": "Nasser Mohammedoh",
+      "href_perfil": "/nasser-mohammedoh/profil/spieler/714405",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/05/1999 (27)",
+      "club_actual": "Kazma SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "299292",
+      "nombre": "Abdulwasea Al-Matari",
+      "href_perfil": "/abdulwasea-al-matari/profil/spieler/299292",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/07/1994 (31)",
+      "club_actual": "Sitra Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1145725",
+      "nombre": "Adel Abbas Qasem",
+      "href_perfil": "/adel-abbas-qasem/profil/spieler/1145725",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/03/2008 (18)",
+      "club_actual": "Al-Tilal SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1092288",
+      "nombre": "Mohammed Hashm Al-Najjar",
+      "href_perfil": "/mohammed-hashm-al-najjar/profil/spieler/1092288",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/04/1997 (29)",
+      "club_actual": "Al-Wehda SSC (Yemen)",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "950690",
+      "nombre": "Abdul Majeed Sabarah",
+      "href_perfil": "/abdul-majeed-sabarah/profil/spieler/950690",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/08/2000 (25)",
+      "club_actual": "Diyala SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "714406",
+      "nombre": "Omar Al-Dahy",
+      "href_perfil": "/omar-al-dahy/profil/spieler/714406",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/12/1999 (26)",
+      "club_actual": "Dhofar Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1193809",
+      "nombre": "Yousef Al-Haimi",
+      "href_perfil": "/yousef-al-haimi/profil/spieler/1193809",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/12/2002 (23)",
+      "club_actual": "Al-Ahli Club Sana'a",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1324062",
+      "nombre": "Abdulaziz Masnom",
+      "href_perfil": "/abdulaziz-masnom/profil/spieler/1324062",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/02/2006 (20)",
+      "club_actual": "Al-Orobah FC",
+      "valor_mercado_raw": "€50k"
+    }
+  ]
+}

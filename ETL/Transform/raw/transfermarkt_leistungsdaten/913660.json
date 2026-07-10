@@ -1,0 +1,42 @@
+{
+  "nombre": "Redouane Halhal",
+  "href_perfil": "/redouane-halhal/profil/spieler/913660",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,039'"
+    },
+    {
+      "competicion_raw": "Jupiler Pro League Champions' Play-Offs",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,939'"
+    }
+  ]
+}

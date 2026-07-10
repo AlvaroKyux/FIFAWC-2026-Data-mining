@@ -1,0 +1,42 @@
+{
+  "nombre": "Axel Tuanzebe",
+  "href_perfil": "/axel-tuanzebe/profil/spieler/342046",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,202'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,337'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Carlens Arcus",
+  "href_perfil": "/carlens-arcus/profil/spieler/371686",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "26",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,045'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "106'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,151'"
+    }
+  ]
+}

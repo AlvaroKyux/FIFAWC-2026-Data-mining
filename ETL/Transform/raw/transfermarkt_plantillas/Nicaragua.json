@@ -1,0 +1,204 @@
+{
+  "pais": "Nicaragua",
+  "href_seleccion": "/nicaragua/startseite/verein/15351",
+  "jugadores": [
+    {
+      "player_id": "864534",
+      "nombre": "Alyer López",
+      "href_perfil": "/alyer-lopez/profil/spieler/864534",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/05/1999 (27)",
+      "club_actual": "Managua FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "401552",
+      "nombre": "Adonis Pineda",
+      "href_perfil": "/adonis-pineda/profil/spieler/401552",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/04/1997 (29)",
+      "club_actual": "Puntarenas FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "278832",
+      "nombre": "Darryl Parker",
+      "href_perfil": "/darryl-parker/profil/spieler/278832",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/03/1993 (33)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "763927",
+      "nombre": "Justing Cano",
+      "href_perfil": "/justing-cano/profil/spieler/763927",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/03/2002 (24)",
+      "club_actual": "Diriangén FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1038621",
+      "nombre": "Evert Martínez",
+      "href_perfil": "/evert-martinez/profil/spieler/1038621",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/03/2002 (24)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "865454",
+      "nombre": "Steven Cáceres",
+      "href_perfil": "/steven-caceres/profil/spieler/865454",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/09/1994 (31)",
+      "club_actual": "Managua FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "864877",
+      "nombre": "Anyelo Velásquez",
+      "href_perfil": "/anyelo-velasquez/profil/spieler/864877",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/12/2004 (21)",
+      "club_actual": "Diriangén FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "737875",
+      "nombre": "Jefferson Rivera",
+      "href_perfil": "/jefferson-rivera/profil/spieler/737875",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/11/1996 (29)",
+      "club_actual": "Municipal Pérez Zeledón",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1106283",
+      "nombre": "Joab Gutiérrez",
+      "href_perfil": "/joab-gutierrez/profil/spieler/1106283",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/03/2006 (20)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "334888",
+      "nombre": "Jason Coronel",
+      "href_perfil": "/jason-coronel/profil/spieler/334888",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/10/1993 (32)",
+      "club_actual": "Diriangén FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "497356",
+      "nombre": "Jonathan Moncada",
+      "href_perfil": "/jonathan-moncada/profil/spieler/497356",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/1998 (28)",
+      "club_actual": "Diriangén FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1146858",
+      "nombre": "Leyner Moses",
+      "href_perfil": "/leyner-moses/profil/spieler/1146858",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/2005 (20)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "953637",
+      "nombre": "Osmin Salinas",
+      "href_perfil": "/osmin-salinas/profil/spieler/953637",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/2004 (22)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1162927",
+      "nombre": "Amadeus Zamora",
+      "href_perfil": "/amadeus-zamora/profil/spieler/1162927",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/03/2007 (19)",
+      "club_actual": "Chemnitzer FC U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "497494",
+      "nombre": "Jacob Montes",
+      "href_perfil": "/jacob-montes/profil/spieler/497494",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/10/1998 (27)",
+      "club_actual": "RWDM Brussels",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "938836",
+      "nombre": "Widman Talavera",
+      "href_perfil": "/widman-talavera/profil/spieler/938836",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/01/2003 (23)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1020481",
+      "nombre": "José Andrés Martínez",
+      "href_perfil": "/jose-andres-martinez/profil/spieler/1020481",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/02/2005 (21)",
+      "club_actual": "Managua FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "582950",
+      "nombre": "Raheem Cole",
+      "href_perfil": "/raheem-cole/profil/spieler/582950",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/05/1999 (27)",
+      "club_actual": "Puntarenas FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "367160",
+      "nombre": "Ariagner Smith",
+      "href_perfil": "/ariagner-smith/profil/spieler/367160",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/12/1998 (27)",
+      "club_actual": "FC Ulytau Zhezkazgan",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "763935",
+      "nombre": "Edgar Castillo",
+      "href_perfil": "/edgar-castillo/profil/spieler/763935",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/05/2002 (24)",
+      "club_actual": "Club Sport Sébaco",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "488757",
+      "nombre": "Jorge García",
+      "href_perfil": "/jorge-garcia/profil/spieler/488757",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/08/1998 (27)",
+      "club_actual": "Matagalpa FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1107669",
+      "nombre": "Oliver Bello",
+      "href_perfil": "/oliver-bello/profil/spieler/1107669",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/04/2006 (20)",
+      "club_actual": "Real Estelí FC",
+      "valor_mercado_raw": "€100k"
+    }
+  ]
+}

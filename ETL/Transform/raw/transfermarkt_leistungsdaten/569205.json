@@ -1,0 +1,42 @@
+{
+  "nombre": "Tomás Rodríguez",
+  "href_perfil": "/tomas-rodriguez/profil/spieler/569205",
+  "competiciones": [
+    {
+      "competicion_raw": "Primera División Clausura",
+      "partidos": "18",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,220'"
+    },
+    {
+      "competicion_raw": "Clausura Play-Off",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "336'"
+    },
+    {
+      "competicion_raw": "Copa de Costa Rica",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "47'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,603'"
+    }
+  ]
+}

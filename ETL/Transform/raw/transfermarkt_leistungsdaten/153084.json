@@ -1,0 +1,51 @@
+{
+  "nombre": "Leon Goretzka",
+  "href_perfil": "/leon-goretzka/profil/spieler/153084",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,954'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "185'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,349'"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nombre": "Tomoki Hayakawa",
+  "href_perfil": "/tomoki-hayakawa/profil/spieler/683271",
+  "competiciones": [
+    {
+      "competicion_raw": "J1 Special Season",
+      "partidos": "17",
+      "goles": "9",
+      "asistencias": "10",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "9",
+      "asistencias": "10",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    }
+  ]
+}

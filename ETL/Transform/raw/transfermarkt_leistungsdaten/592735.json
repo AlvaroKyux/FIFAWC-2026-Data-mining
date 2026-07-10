@@ -1,0 +1,78 @@
+{
+  "nombre": "Gonzalo Plata",
+  "href_perfil": "/gonzalo-plata/profil/spieler/592735",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "561'"
+    },
+    {
+      "competicion_raw": "Campeonato Carioca",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "320'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "227'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "243'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "18'"
+    },
+    {
+      "competicion_raw": "Recopa Sudamericana",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "64'"
+    },
+    {
+      "competicion_raw": "Supercopa Rei",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "81'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,514'"
+    }
+  ]
+}

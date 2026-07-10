@@ -1,0 +1,42 @@
+{
+  "nombre": "Julián Quiñones",
+  "href_perfil": "/julian-quinones/profil/spieler/416090",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "31",
+      "goles": "33",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,724'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "250'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "37",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,041'"
+    }
+  ]
+}

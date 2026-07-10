@@ -1,0 +1,33 @@
+{
+  "nombre": "Kwasi Sibo",
+  "href_perfil": "/kwasi-sibo/profil/spieler/538006",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "26",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,686'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,806'"
+    }
+  ]
+}

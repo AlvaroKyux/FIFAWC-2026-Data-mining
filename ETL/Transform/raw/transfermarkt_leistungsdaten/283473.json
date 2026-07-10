@@ -1,0 +1,33 @@
+{
+  "nombre": "Yoel Bárcenas",
+  "href_perfil": "/yoel-barcenas/profil/spieler/283473",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "17",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,398'"
+    },
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "857'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,255'"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Argentina",
+  "href_seleccion": "/argentinien/startseite/verein/3437",
+  "jugadores": [
+    {
+      "player_id": "111873",
+      "nombre": "Emiliano Martínez",
+      "href_perfil": "/emiliano-martinez/profil/spieler/111873",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/09/1992 (33)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "229604",
+      "nombre": "Gerónimo Rulli",
+      "href_perfil": "/geronimo-rulli/profil/spieler/229604",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/05/1992 (34)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "242359",
+      "nombre": "Juan Musso",
+      "href_perfil": "/juan-musso/profil/spieler/242359",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/05/1994 (32)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "355915",
+      "nombre": "Cristian Romero",
+      "href_perfil": "/cristian-romero/profil/spieler/355915",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/04/1998 (28)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "480762",
+      "nombre": "Lisandro Martínez",
+      "href_perfil": "/lisandro-martinez/profil/spieler/480762",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/1998 (28)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "469781",
+      "nombre": "Marcos Senesi",
+      "href_perfil": "/marcos-senesi/profil/spieler/469781",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/05/1997 (29)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "474800",
+      "nombre": "Facundo Medina",
+      "href_perfil": "/facundo-medina/profil/spieler/474800",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/05/1999 (27)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "54781",
+      "nombre": "Nicolás Otamendi",
+      "href_perfil": "/nicolas-otamendi/profil/spieler/54781",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/02/1988 (38)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "131225",
+      "nombre": "Nicolás Tagliafico",
+      "href_perfil": "/nicolas-tagliafico/profil/spieler/131225",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/08/1992 (33)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "424042",
+      "nombre": "Nahuel Molina",
+      "href_perfil": "/nahuel-molina/profil/spieler/424042",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/04/1998 (28)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "402733",
+      "nombre": "Gonzalo Montiel",
+      "href_perfil": "/gonzalo-montiel/profil/spieler/402733",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1997 (29)",
+      "club_actual": "CA River Plate",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "166237",
+      "nombre": "Leandro Paredes",
+      "href_perfil": "/leandro-paredes/profil/spieler/166237",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/06/1994 (32)",
+      "club_actual": "CA Boca Juniors",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "648195",
+      "nombre": "Enzo Fernández",
+      "href_perfil": "/enzo-fernandez/profil/spieler/648195",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/01/2001 (25)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "534033",
+      "nombre": "Alexis Mac Allister",
+      "href_perfil": "/alexis-mac-allister/profil/spieler/534033",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/12/1998 (27)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "849410",
+      "nombre": "Valentín Barco",
+      "href_perfil": "/valentin-barco/profil/spieler/849410",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/07/2004 (21)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "401578",
+      "nombre": "Exequiel Palacios",
+      "href_perfil": "/exequiel-palacios/profil/spieler/401578",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/10/1998 (27)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "255901",
+      "nombre": "Rodrigo De Paul",
+      "href_perfil": "/rodrigo-de-paul/profil/spieler/255901",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/05/1994 (32)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "948294",
+      "nombre": "Nico Paz",
+      "href_perfil": "/nico-paz/profil/spieler/948294",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/2004 (21)",
+      "club_actual": "Como 1907",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "348795",
+      "nombre": "Giovani Lo Celso",
+      "href_perfil": "/giovani-lo-celso/profil/spieler/348795",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/04/1996 (30)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "486031",
+      "nombre": "Nico González",
+      "href_perfil": "/nico-gonzalez/profil/spieler/486031",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/04/1998 (28)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "576028",
+      "nombre": "Thiago Almada",
+      "href_perfil": "/thiago-almada/profil/spieler/576028",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/04/2001 (25)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "742201",
+      "nombre": "Giuliano Simeone",
+      "href_perfil": "/giuliano-simeone/profil/spieler/742201",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/12/2002 (23)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "28003",
+      "nombre": "Lionel Messi",
+      "href_perfil": "/lionel-messi/profil/spieler/28003",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/06/1987 (39)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "576024",
+      "nombre": "Julián Alvarez",
+      "href_perfil": "/julian-alvarez/profil/spieler/576024",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/01/2000 (26)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "406625",
+      "nombre": "Lautaro Martínez",
+      "href_perfil": "/lautaro-martinez/profil/spieler/406625",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/08/1997 (28)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€85.00m"
+    },
+    {
+      "player_id": "844797",
+      "nombre": "Flaco López",
+      "href_perfil": "/flaco-lopez/profil/spieler/844797",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/12/2000 (25)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€25.00m"
+    }
+  ]
+}

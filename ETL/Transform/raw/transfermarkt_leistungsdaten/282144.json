@@ -1,0 +1,51 @@
+{
+  "nombre": "Marin Pongracic",
+  "href_perfil": "/marin-pongracic/profil/spieler/282144",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "35",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "2,918'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "762'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "115'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "6'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "17",
+      "rojas": "-",
+      "minutos_raw": "3,801'"
+    }
+  ]
+}

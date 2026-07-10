@@ -1,0 +1,231 @@
+{
+  "pais": "Gibraltar",
+  "href_seleccion": "/gibraltar/startseite/verein/37574",
+  "jugadores": [
+    {
+      "player_id": "299108",
+      "nombre": "Bradley Banda",
+      "href_perfil": "/bradley-banda/profil/spieler/299108",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/01/1998 (28)",
+      "club_actual": "St Joseph's FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1171238",
+      "nombre": "Victor Huart",
+      "href_perfil": "/victor-huart/profil/spieler/1171238",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/09/2008 (17)",
+      "club_actual": "Lynx FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "802118",
+      "nombre": "Harry Victor",
+      "href_perfil": "/harry-victor/profil/spieler/802118",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/01/2004 (22)",
+      "club_actual": "Glacis United",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "344827",
+      "nombre": "Bernardo Lopes",
+      "href_perfil": "/bernardo-lopes/profil/spieler/344827",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/07/1993 (32)",
+      "club_actual": "Lincoln Red Imps FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1024353",
+      "nombre": "Jay Coombes",
+      "href_perfil": "/jay-coombes/profil/spieler/1024353",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/03/2007 (19)",
+      "club_actual": "Sutton United U18",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1024359",
+      "nombre": "Jayvan Garro",
+      "href_perfil": "/jayvan-garro/profil/spieler/1024359",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/06/2008 (18)",
+      "club_actual": "Lincoln Red Imps FC U18",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "405569",
+      "nombre": "Julian Valarino",
+      "href_perfil": "/julian-valarino/profil/spieler/405569",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/06/2000 (26)",
+      "club_actual": "Europa FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1005273",
+      "nombre": "Kai Mauro",
+      "href_perfil": "/kai-mauro/profil/spieler/1005273",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/05/2007 (19)",
+      "club_actual": "Cádiz CF C",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "299132",
+      "nombre": "Ethan Jolley",
+      "href_perfil": "/ethan-jolley/profil/spieler/299132",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/03/1997 (29)",
+      "club_actual": "St Joseph's FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "427588",
+      "nombre": "Kian Ronan",
+      "href_perfil": "/kian-ronan/profil/spieler/427588",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/03/2001 (25)",
+      "club_actual": "Chelmsford City",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "299149",
+      "nombre": "Kevagn Ronco",
+      "href_perfil": "/kevagn-ronco/profil/spieler/299149",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/04/1998 (28)",
+      "club_actual": "FC Bruno's Magpies",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "697002",
+      "nombre": "Dan Bent",
+      "href_perfil": "/dan-bent/profil/spieler/697002",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/1996 (30)",
+      "club_actual": "Larne FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "540127",
+      "nombre": "Evan De Haro",
+      "href_perfil": "/evan-de-haro/profil/spieler/540127",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/09/2002 (23)",
+      "club_actual": "Lions Gibraltar FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "915890",
+      "nombre": "Nicholas Pozo",
+      "href_perfil": "/nicholas-pozo/profil/spieler/915890",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/01/2005 (21)",
+      "club_actual": "Lincoln Red Imps FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "399011",
+      "nombre": "Graeme Torrilla",
+      "href_perfil": "/graeme-torrilla/profil/spieler/399011",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/09/1997 (28)",
+      "club_actual": "Lincoln Red Imps FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1014086",
+      "nombre": "Han Stevens",
+      "href_perfil": "/han-stevens/profil/spieler/1014086",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/04/2005 (21)",
+      "club_actual": "FC Bruno's Magpies",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1004914",
+      "nombre": "Leon Mason",
+      "href_perfil": "/leon-mason/profil/spieler/1004914",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2007 (19)",
+      "club_actual": "Mons Calpe SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "299815",
+      "nombre": "Jamie Coombes",
+      "href_perfil": "/jamie-coombes/profil/spieler/299815",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "27/05/1996 (30)",
+      "club_actual": "St Joseph's FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1195212",
+      "nombre": "Luca Scanlon",
+      "href_perfil": "/luca-scanlon/profil/spieler/1195212",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "13/07/2009 (16)",
+      "club_actual": "Burnley FC U18",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "934939",
+      "nombre": "Jesse Gomez",
+      "href_perfil": "/jesse-gomez/profil/spieler/934939",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/10/2005 (20)",
+      "club_actual": "Blyth Spartans",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "466168",
+      "nombre": "Ayoub El Hmidi",
+      "href_perfil": "/ayoub-el-hmidi/profil/spieler/466168",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/09/2000 (25)",
+      "club_actual": "Jubbah Club",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1051146",
+      "nombre": "James Scanlon",
+      "href_perfil": "/james-scanlon/profil/spieler/1051146",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/09/2006 (19)",
+      "club_actual": "Manchester United U21",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "376663",
+      "nombre": "Tjay De Barr",
+      "href_perfil": "/tjay-de-barr/profil/spieler/376663",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/03/2000 (26)",
+      "club_actual": "Lincoln Red Imps FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "716915",
+      "nombre": "Dylan Borge",
+      "href_perfil": "/dylan-borge/profil/spieler/716915",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/10/2003 (22)",
+      "club_actual": "FC Bruno's Magpies",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "934937",
+      "nombre": "Jaiden Bartolo",
+      "href_perfil": "/jaiden-bartolo/profil/spieler/934937",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/02/2006 (20)",
+      "club_actual": "AFC Totton",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

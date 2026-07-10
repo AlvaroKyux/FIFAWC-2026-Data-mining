@@ -1,0 +1,249 @@
+{
+  "pais": "Armenia",
+  "href_seleccion": "/armenien/startseite/verein/6219",
+  "jugadores": [
+    {
+      "player_id": "249671",
+      "nombre": "Henri Avagyan",
+      "href_perfil": "/henri-avagyan/profil/spieler/249671",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/01/1996 (30)",
+      "club_actual": "FC Pyunik Yerevan",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "800113",
+      "nombre": "Aleksandr Mishiev",
+      "href_perfil": "/aleksandr-mishiev/profil/spieler/800113",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/01/2004 (22)",
+      "club_actual": "FC Urartu Yerevan",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "621489",
+      "nombre": "Arman Nersesyan",
+      "href_perfil": "/arman-nersesyan/profil/spieler/621489",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/10/2001 (24)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "85029",
+      "nombre": "Ognjen Cancarevic",
+      "href_perfil": "/ognjen-cancarevic/profil/spieler/85029",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/09/1989 (36)",
+      "club_actual": "FK IMT Belgrad",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "718758",
+      "nombre": "Georgiy Harutyunyan",
+      "href_perfil": "/georgiy-harutyunyan/profil/spieler/718758",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/08/2004 (21)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "610253",
+      "nombre": "Junior Julio",
+      "href_perfil": "/junior-julio/profil/spieler/610253",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/09/1996 (29)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "545380",
+      "nombre": "Erik Piloyan",
+      "href_perfil": "/erik-piloyan/profil/spieler/545380",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/01/2001 (25)",
+      "club_actual": "FC Urartu Yerevan",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "545381",
+      "nombre": "Arman Ghazaryan",
+      "href_perfil": "/arman-ghazaryan/profil/spieler/545381",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/07/2001 (24)",
+      "club_actual": "FC Urartu Yerevan",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "190865",
+      "nombre": "Argishti Petrosyan",
+      "href_perfil": "/argishti-petrosyan/profil/spieler/190865",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/10/1992 (33)",
+      "club_actual": "BKMA Yerevan",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "461701",
+      "nombre": "Nair Tiknizyan",
+      "href_perfil": "/nair-tiknizyan/profil/spieler/461701",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/05/1999 (27)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "340001",
+      "nombre": "Edgar Grigoryan",
+      "href_perfil": "/edgar-grigoryan/profil/spieler/340001",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/08/1998 (27)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "155425",
+      "nombre": "Kamo Hovhannisyan",
+      "href_perfil": "/kamo-hovhannisyan/profil/spieler/155425",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/10/1992 (33)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "917403",
+      "nombre": "Artem Bandikyan",
+      "href_perfil": "/artem-bandikyan/profil/spieler/917403",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/09/2005 (20)",
+      "club_actual": "CSKA Moscow",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "520064",
+      "nombre": "Tigran Avanesyan",
+      "href_perfil": "/tigran-avanesyan/profil/spieler/520064",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/2002 (24)",
+      "club_actual": "FC Orenburg",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "471095",
+      "nombre": "Aram Khamoyan",
+      "href_perfil": "/aram-khamoyan/profil/spieler/471095",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/2000 (26)",
+      "club_actual": "FC Noah Yerevan",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "881024",
+      "nombre": "Karlen Hovhannisyan",
+      "href_perfil": "/karlen-hovhannisyan/profil/spieler/881024",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/04/2005 (21)",
+      "club_actual": "FC Pyunik Yerevan",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "449345",
+      "nombre": "David Davidyan",
+      "href_perfil": "/david-davidyan/profil/spieler/449345",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "14/12/1997 (28)",
+      "club_actual": "Rotor Volgograd",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "515744",
+      "nombre": "Eduard Spertsyan",
+      "href_perfil": "/eduard-spertsyan/profil/spieler/515744",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/2000 (26)",
+      "club_actual": "FC Krasnodar",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "773795",
+      "nombre": "Gor Manvelyan",
+      "href_perfil": "/gor-manvelyan/profil/spieler/773795",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/04/2002 (24)",
+      "club_actual": "FC Noah Yerevan",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "876501",
+      "nombre": "Davit Hakobyan",
+      "href_perfil": "/davit-hakobyan/profil/spieler/876501",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/08/2005 (20)",
+      "club_actual": "Zeleziarne Podbrezova",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "431746",
+      "nombre": "Zhirayr Shaghoyan",
+      "href_perfil": "/zhirayr-shaghoyan/profil/spieler/431746",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/04/2001 (25)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "926276",
+      "nombre": "Narek Hovhannisyan",
+      "href_perfil": "/narek-hovhannisyan/profil/spieler/926276",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/08/2006 (19)",
+      "club_actual": "BKMA Yerevan",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "430488",
+      "nombre": "Edgar Sevikyan",
+      "href_perfil": "/edgar-sevikyan/profil/spieler/430488",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/08/2001 (24)",
+      "club_actual": "Akron Tolyatti",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "545546",
+      "nombre": "Narek Grigoryan",
+      "href_perfil": "/narek-grigoryan/profil/spieler/545546",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/06/2001 (25)",
+      "club_actual": "FCV Farul Constanta",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "623120",
+      "nombre": "Artur Serobyan",
+      "href_perfil": "/artur-serobyan/profil/spieler/623120",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/07/2003 (22)",
+      "club_actual": "FC Ararat-Armenia ",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "574201",
+      "nombre": "Grant-Leon Ranos",
+      "href_perfil": "/grant-leon-ranos/profil/spieler/574201",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/07/2003 (22)",
+      "club_actual": "Eintracht Braunschweig",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "213434",
+      "nombre": "Artur Miranyan",
+      "href_perfil": "/artur-miranyan/profil/spieler/213434",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/12/1995 (30)",
+      "club_actual": "Ihud Bnei Sakhnin",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

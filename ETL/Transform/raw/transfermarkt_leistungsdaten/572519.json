@@ -1,0 +1,51 @@
+{
+  "nombre": "Ar'jany Martha",
+  "href_perfil": "/arjany-martha/profil/spieler/572519",
+  "competiciones": [
+    {
+      "competicion_raw": "League One",
+      "partidos": "41",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,579'"
+    },
+    {
+      "competicion_raw": "EFL Trophy",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "184'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,063'"
+    }
+  ]
+}

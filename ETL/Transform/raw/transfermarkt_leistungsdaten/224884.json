@@ -1,0 +1,60 @@
+{
+  "nombre": "Abdul Rahman Baba",
+  "href_perfil": "/abdul-rahman-baba/profil/spieler/224884",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,375'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "833'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "665'"
+    },
+    {
+      "competicion_raw": "Super League Play-off",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "388'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,801'"
+    }
+  ]
+}

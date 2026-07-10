@@ -1,0 +1,240 @@
+{
+  "pais": "Bosnia and Herzegovina",
+  "href_seleccion": "/bosnien-herzegowina/startseite/verein/3446",
+  "jugadores": [
+    {
+      "player_id": "248454",
+      "nombre": "Nikola Vasilj",
+      "href_perfil": "/nikola-vasilj/profil/spieler/248454",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/12/1995 (30)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "495320",
+      "nombre": "Martin Zlomislic",
+      "href_perfil": "/martin-zlomislic/profil/spieler/495320",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/08/1998 (27)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "952692",
+      "nombre": "Mladen Jurkas",
+      "href_perfil": "/mladen-jurkas/profil/spieler/952692",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/10/2007 (18)",
+      "club_actual": "FK Borac Banja Luka",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "679423",
+      "nombre": "Tarik Muharemović",
+      "href_perfil": "/tarik-muharemovic/profil/spieler/679423",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2003 (23)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "94005",
+      "nombre": "Sead Kolasinac",
+      "href_perfil": "/sead-kolasinac/profil/spieler/94005",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/06/1993 (33)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "384568",
+      "nombre": "Stjepan Radeljic",
+      "href_perfil": "/stjepan-radeljic/profil/spieler/384568",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/09/1997 (28)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "422051",
+      "nombre": "Nikola Katic",
+      "href_perfil": "/nikola-katic/profil/spieler/422051",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/10/1996 (29)",
+      "club_actual": "FC Schalke 04",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "380919",
+      "nombre": "Nihad Mujakic",
+      "href_perfil": "/nihad-mujakic/profil/spieler/380919",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/04/1998 (28)",
+      "club_actual": "Gaziantep FK",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "322065",
+      "nombre": "Dennis Hadzikadunic",
+      "href_perfil": "/dennis-hadzikadunic/profil/spieler/322065",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/07/1998 (27)",
+      "club_actual": "UC Sampdoria",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "519184",
+      "nombre": "Amar Dedić",
+      "href_perfil": "/amar-dedic/profil/spieler/519184",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/08/2002 (23)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "805534",
+      "nombre": "Arjan Malic",
+      "href_perfil": "/arjan-malic/profil/spieler/805534",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/08/2005 (20)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "293213",
+      "nombre": "Amir Hadziahmetovic",
+      "href_perfil": "/amir-hadziahmetovic/profil/spieler/293213",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/03/1997 (29)",
+      "club_actual": "Hull City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "226097",
+      "nombre": "Ivan Šunjić",
+      "href_perfil": "/ivan-sunjic/profil/spieler/226097",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/10/1996 (29)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "251295",
+      "nombre": "Dzenis Burnic",
+      "href_perfil": "/dzenis-burnic/profil/spieler/251295",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/05/1998 (28)",
+      "club_actual": "Karlsruher SC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "787907",
+      "nombre": "Benjamin Tahirović",
+      "href_perfil": "/benjamin-tahirovic/profil/spieler/787907",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/03/2003 (23)",
+      "club_actual": "Bröndby IF",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "651269",
+      "nombre": "Armin Gigovic",
+      "href_perfil": "/armin-gigovic/profil/spieler/651269",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/2002 (24)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "620560",
+      "nombre": "Ivan Basic",
+      "href_perfil": "/ivan-basic/profil/spieler/620560",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/04/2002 (24)",
+      "club_actual": "FC Astana",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "638990",
+      "nombre": "Amar Memić",
+      "href_perfil": "/amar-memic/profil/spieler/638990",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "20/01/2001 (25)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "803049",
+      "nombre": "Ermin Mahmic",
+      "href_perfil": "/ermin-mahmic/profil/spieler/803049",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/03/2005 (21)",
+      "club_actual": "FC Slovan Liberec",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "929994",
+      "nombre": "Kerim Alajbegovic",
+      "href_perfil": "/kerim-alajbegovic/profil/spieler/929994",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/09/2007 (18)",
+      "club_actual": "Red Bull Salzburg",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "925862",
+      "nombre": "Esmir Bajraktarevic",
+      "href_perfil": "/esmir-bajraktarevic/profil/spieler/925862",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/03/2005 (21)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "335457",
+      "nombre": "Ermedin Demirovic",
+      "href_perfil": "/ermedin-demirovic/profil/spieler/335457",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/03/1998 (28)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "203123",
+      "nombre": "Haris Tabakovic",
+      "href_perfil": "/haris-tabakovic/profil/spieler/203123",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/1994 (32)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "457738",
+      "nombre": "Jovo Lukić",
+      "href_perfil": "/jovo-lukic/profil/spieler/457738",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/1998 (27)",
+      "club_actual": "FC Universitatea Cluj",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "710969",
+      "nombre": "Samed Bazdar",
+      "href_perfil": "/samed-bazdar/profil/spieler/710969",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/01/2004 (22)",
+      "club_actual": "Jagiellonia Bialystok",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "28396",
+      "nombre": "Edin Dzeko",
+      "href_perfil": "/edin-dzeko/profil/spieler/28396",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/03/1986 (40)",
+      "club_actual": "FC Schalke 04",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

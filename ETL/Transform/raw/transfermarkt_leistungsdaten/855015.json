@@ -1,0 +1,42 @@
+{
+  "nombre": "Farès Chaïbi",
+  "href_perfil": "/fares-chaibi/profil/spieler/855015",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,797'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "499'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "3",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,506'"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "pais": "Cyprus",
+  "href_seleccion": "/zypern/startseite/verein/3668",
+  "jugadores": [
+    {
+      "player_id": "416359",
+      "nombre": "Neofytos Michail",
+      "href_perfil": "/neofytos-michail/profil/spieler/416359",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/12/1993 (32)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "690891",
+      "nombre": "Charalampos Kyriakidis",
+      "href_perfil": "/charalampos-kyriakidis/profil/spieler/690891",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/11/1998 (27)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "341023",
+      "nombre": "Andreas Paraskevas",
+      "href_perfil": "/andreas-paraskevas/profil/spieler/341023",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/09/1998 (27)",
+      "club_actual": "AEK Larnaca",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "52848",
+      "nombre": "Fabiano",
+      "href_perfil": "/fabiano/profil/spieler/52848",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/02/1988 (38)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "613964",
+      "nombre": "Stelios Andreou",
+      "href_perfil": "/stelios-andreou/profil/spieler/613964",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/07/2002 (23)",
+      "club_actual": "Widzew Lodz",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "121570",
+      "nombre": "Konstantinos Laifis",
+      "href_perfil": "/konstantinos-laifis/profil/spieler/121570",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/05/1993 (33)",
+      "club_actual": "APOEL Nicosia",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "470240",
+      "nombre": "Christos Sielis",
+      "href_perfil": "/christos-sielis/profil/spieler/470240",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/02/2000 (26)",
+      "club_actual": "Panetolikos",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "246607",
+      "nombre": "Konstantinos Sotiriou",
+      "href_perfil": "/konstantinos-sotiriou/profil/spieler/246607",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/06/1996 (30)",
+      "club_actual": "Korona Kielce",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "613968",
+      "nombre": "Evagoras Antoniou",
+      "href_perfil": "/evagoras-antoniou/profil/spieler/613968",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/11/2002 (23)",
+      "club_actual": "APOEL Nicosia",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "393872",
+      "nombre": "Giorgos Malekkidis",
+      "href_perfil": "/giorgos-malekkidis/profil/spieler/393872",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/07/1997 (28)",
+      "club_actual": "Apollon Limassol",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "950123",
+      "nombre": "Andreas Christou",
+      "href_perfil": "/andreas-christou/profil/spieler/950123",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/08/2005 (20)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "152093",
+      "nombre": "Anderson Correia",
+      "href_perfil": "/anderson-correia/profil/spieler/152093",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/05/1991 (35)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1059768",
+      "nombre": "Andreas Siikkis",
+      "href_perfil": "/andreas-siikkis/profil/spieler/1059768",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2002 (24)",
+      "club_actual": "Apollon Limassol",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "470236",
+      "nombre": "Konstantinos Sergiou",
+      "href_perfil": "/konstantinos-sergiou/profil/spieler/470236",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/10/2000 (25)",
+      "club_actual": "Anorthosis Famagusta",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "203970",
+      "nombre": "Charalampos Kyriakou",
+      "href_perfil": "/charalampos-kyriakou/profil/spieler/203970",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/02/1995 (31)",
+      "club_actual": "AEK Larnaca",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "298635",
+      "nombre": "Grigoris Kastanos",
+      "href_perfil": "/grigoris-kastanos/profil/spieler/298635",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/01/1998 (28)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "613961",
+      "nombre": "Charalampos Charalampous",
+      "href_perfil": "/charalampos-charalampous/profil/spieler/613961",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/04/2002 (24)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "435288",
+      "nombre": "Giannis Kosti",
+      "href_perfil": "/giannis-kosti/profil/spieler/435288",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/2000 (26)",
+      "club_actual": "Levadiakos",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "995234",
+      "nombre": "Panagiotis Andreou",
+      "href_perfil": "/panagiotis-andreou/profil/spieler/995234",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/2006 (20)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "537439",
+      "nombre": "Giannis Satsias",
+      "href_perfil": "/giannis-satsias/profil/spieler/537439",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/12/2002 (23)",
+      "club_actual": "Panetolikos",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "511876",
+      "nombre": "Giorgos Naoum",
+      "href_perfil": "/giorgos-naoum/profil/spieler/511876",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/2001 (25)",
+      "club_actual": "AEK Larnaca",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "511885",
+      "nombre": "Marinos Tzionis",
+      "href_perfil": "/marinos-tzionis/profil/spieler/511885",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/07/2001 (24)",
+      "club_actual": "UTA Arad",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "615033",
+      "nombre": "Loizos Loizou",
+      "href_perfil": "/loizos-loizou/profil/spieler/615033",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/07/2003 (22)",
+      "club_actual": "Hapoel Tel Aviv",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "900935",
+      "nombre": "Stavros Georgiou",
+      "href_perfil": "/stavros-georgiou/profil/spieler/900935",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "19/10/2004 (21)",
+      "club_actual": "Omonia Aradippou",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "380191",
+      "nombre": "Ioannis Pittas",
+      "href_perfil": "/ioannis-pittas/profil/spieler/380191",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/07/1996 (29)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "511883",
+      "nombre": "Andronikos Kakoullis",
+      "href_perfil": "/andronikos-kakoullis/profil/spieler/511883",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/05/2001 (25)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "950111",
+      "nombre": "Angelos Neofytou",
+      "href_perfil": "/angelos-neofytou/profil/spieler/950111",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/05/2005 (21)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€325k"
+    }
+  ]
+}

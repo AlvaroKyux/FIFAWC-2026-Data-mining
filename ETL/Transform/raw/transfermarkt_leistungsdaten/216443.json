@@ -1,0 +1,33 @@
+{
+  "nombre": "Riechedly Bazoer",
+  "href_perfil": "/riechedly-bazoer/profil/spieler/216443",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "928'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "1,033'"
+    }
+  ]
+}

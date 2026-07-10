@@ -1,0 +1,42 @@
+{
+  "nombre": "Zaid Tahseen",
+  "href_perfil": "/zaid-tahseen/profil/spieler/931147",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "443'"
+    },
+    {
+      "competicion_raw": "Uzbekistan Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Uzbekistan Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "623'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Rayan Cherki",
+  "href_perfil": "/rayan-cherki/profil/spieler/607223",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "33",
+      "goles": "4",
+      "asistencias": "12",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,786'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "394'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "277'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "52",
+      "goles": "10",
+      "asistencias": "15",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,854'"
+    }
+  ]
+}

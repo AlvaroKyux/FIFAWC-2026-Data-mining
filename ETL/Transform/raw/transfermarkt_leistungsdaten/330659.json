@@ -1,0 +1,42 @@
+{
+  "nombre": "Justin Kluivert",
+  "href_perfil": "/justin-kluivert/profil/spieler/330659",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "20",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "953'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "66'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,019'"
+    }
+  ]
+}

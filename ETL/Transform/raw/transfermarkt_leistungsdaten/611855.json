@@ -1,0 +1,51 @@
+{
+  "nombre": "Sidny Lopes Cabral",
+  "href_perfil": "/sidny-lopes-cabral/profil/spieler/611855",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "23",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,680'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "11'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "116'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "26'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,833'"
+    }
+  ]
+}

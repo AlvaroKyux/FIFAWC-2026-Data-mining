@@ -1,0 +1,42 @@
+{
+  "nombre": "Issa Laye",
+  "href_perfil": "/issa-laye/profil/spieler/1264176",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "869'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "20'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "889'"
+    }
+  ]
+}

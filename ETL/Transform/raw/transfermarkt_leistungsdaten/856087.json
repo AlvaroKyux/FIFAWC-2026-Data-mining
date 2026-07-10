@@ -1,0 +1,51 @@
+{
+  "nombre": "Mohammad Ghorbani",
+  "href_perfil": "/mohammad-ghorbani/profil/spieler/856087",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "22",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,199'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "464'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "376'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "174'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,213'"
+    }
+  ]
+}

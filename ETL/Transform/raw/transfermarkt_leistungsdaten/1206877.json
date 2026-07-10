@@ -1,0 +1,69 @@
+{
+  "nombre": "Hugo Sochurek",
+  "href_perfil": "/hugo-sochurek/profil/spieler/1206877",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "416'"
+    },
+    {
+      "competicion_raw": "1. liga U19",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "502'"
+    },
+    {
+      "competicion_raw": "ChNL",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "298'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "96'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "29'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,431'"
+    }
+  ]
+}

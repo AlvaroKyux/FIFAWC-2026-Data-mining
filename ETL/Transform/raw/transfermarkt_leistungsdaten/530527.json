@@ -1,0 +1,60 @@
+{
+  "nombre": "Merchas Doski",
+  "href_perfil": "/merchas-doski/profil/spieler/530527",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,682'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "597'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "209'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "22'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,870'"
+    }
+  ]
+}

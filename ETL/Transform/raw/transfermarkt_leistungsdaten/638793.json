@@ -1,0 +1,42 @@
+{
+  "nombre": "Tajon Buchanan",
+  "href_perfil": "/tajon-buchanan/profil/spieler/638793",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "34",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,821'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "430'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "80'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,331'"
+    }
+  ]
+}

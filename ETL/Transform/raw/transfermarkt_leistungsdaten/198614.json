@@ -1,0 +1,51 @@
+{
+  "nombre": "Tomas Chory",
+  "href_perfil": "/tomas-chory/profil/spieler/198614",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "22",
+      "goles": "17",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,761'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "451'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "60'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "149'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "17",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,421'"
+    }
+  ]
+}

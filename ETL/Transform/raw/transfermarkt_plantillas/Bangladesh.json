@@ -1,0 +1,213 @@
+{
+  "pais": "Bangladesh",
+  "href_seleccion": "/bangladesch/startseite/verein/15033",
+  "jugadores": [
+    {
+      "player_id": "733089",
+      "nombre": "Mitul Marma",
+      "href_perfil": "/mitul-marma/profil/spieler/733089",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/12/2003 (22)",
+      "club_actual": "Abahani Limited Dhaka",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "579701",
+      "nombre": "Anisur Rahman Zico",
+      "href_perfil": "/anisur-rahman-zico/profil/spieler/579701",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/08/1997 (28)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "581589",
+      "nombre": "Sujon Hossain",
+      "href_perfil": "/sujon-hossain/profil/spieler/581589",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/08/1996 (29)",
+      "club_actual": "Mohammedan SC (Dhaka)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "433891",
+      "nombre": "Tariq Kazi",
+      "href_perfil": "/tariq-kazi/profil/spieler/433891",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/10/2000 (25)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1009005",
+      "nombre": "Shakil Ahad Topu",
+      "href_perfil": "/shakil-ahad-topu/profil/spieler/1009005",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/04/2006 (20)",
+      "club_actual": "Mohammedan SC (Dhaka)",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "377477",
+      "nombre": "Topu Barman",
+      "href_perfil": "/topu-barman/profil/spieler/377477",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/12/1994 (31)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "581218",
+      "nombre": "Isa Faysal",
+      "href_perfil": "/isa-faysal/profil/spieler/581218",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/08/1999 (26)",
+      "club_actual": "Bangladesh Police FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1432732",
+      "nombre": "Zayyan Ahmed",
+      "href_perfil": "/zayyan-ahmed/profil/spieler/1432732",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/01/2004 (22)",
+      "club_actual": "Rimal Al-Sahra SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "961495",
+      "nombre": "Md Taj Uddin",
+      "href_perfil": "/md-taj-uddin/profil/spieler/961495",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/07/2002 (23)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "570655",
+      "nombre": "Saad Uddin",
+      "href_perfil": "/saad-uddin/profil/spieler/570655",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/09/1998 (27)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "579703",
+      "nombre": "Bishwanath Ghosh",
+      "href_perfil": "/bishwanath-ghosh/profil/spieler/579703",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/05/1999 (27)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "341501",
+      "nombre": "Hamza Choudhury",
+      "href_perfil": "/hamza-choudhury/profil/spieler/341501",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/10/1997 (28)",
+      "club_actual": "Leicester City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "693242",
+      "nombre": "Mohammad Ridoy",
+      "href_perfil": "/mohammad-ridoy/profil/spieler/693242",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "102037",
+      "nombre": "Jamal Bhuyan",
+      "href_perfil": "/jamal-bhuyan/profil/spieler/102037",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/04/1990 (36)",
+      "club_actual": "Brothers Union",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "582292",
+      "nombre": "Md Sohel Rana",
+      "href_perfil": "/md-sohel-rana/profil/spieler/582292",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/06/1996 (30)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1079398",
+      "nombre": "Quazem Shah",
+      "href_perfil": "/quazem-shah/profil/spieler/1079398",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/10/1998 (27)",
+      "club_actual": "Abahani Limited Dhaka",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "377470",
+      "nombre": "Sohel Rana",
+      "href_perfil": "/sohel-rana/profil/spieler/377470",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/1995 (31)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "423445",
+      "nombre": "Shamit Shome",
+      "href_perfil": "/shamit-shome/profil/spieler/423445",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/09/1997 (28)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "987443",
+      "nombre": "Fahamedul Islam",
+      "href_perfil": "/fahamedul-islam/profil/spieler/987443",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "30/06/2006 (19)",
+      "club_actual": "Olbia Calcio 1905",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "961770",
+      "nombre": "Shekh Morsalin",
+      "href_perfil": "/shekh-morsalin/profil/spieler/961770",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/11/2005 (20)",
+      "club_actual": "Abahani Limited Dhaka",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "694081",
+      "nombre": "Foysal Ahmed Fahim",
+      "href_perfil": "/foysal-ahmed-fahim/profil/spieler/694081",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/02/2002 (24)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "961882",
+      "nombre": "Shahriar Emon",
+      "href_perfil": "/shahriar-emon/profil/spieler/961882",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/03/2001 (25)",
+      "club_actual": "Bashundhara Kings",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1036309",
+      "nombre": "Md Rafiqul Islam",
+      "href_perfil": "/md-rafiqul-islam/profil/spieler/1036309",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/02/2004 (22)",
+      "club_actual": "Rahmatganj MFS",
+      "valor_mercado_raw": "€50k"
+    }
+  ]
+}

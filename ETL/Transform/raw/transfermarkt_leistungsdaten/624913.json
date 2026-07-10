@@ -1,0 +1,51 @@
+{
+  "nombre": "Parfait Guiagon",
+  "href_perfil": "/parfait-guiagon/profil/spieler/624913",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "26",
+      "goles": "8",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,084'"
+    },
+    {
+      "competicion_raw": "JPL Europe Play-Offs",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "474'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "431'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "194'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "12",
+      "asistencias": "5",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,183'"
+    }
+  ]
+}

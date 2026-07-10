@@ -1,0 +1,51 @@
+{
+  "nombre": "Thibaut Courtois",
+  "href_perfil": "/thibaut-courtois/profil/spieler/108390",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "32",
+      "goles": "28",
+      "asistencias": "13",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "11",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "945'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "43",
+      "asistencias": "17",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "4,005'"
+    }
+  ]
+}

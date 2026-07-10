@@ -1,0 +1,231 @@
+{
+  "pais": "Ukraine",
+  "href_seleccion": "/ukraine/startseite/verein/3699",
+  "jugadores": [
+    {
+      "player_id": "537844",
+      "nombre": "Anatoliy Trubin",
+      "href_perfil": "/anatoliy-trubin/profil/spieler/537844",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/08/2001 (24)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "417242",
+      "nombre": "Ruslan Neshcheret",
+      "href_perfil": "/ruslan-neshcheret/profil/spieler/417242",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/01/2002 (24)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "775709",
+      "nombre": "Georgiy Yermakov",
+      "href_perfil": "/georgiy-yermakov/profil/spieler/775709",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/03/2002 (24)",
+      "club_actual": "Maccabi Haifa",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "659089",
+      "nombre": "Ilya Zabarnyi",
+      "href_perfil": "/ilya-zabarnyi/profil/spieler/659089",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/09/2002 (23)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "289059",
+      "nombre": "Mykola Matvienko",
+      "href_perfil": "/mykola-matvienko/profil/spieler/289059",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/05/1996 (30)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "1067225",
+      "nombre": "Taras Mykhavko",
+      "href_perfil": "/taras-mykhavko/profil/spieler/1067225",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/05/2005 (21)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "396394",
+      "nombre": "Valeriy Bondar",
+      "href_perfil": "/valeriy-bondar/profil/spieler/396394",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/02/1999 (27)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "678778",
+      "nombre": "Eduard Sarapiy",
+      "href_perfil": "/eduard-sarapiy/profil/spieler/678778",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/05/1999 (27)",
+      "club_actual": "Polissya Zhytomyr",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "553772",
+      "nombre": "Oleksandr Romanchuk",
+      "href_perfil": "/oleksandr-romanchuk/profil/spieler/553772",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/12/1999 (26)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "404842",
+      "nombre": "Vitaliy Mykolenko",
+      "href_perfil": "/vitaliy-mykolenko/profil/spieler/404842",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/05/1999 (27)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "669306",
+      "nombre": "Volodymyr Brazhko",
+      "href_perfil": "/volodymyr-brazhko/profil/spieler/669306",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2002 (24)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "368611",
+      "nombre": "Mykola Shaparenko",
+      "href_perfil": "/mykola-shaparenko/profil/spieler/368611",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/10/1998 (27)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "207877",
+      "nombre": "Ruslan Malinovskyi",
+      "href_perfil": "/ruslan-malinovskyi/profil/spieler/207877",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/1993 (33)",
+      "club_actual": "Genoa CFC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "430190",
+      "nombre": "Yegor Nazaryna",
+      "href_perfil": "/yegor-nazaryna/profil/spieler/430190",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/07/1997 (28)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "376082",
+      "nombre": "Danylo Ignatenko",
+      "href_perfil": "/danylo-ignatenko/profil/spieler/376082",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/03/1997 (29)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "623325",
+      "nombre": "Georgiy Sudakov",
+      "href_perfil": "/georgiy-sudakov/profil/spieler/623325",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/2002 (23)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "537854",
+      "nombre": "Artem Bondarenko",
+      "href_perfil": "/artem-bondarenko/profil/spieler/537854",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/2000 (25)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "708241",
+      "nombre": "Oleg Ocheretko",
+      "href_perfil": "/oleg-ocheretko/profil/spieler/708241",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/05/2003 (23)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "495920",
+      "nombre": "Oleksandr Nazarenko",
+      "href_perfil": "/oleksandr-nazarenko/profil/spieler/495920",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/02/2000 (26)",
+      "club_actual": "Polissya Zhytomyr",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "264372",
+      "nombre": "Viktor Tsygankov",
+      "href_perfil": "/viktor-tsygankov/profil/spieler/264372",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/11/1997 (28)",
+      "club_actual": "Girona FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "1082915",
+      "nombre": "Gennadiy Synchuk",
+      "href_perfil": "/gennadiy-synchuk/profil/spieler/1082915",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/07/2006 (19)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "69015",
+      "nombre": "Andriy Yarmolenko",
+      "href_perfil": "/andriy-yarmolenko/profil/spieler/69015",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/10/1989 (36)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "343537",
+      "nombre": "Artem Dovbyk",
+      "href_perfil": "/artem-dovbyk/profil/spieler/343537",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/06/1997 (29)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "1074053",
+      "nombre": "Matviy Ponomarenko",
+      "href_perfil": "/matviy-ponomarenko/profil/spieler/1074053",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/01/2006 (20)",
+      "club_actual": "Dynamo Kyiv",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "221958",
+      "nombre": "Roman Yaremchuk",
+      "href_perfil": "/roman-yaremchuk/profil/spieler/221958",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/11/1995 (30)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€3.50m"
+    }
+  ]
+}

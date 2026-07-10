@@ -1,0 +1,222 @@
+{
+  "pais": "Iceland",
+  "href_seleccion": "/island/startseite/verein/3574",
+  "jugadores": [
+    {
+      "player_id": "464373",
+      "nombre": "Elías Ólafsson",
+      "href_perfil": "/elias-olafsson/profil/spieler/464373",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/03/2000 (26)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "488935",
+      "nombre": "Hákon Valdimarsson",
+      "href_perfil": "/hakon-valdimarsson/profil/spieler/488935",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/10/2001 (24)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "325087",
+      "nombre": "Anton Ari Einarsson",
+      "href_perfil": "/anton-ari-einarsson/profil/spieler/325087",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/08/1994 (31)",
+      "club_actual": "Breidablik Kópavogur",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "605659",
+      "nombre": "Adam Ingi Benediktsson",
+      "href_perfil": "/adam-ingi-benediktsson/profil/spieler/605659",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/10/2002 (23)",
+      "club_actual": "Akademisk Boldklub",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "137648",
+      "nombre": "Sverrir Ingi Ingason",
+      "href_perfil": "/sverrir-ingi-ingason/profil/spieler/137648",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/08/1993 (32)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "130353",
+      "nombre": "Hördur Magnússon",
+      "href_perfil": "/hordur-magnusson/profil/spieler/130353",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/02/1993 (33)",
+      "club_actual": "Levadiakos",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "187147",
+      "nombre": "Hjörtur Hermannsson",
+      "href_perfil": "/hjortur-hermannsson/profil/spieler/187147",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/02/1995 (31)",
+      "club_actual": "Volos NFC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "97241",
+      "nombre": "Victor Pálsson",
+      "href_perfil": "/victor-palsson/profil/spieler/97241",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/1991 (35)",
+      "club_actual": "AC Horsens",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "472873",
+      "nombre": "Logi Tómasson",
+      "href_perfil": "/logi-tomasson/profil/spieler/472873",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/09/2000 (25)",
+      "club_actual": "Samsunspor",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "447482",
+      "nombre": "Dagur Dan Thórhallsson",
+      "href_perfil": "/dagur-dan-thorhallsson/profil/spieler/447482",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/05/2000 (26)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "464446",
+      "nombre": "Andri Fannar Baldursson",
+      "href_perfil": "/andri-fannar-baldursson/profil/spieler/464446",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/2002 (24)",
+      "club_actual": "Kasimpasa",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "63821",
+      "nombre": "Aron Gunnarsson",
+      "href_perfil": "/aron-gunnarsson/profil/spieler/63821",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/04/1989 (37)",
+      "club_actual": "Al-Gharafa SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "579565",
+      "nombre": "Ísak Jóhannesson",
+      "href_perfil": "/isak-johannesson/profil/spieler/579565",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/03/2003 (23)",
+      "club_actual": "1.FC Köln",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "566615",
+      "nombre": "Mikael Egill Ellertsson",
+      "href_perfil": "/mikael-egill-ellertsson/profil/spieler/566615",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/03/2002 (24)",
+      "club_actual": "Genoa CFC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "403673",
+      "nombre": "Mikael Anderson",
+      "href_perfil": "/mikael-anderson/profil/spieler/403673",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/1998 (27)",
+      "club_actual": "Djurgårdens IF",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "422721",
+      "nombre": "Stefán Teitur Thórdarson",
+      "href_perfil": "/stefan-teitur-thordarson/profil/spieler/422721",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/10/1998 (27)",
+      "club_actual": "Hannover 96",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "652275",
+      "nombre": "Hákon Arnar Haraldsson",
+      "href_perfil": "/hakon-arnar-haraldsson/profil/spieler/652275",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/04/2003 (23)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "694186",
+      "nombre": "Kristian Hlynsson",
+      "href_perfil": "/kristian-hlynsson/profil/spieler/694186",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2004 (22)",
+      "club_actual": "FC Twente Enschede",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "490971",
+      "nombre": "Kristall Máni Ingason",
+      "href_perfil": "/kristall-mani-ingason/profil/spieler/490971",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/2002 (24)",
+      "club_actual": "SK Brann",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "90466",
+      "nombre": "Gylfi Sigurdsson",
+      "href_perfil": "/gylfi-sigurdsson/profil/spieler/90466",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/1989 (36)",
+      "club_actual": "Víkingur Reykjavík",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "377665",
+      "nombre": "Arnór Sigurdsson",
+      "href_perfil": "/arnor-sigurdsson/profil/spieler/377665",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/05/1999 (27)",
+      "club_actual": "Malmö FF",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "331739",
+      "nombre": "Jón Dagur Thorsteinsson",
+      "href_perfil": "/jon-dagur-thorsteinsson/profil/spieler/331739",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/11/1998 (27)",
+      "club_actual": "SK Brann",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "660438",
+      "nombre": "Orri Óskarsson",
+      "href_perfil": "/orri-oskarsson/profil/spieler/660438",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/08/2004 (21)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "464444",
+      "nombre": "Brynjólfur Willumsson",
+      "href_perfil": "/brynjolfur-willumsson/profil/spieler/464444",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/08/2000 (25)",
+      "club_actual": "FC Groningen",
+      "valor_mercado_raw": "€900k"
+    }
+  ]
+}

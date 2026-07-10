@@ -1,0 +1,222 @@
+{
+  "pais": "Belize",
+  "href_seleccion": "/belize/startseite/verein/15919",
+  "jugadores": [
+    {
+      "player_id": "175474",
+      "nombre": "Woodrow West",
+      "href_perfil": "/woodrow-west/profil/spieler/175474",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/09/1985 (40)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1373205",
+      "nombre": "Lucas Gallego",
+      "href_perfil": "/lucas-gallego/profil/spieler/1373205",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/10/2009 (16)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724070",
+      "nombre": "Charles Tillett",
+      "href_perfil": "/charles-tillett/profil/spieler/724070",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/07/2001 (24)",
+      "club_actual": "Port Layola FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1041072",
+      "nombre": "Jaylen Lennan",
+      "href_perfil": "/jaylen-lennan/profil/spieler/1041072",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "17/06/2002 (24)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1021147",
+      "nombre": "Eugene Martínez",
+      "href_perfil": "/eugene-martinez/profil/spieler/1021147",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/10/1997 (28)",
+      "club_actual": "Belmopan FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "979308",
+      "nombre": "Alence Ayala",
+      "href_perfil": "/alence-ayala/profil/spieler/979308",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/04/1999 (27)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "743566",
+      "nombre": "Deshawon Nembhard",
+      "href_perfil": "/deshawon-nembhard/profil/spieler/743566",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/10/1994 (31)",
+      "club_actual": "Belmopan FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1330894",
+      "nombre": "Harlan Casanova",
+      "href_perfil": "/harlan-casanova/profil/spieler/1330894",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1997 (28)",
+      "club_actual": "Progresso FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724073",
+      "nombre": "Darrel Myvett",
+      "href_perfil": "/darrel-myvett/profil/spieler/724073",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/12/1993 (32)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "975746",
+      "nombre": "Freybin Pagoada",
+      "href_perfil": "/freybin-pagoada/profil/spieler/975746",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/03/2002 (24)",
+      "club_actual": "Belmopan FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "954024",
+      "nombre": "Eldon Reneau",
+      "href_perfil": "/eldon-reneau/profil/spieler/954024",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "22/05/2003 (23)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1372993",
+      "nombre": "Marlon Meza Jr.",
+      "href_perfil": "/marlon-meza-jr-/profil/spieler/1372993",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/03/2009 (17)",
+      "club_actual": "Mount Pleasant Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "367136",
+      "nombre": "Nahjib Guerra",
+      "href_perfil": "/nahjib-guerra/profil/spieler/367136",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "18/08/1994 (31)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1295713",
+      "nombre": "Noah Lindo",
+      "href_perfil": "/noah-lindo/profil/spieler/1295713",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/03/2004 (22)",
+      "club_actual": "CD Coslada",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628995",
+      "nombre": "Andir Chi",
+      "href_perfil": "/andir-chi/profil/spieler/628995",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/11/2000 (25)",
+      "club_actual": "Progresso FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629175",
+      "nombre": "Warren Moss",
+      "href_perfil": "/warren-moss/profil/spieler/629175",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "13/10/1999 (26)",
+      "club_actual": "Wagiya SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "367172",
+      "nombre": "Jordy Polanco",
+      "href_perfil": "/jordy-polanco/profil/spieler/367172",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/07/1996 (29)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629114",
+      "nombre": "Izon Gill",
+      "href_perfil": "/izon-gill/profil/spieler/629114",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "27/12/1999 (26)",
+      "club_actual": "Belmopan FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240771",
+      "nombre": "Jaheim Mena",
+      "href_perfil": "/jaheim-mena/profil/spieler/1240771",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/02/2006 (20)",
+      "club_actual": "Belmopan FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628720",
+      "nombre": "Horace Ávila",
+      "href_perfil": "/horace-avila/profil/spieler/628720",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/09/1999 (26)",
+      "club_actual": "Tennessee Tempo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "588946",
+      "nombre": "Krisean López",
+      "href_perfil": "/krisean-lopez/profil/spieler/588946",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/11/1998 (27)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "704929",
+      "nombre": "Carlos Bernárdez",
+      "href_perfil": "/carlos-bernardez/profil/spieler/704929",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/12/1992 (33)",
+      "club_actual": "CD Victoria La Ceiba",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "714855",
+      "nombre": "Desmond Wade",
+      "href_perfil": "/desmond-wade/profil/spieler/714855",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/08/1997 (28)",
+      "club_actual": "Verdes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122975",
+      "nombre": "Moisés Hernández",
+      "href_perfil": "/moises-hernandez/profil/spieler/1122975",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "Port Layola FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

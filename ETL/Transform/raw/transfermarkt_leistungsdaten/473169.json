@@ -1,0 +1,51 @@
+{
+  "nombre": "Brian Brobbey",
+  "href_perfil": "/brian-brobbey/profil/spieler/473169",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "31",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,934'"
+    },
+    {
+      "competicion_raw": "Premier League Int. Cup U21",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "61'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "34'"
+    },
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,029'"
+    }
+  ]
+}

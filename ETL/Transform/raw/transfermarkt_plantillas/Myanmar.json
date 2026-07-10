@@ -1,0 +1,222 @@
+{
+  "pais": "Myanmar",
+  "href_seleccion": "/myanmar/startseite/verein/16423",
+  "jugadores": [
+    {
+      "player_id": "477947",
+      "nombre": "San Sat Naing",
+      "href_perfil": "/san-sat-naing/profil/spieler/477947",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/09/1998 (27)",
+      "club_actual": "Yangon United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1032207",
+      "nombre": "Nay Lin Htet",
+      "href_perfil": "/nay-lin-htet/profil/spieler/1032207",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/04/2002 (24)",
+      "club_actual": "Hantharwady United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1327663",
+      "nombre": "Myat Phone Khant",
+      "href_perfil": "/myat-phone-khant/profil/spieler/1327663",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "12/10/2006 (19)",
+      "club_actual": "Thitsar Arman FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "325504",
+      "nombre": "Kyaw Min Oo",
+      "href_perfil": "/kyaw-min-oo/profil/spieler/325504",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/06/1996 (30)",
+      "club_actual": "Terengganu FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1018173",
+      "nombre": "Hein Zeyar Lin",
+      "href_perfil": "/hein-zeyar-lin/profil/spieler/1018173",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/12/2000 (25)",
+      "club_actual": "Yangon United",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "587093",
+      "nombre": "Soe Moe Kyaw",
+      "href_perfil": "/soe-moe-kyaw/profil/spieler/587093",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/03/1999 (27)",
+      "club_actual": "Uthai Thani FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1018175",
+      "nombre": "Zwe Khant Min",
+      "href_perfil": "/zwe-khant-min/profil/spieler/1018175",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/06/2000 (26)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "375348",
+      "nombre": "Thiha Htet Aung",
+      "href_perfil": "/thiha-htet-aung/profil/spieler/375348",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/03/1996 (30)",
+      "club_actual": "Yadanarbon FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "375340",
+      "nombre": "Nanda Kyaw",
+      "href_perfil": "/nanda-kyaw/profil/spieler/375340",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/09/1996 (29)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "559751",
+      "nombre": "Aung Wunna Soe",
+      "href_perfil": "/aung-wunna-soe/profil/spieler/559751",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "19/04/2000 (26)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "735947",
+      "nombre": "Wai Lin Aung",
+      "href_perfil": "/wai-lin-aung/profil/spieler/735947",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/07/1999 (26)",
+      "club_actual": "Negeri Sembilan FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1027674",
+      "nombre": "Aung Myo Khant",
+      "href_perfil": "/aung-myo-khant/profil/spieler/1027674",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "06/05/2001 (25)",
+      "club_actual": "Yangon United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "559752",
+      "nombre": "Myat Kaung Khant",
+      "href_perfil": "/myat-kaung-khant/profil/spieler/559752",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/07/2000 (25)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "857453",
+      "nombre": "Zaw Win Thein",
+      "href_perfil": "/zaw-win-thein/profil/spieler/857453",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/03/2003 (23)",
+      "club_actual": "Yangon United",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "644943",
+      "nombre": "Lwin Moe Aung",
+      "href_perfil": "/lwin-moe-aung/profil/spieler/644943",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/12/1999 (26)",
+      "club_actual": "Mahasarakham SBT FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1027889",
+      "nombre": "Khun Kyaw Zin Hein",
+      "href_perfil": "/khun-kyaw-zin-hein/profil/spieler/1027889",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/07/2002 (23)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1028436",
+      "nombre": "Ye Yint Aung",
+      "href_perfil": "/ye-yint-aung/profil/spieler/1028436",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/03/2000 (26)",
+      "club_actual": "Shan United",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1283476",
+      "nombre": "Min Maw Oo",
+      "href_perfil": "/min-maw-oo/profil/spieler/1283476",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/03/2005 (21)",
+      "club_actual": "Thitsar Arman FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "556029",
+      "nombre": "Hein Htet Aung",
+      "href_perfil": "/hein-htet-aung/profil/spieler/556029",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/10/2001 (24)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "375343",
+      "nombre": "Maung Maung Lwin",
+      "href_perfil": "/maung-maung-lwin/profil/spieler/375343",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/06/1995 (31)",
+      "club_actual": "Yangon United",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "375342",
+      "nombre": "Than Paing",
+      "href_perfil": "/than-paing/profil/spieler/375342",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/12/1996 (29)",
+      "club_actual": "Trat FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1283481",
+      "nombre": "Shine Wanna Aung",
+      "href_perfil": "/shine-wanna-aung/profil/spieler/1283481",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/03/2006 (20)",
+      "club_actual": "Thitsar Arman FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "559754",
+      "nombre": "Win Naing Tun",
+      "href_perfil": "/win-naing-tun/profil/spieler/559754",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/05/2000 (26)",
+      "club_actual": "Yangon City FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "208705",
+      "nombre": "Soe Min Oo",
+      "href_perfil": "/soe-min-oo/profil/spieler/208705",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/03/1988 (38)",
+      "club_actual": "Yadanarbon FC",
+      "valor_mercado_raw": "€50k"
+    }
+  ]
+}

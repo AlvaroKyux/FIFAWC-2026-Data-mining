@@ -1,0 +1,60 @@
+{
+  "nombre": "Hicham Boudaoui",
+  "href_perfil": "/hicham-boudaoui/profil/spieler/560593",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,694'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "L1/L2 Playoffs",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "11'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,080'"
+    }
+  ]
+}

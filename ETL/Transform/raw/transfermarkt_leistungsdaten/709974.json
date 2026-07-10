@@ -1,0 +1,33 @@
+{
+  "nombre": "Ibrahim Saadeh",
+  "href_perfil": "/ibrahim-saadeh/profil/spieler/709974",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "33",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,993'"
+    },
+    {
+      "competicion_raw": "Iraq FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "62'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,055'"
+    }
+  ]
+}

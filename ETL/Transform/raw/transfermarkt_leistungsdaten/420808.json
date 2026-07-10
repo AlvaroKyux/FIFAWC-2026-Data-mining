@@ -1,0 +1,42 @@
+{
+  "nombre": "George Hirst",
+  "href_perfil": "/george-hirst/profil/spieler/420808",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "42",
+      "goles": "11",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,111'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "19'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "11",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,220'"
+    }
+  ]
+}

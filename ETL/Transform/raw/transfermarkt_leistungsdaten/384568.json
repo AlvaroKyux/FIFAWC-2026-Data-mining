@@ -1,0 +1,60 @@
+{
+  "nombre": "Stjepan Radeljic",
+  "href_perfil": "/stjepan-radeljic/profil/spieler/384568",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,978'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "623'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "336'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "3,507'"
+    }
+  ]
+}

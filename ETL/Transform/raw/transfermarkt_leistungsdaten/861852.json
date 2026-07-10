@@ -1,0 +1,51 @@
+{
+  "nombre": "Damián Bobadilla",
+  "href_perfil": "/damian-bobadilla/profil/spieler/861852",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,066'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "646'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "268'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,070'"
+    }
+  ]
+}

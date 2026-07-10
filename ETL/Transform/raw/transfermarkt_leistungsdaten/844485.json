@@ -1,0 +1,60 @@
+{
+  "nombre": "Tshepang Moremi",
+  "href_perfil": "/tshepang-moremi/profil/spieler/844485",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "28",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,539'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "344'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "95'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "150'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "11",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,308'"
+    }
+  ]
+}

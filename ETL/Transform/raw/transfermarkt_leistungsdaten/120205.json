@@ -1,0 +1,60 @@
+{
+  "nombre": "Michael Gregoritsch",
+  "href_perfil": "/michael-gregoritsch/profil/spieler/120205",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "17",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "917'"
+    },
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "370'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "41'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "15'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "9",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,343'"
+    }
+  ]
+}

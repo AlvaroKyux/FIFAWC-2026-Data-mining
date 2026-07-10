@@ -1,0 +1,42 @@
+{
+  "nombre": "Ricardo Adé",
+  "href_perfil": "/ricardo-ade/profil/spieler/278145",
+  "competiciones": [
+    {
+      "competicion_raw": "LigaPro Serie A",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "840'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "199'"
+    },
+    {
+      "competicion_raw": "Copa Ecuador",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,039'"
+    }
+  ]
+}

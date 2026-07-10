@@ -1,0 +1,33 @@
+{
+  "nombre": "Aiden O'Neill",
+  "href_perfil": "/aiden-oneill/profil/spieler/385918",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "909'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "999'"
+    }
+  ]
+}

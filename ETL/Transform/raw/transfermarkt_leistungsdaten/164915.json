@@ -1,0 +1,33 @@
+{
+  "nombre": "Lionel Mpasi-Nzau",
+  "href_perfil": "/lionel-mpasi-nzau/profil/spieler/164915",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "315'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "315'"
+    }
+  ]
+}

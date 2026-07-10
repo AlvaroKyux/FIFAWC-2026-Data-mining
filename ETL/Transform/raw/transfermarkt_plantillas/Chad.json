@@ -1,0 +1,222 @@
+{
+  "pais": "Chad",
+  "href_seleccion": "/tschad/startseite/verein/13978",
+  "jugadores": [
+    {
+      "player_id": "835133",
+      "nombre": "Gabin Allambatnan",
+      "href_perfil": "/gabin-allambatnan/profil/spieler/835133",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/02/2000 (26)",
+      "club_actual": "Coton Sport FC de Garoua",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1205152",
+      "nombre": "Eli Matthieu Adaoussou",
+      "href_perfil": "/eli-matthieu-adaoussou/profil/spieler/1205152",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/05/1995 (31)",
+      "club_actual": "AS PSI",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1537071",
+      "nombre": "Dock-Gebi Samson",
+      "href_perfil": "/dock-gebi-samson/profil/spieler/1537071",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/01/2006 (20)",
+      "club_actual": "Elect-Sport FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1304636",
+      "nombre": "Felix Noubara",
+      "href_perfil": "/felix-noubara/profil/spieler/1304636",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "11/12/2005 (20)",
+      "club_actual": "AS PSI",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1314333",
+      "nombre": "Wanre Daikreo",
+      "href_perfil": "/wanre-daikreo/profil/spieler/1314333",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "03/07/2000 (25)",
+      "club_actual": "Gazelle FA de Garoua",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1537070",
+      "nombre": "Eric Titnanbaye Ndorkota",
+      "href_perfil": "/eric-titnanbaye-ndorkota/profil/spieler/1537070",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "15/03/2005 (21)",
+      "club_actual": "FC Aiglons (Tchad)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1205210",
+      "nombre": "Charles Tchouplaou",
+      "href_perfil": "/charles-tchouplaou/profil/spieler/1205210",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/01/2001 (25)",
+      "club_actual": "Casric Stars FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "723416",
+      "nombre": "Ahmad Ngouyamsa",
+      "href_perfil": "/ahmad-ngouyamsa/profil/spieler/723416",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/12/2000 (25)",
+      "club_actual": "US Créteil Football",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "950786",
+      "nombre": "Djawal Kaiba",
+      "href_perfil": "/djawal-kaiba/profil/spieler/950786",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/2003 (23)",
+      "club_actual": "FC Wil 1900",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "926334",
+      "nombre": "Mahamat Thiam",
+      "href_perfil": "/mahamat-thiam/profil/spieler/926334",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/09/2001 (24)",
+      "club_actual": "Yverdon Sport FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1314332",
+      "nombre": "Wiliam Damba",
+      "href_perfil": "/wiliam-damba/profil/spieler/1314332",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/10/2003 (22)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1537072",
+      "nombre": "Daniel Mbaitoloum",
+      "href_perfil": "/daniel-mbaitoloum/profil/spieler/1537072",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/02/2008 (18)",
+      "club_actual": "FC Aiglons (Tchad)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1166068",
+      "nombre": "Franky Tchaouna",
+      "href_perfil": "/franky-tchaouna/profil/spieler/1166068",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/09/2005 (20)",
+      "club_actual": "Enna Calcio",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "734575",
+      "nombre": "Charfadine Mahamat",
+      "href_perfil": "/charfadine-mahamat/profil/spieler/734575",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/1997 (29)",
+      "club_actual": "Vendée Poiré Football",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1174704",
+      "nombre": "Lassine Kouma",
+      "href_perfil": "/lassine-kouma/profil/spieler/1174704",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/05/2004 (22)",
+      "club_actual": "Young Africans SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1361509",
+      "nombre": "Célestin Ecua",
+      "href_perfil": "/celestin-ecua/profil/spieler/1361509",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "JS Kabylie",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1384239",
+      "nombre": "Djedanoum Fabien",
+      "href_perfil": "/djedanoum-fabien/profil/spieler/1384239",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/03/2006 (20)",
+      "club_actual": "FC Aiglons (Tchad)",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1201166",
+      "nombre": "Ahmat Moussa Youssouf",
+      "href_perfil": "/ahmat-moussa-youssouf/profil/spieler/1201166",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/09/2003 (22)",
+      "club_actual": "Vendée Poiré Football",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "998818",
+      "nombre": "Yves Allarabaye",
+      "href_perfil": "/yves-allarabaye/profil/spieler/998818",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/09/2003 (22)",
+      "club_actual": "Foullah Edifice",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "598399",
+      "nombre": "Marius Mouandilmadji",
+      "href_perfil": "/marius-mouandilmadji/profil/spieler/598399",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/01/1998 (28)",
+      "club_actual": "Samsunspor",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "1035506",
+      "nombre": "Bertrand Mani",
+      "href_perfil": "/bertrand-mani/profil/spieler/1035506",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/05/1997 (29)",
+      "club_actual": "Gandzasar Kapan",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1166095",
+      "nombre": "Franck Tchaouna",
+      "href_perfil": "/franck-tchaouna/profil/spieler/1166095",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/09/2005 (20)",
+      "club_actual": "Enna Calcio",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "892808",
+      "nombre": "Amine Hiver",
+      "href_perfil": "/amine-hiver/profil/spieler/892808",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/1999 (27)",
+      "club_actual": "ZESCO United FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "729466",
+      "nombre": "Brahim Mahamat",
+      "href_perfil": "/brahim-mahamat/profil/spieler/729466",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/11/1995 (30)",
+      "club_actual": "Canet Roussillon FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

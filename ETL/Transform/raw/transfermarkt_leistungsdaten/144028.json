@@ -1,0 +1,51 @@
+{
+  "nombre": "Leandro Trossard",
+  "href_perfil": "/leandro-trossard/profil/spieler/144028",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "31",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,008'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "631'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "217'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "66'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "8",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,922'"
+    }
+  ]
+}

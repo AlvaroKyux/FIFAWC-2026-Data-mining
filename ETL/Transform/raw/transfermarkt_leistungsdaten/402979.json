@@ -1,0 +1,33 @@
+{
+  "nombre": "Orlando Mosquera",
+  "href_perfil": "/orlando-mosquera/profil/spieler/402979",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "50",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "50",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,000'"
+    }
+  ]
+}

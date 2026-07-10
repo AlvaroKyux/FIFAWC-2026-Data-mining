@@ -1,0 +1,60 @@
+{
+  "nombre": "Emmanuel Agbadou",
+  "href_perfil": "/emmanuel-agbadou/profil/spieler/683895",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,101'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,090'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "183'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,644'"
+    }
+  ]
+}

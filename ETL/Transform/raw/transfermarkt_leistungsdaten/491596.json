@@ -1,0 +1,33 @@
+{
+  "nombre": "Braian Ojeda",
+  "href_perfil": "/braian-ojeda/profil/spieler/491596",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,337'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "215'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,552'"
+    }
+  ]
+}

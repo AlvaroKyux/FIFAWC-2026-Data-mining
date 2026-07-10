@@ -1,0 +1,42 @@
+{
+  "nombre": "Teun Koopmeiners",
+  "href_perfil": "/teun-koopmeiners/profil/spieler/360518",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "33",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,819'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "744'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "106'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,669'"
+    }
+  ]
+}

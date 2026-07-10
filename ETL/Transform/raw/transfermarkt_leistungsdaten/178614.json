@@ -1,0 +1,33 @@
+{
+  "nombre": "Jean Michaël Seri",
+  "href_perfil": "/jean-michael-seri/profil/spieler/178614",
+  "competiciones": [
+    {
+      "competicion_raw": "Prva Liga",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "760'"
+    },
+    {
+      "competicion_raw": "Pokal Slovenije",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "760'"
+    }
+  ]
+}

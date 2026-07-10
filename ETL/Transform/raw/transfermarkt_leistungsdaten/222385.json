@@ -1,0 +1,60 @@
+{
+  "nombre": "Karim Boudiaf",
+  "href_perfil": "/karim-boudiaf/profil/spieler/222385",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "738'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "5'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,088'"
+    }
+  ]
+}

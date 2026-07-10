@@ -1,0 +1,33 @@
+{
+  "nombre": "Luka Sucic",
+  "href_perfil": "/luka-sucic/profil/spieler/502722",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "22",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,019'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "332'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,351'"
+    }
+  ]
+}

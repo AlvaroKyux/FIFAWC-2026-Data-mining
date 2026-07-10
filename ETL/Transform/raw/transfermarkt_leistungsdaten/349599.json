@@ -1,0 +1,42 @@
+{
+  "nombre": "Pervis Estupiñán",
+  "href_perfil": "/pervis-estupinan/profil/spieler/349599",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,036'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "177'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,303'"
+    }
+  ]
+}

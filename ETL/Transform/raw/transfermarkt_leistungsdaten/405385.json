@@ -1,0 +1,42 @@
+{
+  "nombre": "Yukinari Sugawara",
+  "href_perfil": "/yukinari-sugawara/profil/spieler/405385",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,434'"
+    },
+    {
+      "competicion_raw": "Championship",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,591'"
+    }
+  ]
+}

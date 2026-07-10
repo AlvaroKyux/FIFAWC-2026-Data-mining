@@ -1,0 +1,240 @@
+{
+  "pais": "China",
+  "href_seleccion": "/china/startseite/verein/5598",
+  "jugadores": [
+    {
+      "player_id": "788152",
+      "nombre": "Hao Li",
+      "href_perfil": "/hao-li/profil/spieler/788152",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/03/2004 (22)",
+      "club_actual": "Qingdao West Coast",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "625273",
+      "nombre": "Bingliang Yan",
+      "href_perfil": "/bingliang-yan/profil/spieler/625273",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/04/2000 (26)",
+      "club_actual": "Tianjin Jinmen Tiger",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "224161",
+      "nombre": "Junling Yan",
+      "href_perfil": "/junling-yan/profil/spieler/224161",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/01/1991 (35)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "211497",
+      "nombre": "Dianzuo Liu",
+      "href_perfil": "/dianzuo-liu/profil/spieler/211497",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/06/1990 (36)",
+      "club_actual": "Chengdu Rongcheng",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "509001",
+      "nombre": "Chenjie Zhu",
+      "href_perfil": "/chenjie-zhu/profil/spieler/509001",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/08/2000 (25)",
+      "club_actual": "Shanghai Shenhua",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "946850",
+      "nombre": "Haofan Liu",
+      "href_perfil": "/haofan-liu/profil/spieler/946850",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/10/2003 (22)",
+      "club_actual": "Zhejiang FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "424939",
+      "nombre": "Zhen Wei",
+      "href_perfil": "/zhen-wei/profil/spieler/424939",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/02/1997 (29)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "156934",
+      "nombre": "Tyias Browning",
+      "href_perfil": "/tyias-browning/profil/spieler/156934",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/05/1994 (32)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "276523",
+      "nombre": "Pengfei Han",
+      "href_perfil": "/pengfei-han/profil/spieler/276523",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/04/1993 (33)",
+      "club_actual": "Chengdu Rongcheng",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "316041",
+      "nombre": "Yang Liu",
+      "href_perfil": "/yang-liu/profil/spieler/316041",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/06/1995 (31)",
+      "club_actual": "Shandong Taishan",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1012988",
+      "nombre": "Alex Yang",
+      "href_perfil": "/alex-yang/profil/spieler/1012988",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/06/2005 (21)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "527716",
+      "nombre": "Jiahui Huang",
+      "href_perfil": "/jiahui-huang/profil/spieler/527716",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/10/2000 (25)",
+      "club_actual": "Tianjin Jinmen Tiger",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "228326",
+      "nombre": "Shangyuan Wang",
+      "href_perfil": "/shangyuan-wang/profil/spieler/228326",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/06/1993 (33)",
+      "club_actual": "Henan FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "425245",
+      "nombre": "Tianyi Gao",
+      "href_perfil": "/tianyi-gao/profil/spieler/425245",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/1998 (27)",
+      "club_actual": "Shanghai Shenhua",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "329013",
+      "nombre": "Serginho",
+      "href_perfil": "/serginho/profil/spieler/329013",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "15/03/1995 (31)",
+      "club_actual": "Beijing Guoan",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1134838",
+      "nombre": "Weijie Mao",
+      "href_perfil": "/weijie-mao/profil/spieler/1134838",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/2005 (21)",
+      "club_actual": "Dalian Yingbo",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "522543",
+      "nombre": "Wai-Tsun Dai",
+      "href_perfil": "/wai-tsun-dai/profil/spieler/522543",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/07/1999 (26)",
+      "club_actual": "Shenzhen Peng City",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1125720",
+      "nombre": "Yudong Wang",
+      "href_perfil": "/yudong-wang/profil/spieler/1125720",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/11/2006 (19)",
+      "club_actual": "Zhejiang FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "267556",
+      "nombre": "Shihao Wei",
+      "href_perfil": "/shihao-wei/profil/spieler/267556",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/04/1995 (31)",
+      "club_actual": "Chengdu Rongcheng",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "359385",
+      "nombre": "Liangming Lin",
+      "href_perfil": "/liangming-lin/profil/spieler/359385",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/06/1997 (29)",
+      "club_actual": "Beijing Guoan",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "824087",
+      "nombre": "Wenneng Xie",
+      "href_perfil": "/wenneng-xie/profil/spieler/824087",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/02/2001 (25)",
+      "club_actual": "Shandong Taishan",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "268766",
+      "nombre": "Dun Ba",
+      "href_perfil": "/dun-ba/profil/spieler/268766",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/09/1995 (30)",
+      "club_actual": "Tianjin Jinmen Tiger",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "140436",
+      "nombre": "Lei Wu",
+      "href_perfil": "/lei-wu/profil/spieler/140436",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "19/11/1991 (34)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "264429",
+      "nombre": "Yuning Zhang",
+      "href_perfil": "/yuning-zhang/profil/spieler/264429",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/01/1997 (29)",
+      "club_actual": "Beijing Guoan",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "946750",
+      "nombre": "Behram Abduweli",
+      "href_perfil": "/behram-abduweli/profil/spieler/946750",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/03/2003 (23)",
+      "club_actual": "Chengdu Rongcheng",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1238422",
+      "nombre": "Pengyu Zhu",
+      "href_perfil": "/pengyu-zhu/profil/spieler/1238422",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/05/2005 (21)",
+      "club_actual": "Dalian Yingbo",
+      "valor_mercado_raw": "€400k"
+    }
+  ]
+}

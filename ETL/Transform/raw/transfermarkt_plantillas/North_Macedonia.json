@@ -1,0 +1,231 @@
+{
+  "pais": "North Macedonia",
+  "href_seleccion": "/nordmazedonien/startseite/verein/5148",
+  "jugadores": [
+    {
+      "player_id": "165467",
+      "nombre": "Stole Dimitrievski",
+      "href_perfil": "/stole-dimitrievski/profil/spieler/165467",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/12/1993 (32)",
+      "club_actual": "Valencia CF",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "227444",
+      "nombre": "Davor Taleski",
+      "href_perfil": "/davor-taleski/profil/spieler/227444",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/05/1995 (31)",
+      "club_actual": "Vardar Skopje",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "193217",
+      "nombre": "Damjan Siskovski",
+      "href_perfil": "/damjan-siskovski/profil/spieler/193217",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/03/1995 (31)",
+      "club_actual": "FK Borac Banja Luka",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "207623",
+      "nombre": "Visar Musliu",
+      "href_perfil": "/visar-musliu/profil/spieler/207623",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/11/1994 (31)",
+      "club_actual": "Sint-Truidense VV",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "539465",
+      "nombre": "Nikola Serafimov",
+      "href_perfil": "/nikola-serafimov/profil/spieler/539465",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/08/1999 (26)",
+      "club_actual": "Levski Sofia",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "205849",
+      "nombre": "Gjoko Zajkov",
+      "href_perfil": "/gjoko-zajkov/profil/spieler/205849",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/02/1995 (31)",
+      "club_actual": "Ajman Club",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "676121",
+      "nombre": "Imran Fetai",
+      "href_perfil": "/imran-fetai/profil/spieler/676121",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/08/2002 (23)",
+      "club_actual": "Shkendija Tetovo",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "191822",
+      "nombre": "Darko Velkovski",
+      "href_perfil": "/darko-velkovski/profil/spieler/191822",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/06/1995 (31)",
+      "club_actual": "Vardar Skopje",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "585102",
+      "nombre": "Jovan Manev",
+      "href_perfil": "/jovan-manev/profil/spieler/585102",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/01/2001 (25)",
+      "club_actual": "FK Novi Pazar",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "343357",
+      "nombre": "Din Alomerovic",
+      "href_perfil": "/din-alomerovic/profil/spieler/343357",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/06/1997 (29)",
+      "club_actual": "UTA Arad",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "384027",
+      "nombre": "Sebastián Herrera",
+      "href_perfil": "/sebastian-herrera/profil/spieler/384027",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/01/1995 (31)",
+      "club_actual": "FK Borac Banja Luka",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "619297",
+      "nombre": "Stefan Despotovski",
+      "href_perfil": "/stefan-despotovski/profil/spieler/619297",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/01/2003 (23)",
+      "club_actual": "OFK Beograd",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "574776",
+      "nombre": "Georgije Jankulov",
+      "href_perfil": "/georgije-jankulov/profil/spieler/574776",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/11/2001 (24)",
+      "club_actual": "Vardar Skopje",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "392576",
+      "nombre": "Jani Atanasov",
+      "href_perfil": "/jani-atanasov/profil/spieler/392576",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "31/10/1999 (26)",
+      "club_actual": "FC Aktobe",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "867985",
+      "nombre": "Darko Angjeleski",
+      "href_perfil": "/darko-angjeleski/profil/spieler/867985",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/07/1999 (26)",
+      "club_actual": "Sileks Kratovo",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "505324",
+      "nombre": "Agon Elezi",
+      "href_perfil": "/agon-elezi/profil/spieler/505324",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/03/2001 (25)",
+      "club_actual": "FK Sarajevo",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "658543",
+      "nombre": "Sefer Emini",
+      "href_perfil": "/sefer-emini/profil/spieler/658543",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/07/2000 (25)",
+      "club_actual": "Sönderjyske Fodbold",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "207625",
+      "nombre": "Boban Nikolov",
+      "href_perfil": "/boban-nikolov/profil/spieler/207625",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/07/1994 (31)",
+      "club_actual": "Vardar Skopje",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "400489",
+      "nombre": "Eljif Elmas",
+      "href_perfil": "/eljif-elmas/profil/spieler/400489",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/09/1999 (26)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "386786",
+      "nombre": "Darko Churlinov",
+      "href_perfil": "/darko-churlinov/profil/spieler/386786",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/07/2000 (25)",
+      "club_actual": "Kocaelispor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "344972",
+      "nombre": "Darko Dodev",
+      "href_perfil": "/darko-dodev/profil/spieler/344972",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/01/1998 (28)",
+      "club_actual": "Sileks Kratovo",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "543513",
+      "nombre": "Elmin Rastoder",
+      "href_perfil": "/elmin-rastoder/profil/spieler/543513",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/10/2001 (24)",
+      "club_actual": "FC Thun",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "476219",
+      "nombre": "Bojan Miovski",
+      "href_perfil": "/bojan-miovski/profil/spieler/476219",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/06/1999 (27)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "626773",
+      "nombre": "Azer Omeragić",
+      "href_perfil": "/azer-omeragic/profil/spieler/626773",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/07/2002 (23)",
+      "club_actual": "Vardar Skopje",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "344968",
+      "nombre": "Milan Ristovski",
+      "href_perfil": "/milan-ristovski/profil/spieler/344968",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/04/1998 (28)",
+      "club_actual": "Bohemians Prague 1905",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

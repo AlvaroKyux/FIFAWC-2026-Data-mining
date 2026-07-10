@@ -1,0 +1,33 @@
+{
+  "nombre": "Guillermo Ochoa",
+  "href_perfil": "/guillermo-ochoa/profil/spieler/29559",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "22",
+      "goles": "34",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,980'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "4",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "40",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,370'"
+    }
+  ]
+}

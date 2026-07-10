@@ -1,0 +1,42 @@
+{
+  "nombre": "Vladimír Darida",
+  "href_perfil": "/vladimir-darida/profil/spieler/179643",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "29",
+      "goles": "10",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,505'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "184'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "12",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,959'"
+    }
+  ]
+}

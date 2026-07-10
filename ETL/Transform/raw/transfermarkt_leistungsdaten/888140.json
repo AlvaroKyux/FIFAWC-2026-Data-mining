@@ -1,0 +1,33 @@
+{
+  "nombre": "Nishan Velupillay",
+  "href_perfil": "/nishan-velupillay/profil/spieler/888140",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "21",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,384'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "84'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,468'"
+    }
+  ]
+}

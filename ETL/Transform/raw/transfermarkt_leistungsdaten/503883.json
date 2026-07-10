@@ -1,0 +1,42 @@
+{
+  "nombre": "Senne Lammens",
+  "href_perfil": "/senne-lammens/profil/spieler/503883",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "32",
+      "goles": "39",
+      "asistencias": "8",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "45",
+      "asistencias": "8",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,330'"
+    }
+  ]
+}

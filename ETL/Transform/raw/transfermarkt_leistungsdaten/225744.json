@@ -1,0 +1,51 @@
+{
+  "nombre": "Lawrence Shankland",
+  "href_perfil": "/lawrence-shankland/profil/spieler/225744",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "24",
+      "goles": "13",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,050'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "4",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "348'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "96'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "20",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,944'"
+    }
+  ]
+}

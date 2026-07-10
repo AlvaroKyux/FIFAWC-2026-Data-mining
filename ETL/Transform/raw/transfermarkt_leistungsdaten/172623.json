@@ -1,0 +1,42 @@
+{
+  "nombre": "Ramy Rabia",
+  "href_perfil": "/ramy-rabia/profil/spieler/172623",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "18",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,472'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "434'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,116'"
+    }
+  ]
+}

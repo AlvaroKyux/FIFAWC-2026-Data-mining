@@ -1,0 +1,258 @@
+{
+  "pais": "Kosovo",
+  "href_seleccion": "/kosovo/startseite/verein/53982",
+  "jugadores": [
+    {
+      "player_id": "371021",
+      "nombre": "Arijanet Murić",
+      "href_perfil": "/arijanet-muric/profil/spieler/371021",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/11/1998 (27)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "448169",
+      "nombre": "Amir Saipi",
+      "href_perfil": "/amir-saipi/profil/spieler/448169",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/07/2000 (25)",
+      "club_actual": "FC Lugano",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "458353",
+      "nombre": "Visar Bekaj",
+      "href_perfil": "/visar-bekaj/profil/spieler/458353",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/05/1997 (29)",
+      "club_actual": "KF Tirana",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "943126",
+      "nombre": "Altin Gjokaj",
+      "href_perfil": "/altin-gjokaj/profil/spieler/943126",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/11/2005 (20)",
+      "club_actual": "FC Prishtina",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "144860",
+      "nombre": "Faton Maloku",
+      "href_perfil": "/faton-maloku/profil/spieler/144860",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/06/1991 (35)",
+      "club_actual": "FC Drita",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "579459",
+      "nombre": "Albian Hajdari",
+      "href_perfil": "/albian-hajdari/profil/spieler/579459",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/05/2003 (23)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "390168",
+      "nombre": "Kreshnik Hajrizi",
+      "href_perfil": "/kreshnik-hajrizi/profil/spieler/390168",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/05/1999 (27)",
+      "club_actual": "FC Sion",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "624808",
+      "nombre": "Ilir Krasniqi",
+      "href_perfil": "/ilir-krasniqi/profil/spieler/624808",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2000 (26)",
+      "club_actual": "Polissya Zhytomyr",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "656095",
+      "nombre": "Andi Hoti",
+      "href_perfil": "/andi-hoti/profil/spieler/656095",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/03/2003 (23)",
+      "club_actual": "Eintracht Braunschweig",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "815041",
+      "nombre": "Ron Raci",
+      "href_perfil": "/ron-raci/profil/spieler/815041",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/09/2002 (23)",
+      "club_actual": "HNK Hajduk Split",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1136224",
+      "nombre": "Dion Gallapeni",
+      "href_perfil": "/dion-gallapeni/profil/spieler/1136224",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/12/2004 (21)",
+      "club_actual": "Wisla Plock",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "336125",
+      "nombre": "Mërgim Vojvoda",
+      "href_perfil": "/mergim-vojvoda/profil/spieler/336125",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/02/1995 (31)",
+      "club_actual": "Como 1907",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "667457",
+      "nombre": "Leon Avdullahu",
+      "href_perfil": "/leon-avdullahu/profil/spieler/667457",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/2004 (22)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "619279",
+      "nombre": "Veldin Hodza",
+      "href_perfil": "/veldin-hodza/profil/spieler/619279",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/10/2002 (23)",
+      "club_actual": "Rubin Kazan",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "346846",
+      "nombre": "Vesel Demaku",
+      "href_perfil": "/vesel-demaku/profil/spieler/346846",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/02/2000 (26)",
+      "club_actual": "SCR Altach",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "280575",
+      "nombre": "Elvis Rexhbecaj",
+      "href_perfil": "/elvis-rexhbecaj/profil/spieler/280575",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/11/1997 (28)",
+      "club_actual": "FC Augsburg",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "892105",
+      "nombre": "Lindon Emërllahu",
+      "href_perfil": "/lindon-emerllahu/profil/spieler/892105",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/12/2002 (23)",
+      "club_actual": "Polissya Zhytomyr",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "671806",
+      "nombre": "Valmir Matoshi",
+      "href_perfil": "/valmir-matoshi/profil/spieler/671806",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/07/2003 (22)",
+      "club_actual": "FC Thun",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "145115",
+      "nombre": "Valon Berisha",
+      "href_perfil": "/valon-berisha/profil/spieler/145115",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/02/1993 (33)",
+      "club_actual": "FC Zürich",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "229695",
+      "nombre": "Bersant Celina",
+      "href_perfil": "/bersant-celina/profil/spieler/229695",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/09/1996 (29)",
+      "club_actual": "AIK",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "517284",
+      "nombre": "Muharrem Jashari",
+      "href_perfil": "/muharrem-jashari/profil/spieler/517284",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/1998 (28)",
+      "club_actual": "LNZ Cherkasy",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "606893",
+      "nombre": "Ermal Krasniqi",
+      "href_perfil": "/ermal-krasniqi/profil/spieler/606893",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/09/1998 (27)",
+      "club_actual": "Legia Warszawa",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "496857",
+      "nombre": "Edon Zhegrova",
+      "href_perfil": "/edon-zhegrova/profil/spieler/496857",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "31/03/1999 (27)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "755164",
+      "nombre": "Baton Zabergja",
+      "href_perfil": "/baton-zabergja/profil/spieler/755164",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/04/2001 (25)",
+      "club_actual": "FC Kharkiv",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "524290",
+      "nombre": "Fisnik Asllani",
+      "href_perfil": "/fisnik-asllani/profil/spieler/524290",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/08/2002 (23)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "903706",
+      "nombre": "Albion Rrahmani",
+      "href_perfil": "/albion-rrahmani/profil/spieler/903706",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/08/2000 (25)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "396822",
+      "nombre": "Rilind Nivokazi",
+      "href_perfil": "/rilind-nivokazi/profil/spieler/396822",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/01/2000 (26)",
+      "club_actual": "FC Sion",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "452464",
+      "nombre": "Dardan Shabanhaxhaj",
+      "href_perfil": "/dardan-shabanhaxhaj/profil/spieler/452464",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/04/2001 (25)",
+      "club_actual": "Rubin Kazan",
+      "valor_mercado_raw": "€1.50m"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Jack Hendry",
+  "href_perfil": "/jack-hendry/profil/spieler/363223",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,558'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,678'"
+    }
+  ]
+}

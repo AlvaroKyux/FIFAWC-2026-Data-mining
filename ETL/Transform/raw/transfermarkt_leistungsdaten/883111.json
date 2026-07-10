@@ -1,0 +1,24 @@
+{
+  "nombre": "Mohannad Abu Taha",
+  "href_perfil": "/mohannad-abu-taha/profil/spieler/883111",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "31",
+      "goles": "4",
+      "asistencias": "8",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,503'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "4",
+      "asistencias": "8",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,503'"
+    }
+  ]
+}

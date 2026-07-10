@@ -1,0 +1,60 @@
+{
+  "nombre": "Ayoub El Kaabi",
+  "href_perfil": "/ayoub-el-kaabi/profil/spieler/521127",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "22",
+      "goles": "17",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,682'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "724'"
+    },
+    {
+      "competicion_raw": "Super League Play-off",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "428'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "23'"
+    },
+    {
+      "competicion_raw": "Super Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "21",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,857'"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "pais": "Timor-Leste",
+  "href_seleccion": "/osttimor/startseite/verein/17757",
+  "jugadores": [
+    {
+      "player_id": "1109997",
+      "nombre": "Dylan Niski",
+      "href_perfil": "/dylan-niski/profil/spieler/1109997",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/01/2000 (26)",
+      "club_actual": "Western City Rangers FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "678000",
+      "nombre": "Natalino",
+      "href_perfil": "/natalino/profil/spieler/678000",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/12/2000 (25)",
+      "club_actual": "AS Ponta Leste",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "978038",
+      "nombre": "Filonito Nogueira",
+      "href_perfil": "/filonito-nogueira/profil/spieler/978038",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/09/2004 (21)",
+      "club_actual": "SLB Laulara",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1285040",
+      "nombre": "Alexandre Lima",
+      "href_perfil": "/alexandre-lima/profil/spieler/1285040",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Santa Cruz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531863",
+      "nombre": "Eric Tam Silva",
+      "href_perfil": "/eric-tam-silva/profil/spieler/1531863",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "10/07/2002 (23)",
+      "club_actual": "GD Sesimbra",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "964140",
+      "nombre": "Anizo Correia",
+      "href_perfil": "/anizo-correia/profil/spieler/964140",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/05/2003 (23)",
+      "club_actual": "AD San Antonio",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "605602",
+      "nombre": "Filomeno",
+      "href_perfil": "/filomeno/profil/spieler/605602",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/06/1998 (28)",
+      "club_actual": "SLB Laulara",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1169797",
+      "nombre": "Jackson Pereira",
+      "href_perfil": "/jackson-pereira/profil/spieler/1169797",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/04/2004 (22)",
+      "club_actual": "Valentine Phoenix FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "996279",
+      "nombre": "Ryan Harris Jom",
+      "href_perfil": "/ryan-harris-jom/profil/spieler/996279",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/03/2005 (21)",
+      "club_actual": "Rydalmere Lions FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1238528",
+      "nombre": "Liam Farrugia",
+      "href_perfil": "/liam-farrugia/profil/spieler/1238528",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2003 (23)",
+      "club_actual": "Manningham United FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1214066",
+      "nombre": "Oatnasio Da Silva Guterres",
+      "href_perfil": "/oatnasio-da-silva-guterres/profil/spieler/1214066",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/06/2006 (20)",
+      "club_actual": "Portadown FC U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "750039",
+      "nombre": "Santiago da Costa",
+      "href_perfil": "/santiago-da-costa/profil/spieler/750039",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/1999 (27)",
+      "club_actual": "Karketu Dili FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1388794",
+      "nombre": "Amancio Araujo",
+      "href_perfil": "/amancio-araujo/profil/spieler/1388794",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/04/2002 (24)",
+      "club_actual": "Santa Cruz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "964141",
+      "nombre": "Gostavo",
+      "href_perfil": "/gostavo/profil/spieler/964141",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "22/04/2005 (21)",
+      "club_actual": "Tanjong Pagar United",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "804335",
+      "nombre": "João Rangel",
+      "href_perfil": "/joao-rangel/profil/spieler/804335",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "17/07/2001 (24)",
+      "club_actual": "Leiston FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "503985",
+      "nombre": "Claudio Osorio",
+      "href_perfil": "/claudio-osorio/profil/spieler/503985",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/09/2002 (23)",
+      "club_actual": "Cobh Ramblers FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1380345",
+      "nombre": "Tristan Arrarte",
+      "href_perfil": "/tristan-arrarte/profil/spieler/1380345",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/07/2008 (17)",
+      "club_actual": "Western Sydney Wanderers II",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1135423",
+      "nombre": "Luís Figo",
+      "href_perfil": "/luis-figo/profil/spieler/1135423",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/04/2005 (21)",
+      "club_actual": "AD San Antonio",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "632164",
+      "nombre": "João Pedro",
+      "href_perfil": "/joao-pedro/profil/spieler/632164",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/06/1998 (28)",
+      "club_actual": "Kuching City",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1190320",
+      "nombre": "Zion Cruz",
+      "href_perfil": "/zion-cruz/profil/spieler/1190320",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "18/04/2001 (25)",
+      "club_actual": "Lusitano Vildemoinhos",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "978049",
+      "nombre": "Olagar Xavier",
+      "href_perfil": "/olagar-xavier/profil/spieler/978049",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/05/2003 (23)",
+      "club_actual": "AD San Antonio",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1135422",
+      "nombre": "Corsino Lemos",
+      "href_perfil": "/corsino-lemos/profil/spieler/1135422",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "01/06/2006 (20)",
+      "club_actual": "Karketu Dili FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1554209",
+      "nombre": "Angenucu Viegas",
+      "href_perfil": "/angenucu-viegas/profil/spieler/1554209",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/07/2002 (23)",
+      "club_actual": "Karketu Dili FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

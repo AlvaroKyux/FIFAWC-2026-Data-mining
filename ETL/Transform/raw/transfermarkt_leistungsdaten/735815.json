@@ -1,0 +1,51 @@
+{
+  "nombre": "Ayman Yahya",
+  "href_perfil": "/ayman-yahya/profil/spieler/735815",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,249'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "447'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "89'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "166'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,951'"
+    }
+  ]
+}

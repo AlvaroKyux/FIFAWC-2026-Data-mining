@@ -1,0 +1,60 @@
+{
+  "nombre": "Ali Majrashi",
+  "href_perfil": "/ali-majrashi/profil/spieler/672391",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "2,171'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "621'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "280'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "114'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "22'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "1",
+      "minutos_raw": "3,208'"
+    }
+  ]
+}

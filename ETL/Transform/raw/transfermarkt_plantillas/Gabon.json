@@ -1,0 +1,321 @@
+{
+  "pais": "Gabon",
+  "href_seleccion": "/gabun/startseite/verein/5704",
+  "jugadores": [
+    {
+      "player_id": "961091",
+      "nombre": "Loyce Mbaba",
+      "href_perfil": "/loyce-mbaba/profil/spieler/961091",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/05/1998 (28)",
+      "club_actual": "Stella Club d'Adjamé",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1178376",
+      "nombre": "Anse Ngoubi Demba",
+      "href_perfil": "/anse-ngoubi-demba/profil/spieler/1178376",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/01/2000 (26)",
+      "club_actual": "Mosta FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "934843",
+      "nombre": "François Bekale",
+      "href_perfil": "/francois-bekale/profil/spieler/934843",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/02/2002 (24)",
+      "club_actual": "Hafia FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1038308",
+      "nombre": "Michel Mboula",
+      "href_perfil": "/michel-mboula/profil/spieler/1038308",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/2003 (23)",
+      "club_actual": "FC Metz",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "850875",
+      "nombre": "Alex Moucketou-Moussounda",
+      "href_perfil": "/alex-moucketou-moussounda/profil/spieler/850875",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/10/2000 (25)",
+      "club_actual": "Hapoel Petah Tikva",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1119839",
+      "nombre": "Jonathan Do Marcolino",
+      "href_perfil": "/jonathan-do-marcolino/profil/spieler/1119839",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/05/2006 (20)",
+      "club_actual": "Football Bourg-en-Bresse Péronnas 01",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "961098",
+      "nombre": "Mick Omfia",
+      "href_perfil": "/mick-omfia/profil/spieler/961098",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/12/2000 (25)",
+      "club_actual": "ES Sétif",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "822116",
+      "nombre": "Yannis M'Bemba",
+      "href_perfil": "/yannis-mbemba/profil/spieler/822116",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/07/2001 (24)",
+      "club_actual": "FC Dordrecht",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "254249",
+      "nombre": "Aaron Appindangoyé",
+      "href_perfil": "/aaron-appindangoye/profil/spieler/254249",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/02/1992 (34)",
+      "club_actual": "Sivasspor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "60990",
+      "nombre": "Bruno Ecuele Manga",
+      "href_perfil": "/bruno-ecuele-manga/profil/spieler/60990",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/07/1988 (37)",
+      "club_actual": "Paris 13 Atletico",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1470338",
+      "nombre": "Oumar Bagnama",
+      "href_perfil": "/oumar-bagnama/profil/spieler/1470338",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/05/2001 (25)",
+      "club_actual": "AS Mangasport Moanda",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1479929",
+      "nombre": "Farhel Owanga",
+      "href_perfil": "/farhel-owanga/profil/spieler/1479929",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/12/2005 (20)",
+      "club_actual": "AS Mangasport Moanda",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "970279",
+      "nombre": "Jacques Ekomié",
+      "href_perfil": "/jacques-ekomie/profil/spieler/970279",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/08/2003 (22)",
+      "club_actual": "Angers SCO",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "254358",
+      "nombre": "Johann Obiang",
+      "href_perfil": "/johann-obiang/profil/spieler/254358",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/07/1993 (32)",
+      "club_actual": "US Orléans",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "804812",
+      "nombre": "Anthony Oyono",
+      "href_perfil": "/anthony-oyono/profil/spieler/804812",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/04/2001 (25)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "917376",
+      "nombre": "Jérémy Oyono",
+      "href_perfil": "/jeremy-oyono/profil/spieler/917376",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/04/2001 (25)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "170934",
+      "nombre": "Mario Lemina",
+      "href_perfil": "/mario-lemina/profil/spieler/170934",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/1993 (32)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "210081",
+      "nombre": "Didier Ndong",
+      "href_perfil": "/didier-ndong/profil/spieler/210081",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/1994 (32)",
+      "club_actual": "Esteghlal FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "551147",
+      "nombre": "Clench Loufilou",
+      "href_perfil": "/clench-loufilou/profil/spieler/551147",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/04/1999 (27)",
+      "club_actual": "Al-Mina'a SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "170767",
+      "nombre": "André Poko",
+      "href_perfil": "/andre-poko/profil/spieler/170767",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1993 (33)",
+      "club_actual": "Sariyerspor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1149174",
+      "nombre": "Samaké Nzé Bagnama",
+      "href_perfil": "/samake-nze-bagnama/profil/spieler/1149174",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "Stade d'Abidjan",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1049590",
+      "nombre": "Meshak Babanzila",
+      "href_perfil": "/meshak-babanzila/profil/spieler/1049590",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/06/2001 (25)",
+      "club_actual": "CE Europa",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "231306",
+      "nombre": "Guélor Kanga",
+      "href_perfil": "/guelor-kanga/profil/spieler/231306",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/1990 (35)",
+      "club_actual": "Esenler Erokspor",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "809180",
+      "nombre": "Teddy Averlant",
+      "href_perfil": "/teddy-averlant/profil/spieler/809180",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "02/10/1999 (26)",
+      "club_actual": "Amiens SC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "568777",
+      "nombre": "Eric Bocoum",
+      "href_perfil": "/eric-bocoum/profil/spieler/568777",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/1999 (27)",
+      "club_actual": "Gol Gohar Sirjan FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "816124",
+      "nombre": "Noha Lemina",
+      "href_perfil": "/noha-lemina/profil/spieler/816124",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/2005 (21)",
+      "club_actual": "Yverdon Sport FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "236045",
+      "nombre": "Denis Bouanga",
+      "href_perfil": "/denis-bouanga/profil/spieler/236045",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/11/1994 (31)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "1479934",
+      "nombre": "Ben Jorcy Kabinambele",
+      "href_perfil": "/ben-jorcy-kabinambele/profil/spieler/1479934",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/08/2005 (20)",
+      "club_actual": "AS Mangasport Moanda",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "916920",
+      "nombre": "Shavy Babicka",
+      "href_perfil": "/shavy-babicka/profil/spieler/916920",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/06/2000 (26)",
+      "club_actual": "Fatih Karagümrük",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "646733",
+      "nombre": "Jim Allevinah",
+      "href_perfil": "/jim-allevinah/profil/spieler/646733",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/02/1995 (31)",
+      "club_actual": "Kasimpasa",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "243744",
+      "nombre": "David Sambissa",
+      "href_perfil": "/david-sambissa/profil/spieler/243744",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/01/1996 (30)",
+      "club_actual": "Istanbulspor",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "934838",
+      "nombre": "Royce Openda",
+      "href_perfil": "/royce-openda/profil/spieler/934838",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/04/2002 (24)",
+      "club_actual": "FC Girondins Bordeaux",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "58864",
+      "nombre": "Pierre-Emerick Aubameyang",
+      "href_perfil": "/pierre-emerick-aubameyang/profil/spieler/58864",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/06/1989 (37)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1149176",
+      "nombre": "Edlin Randy Essang-Matouti",
+      "href_perfil": "/edlin-randy-essang-matouti/profil/spieler/1149176",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/07/2003 (22)",
+      "club_actual": "USM Khenchela",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "254254",
+      "nombre": "Malick Evouna",
+      "href_perfil": "/malick-evouna/profil/spieler/254254",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/1992 (33)",
+      "club_actual": "AS Mangasport Moanda",
+      "valor_mercado_raw": "€100k"
+    }
+  ]
+}

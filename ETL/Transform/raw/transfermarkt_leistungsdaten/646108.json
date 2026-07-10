@@ -1,0 +1,33 @@
+{
+  "nombre": "Louicius Deedson",
+  "href_perfil": "/louicius-deedson/profil/spieler/646108",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "253'"
+    },
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "253'"
+    }
+  ]
+}

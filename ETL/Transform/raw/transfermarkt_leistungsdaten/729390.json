@@ -1,0 +1,51 @@
+{
+  "nombre": "Mahmoud Saber",
+  "href_perfil": "/mahmoud-saber/profil/spieler/729390",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "18",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,201'"
+    },
+    {
+      "competicion_raw": "Relegation Playoff",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "651'"
+    },
+    {
+      "competicion_raw": "Egypt Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "308'"
+    },
+    {
+      "competicion_raw": "Egyptian League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "6",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,160'"
+    }
+  ]
+}

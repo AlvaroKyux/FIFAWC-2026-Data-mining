@@ -1,0 +1,213 @@
+{
+  "pais": "Sri Lanka",
+  "href_seleccion": "/sri-lanka/startseite/verein/15358",
+  "jugadores": [
+    {
+      "player_id": "189933",
+      "nombre": "Sujan Perera",
+      "href_perfil": "/sujan-perera/profil/spieler/189933",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/07/1992 (33)",
+      "club_actual": "Fortis FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "657684",
+      "nombre": "Kaveesh Lakpriya Fernando",
+      "href_perfil": "/kaveesh-lakpriya-fernando/profil/spieler/657684",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/05/1995 (31)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "948196",
+      "nombre": "Mohamed Mursith",
+      "href_perfil": "/mohamed-mursith/profil/spieler/948196",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/01/2001 (25)",
+      "club_actual": "Blue Star SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "677837",
+      "nombre": "Jude Supan",
+      "href_perfil": "/jude-supan/profil/spieler/677837",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/07/1998 (27)",
+      "club_actual": "Up Country Lions SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1069563",
+      "nombre": "Zahi Addis",
+      "href_perfil": "/zahi-addis/profil/spieler/1069563",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/09/2003 (22)",
+      "club_actual": "Hume City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1119129",
+      "nombre": "William Thomason",
+      "href_perfil": "/william-thomason/profil/spieler/1119129",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "Gold Coast United",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "705168",
+      "nombre": "Aman Faizer",
+      "href_perfil": "/aman-faizer/profil/spieler/705168",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/1999 (27)",
+      "club_actual": "Renown SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "987241",
+      "nombre": "Barath Suresh",
+      "href_perfil": "/barath-suresh/profil/spieler/987241",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/06/2003 (23)",
+      "club_actual": "Langwarrin SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1040925",
+      "nombre": "Steven Sacayaradjy",
+      "href_perfil": "/steven-sacayaradjy/profil/spieler/1040925",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/01/1997 (29)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "559845",
+      "nombre": "Garrett Kelly",
+      "href_perfil": "/garrett-kelly/profil/spieler/559845",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/1996 (30)",
+      "club_actual": "FK Alay Osh",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "547197",
+      "nombre": "Anujan Rajendram",
+      "href_perfil": "/anujan-rajendram/profil/spieler/547197",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2000 (26)",
+      "club_actual": "Vindbjart FK",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "367831",
+      "nombre": "Leon Perera",
+      "href_perfil": "/leon-perera/profil/spieler/367831",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1997 (29)",
+      "club_actual": "Lüneburger SK Hansa",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "912490",
+      "nombre": "Niloshan Senthurvasan",
+      "href_perfil": "/niloshan-senthurvasan/profil/spieler/912490",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/03/2002 (24)",
+      "club_actual": "Drøbak-Frogn IL",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "220458",
+      "nombre": "Adhavan Rajamohan",
+      "href_perfil": "/adhavan-rajamohan/profil/spieler/220458",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/1993 (33)",
+      "club_actual": "FC Järfälla",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1063176",
+      "nombre": "Muhammedhu Munsif",
+      "href_perfil": "/muhammedhu-munsif/profil/spieler/1063176",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Young Star SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "898112",
+      "nombre": "Mohamed Hasmeer",
+      "href_perfil": "/mohamed-hasmeer/profil/spieler/898112",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/01/1998 (28)",
+      "club_actual": "Navy Sea Hawks FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "593981",
+      "nombre": "Sam Durrant",
+      "href_perfil": "/sam-durrant/profil/spieler/593981",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/02/2002 (24)",
+      "club_actual": "Karvan Yevlakh",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "339821",
+      "nombre": "Wade Dekker",
+      "href_perfil": "/wade-dekker/profil/spieler/339821",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/04/1994 (32)",
+      "club_actual": "Dandenong City SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "124721",
+      "nombre": "Ahmed Waseem Razeek",
+      "href_perfil": "/ahmed-waseem-razeek/profil/spieler/124721",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/09/1994 (31)",
+      "club_actual": "Eastern District",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "583720",
+      "nombre": "Oliver Kelaart",
+      "href_perfil": "/oliver-kelaart/profil/spieler/583720",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/04/1998 (28)",
+      "club_actual": "Altona Magic SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1106003",
+      "nombre": "Rahul Suresh",
+      "href_perfil": "/rahul-suresh/profil/spieler/1106003",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/06/2004 (22)",
+      "club_actual": "Dandenong Thunder SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "683855",
+      "nombre": "Dillon De Silva",
+      "href_perfil": "/dillon-de-silva/profil/spieler/683855",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/04/2002 (24)",
+      "club_actual": "Maidenhead United",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1177929",
+      "nombre": "Remiyan Muthuccumaru",
+      "href_perfil": "/remiyan-muthuccumaru/profil/spieler/1177929",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/04/2007 (19)",
+      "club_actual": "FC Emmen U19",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

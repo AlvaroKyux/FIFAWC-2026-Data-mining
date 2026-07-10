@@ -1,0 +1,240 @@
+{
+  "pais": "Scotland",
+  "href_seleccion": "/schottland/startseite/verein/3380",
+  "jugadores": [
+    {
+      "player_id": "201574",
+      "nombre": "Angus Gunn",
+      "href_perfil": "/angus-gunn/profil/spieler/201574",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/01/1996 (30)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "208772",
+      "nombre": "Liam Kelly",
+      "href_perfil": "/liam-kelly/profil/spieler/208772",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/01/1996 (30)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "12589",
+      "nombre": "Craig Gordon",
+      "href_perfil": "/craig-gordon/profil/spieler/12589",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/12/1982 (43)",
+      "club_actual": "Heart of Midlothian FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "255906",
+      "nombre": "Scott McKenna",
+      "href_perfil": "/scott-mckenna/profil/spieler/255906",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1996 (29)",
+      "club_actual": "GNK Dinamo Zagreb",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "363223",
+      "nombre": "Jack Hendry",
+      "href_perfil": "/jack-hendry/profil/spieler/363223",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/05/1995 (31)",
+      "club_actual": "Al-Ettifaq FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "235767",
+      "nombre": "John Souttar",
+      "href_perfil": "/john-souttar/profil/spieler/235767",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/09/1996 (29)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "263268",
+      "nombre": "Dominic Hyam",
+      "href_perfil": "/dominic-hyam/profil/spieler/263268",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/12/1995 (30)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "121385",
+      "nombre": "Grant Hanley",
+      "href_perfil": "/grant-hanley/profil/spieler/121385",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/11/1991 (34)",
+      "club_actual": "Hibernian FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "300716",
+      "nombre": "Kieran Tierney",
+      "href_perfil": "/kieran-tierney/profil/spieler/300716",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/06/1997 (29)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "234803",
+      "nombre": "Andrew Robertson",
+      "href_perfil": "/andrew-robertson/profil/spieler/234803",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/03/1994 (32)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "591949",
+      "nombre": "Aaron Hickey",
+      "href_perfil": "/aaron-hickey/profil/spieler/591949",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/06/2002 (24)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "424015",
+      "nombre": "Nathan Patterson",
+      "href_perfil": "/nathan-patterson/profil/spieler/424015",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/10/2001 (24)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "388171",
+      "nombre": "Anthony Ralston",
+      "href_perfil": "/anthony-ralston/profil/spieler/388171",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/11/1998 (27)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "315969",
+      "nombre": "Scott McTominay",
+      "href_perfil": "/scott-mctominay/profil/spieler/315969",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/12/1996 (29)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "428563",
+      "nombre": "Lewis Ferguson",
+      "href_perfil": "/lewis-ferguson/profil/spieler/428563",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/08/1999 (26)",
+      "club_actual": "Bologna FC 1909",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "193116",
+      "nombre": "John McGinn",
+      "href_perfil": "/john-mcginn/profil/spieler/193116",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/10/1994 (31)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "188077",
+      "nombre": "Ryan Christie",
+      "href_perfil": "/ryan-christie/profil/spieler/188077",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/1995 (31)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "1049911",
+      "nombre": "Tyler Fletcher",
+      "href_perfil": "/tyler-fletcher/profil/spieler/1049911",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/03/2007 (19)",
+      "club_actual": "Manchester United U21",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "126600",
+      "nombre": "Kenny McLean",
+      "href_perfil": "/kenny-mclean/profil/spieler/126600",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/01/1992 (34)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1082993",
+      "nombre": "Findlay Curtis",
+      "href_perfil": "/findlay-curtis/profil/spieler/1082993",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/06/2006 (20)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "719673",
+      "nombre": "Ben Gannon-Doak",
+      "href_perfil": "/ben-gannon-doak/profil/spieler/719673",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/11/2005 (20)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "420808",
+      "nombre": "George Hirst",
+      "href_perfil": "/george-hirst/profil/spieler/420808",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/02/1999 (27)",
+      "club_actual": "Ipswich Town",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "346779",
+      "nombre": "Ché Adams",
+      "href_perfil": "/che-adams/profil/spieler/346779",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/07/1996 (29)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "225744",
+      "nombre": "Lawrence Shankland",
+      "href_perfil": "/lawrence-shankland/profil/spieler/225744",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/08/1995 (30)",
+      "club_actual": "Heart of Midlothian FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "447995",
+      "nombre": "Ross Stewart",
+      "href_perfil": "/ross-stewart/profil/spieler/447995",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/07/1996 (29)",
+      "club_actual": "Southampton FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "347138",
+      "nombre": "Lyndon Dykes",
+      "href_perfil": "/lyndon-dykes/profil/spieler/347138",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/10/1995 (30)",
+      "club_actual": "Charlton Athletic",
+      "valor_mercado_raw": "€800k"
+    }
+  ]
+}

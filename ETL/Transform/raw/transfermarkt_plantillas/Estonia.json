@@ -1,0 +1,249 @@
+{
+  "pais": "Estonia",
+  "href_seleccion": "/estland/startseite/verein/6133",
+  "jugadores": [
+    {
+      "player_id": "493513",
+      "nombre": "Karl Hein",
+      "href_perfil": "/karl-hein/profil/spieler/493513",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/04/2002 (24)",
+      "club_actual": "SV Werder Bremen",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "322681",
+      "nombre": "Henri Perk",
+      "href_perfil": "/henri-perk/profil/spieler/322681",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/10/1999 (26)",
+      "club_actual": "Kalju FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "488270",
+      "nombre": "Kaur Kivila",
+      "href_perfil": "/kaur-kivila/profil/spieler/488270",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/11/2003 (22)",
+      "club_actual": "FC Flora Tallinn",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "139304",
+      "nombre": "Karol Mets",
+      "href_perfil": "/karol-mets/profil/spieler/139304",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/05/1993 (33)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "488280",
+      "nombre": "Erko Tougjas",
+      "href_perfil": "/erko-tougjas/profil/spieler/488280",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/07/2003 (22)",
+      "club_actual": "Halmstads BK",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "260786",
+      "nombre": "Rasmus Peetson",
+      "href_perfil": "/rasmus-peetson/profil/spieler/260786",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/05/1995 (31)",
+      "club_actual": "FCI Levadia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "198988",
+      "nombre": "Märten Kuusk",
+      "href_perfil": "/marten-kuusk/profil/spieler/198988",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/04/1996 (30)",
+      "club_actual": "GKS Katowice",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "707973",
+      "nombre": "Mihhail Kolobov",
+      "href_perfil": "/mihhail-kolobov/profil/spieler/707973",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/03/2005 (21)",
+      "club_actual": "FC Flora Tallinn",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "493032",
+      "nombre": "Tanel Tammik",
+      "href_perfil": "/tanel-tammik/profil/spieler/493032",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/06/2002 (24)",
+      "club_actual": "FCI Levadia",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "707986",
+      "nombre": "Kristofer Käit",
+      "href_perfil": "/kristofer-kait/profil/spieler/707986",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/04/2005 (21)",
+      "club_actual": "Portimonense SAD U23",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "261010",
+      "nombre": "Vlasiy Sinyavskiy",
+      "href_perfil": "/vlasiy-sinyavskiy/profil/spieler/261010",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/11/1996 (29)",
+      "club_actual": "FC Banik Ostrava",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "529512",
+      "nombre": "Kristo Hussar",
+      "href_perfil": "/kristo-hussar/profil/spieler/529512",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "AS Trencin",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "201256",
+      "nombre": "Frank Liivak",
+      "href_perfil": "/frank-liivak/profil/spieler/201256",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/07/1996 (29)",
+      "club_actual": "FCI Levadia",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "571037",
+      "nombre": "Kevor Palumets",
+      "href_perfil": "/kevor-palumets/profil/spieler/571037",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/11/2002 (23)",
+      "club_actual": "Zeleziarne Podbrezova",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "488296",
+      "nombre": "Rocco Shein",
+      "href_perfil": "/rocco-shein/profil/spieler/488296",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/07/2003 (22)",
+      "club_actual": "Fredrikstad FK",
+      "valor_mercado_raw": "€2.30m"
+    },
+    {
+      "player_id": "205227",
+      "nombre": "Mattias Käit",
+      "href_perfil": "/mattias-kait/profil/spieler/205227",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/06/1998 (28)",
+      "club_actual": "FC Thun",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "356736",
+      "nombre": "Markus Soomets",
+      "href_perfil": "/markus-soomets/profil/spieler/356736",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/03/2000 (26)",
+      "club_actual": "IK Start",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "322683",
+      "nombre": "Markus Poom",
+      "href_perfil": "/markus-poom/profil/spieler/322683",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/02/1999 (27)",
+      "club_actual": "AS Trencin",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "978438",
+      "nombre": "Patrik Kristal",
+      "href_perfil": "/patrik-kristal/profil/spieler/978438",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/11/2007 (18)",
+      "club_actual": "1.FC Köln II",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "356892",
+      "nombre": "Vladislav Kreida",
+      "href_perfil": "/vladislav-kreida/profil/spieler/356892",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/09/1999 (26)",
+      "club_actual": "FC Flora Tallinn",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "363125",
+      "nombre": "Ioan Yakovlev",
+      "href_perfil": "/ioan-yakovlev/profil/spieler/363125",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/01/1998 (28)",
+      "club_actual": "Panionios FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "376541",
+      "nombre": "Robi Saarma",
+      "href_perfil": "/robi-saarma/profil/spieler/376541",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/05/2001 (25)",
+      "club_actual": "FK Pardubice",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "363613",
+      "nombre": "Mattias Männilaan",
+      "href_perfil": "/mattias-mannilaan/profil/spieler/363613",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/09/2001 (24)",
+      "club_actual": "Kalju FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "199000",
+      "nombre": "Rauno Sappinen",
+      "href_perfil": "/rauno-sappinen/profil/spieler/199000",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/01/1996 (30)",
+      "club_actual": "FC Flora Tallinn",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "781936",
+      "nombre": "Karel Mustmaa",
+      "href_perfil": "/karel-mustmaa/profil/spieler/781936",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/08/2005 (20)",
+      "club_actual": "PAOK Thessaloniki B",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "356721",
+      "nombre": "Mark Anders Lepik",
+      "href_perfil": "/mark-anders-lepik/profil/spieler/356721",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/09/2000 (25)",
+      "club_actual": "Pärnu JK Vaprus",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "988784",
+      "nombre": "Tony Varjund",
+      "href_perfil": "/tony-varjund/profil/spieler/988784",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/06/2007 (19)",
+      "club_actual": "FC Flora Tallinn",
+      "valor_mercado_raw": "€100k"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Botswana",
+  "href_seleccion": "/botsuana/startseite/verein/15229",
+  "jugadores": [
+    {
+      "player_id": "402723",
+      "nombre": "Goitseone Phoko",
+      "href_perfil": "/goitseone-phoko/profil/spieler/402723",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/12/1994 (31)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "213040",
+      "nombre": "Kabelo Dambe",
+      "href_perfil": "/kabelo-dambe/profil/spieler/213040",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/05/1990 (36)",
+      "club_actual": "Township Rollers",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "383540",
+      "nombre": "Keoagile Kgosipula",
+      "href_perfil": "/keoagile-kgosipula/profil/spieler/383540",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/01/1996 (30)",
+      "club_actual": "Mochudi Centre Chiefs FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1469941",
+      "nombre": "Shanganani Ngada",
+      "href_perfil": "/shanganani-ngada/profil/spieler/1469941",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "16/03/1992 (34)",
+      "club_actual": "Mochudi Centre Chiefs FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "594128",
+      "nombre": "Thatayaone Ditlhokwe",
+      "href_perfil": "/thatayaone-ditlhokwe/profil/spieler/594128",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/09/1998 (27)",
+      "club_actual": "Al-Shomooa SC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "330755",
+      "nombre": "Mosha Gaolaolwe",
+      "href_perfil": "/mosha-gaolaolwe/profil/spieler/330755",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/12/1993 (32)",
+      "club_actual": "Township Rollers",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "661583",
+      "nombre": "Alford Velaphi",
+      "href_perfil": "/alford-velaphi/profil/spieler/661583",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/1999 (27)",
+      "club_actual": "Gaborone United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1021809",
+      "nombre": "Tebogo Kopelang",
+      "href_perfil": "/tebogo-kopelang/profil/spieler/1021809",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/04/2000 (26)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "661582",
+      "nombre": "Mothusi Johnson",
+      "href_perfil": "/mothusi-johnson/profil/spieler/661582",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/07/1997 (28)",
+      "club_actual": "Gaborone United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1175279",
+      "nombre": "Chicco Molefe",
+      "href_perfil": "/chicco-molefe/profil/spieler/1175279",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/07/1995 (30)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "661581",
+      "nombre": "Thabo Leinanyane",
+      "href_perfil": "/thabo-leinanyane/profil/spieler/661581",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/07/1993 (32)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "353875",
+      "nombre": "Gape Edwin Mohutsiwa",
+      "href_perfil": "/gape-edwin-mohutsiwa/profil/spieler/353875",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/03/1997 (29)",
+      "club_actual": "MC Oran",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "661585",
+      "nombre": "Mothusi Cooper",
+      "href_perfil": "/mothusi-cooper/profil/spieler/661585",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/07/1997 (28)",
+      "club_actual": "Mouloudia d'Oujda",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "340018",
+      "nombre": "Lebogang Ditsile",
+      "href_perfil": "/lebogang-ditsile/profil/spieler/340018",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/04/1996 (30)",
+      "club_actual": "Gaborone United",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1146960",
+      "nombre": "Olebogeng Ramotse",
+      "href_perfil": "/olebogeng-ramotse/profil/spieler/1146960",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/01/1998 (28)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "339489",
+      "nombre": "Segolame Boy",
+      "href_perfil": "/segolame-boy/profil/spieler/339489",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/11/1992 (33)",
+      "club_actual": "Sua Flamingoes FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "780584",
+      "nombre": "Godiraone Modingwane",
+      "href_perfil": "/godiraone-modingwane/profil/spieler/780584",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/06/1996 (30)",
+      "club_actual": "Botswana Defence Force XI",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "513273",
+      "nombre": "Thatayaone Kgamanyane",
+      "href_perfil": "/thatayaone-kgamanyane/profil/spieler/513273",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/01/1996 (30)",
+      "club_actual": "Gaborone United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "661586",
+      "nombre": "Gilbert Baruti",
+      "href_perfil": "/gilbert-baruti/profil/spieler/661586",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/1992 (34)",
+      "club_actual": "Mochudi Centre Chiefs FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1146971",
+      "nombre": "Monty Enosa",
+      "href_perfil": "/monty-enosa/profil/spieler/1146971",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/2004 (22)",
+      "club_actual": "Mochudi Centre Chiefs FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "339552",
+      "nombre": "Kabelo Seakanyeng",
+      "href_perfil": "/kabelo-seakanyeng/profil/spieler/339552",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/06/1993 (33)",
+      "club_actual": "MAS Fès",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "429978",
+      "nombre": "Thabang Sesinyi",
+      "href_perfil": "/thabang-sesinyi/profil/spieler/429978",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/10/1992 (33)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "513275",
+      "nombre": "Tumisang Orebonye",
+      "href_perfil": "/tumisang-orebonye/profil/spieler/513275",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/03/1996 (30)",
+      "club_actual": "Al-Shomooa SC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "353881",
+      "nombre": "Omaatla Kebatho",
+      "href_perfil": "/omaatla-kebatho/profil/spieler/353881",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/06/1993 (33)",
+      "club_actual": "Jwaneng Galaxy FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1491276",
+      "nombre": "Losika Ratshukudu",
+      "href_perfil": "/losika-ratshukudu/profil/spieler/1491276",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/02/2006 (20)",
+      "club_actual": "Slaven Belupo Koprivnica",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1253030",
+      "nombre": "Thabo Maponda",
+      "href_perfil": "/thabo-maponda/profil/spieler/1253030",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/07/2000 (25)",
+      "club_actual": "Gaborone United",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

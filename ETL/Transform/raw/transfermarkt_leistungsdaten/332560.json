@@ -1,0 +1,33 @@
+{
+  "nombre": "Deiver Machado",
+  "href_perfil": "/deiver-machado/profil/spieler/332560",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "19",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,186'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "123'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,309'"
+    }
+  ]
+}

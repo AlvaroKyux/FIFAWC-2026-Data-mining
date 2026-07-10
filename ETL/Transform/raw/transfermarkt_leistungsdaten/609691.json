@@ -1,0 +1,51 @@
+{
+  "nombre": "Wilguens Paugain",
+  "href_perfil": "/wilguens-paugain/profil/spieler/609691",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,011'"
+    },
+    {
+      "competicion_raw": "JPL Relegation Play-Offs",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "269'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "2de Nationale VV A",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,388'"
+    }
+  ]
+}

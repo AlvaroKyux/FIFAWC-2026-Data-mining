@@ -1,0 +1,42 @@
+{
+  "nombre": "Mario Pašalić",
+  "href_perfil": "/mario-pasalic/profil/spieler/205938",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "33",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,931'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "604'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "236'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "10",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,771'"
+    }
+  ]
+}

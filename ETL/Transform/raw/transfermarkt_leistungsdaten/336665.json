@@ -1,0 +1,60 @@
+{
+  "nombre": "Sultan Al-Brake",
+  "href_perfil": "/sultan-al-brake/profil/spieler/336665",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,435'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "653'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "60'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,418'"
+    }
+  ]
+}

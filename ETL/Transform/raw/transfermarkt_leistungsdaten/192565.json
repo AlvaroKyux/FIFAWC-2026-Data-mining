@@ -1,0 +1,51 @@
+{
+  "nombre": "Leroy Sané",
+  "href_perfil": "/leroy-sane/profil/spieler/192565",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "28",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,288'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "723'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "191'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "169'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "7",
+      "asistencias": "9",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,371'"
+    }
+  ]
+}

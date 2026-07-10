@@ -1,0 +1,240 @@
+{
+  "pais": "Spain",
+  "href_seleccion": "/spanien/startseite/verein/3375",
+  "jugadores": [
+    {
+      "player_id": "561613",
+      "nombre": "Joan García",
+      "href_perfil": "/joan-garcia/profil/spieler/561613",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/05/2001 (25)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "262749",
+      "nombre": "David Raya",
+      "href_perfil": "/david-raya/profil/spieler/262749",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/09/1995 (30)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "262396",
+      "nombre": "Unai Simón",
+      "href_perfil": "/unai-simon/profil/spieler/262396",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/06/1997 (29)",
+      "club_actual": "Athletic Bilbao",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "962110",
+      "nombre": "Pau Cubarsí",
+      "href_perfil": "/pau-cubarsi/profil/spieler/962110",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/01/2007 (19)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "466794",
+      "nombre": "Eric García",
+      "href_perfil": "/eric-garcia/profil/spieler/466794",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/2001 (25)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "844637",
+      "nombre": "Marc Pubill",
+      "href_perfil": "/marc-pubill/profil/spieler/844637",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/06/2003 (23)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "176553",
+      "nombre": "Aymeric Laporte",
+      "href_perfil": "/aymeric-laporte/profil/spieler/176553",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/05/1994 (32)",
+      "club_actual": "Athletic Bilbao",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "284857",
+      "nombre": "Marc Cucurella",
+      "href_perfil": "/marc-cucurella/profil/spieler/284857",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/07/1998 (27)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "193082",
+      "nombre": "Alejandro Grimaldo",
+      "href_perfil": "/alejandro-grimaldo/profil/spieler/193082",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/09/1995 (30)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "553875",
+      "nombre": "Pedro Porro",
+      "href_perfil": "/pedro-porro/profil/spieler/553875",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/09/1999 (26)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "282411",
+      "nombre": "Marcos Llorente",
+      "href_perfil": "/marcos-llorente/profil/spieler/282411",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/01/1995 (31)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "423440",
+      "nombre": "Martín Zubimendi",
+      "href_perfil": "/martin-zubimendi/profil/spieler/423440",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/02/1999 (27)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "357565",
+      "nombre": "Rodri",
+      "href_perfil": "/rodri/profil/spieler/357565",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/1996 (30)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "683840",
+      "nombre": "Pedri",
+      "href_perfil": "/pedri/profil/spieler/683840",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/11/2002 (23)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€150.00m"
+    },
+    {
+      "player_id": "350219",
+      "nombre": "Fabián Ruiz",
+      "href_perfil": "/fabian-ruiz/profil/spieler/350219",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "646740",
+      "nombre": "Gavi",
+      "href_perfil": "/gavi/profil/spieler/646740",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/08/2004 (21)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "338424",
+      "nombre": "Mikel Merino",
+      "href_perfil": "/mikel-merino/profil/spieler/338424",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/1996 (30)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "293385",
+      "nombre": "Dani Olmo",
+      "href_perfil": "/dani-olmo/profil/spieler/293385",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/1998 (28)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "548111",
+      "nombre": "Álex Baena",
+      "href_perfil": "/alex-baena/profil/spieler/548111",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/07/2001 (24)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "709187",
+      "nombre": "Nico Williams",
+      "href_perfil": "/nico-williams/profil/spieler/709187",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2002 (23)",
+      "club_actual": "Athletic Bilbao",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "935231",
+      "nombre": "Víctor Muñoz",
+      "href_perfil": "/victor-munoz/profil/spieler/935231",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/07/2003 (22)",
+      "club_actual": "CA Osasuna",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "937958",
+      "nombre": "Lamine Yamal",
+      "href_perfil": "/lamine-yamal/profil/spieler/937958",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/07/2007 (18)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€200.00m"
+    },
+    {
+      "player_id": "568157",
+      "nombre": "Yéremy Pino",
+      "href_perfil": "/yeremy-pino/profil/spieler/568157",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/10/2002 (23)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "398184",
+      "nombre": "Ferran Torres",
+      "href_perfil": "/ferran-torres/profil/spieler/398184",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/02/2000 (26)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "351478",
+      "nombre": "Mikel Oyarzabal",
+      "href_perfil": "/mikel-oyarzabal/profil/spieler/351478",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/04/1997 (29)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "278359",
+      "nombre": "Borja Iglesias",
+      "href_perfil": "/borja-iglesias/profil/spieler/278359",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/01/1993 (33)",
+      "club_actual": "Celta de Vigo",
+      "valor_mercado_raw": "€2.80m"
+    }
+  ]
+}

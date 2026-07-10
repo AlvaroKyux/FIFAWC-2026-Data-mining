@@ -1,0 +1,231 @@
+{
+  "pais": "Mozambique",
+  "href_seleccion": "/mosambik/startseite/verein/5129",
+  "jugadores": [
+    {
+      "player_id": "876281",
+      "nombre": "Ernan Siluane",
+      "href_perfil": "/ernan-siluane/profil/spieler/876281",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/09/1998 (27)",
+      "club_actual": "Black Bulls",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "863819",
+      "nombre": "Kimiss Zavala",
+      "href_perfil": "/kimiss-zavala/profil/spieler/863819",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/05/2004 (22)",
+      "club_actual": "CS Marítimo",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "876081",
+      "nombre": "Ivane Urrubal",
+      "href_perfil": "/ivane-urrubal/profil/spieler/876081",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/01/1997 (29)",
+      "club_actual": "AD Pemba",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "426964",
+      "nombre": "Edmilson Dove",
+      "href_perfil": "/edmilson-dove/profil/spieler/426964",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/07/1994 (31)",
+      "club_actual": "Al-Quwa Al-Jawiya",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "615702",
+      "nombre": "Feliciano Jone",
+      "href_perfil": "/feliciano-jone/profil/spieler/615702",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/11/1996 (29)",
+      "club_actual": "Abu Salim SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "176609",
+      "nombre": "Chico",
+      "href_perfil": "/chico/profil/spieler/176609",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/11/1991 (34)",
+      "club_actual": "CD Costa do Sol",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "863809",
+      "nombre": "Celton",
+      "href_perfil": "/celton/profil/spieler/863809",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/01/2002 (24)",
+      "club_actual": "Black Bulls",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "876433",
+      "nombre": "Ezequiel Idalina",
+      "href_perfil": "/ezequiel-idalina/profil/spieler/876433",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/01/2003 (23)",
+      "club_actual": "Clube Ferroviário de Maputo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1283961",
+      "nombre": "Valter",
+      "href_perfil": "/valter/profil/spieler/1283961",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/05/2002 (24)",
+      "club_actual": "Clube Ferroviário da Beira",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1459608",
+      "nombre": "Guebuza",
+      "href_perfil": "/guebuza/profil/spieler/1459608",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/04/2006 (20)",
+      "club_actual": "Black Bulls",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615701",
+      "nombre": "Infren Matola",
+      "href_perfil": "/infren-matola/profil/spieler/615701",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/02/1996 (30)",
+      "club_actual": "UD Songo",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1455758",
+      "nombre": "Oscar Cherene",
+      "href_perfil": "/oscar-cherene/profil/spieler/1455758",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/03/2003 (23)",
+      "club_actual": "UD Songo",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "315641",
+      "nombre": "Bheu Januário",
+      "href_perfil": "/bheu-januario/profil/spieler/315641",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/08/1993 (32)",
+      "club_actual": "Clube Ferroviário da Beira",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "514196",
+      "nombre": "Manuel Kambala",
+      "href_perfil": "/manuel-kambala/profil/spieler/514196",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/1991 (34)",
+      "club_actual": "Polokwane City FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "568857",
+      "nombre": "Amadú",
+      "href_perfil": "/amadu/profil/spieler/568857",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/12/1996 (29)",
+      "club_actual": "CD Costa do Sol",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "844571",
+      "nombre": "Keyns Abdala",
+      "href_perfil": "/keyns-abdala/profil/spieler/844571",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/03/2003 (23)",
+      "club_actual": "Leça FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1552157",
+      "nombre": "Nélio Matsinhe",
+      "href_perfil": "/nelio-matsinhe/profil/spieler/1552157",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Clube Ferroviário de Maputo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "441690",
+      "nombre": "Neymar",
+      "href_perfil": "/neymar/profil/spieler/441690",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/11/1997 (28)",
+      "club_actual": "Ferroviário de Nacala",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "876466",
+      "nombre": "Dário",
+      "href_perfil": "/dario/profil/spieler/876466",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/01/1996 (30)",
+      "club_actual": "Ferroviário de Nacala",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1552155",
+      "nombre": "Alcídio Raice",
+      "href_perfil": "/alcidio-raice/profil/spieler/1552155",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/05/2005 (21)",
+      "club_actual": "UD Songo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "110598",
+      "nombre": "Luís Miquissone",
+      "href_perfil": "/luis-miquissone/profil/spieler/110598",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/07/1995 (30)",
+      "club_actual": "Al-Ahly SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1111604",
+      "nombre": "Xamin",
+      "href_perfil": "/xamin/profil/spieler/1111604",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/02/2003 (23)",
+      "club_actual": "CD Chingale",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111605",
+      "nombre": "Ângelo Tomás Cantolo",
+      "href_perfil": "/angelo-tomas-cantolo/profil/spieler/1111605",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/05/2003 (23)",
+      "club_actual": "Black Bulls",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111613",
+      "nombre": "Chamito",
+      "href_perfil": "/chamito/profil/spieler/1111613",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/01/2004 (22)",
+      "club_actual": "Varzim SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "474649",
+      "nombre": "Dayo António",
+      "href_perfil": "/dayo-antonio/profil/spieler/474649",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/08/1988 (37)",
+      "club_actual": "Clube Ferroviário da Beira",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

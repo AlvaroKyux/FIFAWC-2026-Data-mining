@@ -1,0 +1,42 @@
+{
+  "nombre": "Mohamed Kanno",
+  "href_perfil": "/mohamed-kanno/profil/spieler/308120",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,085'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "527'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "394'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "5",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,006'"
+    }
+  ]
+}

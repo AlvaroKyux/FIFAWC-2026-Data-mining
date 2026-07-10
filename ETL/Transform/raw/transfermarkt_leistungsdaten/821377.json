@@ -1,0 +1,51 @@
+{
+  "nombre": "Nawaf Boushal",
+  "href_perfil": "/nawaf-boushal/profil/spieler/821377",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,871'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "644'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "175'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "-",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,870'"
+    }
+  ]
+}

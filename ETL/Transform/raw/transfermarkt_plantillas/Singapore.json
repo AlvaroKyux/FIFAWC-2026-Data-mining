@@ -1,0 +1,258 @@
+{
+  "pais": "Singapore",
+  "href_seleccion": "/singapur/startseite/verein/15357",
+  "jugadores": [
+    {
+      "player_id": "150070",
+      "nombre": "Izwan Mahbud",
+      "href_perfil": "/izwan-mahbud/profil/spieler/150070",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/07/1990 (35)",
+      "club_actual": "Young Lions",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "178812",
+      "nombre": "Syazwan Buhari",
+      "href_perfil": "/syazwan-buhari/profil/spieler/178812",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/09/1992 (33)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "234790",
+      "nombre": "Rudy Khairullah",
+      "href_perfil": "/rudy-khairullah/profil/spieler/234790",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/07/1994 (31)",
+      "club_actual": "Geylang International",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "343503",
+      "nombre": "Irfan Fandi",
+      "href_perfil": "/irfan-fandi/profil/spieler/343503",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/08/1997 (28)",
+      "club_actual": "Port FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "317869",
+      "nombre": "Lionel Tan",
+      "href_perfil": "/lionel-tan/profil/spieler/317869",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/1997 (29)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "870489",
+      "nombre": "Raoul Suhaimi",
+      "href_perfil": "/raoul-suhaimi/profil/spieler/870489",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/09/2005 (20)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "149956",
+      "nombre": "Safuwan Baharudin",
+      "href_perfil": "/safuwan-baharudin/profil/spieler/149956",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/1991 (34)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "68636",
+      "nombre": "Hariss Harun",
+      "href_perfil": "/hariss-harun/profil/spieler/68636",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/11/1990 (35)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "709146",
+      "nombre": "Nur Adam Abdullah",
+      "href_perfil": "/nur-adam-abdullah/profil/spieler/709146",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/04/2001 (25)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "559484",
+      "nombre": "Ryhan Stewart",
+      "href_perfil": "/ryhan-stewart/profil/spieler/559484",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/02/2000 (26)",
+      "club_actual": "Kanchanaburi Power FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "559477",
+      "nombre": "Irfan Najeeb",
+      "href_perfil": "/irfan-najeeb/profil/spieler/559477",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/07/1999 (26)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "438852",
+      "nombre": "Amirul Adli Azmi",
+      "href_perfil": "/amirul-adli-azmi/profil/spieler/438852",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/1996 (30)",
+      "club_actual": "Negeri Sembilan FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "432648",
+      "nombre": "Zulqarnaen Suzliman",
+      "href_perfil": "/zulqarnaen-suzliman/profil/spieler/432648",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/03/1998 (28)",
+      "club_actual": "FC Jurong",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "595906",
+      "nombre": "Jacob Mahler",
+      "href_perfil": "/jacob-mahler/profil/spieler/595906",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/04/2000 (26)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "746148",
+      "nombre": "Harhys Stewart",
+      "href_perfil": "/harhys-stewart/profil/spieler/746148",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/03/2001 (25)",
+      "club_actual": "Uthai Thani FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "295067",
+      "nombre": "Kyoga Nakamura",
+      "href_perfil": "/kyoga-nakamura/profil/spieler/295067",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/1996 (30)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "559476",
+      "nombre": "Shah Shahiran",
+      "href_perfil": "/shah-shahiran/profil/spieler/559476",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/11/1999 (26)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "216909",
+      "nombre": "Ui-young Song",
+      "href_perfil": "/ui-young-song/profil/spieler/216909",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/1993 (32)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "432421",
+      "nombre": "Hami Syahin",
+      "href_perfil": "/hami-syahin/profil/spieler/432421",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/11/1998 (27)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "432617",
+      "nombre": "Saifullah Akbar",
+      "href_perfil": "/saifullah-akbar/profil/spieler/432617",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/01/1999 (27)",
+      "club_actual": "Hougang United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "705034",
+      "nombre": "Joel Chew",
+      "href_perfil": "/joel-chew/profil/spieler/705034",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/02/2000 (26)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "707146",
+      "nombre": "Farhan Zulkifli",
+      "href_perfil": "/farhan-zulkifli/profil/spieler/707146",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/11/2002 (23)",
+      "club_actual": "Hougang United",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "391980",
+      "nombre": "Shawal Anuar",
+      "href_perfil": "/shawal-anuar/profil/spieler/391980",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/04/1991 (35)",
+      "club_actual": "Lion City Sailors",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "884710",
+      "nombre": "Glenn Kweh",
+      "href_perfil": "/glenn-kweh/profil/spieler/884710",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/03/2000 (26)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1085314",
+      "nombre": "Nathan Mao",
+      "href_perfil": "/nathan-mao/profil/spieler/1085314",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/03/2008 (18)",
+      "club_actual": "Young Lions",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "343536",
+      "nombre": "Ikhsan Fandi",
+      "href_perfil": "/ikhsan-fandi/profil/spieler/343536",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/04/1999 (27)",
+      "club_actual": "BG Pathum United",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "832827",
+      "nombre": "Jordan Emaviwe",
+      "href_perfil": "/jordan-emaviwe/profil/spieler/832827",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/04/2001 (25)",
+      "club_actual": "Singha Chiangrai United",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "705517",
+      "nombre": "Ilhan Fandi",
+      "href_perfil": "/ilhan-fandi/profil/spieler/705517",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/11/2002 (23)",
+      "club_actual": "Buriram United",
+      "valor_mercado_raw": "€200k"
+    }
+  ]
+}

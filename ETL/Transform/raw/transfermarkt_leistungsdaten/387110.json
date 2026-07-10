@@ -1,0 +1,24 @@
+{
+  "nombre": "Petar Musa",
+  "href_perfil": "/petar-musa/profil/spieler/387110",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "13",
+      "goles": "12",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,044'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "12",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,044'"
+    }
+  ]
+}

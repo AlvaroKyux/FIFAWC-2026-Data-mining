@@ -1,0 +1,42 @@
+{
+  "nombre": "Jan Paul van Hecke",
+  "href_perfil": "/jan-paul-van-hecke/profil/spieler/576314",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "36",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,211'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "85'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "115'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,411'"
+    }
+  ]
+}

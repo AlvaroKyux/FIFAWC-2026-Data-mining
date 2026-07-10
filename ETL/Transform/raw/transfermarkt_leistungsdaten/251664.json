@@ -1,0 +1,60 @@
+{
+  "nombre": "Ivan Toney",
+  "href_perfil": "/ivan-toney/profil/spieler/251664",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "32",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,750'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "420'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "42",
+      "asistencias": "11",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "4,250'"
+    }
+  ]
+}

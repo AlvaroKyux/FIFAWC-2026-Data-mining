@@ -1,0 +1,240 @@
+{
+  "pais": "Jordan",
+  "href_seleccion": "/jordanien/startseite/verein/15737",
+  "jugadores": [
+    {
+      "player_id": "261850",
+      "nombre": "Yazeed Abulaila",
+      "href_perfil": "/yazeed-abulaila/profil/spieler/261850",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/01/1993 (33)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "261837",
+      "nombre": "Noor Bane Ataya",
+      "href_perfil": "/noor-bane-ataya/profil/spieler/261837",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/01/1993 (33)",
+      "club_actual": "Al-Faisaly SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "658805",
+      "nombre": "Abdallah Al-Fakhouri",
+      "href_perfil": "/abdallah-al-fakhouri/profil/spieler/658805",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/01/2000 (26)",
+      "club_actual": "Al-Wehdat SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "539961",
+      "nombre": "Yazan Al-Arab",
+      "href_perfil": "/yazan-al-arab/profil/spieler/539961",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/01/1996 (30)",
+      "club_actual": "FC Seoul",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "561481",
+      "nombre": "Saed Al-Rousan",
+      "href_perfil": "/saed-al-rousan/profil/spieler/561481",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/02/1997 (29)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "882197",
+      "nombre": "Abdallah Nasib",
+      "href_perfil": "/abdallah-nasib/profil/spieler/882197",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/02/1994 (32)",
+      "club_actual": "Al-Zawraa SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "895291",
+      "nombre": "Husam Abu Dahab",
+      "href_perfil": "/husam-abu-dahab/profil/spieler/895291",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/05/2000 (26)",
+      "club_actual": "Al-Faisaly SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "658052",
+      "nombre": "Mohammad Abualnadi",
+      "href_perfil": "/mohammad-abualnadi/profil/spieler/658052",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/02/2001 (25)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "658807",
+      "nombre": "Saleem Obaid",
+      "href_perfil": "/saleem-obaid/profil/spieler/658807",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/01/1992 (34)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "883111",
+      "nombre": "Mohannad Abu Taha",
+      "href_perfil": "/mohannad-abu-taha/profil/spieler/883111",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/02/2003 (23)",
+      "club_actual": "Al-Quwa Al-Jawiya",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "895249",
+      "nombre": "Mohammad Abu Hasheesh",
+      "href_perfil": "/mohammad-abu-hasheesh/profil/spieler/895249",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/05/1995 (31)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1252806",
+      "nombre": "Mohammad Abu Ghoush",
+      "href_perfil": "/mohammad-abu-ghoush/profil/spieler/1252806",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/07/2005 (20)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "310943",
+      "nombre": "Ehsan Haddad",
+      "href_perfil": "/ehsan-haddad/profil/spieler/310943",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1994 (32)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1378902",
+      "nombre": "Anas Badawi",
+      "href_perfil": "/anas-badawi/profil/spieler/1378902",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/09/1997 (28)",
+      "club_actual": "Al-Faisaly SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "734751",
+      "nombre": "Nizar Al-Rashdan",
+      "href_perfil": "/nizar-al-rashdan/profil/spieler/734751",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/03/1999 (27)",
+      "club_actual": "Qatar SC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "744040",
+      "nombre": "Amer Jamous",
+      "href_perfil": "/amer-jamous/profil/spieler/744040",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/07/2002 (23)",
+      "club_actual": "Al-Zawraa SC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "561485",
+      "nombre": "Noor Al-Rawabdeh",
+      "href_perfil": "/noor-al-rawabdeh/profil/spieler/561485",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/02/1997 (29)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "709974",
+      "nombre": "Ibrahim Saadeh",
+      "href_perfil": "/ibrahim-saadeh/profil/spieler/709974",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/04/2000 (26)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "261842",
+      "nombre": "Rajaei Ayed",
+      "href_perfil": "/rajaei-ayed/profil/spieler/261842",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/07/1993 (32)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "310801",
+      "nombre": "Mohammad Al-Dawoud",
+      "href_perfil": "/mohammad-al-dawoud/profil/spieler/310801",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/12/1992 (33)",
+      "club_actual": "Al-Wehdat SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1252820",
+      "nombre": "Odeh Fakhoury",
+      "href_perfil": "/odeh-fakhoury/profil/spieler/1252820",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/11/2005 (20)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "401086",
+      "nombre": "Mahmoud Al-Mardi",
+      "href_perfil": "/mahmoud-al-mardi/profil/spieler/401086",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/10/1993 (32)",
+      "club_actual": "Al-Hussein SC (Irbid)",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "551505",
+      "nombre": "Mousa Tamari",
+      "href_perfil": "/mousa-tamari/profil/spieler/551505",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/06/1997 (29)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "677986",
+      "nombre": "Mohammad Abu Zrayq",
+      "href_perfil": "/mohammad-abu-zrayq/profil/spieler/677986",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/12/1997 (28)",
+      "club_actual": "Raja Club Athletic",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1059056",
+      "nombre": "Ali Azaizeh",
+      "href_perfil": "/ali-azaizeh/profil/spieler/1059056",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/04/2004 (22)",
+      "club_actual": "Al-Shabab FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "664057",
+      "nombre": "Ali Olwan",
+      "href_perfil": "/ali-olwan/profil/spieler/664057",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/03/2000 (26)",
+      "club_actual": "Al-Sailiya SC",
+      "valor_mercado_raw": "€800k"
+    }
+  ]
+}

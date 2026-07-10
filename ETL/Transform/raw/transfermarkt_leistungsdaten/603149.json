@@ -1,0 +1,33 @@
+{
+  "nombre": "Mohammad Mohebi",
+  "href_perfil": "/mohammad-mohebi/profil/spieler/603149",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "28",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,612'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "159'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "1,771'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Nabil Bentaleb",
+  "href_perfil": "/nabil-bentaleb/profil/spieler/245537",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,278'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "548'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,006'"
+    }
+  ]
+}

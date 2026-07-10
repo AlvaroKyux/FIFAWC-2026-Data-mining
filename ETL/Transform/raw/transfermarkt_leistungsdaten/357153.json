@@ -1,0 +1,51 @@
+{
+  "nombre": "Diogo Costa",
+  "href_perfil": "/diogo-costa/profil/spieler/357153",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "33",
+      "goles": "15",
+      "asistencias": "21",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,907'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "12",
+      "goles": "10",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,080'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "27",
+      "asistencias": "26",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "4,347'"
+    }
+  ]
+}

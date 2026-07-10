@@ -1,0 +1,204 @@
+{
+  "pais": "Puerto Rico",
+  "href_seleccion": "/puerto-rico/startseite/verein/17759",
+  "jugadores": [
+    {
+      "player_id": "615775",
+      "nombre": "Joel Serrano",
+      "href_perfil": "/joel-serrano/profil/spieler/615775",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/05/1999 (27)",
+      "club_actual": "Academia Quintana",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "954355",
+      "nombre": "Sebastián Cutler",
+      "href_perfil": "/sebastian-cutler/profil/spieler/954355",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/05/2003 (23)",
+      "club_actual": "Yverdon Sport FC II",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1188255",
+      "nombre": "Nicolás Aristizábal",
+      "href_perfil": "/nicolas-aristizabal/profil/spieler/1188255",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/05/2008 (18)",
+      "club_actual": "Austin FC Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1420450",
+      "nombre": "Ángel Mercado",
+      "href_perfil": "/angel-mercado/profil/spieler/1420450",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "06/09/2007 (18)",
+      "club_actual": "San Antonio FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019499",
+      "nombre": "André Cutler",
+      "href_perfil": "/andre-cutler/profil/spieler/1019499",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/05/2003 (23)",
+      "club_actual": "SK Victoria Wanderers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615771",
+      "nombre": "Nicolás Cardona",
+      "href_perfil": "/nicolas-cardona/profil/spieler/615771",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/02/1999 (27)",
+      "club_actual": "El Paso Locomotive FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "629794",
+      "nombre": "Gio Calderón",
+      "href_perfil": "/gio-calderon/profil/spieler/629794",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/02/2002 (24)",
+      "club_actual": "Real Monarchs SLC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122238",
+      "nombre": "Sidney Paris",
+      "href_perfil": "/sidney-paris/profil/spieler/1122238",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2002 (24)",
+      "club_actual": "St. Louis CITY SC 2",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "954360",
+      "nombre": "Diego Rossi",
+      "href_perfil": "/diego-rossi/profil/spieler/954360",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "19/05/2005 (21)",
+      "club_actual": "NK Istra 1961",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1094203",
+      "nombre": "Adyn Torres",
+      "href_perfil": "/adyn-torres/profil/spieler/1094203",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/11/2007 (18)",
+      "club_actual": "Atlanta United FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1048509",
+      "nombre": "Ian Charles",
+      "href_perfil": "/ian-charles/profil/spieler/1048509",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/2007 (19)",
+      "club_actual": "North Texas SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "514398",
+      "nombre": "Gerald Díaz",
+      "href_perfil": "/gerald-diaz/profil/spieler/514398",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/1999 (27)",
+      "club_actual": "Miami FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1273209",
+      "nombre": "Nacho Antonetti",
+      "href_perfil": "/nacho-antonetti/profil/spieler/1273209",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/02/2008 (18)",
+      "club_actual": "Burgos CF U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615770",
+      "nombre": "Juan O'Neill",
+      "href_perfil": "/juan-oneill/profil/spieler/615770",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/07/1998 (27)",
+      "club_actual": "Academia Quintana",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1555760",
+      "nombre": "Aidan Melville",
+      "href_perfil": "/aidan-melville/profil/spieler/1555760",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/2002 (24)",
+      "club_actual": "James Madison Dukes (James Madison University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122237",
+      "nombre": "Dante Williams",
+      "href_perfil": "/dante-williams/profil/spieler/1122237",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/11/2003 (22)",
+      "club_actual": " Ponce FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1387391",
+      "nombre": "Jan Rivera",
+      "href_perfil": "/jan-rivera/profil/spieler/1387391",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/06/2006 (20)",
+      "club_actual": "Academia Quintana",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "627421",
+      "nombre": "Jaden Servania",
+      "href_perfil": "/jaden-servania/profil/spieler/627421",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/07/2001 (24)",
+      "club_actual": "Brooklyn FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "998816",
+      "nombre": "Noeh Hernández",
+      "href_perfil": "/noeh-hernandez/profil/spieler/998816",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/12/2004 (21)",
+      "club_actual": "DePaul Blue Demons (DePaul University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "892926",
+      "nombre": "Leandro Antonetti",
+      "href_perfil": "/leandro-antonetti/profil/spieler/892926",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/01/2003 (23)",
+      "club_actual": "CF Estrela Amadora",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "750537",
+      "nombre": "Wilfredo Rivera",
+      "href_perfil": "/wilfredo-rivera/profil/spieler/750537",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/10/2003 (22)",
+      "club_actual": "CA Barracas Central",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "457588",
+      "nombre": "Ricardo Rivera",
+      "href_perfil": "/ricardo-rivera/profil/spieler/457588",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/04/1997 (29)",
+      "club_actual": "Academia Quintana",
+      "valor_mercado_raw": "€50k"
+    }
+  ]
+}

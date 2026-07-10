@@ -1,0 +1,42 @@
+{
+  "nombre": "Gustavo Caballero",
+  "href_perfil": "/gustavo-caballero/profil/spieler/891672",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "761'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "Série A",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "851'"
+    }
+  ]
+}

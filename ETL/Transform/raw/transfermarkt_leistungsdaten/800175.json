@@ -1,0 +1,33 @@
+{
+  "nombre": "Luiz Henrique",
+  "href_perfil": "/luiz-henrique/profil/spieler/800175",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "28",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,038'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "408'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,446'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Michael Woud",
+  "href_perfil": "/michael-woud/profil/spieler/350347",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "24",
+      "goles": "26",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,091'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "OFC Pro League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "28",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,481'"
+    }
+  ]
+}

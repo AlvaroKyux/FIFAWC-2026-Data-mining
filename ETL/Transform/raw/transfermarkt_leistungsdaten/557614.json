@@ -1,0 +1,33 @@
+{
+  "nombre": "Nathanaël Mbuku",
+  "href_perfil": "/nathanael-mbuku/profil/spieler/557614",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,192'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "102'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,294'"
+    }
+  ]
+}

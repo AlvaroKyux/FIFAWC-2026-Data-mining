@@ -1,0 +1,33 @@
+{
+  "nombre": "Alexandre Pierre",
+  "href_perfil": "/alexandre-pierre/profil/spieler/838947",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 3",
+      "partidos": "26",
+      "goles": "20",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,295'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "20",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,295'"
+    }
+  ]
+}

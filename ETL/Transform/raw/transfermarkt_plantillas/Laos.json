@@ -1,0 +1,213 @@
+{
+  "pais": "Laos",
+  "href_seleccion": "/laos/startseite/verein/16431",
+  "jugadores": [
+    {
+      "player_id": "1016283",
+      "nombre": "Kop Lokphathip",
+      "href_perfil": "/kop-lokphathip/profil/spieler/1016283",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/05/2006 (20)",
+      "club_actual": "Ezra FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "876615",
+      "nombre": "Anoulak Vilaphonh",
+      "href_perfil": "/anoulak-vilaphonh/profil/spieler/876615",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/02/2001 (25)",
+      "club_actual": "GB Football Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "625363",
+      "nombre": "Keo-Oudone Souvannasangso",
+      "href_perfil": "/keo-oudone-souvannasangso/profil/spieler/625363",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/06/2000 (26)",
+      "club_actual": "Lao Army FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "791826",
+      "nombre": "Anantaza Siphongphan",
+      "href_perfil": "/anantaza-siphongphan/profil/spieler/791826",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/11/2004 (21)",
+      "club_actual": "Ezra FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "997802",
+      "nombre": "Phetdavanh Somsanid",
+      "href_perfil": "/phetdavanh-somsanid/profil/spieler/997802",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/04/2004 (22)",
+      "club_actual": "Ezra FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "834056",
+      "nombre": "Khamsanga Phimmasone",
+      "href_perfil": "/khamsanga-phimmasone/profil/spieler/834056",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/04/2001 (25)",
+      "club_actual": "Champasak Avenir FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1322839",
+      "nombre": "Okham Latsachack",
+      "href_perfil": "/okham-latsachack/profil/spieler/1322839",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/07/2007 (18)",
+      "club_actual": "Lao Army FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "791825",
+      "nombre": "Photthavong Sangvilay",
+      "href_perfil": "/photthavong-sangvilay/profil/spieler/791825",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/10/2004 (21)",
+      "club_actual": "BG Pathum United",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1031422",
+      "nombre": "Phonsak Seesavath",
+      "href_perfil": "/phonsak-seesavath/profil/spieler/1031422",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/10/2004 (21)",
+      "club_actual": "Young Elephants",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1110555",
+      "nombre": "Bounpheng Xaisombut",
+      "href_perfil": "/bounpheng-xaisombut/profil/spieler/1110555",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/02/2005 (21)",
+      "club_actual": "Luang Prabang FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1497099",
+      "nombre": "Viengxay Sydavong",
+      "href_perfil": "/viengxay-sydavong/profil/spieler/1497099",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/07/1996 (29)",
+      "club_actual": "Namtha United",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "834317",
+      "nombre": "Vongsadka Chanthaleuxay",
+      "href_perfil": "/vongsadka-chanthaleuxay/profil/spieler/834317",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/11/2004 (21)",
+      "club_actual": "GB Football Club",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "605154",
+      "nombre": "Bounphachan Bounkong",
+      "href_perfil": "/bounphachan-bounkong/profil/spieler/605154",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/11/2000 (25)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "625365",
+      "nombre": "Somlith Sengvanny",
+      "href_perfil": "/somlith-sengvanny/profil/spieler/625365",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/08/1999 (26)",
+      "club_actual": "Lao Army FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "583228",
+      "nombre": "Kydavone Souvanny",
+      "href_perfil": "/kydavone-souvanny/profil/spieler/583228",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/12/1999 (26)",
+      "club_actual": "Young Elephants",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "780867",
+      "nombre": "Chony Wenpaserth",
+      "href_perfil": "/chony-wenpaserth/profil/spieler/780867",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/11/2002 (23)",
+      "club_actual": "Ezra FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1025657",
+      "nombre": "Khampane Douangvilay",
+      "href_perfil": "/khampane-douangvilay/profil/spieler/1025657",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/02/2004 (22)",
+      "club_actual": "Salavan United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1145174",
+      "nombre": "Kadam Koneyer",
+      "href_perfil": "/kadam-koneyer/profil/spieler/1145174",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/10/2008 (17)",
+      "club_actual": "Young Elephants",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "876652",
+      "nombre": "Kouaycheng Noophackde",
+      "href_perfil": "/kouaycheng-noophackde/profil/spieler/876652",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/01/2001 (25)",
+      "club_actual": "Champasak Avenir FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "605161",
+      "nombre": "Xayasith Singsavang",
+      "href_perfil": "/xayasith-singsavang/profil/spieler/605161",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/12/2000 (25)",
+      "club_actual": "Namtha United",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1000770",
+      "nombre": "Peeter Phanthavong",
+      "href_perfil": "/peeter-phanthavong/profil/spieler/1000770",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/02/2006 (20)",
+      "club_actual": "Ezra FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "792019",
+      "nombre": "Soukphachan Lueanthala",
+      "href_perfil": "/soukphachan-lueanthala/profil/spieler/792019",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/08/2002 (23)",
+      "club_actual": "Salavan United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1283808",
+      "nombre": "Somwang Choummaly",
+      "href_perfil": "/somwang-choummaly/profil/spieler/1283808",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "02/04/2006 (20)",
+      "club_actual": "GB Football Club",
+      "valor_mercado_raw": "€25k"
+    }
+  ]
+}

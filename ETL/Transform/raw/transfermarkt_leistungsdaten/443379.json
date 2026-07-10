@@ -1,0 +1,42 @@
+{
+  "nombre": "Jorge Gutiérrez",
+  "href_perfil": "/jorge-gutierrez/profil/spieler/443379",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga FUTVE Apertura",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "537'"
+    },
+    {
+      "competicion_raw": "Apertura. Fase Final",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,617'"
+    }
+  ]
+}

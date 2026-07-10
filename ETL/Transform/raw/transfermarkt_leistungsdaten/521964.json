@@ -1,0 +1,51 @@
+{
+  "nombre": "Malick Thiaw",
+  "href_perfil": "/malick-thiaw/profil/spieler/521964",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "35",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,964'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "927'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "300'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "54",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "4,641'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Nuno da Costa",
+  "href_perfil": "/nuno-da-costa/profil/spieler/306166",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "26",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "899'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "320'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,383'"
+    }
+  ]
+}

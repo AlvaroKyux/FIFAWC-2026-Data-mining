@@ -1,0 +1,177 @@
+{
+  "pais": "Montserrat",
+  "href_seleccion": "/montserrat/startseite/verein/17754",
+  "jugadores": [
+    {
+      "player_id": "1099688",
+      "nombre": "Trent Carter-Rodgers",
+      "href_perfil": "/trent-carter-rodgers/profil/spieler/1099688",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/04/2006 (20)",
+      "club_actual": "Rayners Lane FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764475",
+      "nombre": "Ervin Liburd",
+      "href_perfil": "/ervin-liburd/profil/spieler/764475",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/07/2003 (22)",
+      "club_actual": "NW London FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "876618",
+      "nombre": "Kymani Nelson",
+      "href_perfil": "/kymani-nelson/profil/spieler/876618",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/03/2004 (22)",
+      "club_actual": "Bush Hill Rangers F.C",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "733300",
+      "nombre": "Nico Gordon",
+      "href_perfil": "/nico-gordon/profil/spieler/733300",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/04/2002 (24)",
+      "club_actual": "Monterey Bay FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "727282",
+      "nombre": "Mackye Townsend-West",
+      "href_perfil": "/mackye-townsend-west/profil/spieler/727282",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/08/2003 (22)",
+      "club_actual": "Wingate & Finchley FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "650884",
+      "nombre": "Lenni Cirino",
+      "href_perfil": "/lenni-cirino/profil/spieler/650884",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/01/2003 (23)",
+      "club_actual": "Gillingham FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "126195",
+      "nombre": "Jernade Meade",
+      "href_perfil": "/jernade-meade/profil/spieler/126195",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/10/1992 (33)",
+      "club_actual": "St. Ives Town FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "870466",
+      "nombre": "Lucas Kirnon",
+      "href_perfil": "/lucas-kirnon/profil/spieler/870466",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/10/2003 (22)",
+      "club_actual": "TRU WolfPack (Thompson Rivers Uni.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "362809",
+      "nombre": "Brandon Comley",
+      "href_perfil": "/brandon-comley/profil/spieler/362809",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/11/1995 (30)",
+      "club_actual": "Walsall FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "615699",
+      "nombre": "Mark Rogers",
+      "href_perfil": "/mark-rogers/profil/spieler/615699",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "06/05/2002 (24)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764468",
+      "nombre": "Sydney Mendes",
+      "href_perfil": "/sydney-mendes/profil/spieler/764468",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "02/07/2003 (22)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764470",
+      "nombre": "Marcus Walters",
+      "href_perfil": "/marcus-walters/profil/spieler/764470",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/01/2005 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615698",
+      "nombre": "Ahijah Daley",
+      "href_perfil": "/ahijah-daley/profil/spieler/615698",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/05/2001 (25)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764473",
+      "nombre": "Lewis Duberry",
+      "href_perfil": "/lewis-duberry/profil/spieler/764473",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/03/2003 (23)",
+      "club_actual": "Kings Langley FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "96471",
+      "nombre": "James Comley",
+      "href_perfil": "/james-comley/profil/spieler/96471",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/1991 (35)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "969457",
+      "nombre": "Mylan Benjamin",
+      "href_perfil": "/mylan-benjamin/profil/spieler/969457",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/09/2004 (21)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "703741",
+      "nombre": "Seigel Rodney",
+      "href_perfil": "/seigel-rodney/profil/spieler/703741",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/10/2003 (22)",
+      "club_actual": "SpVgg Geratal",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "968824",
+      "nombre": "Dominic Richmond",
+      "href_perfil": "/dominic-richmond/profil/spieler/968824",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/03/2006 (20)",
+      "club_actual": "Atherton Collieries",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "893416",
+      "nombre": "Ashley Boatswain",
+      "href_perfil": "/ashley-boatswain/profil/spieler/893416",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/04/2005 (21)",
+      "club_actual": "Gateshead FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

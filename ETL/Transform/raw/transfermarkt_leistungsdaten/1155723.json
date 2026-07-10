@@ -1,0 +1,42 @@
+{
+  "nombre": "Gilberto Mora",
+  "href_perfil": "/gilberto-mora/profil/spieler/1155723",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "11",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "808'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "330'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "256'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,394'"
+    }
+  ]
+}

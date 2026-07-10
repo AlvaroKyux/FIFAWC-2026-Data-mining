@@ -1,0 +1,51 @@
+{
+  "nombre": "Bruno Guimarães",
+  "href_perfil": "/bruno-guimaraes/profil/spieler/520624",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "29",
+      "goles": "9",
+      "asistencias": "6",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,460'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "544'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "277'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "41'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,322'"
+    }
+  ]
+}

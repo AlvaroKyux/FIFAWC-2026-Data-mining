@@ -1,0 +1,60 @@
+{
+  "nombre": "Derrick Luckassen",
+  "href_perfil": "/derrick-luckassen/profil/spieler/241457",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "28",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "11",
+      "rojas": "1",
+      "minutos_raw": "2,421'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Cypriot Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "6",
+      "asistencias": "-",
+      "amarillas": "15",
+      "rojas": "1",
+      "minutos_raw": "4,131'"
+    }
+  ]
+}

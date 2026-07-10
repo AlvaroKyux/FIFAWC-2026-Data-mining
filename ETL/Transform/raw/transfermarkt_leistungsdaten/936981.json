@@ -1,0 +1,51 @@
+{
+  "nombre": "Gustavo Puerta",
+  "href_perfil": "/gustavo-puerta/profil/spieler/936981",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga2",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "13",
+      "rojas": "-",
+      "minutos_raw": "2,670'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "14",
+      "rojas": "-",
+      "minutos_raw": "2,715'"
+    }
+  ]
+}

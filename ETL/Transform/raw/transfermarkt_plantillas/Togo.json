@@ -1,0 +1,231 @@
+{
+  "pais": "Togo",
+  "href_seleccion": "/togo/startseite/verein/3815",
+  "jugadores": [
+    {
+      "player_id": "461581",
+      "nombre": "Malcolm Barcola",
+      "href_perfil": "/malcolm-barcola/profil/spieler/461581",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/05/1999 (27)",
+      "club_actual": "Ittihad Tanger",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "639475",
+      "nombre": "Steven Mensah",
+      "href_perfil": "/steven-mensah/profil/spieler/639475",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/03/2003 (23)",
+      "club_actual": "VfB Oldenburg",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "971611",
+      "nombre": "Achirafou Yaya",
+      "href_perfil": "/achirafou-yaya/profil/spieler/971611",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/07/2004 (21)",
+      "club_actual": "AFAD-Plateau",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1179715",
+      "nombre": "Fabrice Kagbatawouli",
+      "href_perfil": "/fabrice-kagbatawouli/profil/spieler/1179715",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/12/2002 (23)",
+      "club_actual": "AC Barracuda",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "655143",
+      "nombre": "Josué Homawoo",
+      "href_perfil": "/josue-homawoo/profil/spieler/655143",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1997 (28)",
+      "club_actual": "Standard Liège",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "221150",
+      "nombre": "Dakonam Djené",
+      "href_perfil": "/dakonam-djene/profil/spieler/221150",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/12/1991 (34)",
+      "club_actual": "Getafe CF",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "451317",
+      "nombre": "Kennedy Boateng",
+      "href_perfil": "/kennedy-boateng/profil/spieler/451317",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/11/1996 (29)",
+      "club_actual": "FC Dinamo 1948",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "707219",
+      "nombre": "Steven Nador",
+      "href_perfil": "/steven-nador/profil/spieler/707219",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/06/2002 (24)",
+      "club_actual": "Modena FC",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "371150",
+      "nombre": "Loïc Bessilé",
+      "href_perfil": "/loic-bessile/profil/spieler/371150",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/02/1999 (27)",
+      "club_actual": "AS Trencin",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1079441",
+      "nombre": "Izak Akakpo",
+      "href_perfil": "/izak-akakpo/profil/spieler/1079441",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2004 (22)",
+      "club_actual": "FC Lorient B",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1041555",
+      "nombre": "Yannis Lawson",
+      "href_perfil": "/yannis-lawson/profil/spieler/1041555",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/11/2004 (21)",
+      "club_actual": "FC Metz",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "579631",
+      "nombre": "Sharani Zuberu",
+      "href_perfil": "/sharani-zuberu/profil/spieler/579631",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/01/2000 (26)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "696011",
+      "nombre": "Pierre Nadjombe",
+      "href_perfil": "/pierre-nadjombe/profil/spieler/696011",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/05/2003 (23)",
+      "club_actual": "Alemannia Aachen",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "864084",
+      "nombre": "Faad Sana",
+      "href_perfil": "/faad-sana/profil/spieler/864084",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/04/2003 (23)",
+      "club_actual": "NS Mura",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "568808",
+      "nombre": "Abdoul Sabourh Bode",
+      "href_perfil": "/abdoul-sabourh-bode/profil/spieler/568808",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/01/1995 (31)",
+      "club_actual": "Stade Malien",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "644613",
+      "nombre": "Sadik Fofana",
+      "href_perfil": "/sadik-fofana/profil/spieler/644613",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2003 (23)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "727208",
+      "nombre": "Roger Aholou",
+      "href_perfil": "/roger-aholou/profil/spieler/727208",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/12/1993 (32)",
+      "club_actual": "Al-Ittihad SC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "967981",
+      "nombre": "Jean Claude",
+      "href_perfil": "/jean-claude/profil/spieler/967981",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/12/2003 (22)",
+      "club_actual": "Shanghai Port",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "924901",
+      "nombre": "Halid Djankpata",
+      "href_perfil": "/halid-djankpata/profil/spieler/924901",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/2005 (21)",
+      "club_actual": "AS Gubbio 1910",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "969447",
+      "nombre": "Dermane Karim",
+      "href_perfil": "/dermane-karim/profil/spieler/969447",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/12/2003 (22)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "482072",
+      "nombre": "Kévin Denkey",
+      "href_perfil": "/kevin-denkey/profil/spieler/482072",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/11/2000 (25)",
+      "club_actual": "FC Cincinnati",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "425973",
+      "nombre": "Kodjo Laba",
+      "href_perfil": "/kodjo-laba/profil/spieler/425973",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/01/1992 (34)",
+      "club_actual": "Al-Ain FC",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "705020",
+      "nombre": "Mansour Ouro-Tagba",
+      "href_perfil": "/mansour-ouro-tagba/profil/spieler/705020",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/12/2004 (21)",
+      "club_actual": "VfB Stuttgart II",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "913305",
+      "nombre": "Idjessi Metsoko",
+      "href_perfil": "/idjessi-metsoko/profil/spieler/913305",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/03/2002 (24)",
+      "club_actual": "Spartak Trnava",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "418658",
+      "nombre": "Charles Abi",
+      "href_perfil": "/charles-abi/profil/spieler/418658",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/04/2000 (26)",
+      "club_actual": "Valenciennes FC",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

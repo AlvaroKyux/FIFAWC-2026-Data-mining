@@ -1,0 +1,222 @@
+{
+  "pais": "Sierra Leone",
+  "href_seleccion": "/sierra-leone/startseite/verein/6187",
+  "jugadores": [
+    {
+      "player_id": "955508",
+      "nombre": "Mamadou Jalloh",
+      "href_perfil": "/mamadou-jalloh/profil/spieler/955508",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/11/2006 (19)",
+      "club_actual": "Vaasan Palloseura",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "615401",
+      "nombre": "Alhaji Sesay",
+      "href_perfil": "/alhaji-sesay/profil/spieler/615401",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/10/1998 (27)",
+      "club_actual": "Bhantal FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1023804",
+      "nombre": "Donald Kamara",
+      "href_perfil": "/donald-kamara/profil/spieler/1023804",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/07/2002 (23)",
+      "club_actual": "East End Lions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1230221",
+      "nombre": "Francis Koroma",
+      "href_perfil": "/francis-koroma/profil/spieler/1230221",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/05/2000 (26)",
+      "club_actual": "Wilberforce Strikers Football Club ",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1121298",
+      "nombre": "Juma Bah",
+      "href_perfil": "/juma-bah/profil/spieler/1121298",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/04/2006 (20)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "1072392",
+      "nombre": "Alpha Turay",
+      "href_perfil": "/alpha-turay/profil/spieler/1072392",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/05/2005 (21)",
+      "club_actual": "El Gouna FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1387974",
+      "nombre": "Mohamed Bangura",
+      "href_perfil": "/mohamed-bangura/profil/spieler/1387974",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/03/2004 (22)",
+      "club_actual": "Wilberforce Strikers Football Club ",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1203677",
+      "nombre": "Mohamed Kabia",
+      "href_perfil": "/mohamed-kabia/profil/spieler/1203677",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/06/2003 (23)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1396203",
+      "nombre": "Alpha Kabia",
+      "href_perfil": "/alpha-kabia/profil/spieler/1396203",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/11/2005 (20)",
+      "club_actual": "Minnesota United FC 2",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "824081",
+      "nombre": "Emmanuel Samadia",
+      "href_perfil": "/emmanuel-samadia/profil/spieler/824081",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/04/2001 (25)",
+      "club_actual": "Hartford Athletic",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1072385",
+      "nombre": "Nathaniel Jalloh",
+      "href_perfil": "/nathaniel-jalloh/profil/spieler/1072385",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/09/2005 (20)",
+      "club_actual": "Kallon FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "702774",
+      "nombre": "Abu Dumbuya",
+      "href_perfil": "/abu-dumbuya/profil/spieler/702774",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/01/1999 (27)",
+      "club_actual": "Al-Wefaq Ajdabiya SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1319758",
+      "nombre": "Mohamed Bai Kamara",
+      "href_perfil": "/mohamed-bai-kamara/profil/spieler/1319758",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/2005 (21)",
+      "club_actual": "Ryukyu Okinawa",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1072387",
+      "nombre": "Momoh Dumbuya",
+      "href_perfil": "/momoh-dumbuya/profil/spieler/1072387",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "14/02/2004 (22)",
+      "club_actual": "Kallon FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1121984",
+      "nombre": "Mohamed Billoh Kabba",
+      "href_perfil": "/mohamed-billoh-kabba/profil/spieler/1121984",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/11/2004 (21)",
+      "club_actual": "East End Lions",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "877609",
+      "nombre": "Saidu Fofanah",
+      "href_perfil": "/saidu-fofanah/profil/spieler/877609",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/1997 (28)",
+      "club_actual": "Hapoel Raanana",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1385060",
+      "nombre": "John Bilili Sesay",
+      "href_perfil": "/john-bilili-sesay/profil/spieler/1385060",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/08/2007 (18)",
+      "club_actual": "Bray Wanderers",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1129935",
+      "nombre": "Momoh Kamara",
+      "href_perfil": "/momoh-kamara/profil/spieler/1129935",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/05/2005 (21)",
+      "club_actual": "IF Elfsborg",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "573619",
+      "nombre": "Alhassan Koroma",
+      "href_perfil": "/alhassan-koroma/profil/spieler/573619",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/06/2000 (26)",
+      "club_actual": "FC Baniyas",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "156140",
+      "nombre": "Mohamed Bangura",
+      "href_perfil": "/mohamed-bangura/profil/spieler/156140",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/07/1989 (36)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "549791",
+      "nombre": "Augustus Kargbo",
+      "href_perfil": "/augustus-kargbo/profil/spieler/549791",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "24/08/1999 (26)",
+      "club_actual": "Blackburn Rovers",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1388463",
+      "nombre": "Samuel Gandi",
+      "href_perfil": "/samuel-gandi/profil/spieler/1388463",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/10/2006 (19)",
+      "club_actual": "Politehnica UTM Сhișinău",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "492267",
+      "nombre": "Sallieu Tarawallie",
+      "href_perfil": "/sallieu-tarawallie/profil/spieler/492267",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/01/1995 (31)",
+      "club_actual": "Kallon FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "340745",
+      "nombre": "Mohamed Buya Turay",
+      "href_perfil": "/mohamed-buya-turay/profil/spieler/340745",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/01/1995 (31)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€125k"
+    }
+  ]
+}

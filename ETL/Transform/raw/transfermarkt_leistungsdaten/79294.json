@@ -1,0 +1,33 @@
+{
+  "nombre": "Eloy Room",
+  "href_perfil": "/eloy-room/profil/spieler/79294",
+  "competiciones": [
+    {
+      "competicion_raw": "USLC",
+      "partidos": "9",
+      "goles": "14",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "USL Cup",
+      "partidos": "2",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "19",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    }
+  ]
+}

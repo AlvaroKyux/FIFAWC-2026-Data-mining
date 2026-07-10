@@ -1,0 +1,51 @@
+{
+  "nombre": "Abdoulaye Seck",
+  "href_perfil": "/abdoulaye-seck/profil/spieler/265383",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligat ha'Al",
+      "partidos": "20",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,774'"
+    },
+    {
+      "competicion_raw": "Ligat ha'Al -  Championship round",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "399'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Gvia haMedina",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,713'"
+    }
+  ]
+}

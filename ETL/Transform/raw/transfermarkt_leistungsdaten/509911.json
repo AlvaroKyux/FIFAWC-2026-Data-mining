@@ -1,0 +1,42 @@
+{
+  "nombre": "Nasser Al-Dawsari",
+  "href_perfil": "/nasser-al-dawsari/profil/spieler/509911",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,621'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "246'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,077'"
+    }
+  ]
+}

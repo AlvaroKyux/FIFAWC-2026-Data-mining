@@ -1,0 +1,186 @@
+{
+  "pais": "Fiji",
+  "href_seleccion": "/fidschi/startseite/verein/13955",
+  "jugadores": [
+    {
+      "player_id": "616513",
+      "nombre": "Isikeli Sevanaia",
+      "href_perfil": "/isikeli-sevanaia/profil/spieler/616513",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/01/2003 (23)",
+      "club_actual": "Ba FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1129083",
+      "nombre": "Melvin Prakash",
+      "href_perfil": "/melvin-prakash/profil/spieler/1129083",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/02/2008 (18)",
+      "club_actual": "Ba FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1236367",
+      "nombre": "Ryan Naresh",
+      "href_perfil": "/ryan-naresh/profil/spieler/1236367",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "12/05/2007 (19)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "346541",
+      "nombre": "Gabriele Matanisiga",
+      "href_perfil": "/gabriele-matanisiga/profil/spieler/346541",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/06/1995 (31)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1015992",
+      "nombre": "Semi Nabenu",
+      "href_perfil": "/semi-nabenu/profil/spieler/1015992",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/08/2004 (21)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "581347",
+      "nombre": "Rusiate Doidoi",
+      "href_perfil": "/rusiate-doidoi/profil/spieler/581347",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/05/1996 (30)",
+      "club_actual": "Ba FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1129093",
+      "nombre": "Maikah Dau",
+      "href_perfil": "/maikah-dau/profil/spieler/1129093",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/2009 (17)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "521834",
+      "nombre": "Ivan Kumar",
+      "href_perfil": "/ivan-kumar/profil/spieler/521834",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/1997 (29)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "320343",
+      "nombre": "Lekima Gonerau",
+      "href_perfil": "/lekima-gonerau/profil/spieler/320343",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "08/12/1989 (36)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1097723",
+      "nombre": "Delon Shankar",
+      "href_perfil": "/delon-shankar/profil/spieler/1097723",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "31/03/2007 (19)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "616517",
+      "nombre": "Thomas Dunn",
+      "href_perfil": "/thomas-dunn/profil/spieler/616517",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/01/2003 (23)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "215934",
+      "nombre": "Setareki Hughes",
+      "href_perfil": "/setareki-hughes/profil/spieler/215934",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/08/1995 (30)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "324175",
+      "nombre": "Ratu Waranaivalu",
+      "href_perfil": "/ratu-waranaivalu/profil/spieler/324175",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/09/1995 (30)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1497864",
+      "nombre": "Zacariah Harang",
+      "href_perfil": "/zacariah-harang/profil/spieler/1497864",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/08/2006 (19)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1097744",
+      "nombre": "Ibraheem Afazal",
+      "href_perfil": "/ibraheem-afazal/profil/spieler/1097744",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/04/2007 (19)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "64495",
+      "nombre": "Roy Krishna",
+      "href_perfil": "/roy-krishna/profil/spieler/64495",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/08/1987 (38)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "616521",
+      "nombre": "Josaia Sela",
+      "href_perfil": "/josaia-sela/profil/spieler/616521",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/12/2002 (23)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "521802",
+      "nombre": "Ilisoni Lolaivalu",
+      "href_perfil": "/ilisoni-lolaivalu/profil/spieler/521802",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/1993 (32)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1038885",
+      "nombre": "Asivorosi Rabo",
+      "href_perfil": "/asivorosi-rabo/profil/spieler/1038885",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "29/10/2004 (21)",
+      "club_actual": "Rewa FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1499028",
+      "nombre": "Solayman Mohammed",
+      "href_perfil": "/solayman-mohammed/profil/spieler/1499028",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "22/11/2004 (21)",
+      "club_actual": "Bula FC",
+      "valor_mercado_raw": "€10k"
+    }
+  ]
+}

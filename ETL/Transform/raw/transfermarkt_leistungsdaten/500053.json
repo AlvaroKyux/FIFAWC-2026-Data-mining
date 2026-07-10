@@ -1,0 +1,60 @@
+{
+  "nombre": "Pavel Sulc",
+  "href_perfil": "/pavel-sulc/profil/spieler/500053",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "27",
+      "goles": "11",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,569'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "477'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "217'"
+    },
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "161'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "15",
+      "asistencias": "10",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,604'"
+    }
+  ]
+}

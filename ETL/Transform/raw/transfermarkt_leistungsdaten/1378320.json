@@ -1,0 +1,69 @@
+{
+  "nombre": "Mbekezeli Mbokazi",
+  "href_perfil": "/mbekezeli-mbokazi/profil/spieler/1378320",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,050'"
+    },
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "909'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "130'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,049'"
+    }
+  ]
+}

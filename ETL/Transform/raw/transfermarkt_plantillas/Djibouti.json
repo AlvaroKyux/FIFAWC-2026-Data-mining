@@ -1,0 +1,186 @@
+{
+  "pais": "Djibouti",
+  "href_seleccion": "/dschibuti/startseite/verein/16427",
+  "jugadores": [
+    {
+      "player_id": "811033",
+      "nombre": "Omar Mahamoud",
+      "href_perfil": "/omar-mahamoud/profil/spieler/811033",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/10/2001 (24)",
+      "club_actual": "AS Port",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1203895",
+      "nombre": "Mouktar Youssouf Said",
+      "href_perfil": "/mouktar-youssouf-said/profil/spieler/1203895",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/10/2004 (21)",
+      "club_actual": "FC Dikhil",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1066848",
+      "nombre": "Idriss Houmed Bilha",
+      "href_perfil": "/idriss-houmed-bilha/profil/spieler/1066848",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "27/08/1997 (28)",
+      "club_actual": "AS Port",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1470843",
+      "nombre": "Arafate Idrissou",
+      "href_perfil": "/arafate-idrissou/profil/spieler/1470843",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "26/10/1994 (31)",
+      "club_actual": "FC Dikhil",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1384966",
+      "nombre": "Ahmed Zakaria",
+      "href_perfil": "/ahmed-zakaria/profil/spieler/1384966",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1998 (27)",
+      "club_actual": "AS Ali Sabieh/Djibouti Télécom",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "857555",
+      "nombre": "Anseani Pohe Tokpa",
+      "href_perfil": "/anseani-pohe-tokpa/profil/spieler/857555",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/03/2000 (26)",
+      "club_actual": "US Castanéenne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "805093",
+      "nombre": "Yabe Siad",
+      "href_perfil": "/yabe-siad/profil/spieler/805093",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/03/1998 (28)",
+      "club_actual": "AS Arta/Solar7",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1172948",
+      "nombre": "Ibrahim Idriss Mohamed",
+      "href_perfil": "/ibrahim-idriss-mohamed/profil/spieler/1172948",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/11/2002 (23)",
+      "club_actual": "AS Ali Sabieh/Djibouti Télécom",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "719874",
+      "nombre": "Ali Youssouf Farada",
+      "href_perfil": "/ali-youssouf-farada/profil/spieler/719874",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/08/1995 (30)",
+      "club_actual": "AS Port",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1357639",
+      "nombre": "Pape Coulibaly",
+      "href_perfil": "/pape-coulibaly/profil/spieler/1357639",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/06/2000 (25)",
+      "club_actual": "Al-Tersana SC Tripoli",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "381970",
+      "nombre": "Warsama Hassan",
+      "href_perfil": "/warsama-hassan/profil/spieler/381970",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/1999 (27)",
+      "club_actual": "AP Brera Strumica",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1152718",
+      "nombre": "Sadik Aden",
+      "href_perfil": "/sadik-aden/profil/spieler/1152718",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Garde Républicaine FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1172953",
+      "nombre": "Ramadan Abdi Abdilahi",
+      "href_perfil": "/ramadan-abdi-abdilahi/profil/spieler/1172953",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/1998 (28)",
+      "club_actual": "AS Ali Sabieh/Djibouti Télécom",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1352198",
+      "nombre": "Kahin Dahir",
+      "href_perfil": "/kahin-dahir/profil/spieler/1352198",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/10/2004 (21)",
+      "club_actual": "FC Järfälla",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "969201",
+      "nombre": "Mouad Hassan",
+      "href_perfil": "/mouad-hassan/profil/spieler/969201",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/12/1999 (26)",
+      "club_actual": "Kozakken Boys Werkendam",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "886715",
+      "nombre": "Gabriel Dadzie",
+      "href_perfil": "/gabriel-dadzie/profil/spieler/886715",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/03/1997 (29)",
+      "club_actual": "Al-Tersana SC Tripoli",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "907526",
+      "nombre": "Samuel Akinbinu",
+      "href_perfil": "/samuel-akinbinu/profil/spieler/907526",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/06/1999 (27)",
+      "club_actual": "Kenya Commercial Bank Nairobi",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "719893",
+      "nombre": "Ahmed Youssouf Omar",
+      "href_perfil": "/ahmed-youssouf-omar/profil/spieler/719893",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/09/1998 (27)",
+      "club_actual": "AS Port",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1175291",
+      "nombre": "Abdillahi Elmi",
+      "href_perfil": "/abdillahi-elmi/profil/spieler/1175291",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "19/03/2003 (23)",
+      "club_actual": "AS Port",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1340423",
+      "nombre": "Yusuf Ismail",
+      "href_perfil": "/yusuf-ismail/profil/spieler/1340423",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "13/07/2007 (18)",
+      "club_actual": "IFK Lidingö U19",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Gideon Mensah",
+  "href_perfil": "/gideon-mensah/profil/spieler/397171",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,334'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,424'"
+    }
+  ]
+}

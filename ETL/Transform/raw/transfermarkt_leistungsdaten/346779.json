@@ -1,0 +1,33 @@
+{
+  "nombre": "Ché Adams",
+  "href_perfil": "/che-adams/profil/spieler/346779",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "33",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,897'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "213'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,110'"
+    }
+  ]
+}

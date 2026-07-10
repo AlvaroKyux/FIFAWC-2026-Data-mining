@@ -1,0 +1,240 @@
+{
+  "pais": "Germany",
+  "href_seleccion": "/deutschland/startseite/verein/3262",
+  "jugadores": [
+    {
+      "player_id": "195778",
+      "nombre": "Alexander Nübel",
+      "href_perfil": "/alexander-nubel/profil/spieler/195778",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/09/1996 (29)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "17259",
+      "nombre": "Manuel Neuer",
+      "href_perfil": "/manuel-neuer/profil/spieler/17259",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/03/1986 (40)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "55089",
+      "nombre": "Oliver Baumann",
+      "href_perfil": "/oliver-baumann/profil/spieler/55089",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/06/1990 (36)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "388198",
+      "nombre": "Nico Schlotterbeck",
+      "href_perfil": "/nico-schlotterbeck/profil/spieler/388198",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/12/1999 (26)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€55.00m"
+    },
+    {
+      "player_id": "521964",
+      "nombre": "Malick Thiaw",
+      "href_perfil": "/malick-thiaw/profil/spieler/521964",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/2001 (24)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "196357",
+      "nombre": "Jonathan Tah",
+      "href_perfil": "/jonathan-tah/profil/spieler/196357",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/02/1996 (30)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "193004",
+      "nombre": "Waldemar Anton",
+      "href_perfil": "/waldemar-anton/profil/spieler/193004",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/07/1996 (29)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "86202",
+      "nombre": "Antonio Rüdiger",
+      "href_perfil": "/antonio-rudiger/profil/spieler/86202",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/03/1993 (33)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "691892",
+      "nombre": "Nathaniel Brown",
+      "href_perfil": "/nathaniel-brown/profil/spieler/691892",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/06/2003 (23)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "318204",
+      "nombre": "David Raum",
+      "href_perfil": "/david-raum/profil/spieler/318204",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/04/1998 (28)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "792380",
+      "nombre": "Aleksandar Pavlovic",
+      "href_perfil": "/aleksandar-pavlovic/profil/spieler/792380",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/05/2004 (22)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "443710",
+      "nombre": "Angelo Stiller",
+      "href_perfil": "/angelo-stiller/profil/spieler/443710",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/04/2001 (25)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "161056",
+      "nombre": "Joshua Kimmich",
+      "href_perfil": "/joshua-kimmich/profil/spieler/161056",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/1995 (31)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "406640",
+      "nombre": "Felix Nmecha",
+      "href_perfil": "/felix-nmecha/profil/spieler/406640",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/10/2000 (25)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "897424",
+      "nombre": "Assan Ouédraogo",
+      "href_perfil": "/assan-ouedraogo/profil/spieler/897424",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/05/2006 (20)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "232454",
+      "nombre": "Nadiem Amiri",
+      "href_perfil": "/nadiem-amiri/profil/spieler/232454",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/10/1996 (29)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "153084",
+      "nombre": "Leon Goretzka",
+      "href_perfil": "/leon-goretzka/profil/spieler/153084",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/1995 (31)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "82873",
+      "nombre": "Pascal Groß",
+      "href_perfil": "/pascal-gross/profil/spieler/82873",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/06/1991 (35)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "580195",
+      "nombre": "Jamal Musiala",
+      "href_perfil": "/jamal-musiala/profil/spieler/580195",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/02/2003 (23)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "598577",
+      "nombre": "Florian Wirtz",
+      "href_perfil": "/florian-wirtz/profil/spieler/598577",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/05/2003 (23)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "518505",
+      "nombre": "Jamie Leweling",
+      "href_perfil": "/jamie-leweling/profil/spieler/518505",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/02/2001 (25)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "192565",
+      "nombre": "Leroy Sané",
+      "href_perfil": "/leroy-sane/profil/spieler/192565",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/01/1996 (30)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "309400",
+      "nombre": "Kai Havertz",
+      "href_perfil": "/kai-havertz/profil/spieler/309400",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/06/1999 (27)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€55.00m"
+    },
+    {
+      "player_id": "455661",
+      "nombre": "Nick Woltemade",
+      "href_perfil": "/nick-woltemade/profil/spieler/455661",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/02/2002 (24)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€55.00m"
+    },
+    {
+      "player_id": "578392",
+      "nombre": "Maximilian Beier",
+      "href_perfil": "/maximilian-beier/profil/spieler/578392",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/10/2002 (23)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "339314",
+      "nombre": "Deniz Undav",
+      "href_perfil": "/deniz-undav/profil/spieler/339314",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/07/1996 (29)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€22.00m"
+    }
+  ]
+}

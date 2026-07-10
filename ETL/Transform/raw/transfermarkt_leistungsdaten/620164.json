@@ -1,0 +1,33 @@
+{
+  "nombre": "Haissem Hassan",
+  "href_perfil": "/haissem-hassan/profil/spieler/620164",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "37",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,943'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "81'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,024'"
+    }
+  ]
+}

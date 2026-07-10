@@ -1,0 +1,51 @@
+{
+  "nombre": "Tijjani Reijnders",
+  "href_perfil": "/tijjani-reijnders/profil/spieler/460939",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "28",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,636'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "579'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "374'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "221'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "7",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,810'"
+    }
+  ]
+}

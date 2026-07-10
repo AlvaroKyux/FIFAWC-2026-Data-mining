@@ -1,0 +1,51 @@
+{
+  "nombre": "Aleksandar Pavlovic",
+  "href_perfil": "/aleksandar-pavlovic/profil/spieler/792380",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "24",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,461'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,176'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "449'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,086'"
+    }
+  ]
+}

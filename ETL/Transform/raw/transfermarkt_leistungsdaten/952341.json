@@ -1,0 +1,33 @@
+{
+  "nombre": "Mustafa Saadoon",
+  "href_perfil": "/mustafa-saadoon/profil/spieler/952341",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,026'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "365'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,391'"
+    }
+  ]
+}

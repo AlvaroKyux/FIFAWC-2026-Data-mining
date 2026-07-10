@@ -1,0 +1,60 @@
+{
+  "nombre": "Pascal Groß",
+  "href_perfil": "/pascal-gross/profil/spieler/82873",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,637'"
+    },
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "615'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "37'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "80'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,549'"
+    }
+  ]
+}

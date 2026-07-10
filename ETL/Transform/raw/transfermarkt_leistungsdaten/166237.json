@@ -1,0 +1,51 @@
+{
+  "nombre": "Leandro Paredes",
+  "href_perfil": "/leandro-paredes/profil/spieler/166237",
+  "competiciones": [
+    {
+      "competicion_raw": "Torneo Apertura",
+      "partidos": "14",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "978'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "536'"
+    },
+    {
+      "competicion_raw": "Playoff Torneo Apertura",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Copa Argentina",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "1,634'"
+    }
+  ]
+}

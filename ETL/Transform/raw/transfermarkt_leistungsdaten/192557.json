@@ -1,0 +1,33 @@
+{
+  "nombre": "Jackson Irvine",
+  "href_perfil": "/jackson-irvine/profil/spieler/192557",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "1,625'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "112'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "1,737'"
+    }
+  ]
+}

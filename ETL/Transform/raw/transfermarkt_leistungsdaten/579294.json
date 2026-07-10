@@ -1,0 +1,33 @@
+{
+  "nombre": "Aimar Sher",
+  "href_perfil": "/aimar-sher/profil/spieler/579294",
+  "competiciones": [
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "807'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "104'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "911'"
+    }
+  ]
+}

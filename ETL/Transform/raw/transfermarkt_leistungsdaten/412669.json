@@ -1,0 +1,60 @@
+{
+  "nombre": "Francisco Trincão",
+  "href_perfil": "/francisco-trincao/profil/spieler/412669",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "34",
+      "goles": "7",
+      "asistencias": "13",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,857'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "957'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "609'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "54",
+      "goles": "13",
+      "asistencias": "18",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "4,603'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Ryan Gravenberch",
+  "href_perfil": "/ryan-gravenberch/profil/spieler/478573",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "36",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,996'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "961'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "174'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Community Shield",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "4,131'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Tyrese Noslin",
+  "href_perfil": "/tyrese-noslin/profil/spieler/708005",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,307'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "325'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,632'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Kojo Peprah Oppong",
+  "href_perfil": "/kojo-peprah-oppong/profil/spieler/1113451",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,429'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "361'"
+    },
+    {
+      "competicion_raw": "L1/L2 Playoffs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,465'"
+    }
+  ]
+}

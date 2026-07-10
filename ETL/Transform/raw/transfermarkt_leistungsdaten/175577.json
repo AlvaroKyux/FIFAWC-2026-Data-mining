@@ -1,0 +1,60 @@
+{
+  "nombre": "Ronwen Williams",
+  "href_perfil": "/ronwen-williams/profil/spieler/175577",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "29",
+      "goles": "21",
+      "asistencias": "13",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,610'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "12",
+      "goles": "8",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,080'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "31",
+      "asistencias": "20",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "4,080'"
+    }
+  ]
+}

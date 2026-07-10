@@ -1,0 +1,51 @@
+{
+  "nombre": "Emiliano Martínez",
+  "href_perfil": "/emiliano-martinez/profil/spieler/111873",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "32",
+      "goles": "39",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,835'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "7",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "49",
+      "asistencias": "14",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,870'"
+    }
+  ]
+}

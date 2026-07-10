@@ -1,0 +1,42 @@
+{
+  "nombre": "Gilson Benchimol",
+  "href_perfil": "/gilson-benchimol/profil/spieler/820252",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "20",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,061'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "305'"
+    },
+    {
+      "competicion_raw": "Relegation Premier Liga",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "113'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "12",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,479'"
+    }
+  ]
+}

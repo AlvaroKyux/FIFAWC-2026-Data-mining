@@ -1,0 +1,240 @@
+{
+  "pais": "Malawi",
+  "href_seleccion": "/malawi/startseite/verein/8988",
+  "jugadores": [
+    {
+      "player_id": "723922",
+      "nombre": "William Thole",
+      "href_perfil": "/william-thole/profil/spieler/723922",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/10/1998 (27)",
+      "club_actual": "Simba Bhora FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1271311",
+      "nombre": "George Chikooka",
+      "href_perfil": "/george-chikooka/profil/spieler/1271311",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/04/1997 (29)",
+      "club_actual": "Silver Strikers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1457322",
+      "nombre": "Joshua Waka",
+      "href_perfil": "/joshua-waka/profil/spieler/1457322",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/07/2004 (21)",
+      "club_actual": "Ekhaya FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "513267",
+      "nombre": "Chembezi Denis",
+      "href_perfil": "/chembezi-denis/profil/spieler/513267",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/09/1997 (28)",
+      "club_actual": "Al-Nasiriyah FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "723923",
+      "nombre": "Nickson Nyasulu",
+      "href_perfil": "/nickson-nyasulu/profil/spieler/723923",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/03/1998 (28)",
+      "club_actual": "FC Platinum",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1455269",
+      "nombre": "Emmanuel Nyirenda",
+      "href_perfil": "/emmanuel-nyirenda/profil/spieler/1455269",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/01/2000 (26)",
+      "club_actual": "Mighty Wanderers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "999875",
+      "nombre": "Alick Lungu",
+      "href_perfil": "/alick-lungu/profil/spieler/999875",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/03/2002 (24)",
+      "club_actual": "Ekhaya FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "577239",
+      "nombre": "Gomezgani Chirwa",
+      "href_perfil": "/gomezgani-chirwa/profil/spieler/577239",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/09/1996 (29)",
+      "club_actual": "Ngezi Platinum FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1151666",
+      "nombre": "McDonald Lameck",
+      "href_perfil": "/mcdonald-lameck/profil/spieler/1151666",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/10/1998 (27)",
+      "club_actual": "Silver Strikers",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "703710",
+      "nombre": "Charles Petro",
+      "href_perfil": "/charles-petro/profil/spieler/703710",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/2001 (25)",
+      "club_actual": "FC Botosani",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1147700",
+      "nombre": "Lloyd Aaron",
+      "href_perfil": "/lloyd-aaron/profil/spieler/1147700",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/01/2003 (23)",
+      "club_actual": "Al-Sadaqa Shahat SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1271321",
+      "nombre": "Maxwell Paipi",
+      "href_perfil": "/maxwell-paipi/profil/spieler/1271321",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/2002 (24)",
+      "club_actual": "FC Platinum",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1455270",
+      "nombre": "Blessings Singini",
+      "href_perfil": "/blessings-singini/profil/spieler/1455270",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "18/07/1999 (26)",
+      "club_actual": "Mighty Wanderers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1301294",
+      "nombre": "Yankho Singo",
+      "href_perfil": "/yankho-singo/profil/spieler/1301294",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/04/2000 (26)",
+      "club_actual": "Big Bullets FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1465501",
+      "nombre": "Mwisho Mhango",
+      "href_perfil": "/mwisho-mhango/profil/spieler/1465501",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/09/2007 (18)",
+      "club_actual": "Hannover 96",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "999877",
+      "nombre": "Festus Duwe",
+      "href_perfil": "/festus-duwe/profil/spieler/999877",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/2003 (23)",
+      "club_actual": "Silver Strikers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "401183",
+      "nombre": "Chawa",
+      "href_perfil": "/chawa/profil/spieler/401183",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/1995 (31)",
+      "club_actual": "Zanaco FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "957752",
+      "nombre": "Lloyd Njaliwa",
+      "href_perfil": "/lloyd-njaliwa/profil/spieler/957752",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/05/1998 (28)",
+      "club_actual": "Central African Pharmaceutical Society United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1181902",
+      "nombre": "Wisdom Mpinganjira",
+      "href_perfil": "/wisdom-mpinganjira/profil/spieler/1181902",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/07/2002 (23)",
+      "club_actual": "Black Bulls",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "999873",
+      "nombre": "Patrick Mwaungulu",
+      "href_perfil": "/patrick-mwaungulu/profil/spieler/999873",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/02/2002 (24)",
+      "club_actual": "TP Mazembe",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "999876",
+      "nombre": "Robert Saizi",
+      "href_perfil": "/robert-saizi/profil/spieler/999876",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/07/2003 (22)",
+      "club_actual": "Zanaco FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1059401",
+      "nombre": "Lanjesi Nkhoma",
+      "href_perfil": "/lanjesi-nkhoma/profil/spieler/1059401",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "27/05/2002 (24)",
+      "club_actual": "TP Mazembe",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "735326",
+      "nombre": "Mayele Malango",
+      "href_perfil": "/mayele-malango/profil/spieler/735326",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/02/1997 (29)",
+      "club_actual": "Sacramento Republic FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "513319",
+      "nombre": "Richard Mbulu",
+      "href_perfil": "/richard-mbulu/profil/spieler/513319",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/01/1994 (32)",
+      "club_actual": "CD Costa do Sol",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1081081",
+      "nombre": "Yann Kouakou",
+      "href_perfil": "/yann-kouakou/profil/spieler/1081081",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/08/1999 (26)",
+      "club_actual": "AP Brera Strumica",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "887141",
+      "nombre": "Babatunde Adepoju",
+      "href_perfil": "/babatunde-adepoju/profil/spieler/887141",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/11/1995 (30)",
+      "club_actual": "Venda Football Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "José Fajardo",
+  "href_perfil": "/jose-fajardo/profil/spieler/546803",
+  "competiciones": [
+    {
+      "competicion_raw": "LigaPro Serie A",
+      "partidos": "15",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "927'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "Supercopa Ecuador",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "66'"
+    },
+    {
+      "competicion_raw": "Copa Ecuador",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,157'"
+    }
+  ]
+}

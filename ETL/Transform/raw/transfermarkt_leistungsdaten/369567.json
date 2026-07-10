@@ -1,0 +1,51 @@
+{
+  "nombre": "Sasa Kalajdzic",
+  "href_perfil": "/sasa-kalajdzic/profil/spieler/369567",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "23",
+      "goles": "6",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,324'"
+    },
+    {
+      "competicion_raw": "ÖFB-Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "392'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "14'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "9'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "7",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,739'"
+    }
+  ]
+}

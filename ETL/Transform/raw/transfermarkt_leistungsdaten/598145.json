@@ -1,0 +1,51 @@
+{
+  "nombre": "Jordy Alcívar",
+  "href_perfil": "/jordy-alcivar/profil/spieler/598145",
+  "competiciones": [
+    {
+      "competicion_raw": "LigaPro Serie A",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "421'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "504'"
+    },
+    {
+      "competicion_raw": "Supercopa Ecuador",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Copa Ecuador",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,015'"
+    }
+  ]
+}

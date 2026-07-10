@@ -1,0 +1,51 @@
+{
+  "nombre": "Mike Penders",
+  "href_perfil": "/mike-penders/profil/spieler/834397",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "33",
+      "goles": "47",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,970'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "12",
+      "goles": "11",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,080'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "5",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "131'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "52",
+      "goles": "65",
+      "asistencias": "12",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "4,631'"
+    }
+  ]
+}

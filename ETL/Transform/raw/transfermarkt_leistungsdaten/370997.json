@@ -1,0 +1,69 @@
+{
+  "nombre": "Dominik Kotarski",
+  "href_perfil": "/dominik-kotarski/profil/spieler/370997",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "22",
+      "goles": "34",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,980'"
+    },
+    {
+      "competicion_raw": "Superliga Relegation round",
+      "partidos": "8",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "21",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "6",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Superliga Europa Playoff",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "51",
+      "goles": "68",
+      "asistencias": "15",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "4,620'"
+    }
+  ]
+}

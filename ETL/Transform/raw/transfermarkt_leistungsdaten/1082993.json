@@ -1,0 +1,69 @@
+{
+  "nombre": "Findlay Curtis",
+  "href_perfil": "/findlay-curtis/profil/spieler/1082993",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "845'"
+    },
+    {
+      "competicion_raw": "Premiership Relegation",
+      "partidos": "5",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "425'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "184'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "119'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "9'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,672'"
+    }
+  ]
+}

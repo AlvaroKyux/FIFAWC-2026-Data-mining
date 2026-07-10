@@ -1,0 +1,33 @@
+{
+  "nombre": "Nikola Vlašić",
+  "href_perfil": "/nikola-vlasic/profil/spieler/293200",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "37",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,055'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "295'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "9",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,350'"
+    }
+  ]
+}

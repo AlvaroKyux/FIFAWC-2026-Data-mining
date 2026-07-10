@@ -1,0 +1,33 @@
+{
+  "nombre": "Kristian Thorstvedt",
+  "href_perfil": "/kristian-thorstvedt/profil/spieler/564785",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "32",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,458'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "21'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,479'"
+    }
+  ]
+}

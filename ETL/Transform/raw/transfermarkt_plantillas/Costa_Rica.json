@@ -1,0 +1,195 @@
+{
+  "pais": "Costa Rica",
+  "href_seleccion": "/costa-rica/startseite/verein/8497",
+  "jugadores": [
+    {
+      "player_id": "378482",
+      "nombre": "Patrick Sequeira",
+      "href_perfil": "/patrick-sequeira/profil/spieler/378482",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/1999 (27)",
+      "club_actual": "Casa Pia AC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "913478",
+      "nombre": "Bayron Mora",
+      "href_perfil": "/bayron-mora/profil/spieler/913478",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/05/2003 (23)",
+      "club_actual": "LD Alajuelense",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "743618",
+      "nombre": "Abraham Madriz",
+      "href_perfil": "/abraham-madriz/profil/spieler/743618",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/04/2004 (22)",
+      "club_actual": "Deportivo Saprissa",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "856068",
+      "nombre": "Jeyland Mitchell",
+      "href_perfil": "/jeyland-mitchell/profil/spieler/856068",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/09/2004 (21)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "743815",
+      "nombre": "Joseth Peraza",
+      "href_perfil": "/joseth-peraza/profil/spieler/743815",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/12/2004 (21)",
+      "club_actual": "Zalaegerszegi TE FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "378520",
+      "nombre": "Fernán Faerron",
+      "href_perfil": "/fernan-faerron/profil/spieler/378520",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/08/2000 (25)",
+      "club_actual": "CS Cartaginés",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "743635",
+      "nombre": "John Ruiz",
+      "href_perfil": "/john-ruiz/profil/spieler/743635",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/12/2004 (21)",
+      "club_actual": "AD Municipal Liberia",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "596318",
+      "nombre": "Darril Araya",
+      "href_perfil": "/darril-araya/profil/spieler/596318",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/11/2000 (25)",
+      "club_actual": "CS Herediano",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "790545",
+      "nombre": "Haxzel Quirós",
+      "href_perfil": "/haxzel-quiros/profil/spieler/790545",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/06/1998 (28)",
+      "club_actual": "CS Herediano",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "830572",
+      "nombre": "Shawn Johnson",
+      "href_perfil": "/shawn-johnson/profil/spieler/830572",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2003 (23)",
+      "club_actual": "AD Municipal Liberia",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "549756",
+      "nombre": "Orlando Galo",
+      "href_perfil": "/orlando-galo/profil/spieler/549756",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/08/2000 (25)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "481107",
+      "nombre": "Aarón Salazar",
+      "href_perfil": "/aaron-salazar/profil/spieler/481107",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/1999 (27)",
+      "club_actual": "LD Alajuelense",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "256115",
+      "nombre": "Luis Flores",
+      "href_perfil": "/luis-flores/profil/spieler/256115",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/1994 (32)",
+      "club_actual": "CS Cartaginés",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1341386",
+      "nombre": "Gian Mauro Morera",
+      "href_perfil": "/gian-mauro-morera/profil/spieler/1341386",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/08/2005 (20)",
+      "club_actual": "Guadalupe FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "740789",
+      "nombre": "Carlos Mora",
+      "href_perfil": "/carlos-mora/profil/spieler/740789",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/2001 (25)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "435605",
+      "nombre": "Cristopher Núñez",
+      "href_perfil": "/cristopher-nunez/profil/spieler/435605",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/12/1997 (28)",
+      "club_actual": "CS Cartaginés",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "743629",
+      "nombre": "Josimar Alcócer",
+      "href_perfil": "/josimar-alcocer/profil/spieler/743629",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/07/2004 (21)",
+      "club_actual": "KVC Westerlo",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "613461",
+      "nombre": "Andrey Soto",
+      "href_perfil": "/andrey-soto/profil/spieler/613461",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/04/2003 (23)",
+      "club_actual": "Municipal Pérez Zeledón",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "645173",
+      "nombre": "Manfred Ugalde",
+      "href_perfil": "/manfred-ugalde/profil/spieler/645173",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/05/2002 (24)",
+      "club_actual": "Spartak Moscow",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "614412",
+      "nombre": "Orlando Sinclair",
+      "href_perfil": "/orlando-sinclair/profil/spieler/614412",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/04/1998 (28)",
+      "club_actual": "Deportivo Saprissa",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "932395",
+      "nombre": "Doryan Rodríguez",
+      "href_perfil": "/doryan-rodriguez/profil/spieler/932395",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/01/2003 (23)",
+      "club_actual": "Puntarenas FC",
+      "valor_mercado_raw": "€225k"
+    }
+  ]
+}

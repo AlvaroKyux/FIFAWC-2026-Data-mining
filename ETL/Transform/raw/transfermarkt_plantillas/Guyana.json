@@ -1,0 +1,240 @@
+{
+  "pais": "Guyana",
+  "href_seleccion": "/guyana/startseite/verein/15736",
+  "jugadores": [
+    {
+      "player_id": "344534",
+      "nombre": "Kai McKenzie-Lyle",
+      "href_perfil": "/kai-mckenzie-lyle/profil/spieler/344534",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/11/1997 (28)",
+      "club_actual": "FC Ferizaj",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "953592",
+      "nombre": "Joshua Naraine",
+      "href_perfil": "/joshua-naraine/profil/spieler/953592",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/01/2003 (23)",
+      "club_actual": "Pickering FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "302614",
+      "nombre": "Akel Clarke",
+      "href_perfil": "/akel-clarke/profil/spieler/302614",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/10/1988 (37)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "481534",
+      "nombre": "Romaine Brackenridge",
+      "href_perfil": "/romaine-brackenridge/profil/spieler/481534",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/09/1994 (31)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "265231",
+      "nombre": "Reiss Greenidge",
+      "href_perfil": "/reiss-greenidge/profil/spieler/265231",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/02/1996 (30)",
+      "club_actual": "Slough Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1407256",
+      "nombre": "Walker Shabazz-Edwards",
+      "href_perfil": "/walker-shabazz-edwards/profil/spieler/1407256",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/05/2007 (19)",
+      "club_actual": "Ipswich Town U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1006824",
+      "nombre": "Kvist Paul",
+      "href_perfil": "/kvist-paul/profil/spieler/1006824",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/04/2006 (20)",
+      "club_actual": "Waterhouse FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "619453",
+      "nombre": "Jalen Jones",
+      "href_perfil": "/jalen-jones/profil/spieler/619453",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/11/1998 (27)",
+      "club_actual": "Dover Athletic",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "220736",
+      "nombre": "Colin Nelson",
+      "href_perfil": "/colin-nelson/profil/spieler/220736",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/08/1991 (34)",
+      "club_actual": "Guyana Defence Force",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "763173",
+      "nombre": "Darron Niles",
+      "href_perfil": "/darron-niles/profil/spieler/763173",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/05/2003 (23)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628860",
+      "nombre": "Raushan Ritch",
+      "href_perfil": "/raushan-ritch/profil/spieler/628860",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/04/2000 (26)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953616",
+      "nombre": "Brandon Solomon",
+      "href_perfil": "/brandon-solomon/profil/spieler/953616",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/04/2004 (22)",
+      "club_actual": "Guyana Police Force FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1327306",
+      "nombre": "Neron Barrow",
+      "href_perfil": "/neron-barrow/profil/spieler/1327306",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "14/03/2004 (22)",
+      "club_actual": "Waterhouse FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1416209",
+      "nombre": "Shemar Scott",
+      "href_perfil": "/shemar-scott/profil/spieler/1416209",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "27/09/2000 (25)",
+      "club_actual": "Guyana Defence Force",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "655139",
+      "nombre": "Nathan Moriah-Welsh",
+      "href_perfil": "/nathan-moriah-welsh/profil/spieler/655139",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/2002 (24)",
+      "club_actual": "Mansfield Town",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "449454",
+      "nombre": "Nathan Ferguson",
+      "href_perfil": "/nathan-ferguson/profil/spieler/449454",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/10/1995 (30)",
+      "club_actual": "Hartlepool United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "552406",
+      "nombre": "Curtez Kellman",
+      "href_perfil": "/curtez-kellman/profil/spieler/552406",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/03/1998 (28)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "763165",
+      "nombre": "Omari Glasgow",
+      "href_perfil": "/omari-glasgow/profil/spieler/763165",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "22/11/2003 (22)",
+      "club_actual": "Monterey Bay FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "628861",
+      "nombre": "Nicholas McArthur",
+      "href_perfil": "/nicholas-mcarthur/profil/spieler/628861",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "21/12/2001 (24)",
+      "club_actual": "Guyana Police Force FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "503370",
+      "nombre": "Kelsey Benjamin",
+      "href_perfil": "/kelsey-benjamin/profil/spieler/503370",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "08/05/1999 (27)",
+      "club_actual": "Slingerz FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239187",
+      "nombre": "Kyle Reid",
+      "href_perfil": "/kyle-reid/profil/spieler/1239187",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2005 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "242408",
+      "nombre": "Daniel Wilson",
+      "href_perfil": "/daniel-wilson/profil/spieler/242408",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/11/1993 (32)",
+      "club_actual": "Western Tigers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "657324",
+      "nombre": "Osaze De Rosario",
+      "href_perfil": "/osaze-de-rosario/profil/spieler/657324",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/07/2001 (24)",
+      "club_actual": "Seattle Sounders FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "628864",
+      "nombre": "Chris Macey",
+      "href_perfil": "/chris-macey/profil/spieler/628864",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/12/1999 (26)",
+      "club_actual": "Guyana Defence Force",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1236941",
+      "nombre": "Liam Butts",
+      "href_perfil": "/liam-butts/profil/spieler/1236941",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/02/2001 (25)",
+      "club_actual": "Atlanta United 2",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1051135",
+      "nombre": "Enoch George",
+      "href_perfil": "/enoch-george/profil/spieler/1051135",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/05/2003 (23)",
+      "club_actual": "SVV Scheveningen",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

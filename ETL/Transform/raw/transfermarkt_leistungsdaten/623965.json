@@ -1,0 +1,60 @@
+{
+  "nombre": "João Paulo",
+  "href_perfil": "/joao-paulo/profil/spieler/623965",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperLiga",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,003'"
+    },
+    {
+      "competicion_raw": "SuperLiga - Relegation group",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "598'"
+    },
+    {
+      "competicion_raw": "Romanian Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "241'"
+    },
+    {
+      "competicion_raw": "Playoff Conference League",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "201'"
+    },
+    {
+      "competicion_raw": "Super Liga",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,043'"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nombre": "Alan Minda",
+  "href_perfil": "/alan-minda/profil/spieler/897051",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "17",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "969'"
+    },
+    {
+      "competicion_raw": "Série A",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "351'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "246'"
+    },
+    {
+      "competicion_raw": "Campeonato Mineiro",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "75'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "68'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "29'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,738'"
+    }
+  ]
+}

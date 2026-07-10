@@ -1,0 +1,231 @@
+{
+  "pais": "South Sudan",
+  "href_seleccion": "/sudsudan/startseite/verein/33192",
+  "jugadores": [
+    {
+      "player_id": "613652",
+      "nombre": "Majak Mawith",
+      "href_perfil": "/majak-mawith/profil/spieler/613652",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/09/1999 (26)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "702874",
+      "nombre": "Ramadan John",
+      "href_perfil": "/ramadan-john/profil/spieler/702874",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/03/2000 (26)",
+      "club_actual": "Munuki SCSC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111644",
+      "nombre": "Godwill Yogusuk",
+      "href_perfil": "/godwill-yogusuk/profil/spieler/1111644",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/07/2004 (21)",
+      "club_actual": "Kator FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "683750",
+      "nombre": "Paul Puk Pal",
+      "href_perfil": "/paul-puk-pal/profil/spieler/683750",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/02/2000 (26)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "989281",
+      "nombre": "Samuel Taban",
+      "href_perfil": "/samuel-taban/profil/spieler/989281",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/10/2002 (23)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1299459",
+      "nombre": "Benjamin Laku Lotelek",
+      "href_perfil": "/benjamin-laku-lotelek/profil/spieler/1299459",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/06/2006 (20)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "186801",
+      "nombre": "Athir Thomas",
+      "href_perfil": "/athir-thomas/profil/spieler/186801",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/02/1987 (39)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1146199",
+      "nombre": "Amanhom Khamis",
+      "href_perfil": "/amanhom-khamis/profil/spieler/1146199",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/07/2002 (23)",
+      "club_actual": "Green Gully SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111616",
+      "nombre": "Bichiok",
+      "href_perfil": "/bichiok/profil/spieler/1111616",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/08/2007 (18)",
+      "club_actual": "Nairobi United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1315684",
+      "nombre": "Rashid Okocha",
+      "href_perfil": "/rashid-okocha/profil/spieler/1315684",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "10/12/1993 (32)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "779100",
+      "nombre": "Joseph Dhata",
+      "href_perfil": "/joseph-dhata/profil/spieler/779100",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/09/2002 (23)",
+      "club_actual": "National Enterprise Corporation FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "970534",
+      "nombre": "William Gama",
+      "href_perfil": "/william-gama/profil/spieler/970534",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/12/2002 (23)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1386418",
+      "nombre": "Peter Chan",
+      "href_perfil": "/peter-chan/profil/spieler/1386418",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/09/1995 (30)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "998548",
+      "nombre": "Joseph Malish Manase",
+      "href_perfil": "/joseph-malish-manase/profil/spieler/998548",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/07/2002 (23)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1134358",
+      "nombre": "Mario Albano",
+      "href_perfil": "/mario-albano/profil/spieler/1134358",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/04/2006 (20)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "398522",
+      "nombre": "Peter Chol",
+      "href_perfil": "/peter-chol/profil/spieler/398522",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/1994 (31)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "971108",
+      "nombre": "Ivan Wani",
+      "href_perfil": "/ivan-wani/profil/spieler/971108",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "12/12/1998 (27)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1386032",
+      "nombre": "Pap Chol",
+      "href_perfil": "/pap-chol/profil/spieler/1386032",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/01/2005 (21)",
+      "club_actual": "Kator FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1455240",
+      "nombre": "Keer Mangar Majak",
+      "href_perfil": "/keer-mangar-majak/profil/spieler/1455240",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/01/2007 (19)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1450346",
+      "nombre": "David Sebit",
+      "href_perfil": "/david-sebit/profil/spieler/1450346",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "994756",
+      "nombre": "Dor Jok",
+      "href_perfil": "/dor-jok/profil/spieler/994756",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/02/2001 (25)",
+      "club_actual": "Ghajnsielem FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1172506",
+      "nombre": "Ronald Innocent",
+      "href_perfil": "/ronald-innocent/profil/spieler/1172506",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/03/2002 (24)",
+      "club_actual": "National Enterprise Corporation FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1072323",
+      "nombre": "Alfred Leku",
+      "href_perfil": "/alfred-leku/profil/spieler/1072323",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/09/1997 (28)",
+      "club_actual": "Lugazi FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1109954",
+      "nombre": "Teng Kuol",
+      "href_perfil": "/teng-kuol/profil/spieler/1109954",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/02/2003 (23)",
+      "club_actual": "Marconi Stallions FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1183455",
+      "nombre": "Godfrey Debele",
+      "href_perfil": "/godfrey-debele/profil/spieler/1183455",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/01/2001 (25)",
+      "club_actual": "Hume City FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

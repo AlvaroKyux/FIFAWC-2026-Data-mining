@@ -1,0 +1,33 @@
+{
+  "nombre": "Keisuke Osako",
+  "href_perfil": "/keisuke-osako/profil/spieler/415521",
+  "competiciones": [
+    {
+      "competicion_raw": "J1 Special Season",
+      "partidos": "16",
+      "goles": "17",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,440'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "9",
+      "goles": "9",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "26",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,250'"
+    }
+  ]
+}

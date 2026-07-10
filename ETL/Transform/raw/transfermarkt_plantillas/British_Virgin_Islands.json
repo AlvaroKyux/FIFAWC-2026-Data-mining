@@ -1,0 +1,186 @@
+{
+  "pais": "British Virgin Islands",
+  "href_seleccion": "/britische-jungferninseln/startseite/verein/17750",
+  "jugadores": [
+    {
+      "player_id": "1373743",
+      "nombre": "Toby Whiteside",
+      "href_perfil": "/toby-whiteside/profil/spieler/1373743",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/04/2008 (18)",
+      "club_actual": "Eastbourne Borough U18",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240628",
+      "nombre": "Harry Foden",
+      "href_perfil": "/harry-foden/profil/spieler/1240628",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/08/2006 (19)",
+      "club_actual": "Portland United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240761",
+      "nombre": "T'Khoi Morton",
+      "href_perfil": "/tkhoi-morton/profil/spieler/1240761",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "10/10/2007 (18)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022788",
+      "nombre": "Quelahni Nickie",
+      "href_perfil": "/quelahni-nickie/profil/spieler/1022788",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "19/02/2004 (22)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240630",
+      "nombre": "Momchil Yordanov",
+      "href_perfil": "/momchil-yordanov/profil/spieler/1240630",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2007 (19)",
+      "club_actual": "FC Lancing",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "875070",
+      "nombre": "Ikyjah Williams",
+      "href_perfil": "/ikyjah-williams/profil/spieler/875070",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/09/2003 (22)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953241",
+      "nombre": "Jaden Abrams",
+      "href_perfil": "/jaden-abrams/profil/spieler/953241",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/04/2007 (19)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "613977",
+      "nombre": "Joshua Bertie",
+      "href_perfil": "/joshua-bertie/profil/spieler/613977",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/10/1996 (29)",
+      "club_actual": "FC Downton",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1330559",
+      "nombre": "Rush Broderick",
+      "href_perfil": "/rush-broderick/profil/spieler/1330559",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "24/07/2007 (18)",
+      "club_actual": "Wolues FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953237",
+      "nombre": "Alejandro Santos",
+      "href_perfil": "/alejandro-santos/profil/spieler/953237",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "23/11/2003 (22)",
+      "club_actual": "Wolues FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "625378",
+      "nombre": "T'Sharne Gallimore",
+      "href_perfil": "/tsharne-gallimore/profil/spieler/625378",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/2000 (25)",
+      "club_actual": "Bedford Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240635",
+      "nombre": "Joel Mars",
+      "href_perfil": "/joel-mars/profil/spieler/1240635",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/02/2007 (19)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "430035",
+      "nombre": "Kristian Javier",
+      "href_perfil": "/kristian-javier/profil/spieler/430035",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/1996 (30)",
+      "club_actual": "Pigotts SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "875068",
+      "nombre": "Luka Chalwell",
+      "href_perfil": "/luka-chalwell/profil/spieler/875068",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/2004 (22)",
+      "club_actual": "Potters Bar Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "431118",
+      "nombre": "Robert Green",
+      "href_perfil": "/robert-green/profil/spieler/431118",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/09/1997 (28)",
+      "club_actual": "Islanders FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "625381",
+      "nombre": "Tyler Forbes",
+      "href_perfil": "/tyler-forbes/profil/spieler/625381",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/04/2002 (24)",
+      "club_actual": "Tilbury FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953284",
+      "nombre": "Johari Lacey",
+      "href_perfil": "/johari-lacey/profil/spieler/953284",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/12/2006 (19)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "614531",
+      "nombre": "Javaun Splatt",
+      "href_perfil": "/javaun-splatt/profil/spieler/614531",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/02/2001 (25)",
+      "club_actual": "Whitstable Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240634",
+      "nombre": "Adrian Padilla",
+      "href_perfil": "/adrian-padilla/profil/spieler/1240634",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/02/2006 (20)",
+      "club_actual": "CF Trival Valderas U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1518801",
+      "nombre": "Decoi Prince",
+      "href_perfil": "/decoi-prince/profil/spieler/1518801",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "08/03/2007 (19)",
+      "club_actual": "Virgin Gorda United",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

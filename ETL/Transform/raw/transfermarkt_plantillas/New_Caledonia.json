@@ -1,0 +1,231 @@
+{
+  "pais": "New Caledonia",
+  "href_seleccion": "/neukaledonien/startseite/verein/17755",
+  "jugadores": [
+    {
+      "player_id": "185184",
+      "nombre": "Rocky Nyikeine",
+      "href_perfil": "/rocky-nyikeine/profil/spieler/185184",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/05/1992 (34)",
+      "club_actual": "ASC Gaica",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "370055",
+      "nombre": "Mickael Ulile",
+      "href_perfil": "/mickael-ulile/profil/spieler/370055",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/07/1997 (28)",
+      "club_actual": "AS Magenta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "264459",
+      "nombre": "Thomas Schmidt",
+      "href_perfil": "/thomas-schmidt/profil/spieler/264459",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/06/1996 (30)",
+      "club_actual": "AS Tiga Sports",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "539055",
+      "nombre": "Josué Welepane",
+      "href_perfil": "/josue-welepane/profil/spieler/539055",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/04/2000 (26)",
+      "club_actual": "AS Tiga Sports",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "981353",
+      "nombre": "William Rokuad",
+      "href_perfil": "/william-rokuad/profil/spieler/981353",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/10/2001 (24)",
+      "club_actual": "ES Normanville",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "261793",
+      "nombre": "Fonzy Ranchain",
+      "href_perfil": "/fonzy-ranchain/profil/spieler/261793",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/07/1994 (31)",
+      "club_actual": "US Sainte-Anne de Vertou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487267",
+      "nombre": "Bernard Iwa",
+      "href_perfil": "/bernard-iwa/profil/spieler/487267",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/05/2000 (26)",
+      "club_actual": "AS Lössi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "325938",
+      "nombre": "Joseph Athale",
+      "href_perfil": "/joseph-athale/profil/spieler/325938",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/07/1995 (30)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487272",
+      "nombre": "Jekob Jeno",
+      "href_perfil": "/jekob-jeno/profil/spieler/487272",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/2000 (26)",
+      "club_actual": "Hapoel Rishon leZion",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "438082",
+      "nombre": "Morgan Mathelon",
+      "href_perfil": "/morgan-mathelon/profil/spieler/438082",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/09/1991 (34)",
+      "club_actual": "AS Tiga Sports",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "455539",
+      "nombre": "Shene Welepane",
+      "href_perfil": "/shene-welepane/profil/spieler/455539",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "09/12/1997 (28)",
+      "club_actual": "AS Tiga Sports",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "266166",
+      "nombre": "Didier Simane",
+      "href_perfil": "/didier-simane/profil/spieler/266166",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/08/1996 (29)",
+      "club_actual": "ASPTT Dijon",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "696475",
+      "nombre": "Yoan Bearune",
+      "href_perfil": "/yoan-bearune/profil/spieler/696475",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "22/03/2002 (24)",
+      "club_actual": "Horizon Patho",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487276",
+      "nombre": "Pierre Bako",
+      "href_perfil": "/pierre-bako/profil/spieler/487276",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/08/2001 (24)",
+      "club_actual": "US Sainte-Anne de Vertou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1391924",
+      "nombre": "Pierre Iékawé",
+      "href_perfil": "/pierre-iekawe/profil/spieler/1391924",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "07/09/1997 (28)",
+      "club_actual": "AS Tiga Sports",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "250013",
+      "nombre": "Angelo Fulgini",
+      "href_perfil": "/angelo-fulgini/profil/spieler/250013",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/1996 (29)",
+      "club_actual": "Al-Taawoun FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "352492",
+      "nombre": "Joris Kenon",
+      "href_perfil": "/joris-kenon/profil/spieler/352492",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/01/1998 (28)",
+      "club_actual": "US Saint-Philbert-de-Grand-Lieu",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "177781",
+      "nombre": "Georges Gope-Fenepej",
+      "href_perfil": "/georges-gope-fenepej/profil/spieler/177781",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/10/1988 (37)",
+      "club_actual": "Saint-Colomban Locminé",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487271",
+      "nombre": "Titouan Richard",
+      "href_perfil": "/titouan-richard/profil/spieler/487271",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/12/2000 (25)",
+      "club_actual": "Olympique Salaise Rhodia",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "177785",
+      "nombre": "César Zeoula",
+      "href_perfil": "/cesar-zeoula/profil/spieler/177785",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/08/1989 (36)",
+      "club_actual": "US Chauvigny",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "555803",
+      "nombre": "Jean-Jacques Katrawa",
+      "href_perfil": "/jean-jacques-katrawa/profil/spieler/555803",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/08/1999 (26)",
+      "club_actual": "Gallia Club Lucciana FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "696479",
+      "nombre": "Lues Waya",
+      "href_perfil": "/lues-waya/profil/spieler/696479",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/08/2001 (24)",
+      "club_actual": "US Sainte-Anne de Vertou",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "981340",
+      "nombre": "Germain Haewegene",
+      "href_perfil": "/germain-haewegene/profil/spieler/981340",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/07/1996 (29)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "455538",
+      "nombre": "Bryan Ausu",
+      "href_perfil": "/bryan-ausu/profil/spieler/455538",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "25/11/1997 (28)",
+      "club_actual": "Sud FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1193703",
+      "nombre": "Gérard Waia",
+      "href_perfil": "/gerard-waia/profil/spieler/1193703",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/12/2004 (21)",
+      "club_actual": "US Sainte-Anne de Vertou",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

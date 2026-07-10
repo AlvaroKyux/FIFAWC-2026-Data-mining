@@ -1,0 +1,42 @@
+{
+  "nombre": "Gonzalo Valle",
+  "href_perfil": "/gonzalo-valle/profil/spieler/351941",
+  "competiciones": [
+    {
+      "competicion_raw": "LigaPro Serie A",
+      "partidos": "14",
+      "goles": "13",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Copa Ecuador",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "18",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    }
+  ]
+}

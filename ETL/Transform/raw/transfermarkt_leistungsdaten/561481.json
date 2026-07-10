@@ -1,0 +1,33 @@
+{
+  "nombre": "Saed Al-Rousan",
+  "href_perfil": "/saed-al-rousan/profil/spieler/561481",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "22",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,749'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,379'"
+    }
+  ]
+}

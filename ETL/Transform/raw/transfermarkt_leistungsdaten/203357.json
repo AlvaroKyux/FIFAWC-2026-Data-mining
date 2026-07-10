@@ -1,0 +1,33 @@
+{
+  "nombre": "Ryan Thomas",
+  "href_perfil": "/ryan-thomas/profil/spieler/203357",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,157'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "11'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,168'"
+    }
+  ]
+}

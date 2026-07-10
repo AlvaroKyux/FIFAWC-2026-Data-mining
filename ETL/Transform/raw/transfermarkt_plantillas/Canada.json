@@ -1,0 +1,240 @@
+{
+  "pais": "Canada",
+  "href_seleccion": "/kanada/startseite/verein/3510",
+  "jugadores": [
+    {
+      "player_id": "439750",
+      "nombre": "Dayne St. Clair",
+      "href_perfil": "/dayne-st-clair/profil/spieler/439750",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/05/1997 (29)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "189014",
+      "nombre": "Maxime Crépeau",
+      "href_perfil": "/maxime-crepeau/profil/spieler/189014",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/05/1994 (32)",
+      "club_actual": "Orlando City SC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "814848",
+      "nombre": "Owen Goodman",
+      "href_perfil": "/owen-goodman/profil/spieler/814848",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/11/2003 (22)",
+      "club_actual": "Barnsley FC",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "1089202",
+      "nombre": "Moïse Bombito",
+      "href_perfil": "/moise-bombito/profil/spieler/1089202",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/03/2000 (26)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "340990",
+      "nombre": "Alfie Jones",
+      "href_perfil": "/alfie-jones/profil/spieler/340990",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/10/1997 (28)",
+      "club_actual": "Middlesbrough FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "328609",
+      "nombre": "Derek Cornelius",
+      "href_perfil": "/derek-cornelius/profil/spieler/328609",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/11/1997 (28)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "441738",
+      "nombre": "Joel Waterman",
+      "href_perfil": "/joel-waterman/profil/spieler/441738",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/1996 (30)",
+      "club_actual": "Chicago Fire FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "921995",
+      "nombre": "Luc De Fougerolles",
+      "href_perfil": "/luc-de-fougerolles/profil/spieler/921995",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/10/2005 (20)",
+      "club_actual": "FCV Dender EH",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "424204",
+      "nombre": "Alphonso Davies",
+      "href_perfil": "/alphonso-davies/profil/spieler/424204",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/11/2000 (25)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "637446",
+      "nombre": "Alistair Johnston",
+      "href_perfil": "/alistair-johnston/profil/spieler/637446",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/10/1998 (27)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "417348",
+      "nombre": "Richie Laryea",
+      "href_perfil": "/richie-laryea/profil/spieler/417348",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/01/1995 (31)",
+      "club_actual": "Toronto FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1045375",
+      "nombre": "Niko Sigur",
+      "href_perfil": "/niko-sigur/profil/spieler/1045375",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/09/2003 (22)",
+      "club_actual": "HNK Hajduk Split",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "921655",
+      "nombre": "Ismaël Koné",
+      "href_perfil": "/ismael-kone/profil/spieler/921655",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/06/2002 (24)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "842420",
+      "nombre": "Nathan-Dylan Saliba",
+      "href_perfil": "/nathan-dylan-saliba/profil/spieler/842420",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/02/2004 (22)",
+      "club_actual": "RSC Anderlecht",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "512913",
+      "nombre": "Stephen Eustaquio",
+      "href_perfil": "/stephen-eustaquio/profil/spieler/512913",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/12/1996 (29)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "260807",
+      "nombre": "Jonathan Osorio",
+      "href_perfil": "/jonathan-osorio/profil/spieler/260807",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/06/1992 (34)",
+      "club_actual": "Toronto FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "589006",
+      "nombre": "Mathieu Choinière",
+      "href_perfil": "/mathieu-choiniere/profil/spieler/589006",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/02/1999 (27)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "995642",
+      "nombre": "Ali Ahmed",
+      "href_perfil": "/ali-ahmed/profil/spieler/995642",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "10/10/2000 (25)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "487417",
+      "nombre": "Liam Millar",
+      "href_perfil": "/liam-millar/profil/spieler/487417",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/09/1999 (26)",
+      "club_actual": "Hull City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "637632",
+      "nombre": "Jacob Shaffelburg",
+      "href_perfil": "/jacob-shaffelburg/profil/spieler/637632",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/11/1999 (26)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "635445",
+      "nombre": "Jayden Nelson",
+      "href_perfil": "/jayden-nelson/profil/spieler/635445",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/09/2002 (23)",
+      "club_actual": "Austin FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "638793",
+      "nombre": "Tajon Buchanan",
+      "href_perfil": "/tajon-buchanan/profil/spieler/638793",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/02/1999 (27)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "533738",
+      "nombre": "Jonathan David",
+      "href_perfil": "/jonathan-david/profil/spieler/533738",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/01/2000 (26)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "888785",
+      "nombre": "Promise David",
+      "href_perfil": "/promise-david/profil/spieler/888785",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/07/2001 (24)",
+      "club_actual": "Union Saint-Gilloise",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "972465",
+      "nombre": "Tani Oluwaseyi",
+      "href_perfil": "/tani-oluwaseyi/profil/spieler/972465",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/05/2000 (26)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "343463",
+      "nombre": "Cyle Larin",
+      "href_perfil": "/cyle-larin/profil/spieler/343463",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/04/1995 (31)",
+      "club_actual": "Southampton FC",
+      "valor_mercado_raw": "€2.50m"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "pais": "Brunei Darussalam",
+  "href_seleccion": "/brunei-darussalam/startseite/verein/14233",
+  "jugadores": [
+    {
+      "player_id": "577165",
+      "nombre": "Haimie Nyaring",
+      "href_perfil": "/haimie-nyaring/profil/spieler/577165",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/1998 (28)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "677787",
+      "nombre": "Ishyra Asmin",
+      "href_perfil": "/ishyra-asmin/profil/spieler/677787",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/07/1998 (27)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1063962",
+      "nombre": "Jefri Syafiq",
+      "href_perfil": "/jefri-syafiq/profil/spieler/1063962",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/05/2002 (24)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "432589",
+      "nombre": "Yura Indera Putera",
+      "href_perfil": "/yura-indera-putera/profil/spieler/432589",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/03/1996 (30)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "432588",
+      "nombre": "Nur Ikhwan Othman",
+      "href_perfil": "/nur-ikhwan-othman/profil/spieler/432588",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/01/1993 (33)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "501132",
+      "nombre": "Hanif Hamir",
+      "href_perfil": "/hanif-hamir/profil/spieler/501132",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/02/1997 (29)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "364423",
+      "nombre": "Afi Aminuddin",
+      "href_perfil": "/afi-aminuddin/profil/spieler/364423",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/10/1991 (34)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "364268",
+      "nombre": "Abdul Mu'iz Sisa",
+      "href_perfil": "/abdul-muiz-sisa/profil/spieler/364268",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/04/1991 (35)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1415274",
+      "nombre": "Hibatur Rahman",
+      "href_perfil": "/hibatur-rahman/profil/spieler/1415274",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "MS ABDB FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1004585",
+      "nombre": "Nazry Aiman",
+      "href_perfil": "/nazry-aiman/profil/spieler/1004585",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/07/2004 (21)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1076536",
+      "nombre": "Martin Haddy",
+      "href_perfil": "/martin-haddy/profil/spieler/1076536",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/04/1998 (28)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "274036",
+      "nombre": "Azwan Ali Rahman",
+      "href_perfil": "/azwan-ali-rahman/profil/spieler/274036",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1992 (34)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "577168",
+      "nombre": "Abdul Hariz",
+      "href_perfil": "/abdul-hariz/profil/spieler/577168",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/09/2000 (25)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1029078",
+      "nombre": "Haziq Syamra",
+      "href_perfil": "/haziq-syamra/profil/spieler/1029078",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "26/05/2004 (22)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "999187",
+      "nombre": "Alinur Rashimy Jufri",
+      "href_perfil": "/alinur-rashimy-jufri/profil/spieler/999187",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "12/06/2000 (26)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "691134",
+      "nombre": "Hakeme Yazid Said",
+      "href_perfil": "/hakeme-yazid-said/profil/spieler/691134",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/02/2003 (23)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "677778",
+      "nombre": "Nazirrudin Ismail",
+      "href_perfil": "/nazirrudin-ismail/profil/spieler/677778",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/12/1998 (27)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1246889",
+      "nombre": "Faturrahman Embran",
+      "href_perfil": "/faturrahman-embran/profil/spieler/1246889",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/08/1999 (26)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "677780",
+      "nombre": "Nur Asyraffahmi Norsamri",
+      "href_perfil": "/nur-asyraffahmi-norsamri/profil/spieler/677780",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/05/2000 (26)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1063963",
+      "nombre": "Haziq Kasyful",
+      "href_perfil": "/haziq-kasyful/profil/spieler/1063963",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/12/1998 (27)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "677788",
+      "nombre": "Hariz Danial",
+      "href_perfil": "/hariz-danial/profil/spieler/677788",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/11/1996 (29)",
+      "club_actual": "Brunei DPMM FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "222421",
+      "nombre": "Adi Said",
+      "href_perfil": "/adi-said/profil/spieler/222421",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/01/1990 (36)",
+      "club_actual": "Kasuka FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1552313",
+      "nombre": "Abdul Azim Rasid",
+      "href_perfil": "/abdul-azim-rasid/profil/spieler/1552313",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/04/1996 (30)",
+      "club_actual": "MS PPDB FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

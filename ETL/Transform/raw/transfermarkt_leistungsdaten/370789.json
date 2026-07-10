@@ -1,0 +1,42 @@
+{
+  "nombre": "Julian Ryerson",
+  "href_perfil": "/julian-ryerson/profil/spieler/370789",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "15",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,274'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "606'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "187'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "-",
+      "asistencias": "18",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,067'"
+    }
+  ]
+}

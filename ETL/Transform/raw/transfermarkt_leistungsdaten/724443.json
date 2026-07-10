@@ -1,0 +1,33 @@
+{
+  "nombre": "Brian Gutiérrez",
+  "href_perfil": "/brian-gutierrez/profil/spieler/724443",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "916'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "916'"
+    }
+  ]
+}

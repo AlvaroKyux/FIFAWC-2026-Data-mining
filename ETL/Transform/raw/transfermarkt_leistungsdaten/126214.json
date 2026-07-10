@@ -1,0 +1,42 @@
+{
+  "nombre": "Mathew Leckie",
+  "href_perfil": "/mathew-leckie/profil/spieler/126214",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "237'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "402'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Soufiane Rahimi",
+  "href_perfil": "/soufiane-rahimi/profil/spieler/598506",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "16",
+      "goles": "9",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "299'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "3",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "279'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "15",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,928'"
+    }
+  ]
+}

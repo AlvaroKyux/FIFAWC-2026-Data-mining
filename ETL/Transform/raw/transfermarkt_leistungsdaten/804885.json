@@ -1,0 +1,33 @@
+{
+  "nombre": "Martin Expérience",
+  "href_perfil": "/martin-experience/profil/spieler/804885",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "20",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,272'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "233'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,505'"
+    }
+  ]
+}

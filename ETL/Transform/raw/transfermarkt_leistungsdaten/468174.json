@@ -1,0 +1,60 @@
+{
+  "nombre": "Félix Torres",
+  "href_perfil": "/felix-torres/profil/spieler/468174",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "948'"
+    },
+    {
+      "competicion_raw": "Campeonato Gaúcho",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "369'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Recopa Gáucha",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,497'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Alexis Mac Allister",
+  "href_perfil": "/alexis-mac-allister/profil/spieler/534033",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "37",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,663'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "853'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "283'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "Community Shield",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "19'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "55",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,885'"
+    }
+  ]
+}

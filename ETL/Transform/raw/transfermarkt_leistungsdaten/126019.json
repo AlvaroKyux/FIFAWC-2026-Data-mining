@@ -1,0 +1,42 @@
+{
+  "nombre": "Alberto Quintero",
+  "href_perfil": "/alberto-quintero/profil/spieler/126019",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Panameña Clausura",
+      "partidos": "13",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,013'"
+    },
+    {
+      "competicion_raw": "Central American Cup",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "580'"
+    },
+    {
+      "competicion_raw": "LPF Clausura Playoff",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "249'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,842'"
+    }
+  ]
+}

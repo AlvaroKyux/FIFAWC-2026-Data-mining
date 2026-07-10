@@ -1,0 +1,51 @@
+{
+  "nombre": "Shoja Khalilzadeh",
+  "href_perfil": "/shoja-khalilzadeh/profil/spieler/213715",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,882'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "805'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Iran Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,897'"
+    }
+  ]
+}

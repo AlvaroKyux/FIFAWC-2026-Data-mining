@@ -1,0 +1,240 @@
+{
+  "pais": "Honduras",
+  "href_seleccion": "/honduras/startseite/verein/3590",
+  "jugadores": [
+    {
+      "player_id": "333949",
+      "nombre": "Edrick Menjívar",
+      "href_perfil": "/edrick-menjivar/profil/spieler/333949",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/1993 (33)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "684480",
+      "nombre": "Alex Güity",
+      "href_perfil": "/alex-guity/profil/spieler/684480",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/09/1997 (28)",
+      "club_actual": "Lobos de la UPNFM",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "747583",
+      "nombre": "Luis Ortiz",
+      "href_perfil": "/luis-ortiz/profil/spieler/747583",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/01/1998 (28)",
+      "club_actual": "CD Motagua Tegucigalpa",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "401769",
+      "nombre": "Denil Maldonado",
+      "href_perfil": "/denil-maldonado/profil/spieler/401769",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "Rubin Kazan",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "752058",
+      "nombre": "Luis Vega",
+      "href_perfil": "/luis-vega/profil/spieler/752058",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2002 (24)",
+      "club_actual": "CD Motagua Tegucigalpa",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1103733",
+      "nombre": "Giancarlo Sacaza",
+      "href_perfil": "/giancarlo-sacaza/profil/spieler/1103733",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/2004 (22)",
+      "club_actual": "CD Motagua Tegucigalpa",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1383745",
+      "nombre": "Clinton Bennett",
+      "href_perfil": "/clinton-bennett/profil/spieler/1383745",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/10/2002 (23)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1222698",
+      "nombre": "Cristián Canales",
+      "href_perfil": "/cristian-canales/profil/spieler/1222698",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2007 (19)",
+      "club_actual": "CD Choloma",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "657225",
+      "nombre": "Joseph Rosales",
+      "href_perfil": "/joseph-rosales/profil/spieler/657225",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/11/2000 (25)",
+      "club_actual": "Austin FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "991767",
+      "nombre": "Darlin Mencía",
+      "href_perfil": "/darlin-mencia/profil/spieler/991767",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/04/2003 (23)",
+      "club_actual": "Montevideo Wanderers",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1020386",
+      "nombre": "Kevin Güity",
+      "href_perfil": "/kevin-guity/profil/spieler/1020386",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/03/2003 (23)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "602085",
+      "nombre": "Cristopher Meléndez",
+      "href_perfil": "/cristopher-melendez/profil/spieler/602085",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/11/1997 (28)",
+      "club_actual": "CD Motagua Tegucigalpa",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "526050",
+      "nombre": "Kervin Arriaga",
+      "href_perfil": "/kervin-arriaga/profil/spieler/526050",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/1998 (28)",
+      "club_actual": "Levante UD",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "914681",
+      "nombre": "David Ruíz",
+      "href_perfil": "/david-ruiz/profil/spieler/914681",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/2004 (22)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "401771",
+      "nombre": "Jorge Álvarez",
+      "href_perfil": "/jorge-alvarez/profil/spieler/401771",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/01/1998 (28)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "487692",
+      "nombre": "Alejandro Reyes",
+      "href_perfil": "/alejandro-reyes/profil/spieler/487692",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/11/1997 (28)",
+      "club_actual": "CD Motagua Tegucigalpa",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "539043",
+      "nombre": "Luis Palma",
+      "href_perfil": "/luis-palma/profil/spieler/539043",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/01/2000 (26)",
+      "club_actual": "Lech Poznan",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "451353",
+      "nombre": "Rigoberto Rivas",
+      "href_perfil": "/rigoberto-rivas/profil/spieler/451353",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/07/1998 (27)",
+      "club_actual": "Kocaelispor",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1223490",
+      "nombre": "Dereck Moncada",
+      "href_perfil": "/dereck-moncada/profil/spieler/1223490",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/11/2007 (18)",
+      "club_actual": "Internacional de Bogotá",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1126203",
+      "nombre": "Alenis Vargas",
+      "href_perfil": "/alenis-vargas/profil/spieler/1126203",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/12/2003 (22)",
+      "club_actual": "Manisa FK",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "627408",
+      "nombre": "Edwin Rodríguez",
+      "href_perfil": "/edwin-rodriguez/profil/spieler/627408",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/09/1999 (26)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€375k"
+    },
+    {
+      "player_id": "951707",
+      "nombre": "Exon Arzú",
+      "href_perfil": "/exon-arzu/profil/spieler/951707",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "19/05/2004 (22)",
+      "club_actual": "Real CD España",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "953438",
+      "nombre": "Keyrol Figueroa",
+      "href_perfil": "/keyrol-figueroa/profil/spieler/953438",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/08/2006 (19)",
+      "club_actual": "Liverpool FC U21",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1431231",
+      "nombre": "Erick Puerto",
+      "href_perfil": "/erick-puerto/profil/spieler/1431231",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/10/2001 (24)",
+      "club_actual": "BATE Borisov",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "454321",
+      "nombre": "Jorge Benguché",
+      "href_perfil": "/jorge-benguche/profil/spieler/454321",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/05/1996 (30)",
+      "club_actual": "CD Olimpia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "930388",
+      "nombre": "Jeffry Miranda",
+      "href_perfil": "/jeffry-miranda/profil/spieler/930388",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/09/2002 (23)",
+      "club_actual": "Génesis / Policía Nacional FC",
+      "valor_mercado_raw": "€200k"
+    }
+  ]
+}

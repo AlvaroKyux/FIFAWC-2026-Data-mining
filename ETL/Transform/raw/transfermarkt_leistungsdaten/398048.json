@@ -1,0 +1,33 @@
+{
+  "nombre": "Márcio Rosa",
+  "href_perfil": "/marcio-rosa/profil/spieler/398048",
+  "competiciones": [
+    {
+      "competicion_raw": "efbet Liga",
+      "partidos": "19",
+      "goles": "27",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    },
+    {
+      "competicion_raw": "Bulgarian Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "28",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    }
+  ]
+}

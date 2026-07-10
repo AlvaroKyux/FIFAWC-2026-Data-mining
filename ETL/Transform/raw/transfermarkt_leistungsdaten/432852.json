@@ -1,0 +1,78 @@
+{
+  "nombre": "Deroy Duarte",
+  "href_perfil": "/deroy-duarte/profil/spieler/432852",
+  "competiciones": [
+    {
+      "competicion_raw": "efbet Liga",
+      "partidos": "33",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,368'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "781'"
+    },
+    {
+      "competicion_raw": "Bulgarian Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "381'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "158'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "134'"
+    },
+    {
+      "competicion_raw": "UECL Playoffs Efbet Liga",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "98'"
+    },
+    {
+      "competicion_raw": "Bulgarian Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "56",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "4,010'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Noor Al-Rawabdeh",
+  "href_perfil": "/noor-al-rawabdeh/profil/spieler/561485",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "20",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,342'"
+    },
+    {
+      "competicion_raw": "ASEAN Club Championship",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "619'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "394'"
+    },
+    {
+      "competicion_raw": "Malaysia FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "274'"
+    },
+    {
+      "competicion_raw": "Piala Malaysia",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "250'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "2",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,879'"
+    }
+  ]
+}

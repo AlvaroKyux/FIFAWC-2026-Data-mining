@@ -1,0 +1,42 @@
+{
+  "nombre": "Moteb Al-Harbi",
+  "href_perfil": "/moteb-al-harbi/profil/spieler/869509",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,833'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "280'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "314'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,427'"
+    }
+  ]
+}

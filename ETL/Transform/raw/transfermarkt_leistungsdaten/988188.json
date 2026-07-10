@@ -1,0 +1,51 @@
+{
+  "nombre": "Dominique Simon",
+  "href_perfil": "/dominique-simon/profil/spieler/988188",
+  "competiciones": [
+    {
+      "competicion_raw": "Niké Liga",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "510'"
+    },
+    {
+      "competicion_raw": "Niké Liga - Relegation",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "469'"
+    },
+    {
+      "competicion_raw": "Slovnaft Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "291'"
+    },
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "11'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,281'"
+    }
+  ]
+}

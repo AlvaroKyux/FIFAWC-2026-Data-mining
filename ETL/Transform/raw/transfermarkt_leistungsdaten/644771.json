@@ -1,0 +1,42 @@
+{
+  "nombre": "Odilon Kossounou",
+  "href_perfil": "/odilon-kossounou/profil/spieler/644771",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "985'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "812'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "89'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,886'"
+    }
+  ]
+}

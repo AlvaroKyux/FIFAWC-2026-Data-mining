@@ -1,0 +1,51 @@
+{
+  "nombre": "Angelo Stiller",
+  "href_perfil": "/angelo-stiller/profil/spieler/443710",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,746'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "854'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "562'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "87'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "52",
+      "goles": "2",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "4,249'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Roberto Lopes",
+  "href_perfil": "/roberto-lopes/profil/spieler/166158",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Division",
+      "partidos": "13",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,124'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "495'"
+    },
+    {
+      "competicion_raw": "President's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Leinster Senior Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "2,249'"
+    }
+  ]
+}

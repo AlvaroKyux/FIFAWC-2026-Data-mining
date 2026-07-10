@@ -1,0 +1,51 @@
+{
+  "nombre": "Lewis Ferguson",
+  "href_perfil": "/lewis-ferguson/profil/spieler/428563",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "1,596'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,065'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "84'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "1",
+      "minutos_raw": "2,925'"
+    }
+  ]
+}

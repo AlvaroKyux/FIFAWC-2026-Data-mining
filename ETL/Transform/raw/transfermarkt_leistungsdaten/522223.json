@@ -1,0 +1,33 @@
+{
+  "nombre": "Connor Metcalfe",
+  "href_perfil": "/connor-metcalfe/profil/spieler/522223",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "576'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "112'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "688'"
+    }
+  ]
+}

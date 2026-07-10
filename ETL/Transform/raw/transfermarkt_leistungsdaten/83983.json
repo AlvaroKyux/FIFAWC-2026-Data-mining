@@ -1,0 +1,42 @@
+{
+  "nombre": "Lucas Mendes",
+  "href_perfil": "/lucas-mendes/profil/spieler/83983",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,472'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,832'"
+    }
+  ]
+}

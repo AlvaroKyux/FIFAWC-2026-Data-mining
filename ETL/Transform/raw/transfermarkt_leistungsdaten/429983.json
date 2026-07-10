@@ -1,0 +1,51 @@
+{
+  "nombre": "Jørgen Strand Larsen",
+  "href_perfil": "/jorgen-strand-larsen/profil/spieler/429983",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "36",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,315'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "465'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "107'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "74'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "10",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,961'"
+    }
+  ]
+}

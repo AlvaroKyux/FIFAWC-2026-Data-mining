@@ -1,0 +1,69 @@
+{
+  "nombre": "John Souttar",
+  "href_perfil": "/john-souttar/profil/spieler/235767",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "23",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,924'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "405'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "15'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "3,184'"
+    }
+  ]
+}

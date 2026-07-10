@@ -1,0 +1,213 @@
+{
+  "pais": "El Salvador",
+  "href_seleccion": "/el-salvador/startseite/verein/13951",
+  "jugadores": [
+    {
+      "player_id": "114064",
+      "nombre": "Benjí Villalobos",
+      "href_perfil": "/benji-villalobos/profil/spieler/114064",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/07/1988 (37)",
+      "club_actual": "CD Águila",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1206381",
+      "nombre": "Daniel Franco",
+      "href_perfil": "/daniel-franco/profil/spieler/1206381",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/10/2006 (19)",
+      "club_actual": "Alianza FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "514904",
+      "nombre": "Rudy Clavel",
+      "href_perfil": "/rudy-clavel/profil/spieler/514904",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/10/1996 (29)",
+      "club_actual": "CD FAS",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "629301",
+      "nombre": "Jorge Cruz",
+      "href_perfil": "/jorge-cruz/profil/spieler/629301",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/01/2000 (26)",
+      "club_actual": "CD FAS",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "762829",
+      "nombre": "Julio Sibrián",
+      "href_perfil": "/julio-sibrian/profil/spieler/762829",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/07/1996 (29)",
+      "club_actual": "CD Águila",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "858372",
+      "nombre": "Elvis Claros",
+      "href_perfil": "/elvis-claros/profil/spieler/858372",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/08/2000 (25)",
+      "club_actual": "CD Municipal Limeño",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "889939",
+      "nombre": "Alejandro Henríquez",
+      "href_perfil": "/alejandro-henriquez/profil/spieler/889939",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/08/2002 (23)",
+      "club_actual": "Alianza FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "929367",
+      "nombre": "Diego Flores",
+      "href_perfil": "/diego-flores/profil/spieler/929367",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/07/2001 (24)",
+      "club_actual": "CD Luis Angel Firpo",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "881497",
+      "nombre": "Mauricio Cerritos",
+      "href_perfil": "/mauricio-cerritos/profil/spieler/881497",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/2003 (22)",
+      "club_actual": "CD Luis Angel Firpo",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "405660",
+      "nombre": "Isaac Portillo",
+      "href_perfil": "/isaac-portillo/profil/spieler/405660",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/1994 (31)",
+      "club_actual": "Inter Santa Tecla",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "747605",
+      "nombre": "Marcelo Díaz",
+      "href_perfil": "/marcelo-diaz/profil/spieler/747605",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/12/2000 (25)",
+      "club_actual": "CD Águila",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "375545",
+      "nombre": "Bryan Landaverde",
+      "href_perfil": "/bryan-landaverde/profil/spieler/375545",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/05/1995 (31)",
+      "club_actual": "CD Luis Angel Firpo",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "889897",
+      "nombre": "Jefferson Valladares",
+      "href_perfil": "/jefferson-valladares/profil/spieler/889897",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "08/12/2002 (23)",
+      "club_actual": "CD Municipal Limeño",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1169218",
+      "nombre": "Diego Ortez",
+      "href_perfil": "/diego-ortez/profil/spieler/1169218",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "30/09/2003 (22)",
+      "club_actual": "CD Luis Angel Firpo",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "273896",
+      "nombre": "Jairo Henríquez",
+      "href_perfil": "/jairo-henriquez/profil/spieler/273896",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "31/08/1993 (32)",
+      "club_actual": "Inter Santa Tecla",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "881359",
+      "nombre": "Leonardo Menjívar",
+      "href_perfil": "/leonardo-menjivar/profil/spieler/881359",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/10/2001 (24)",
+      "club_actual": "Alianza FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "890296",
+      "nombre": "Harold Osorio",
+      "href_perfil": "/harold-osorio/profil/spieler/890296",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/2003 (22)",
+      "club_actual": "Alianza FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "475657",
+      "nombre": "Kevin Reyes",
+      "href_perfil": "/kevin-reyes/profil/spieler/475657",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/08/1997 (28)",
+      "club_actual": "AD Isidro Metapán",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1187337",
+      "nombre": "Noel Rivera",
+      "href_perfil": "/noel-rivera/profil/spieler/1187337",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/06/2004 (22)",
+      "club_actual": "Alianza FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "904403",
+      "nombre": "Danis Cerros",
+      "href_perfil": "/danis-cerros/profil/spieler/904403",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/05/1999 (27)",
+      "club_actual": "CD Municipal Limeño",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "928955",
+      "nombre": "Emerson Mauricio",
+      "href_perfil": "/emerson-mauricio/profil/spieler/928955",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/08/2002 (23)",
+      "club_actual": "Inter Santa Tecla",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1051586",
+      "nombre": "Rafael Tejada",
+      "href_perfil": "/rafael-tejada/profil/spieler/1051586",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/03/2003 (23)",
+      "club_actual": "CD FAS",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "880794",
+      "nombre": "Cristian Gil",
+      "href_perfil": "/cristian-gil/profil/spieler/880794",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/11/1996 (29)",
+      "club_actual": "CD Luis Angel Firpo",
+      "valor_mercado_raw": "€225k"
+    }
+  ]
+}

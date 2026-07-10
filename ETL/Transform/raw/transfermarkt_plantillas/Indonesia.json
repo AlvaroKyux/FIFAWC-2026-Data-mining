@@ -1,0 +1,213 @@
+{
+  "pais": "Indonesia",
+  "href_seleccion": "/indonesien/startseite/verein/13958",
+  "jugadores": [
+    {
+      "player_id": "256339",
+      "nombre": "Emil Audero",
+      "href_perfil": "/emil-audero/profil/spieler/256339",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/01/1997 (29)",
+      "club_actual": "US Cremonese",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "396077",
+      "nombre": "Maarten Paes",
+      "href_perfil": "/maarten-paes/profil/spieler/396077",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/05/1998 (28)",
+      "club_actual": "Ajax Amsterdam",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "506141",
+      "nombre": "Nadeo Argawinata",
+      "href_perfil": "/nadeo-argawinata/profil/spieler/506141",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/03/1997 (29)",
+      "club_actual": "Borneo FC Samarinda",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "335209",
+      "nombre": "Kevin Diks",
+      "href_perfil": "/kevin-diks/profil/spieler/335209",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/10/1996 (29)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "678641",
+      "nombre": "Justin Hubner",
+      "href_perfil": "/justin-hubner/profil/spieler/678641",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/09/2003 (22)",
+      "club_actual": "Fortuna Sittard",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "734648",
+      "nombre": "Rizky Ridho",
+      "href_perfil": "/rizky-ridho/profil/spieler/734648",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/11/2001 (24)",
+      "club_actual": "Persija Jakarta",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "824649",
+      "nombre": "Muhammad Ferarri",
+      "href_perfil": "/muhammad-ferarri/profil/spieler/824649",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/06/2003 (23)",
+      "club_actual": "Bhayangkara Presisi Lampung FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "758030",
+      "nombre": "Elkan Baggott",
+      "href_perfil": "/elkan-baggott/profil/spieler/758030",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/10/2002 (23)",
+      "club_actual": "Ipswich Town",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "258364",
+      "nombre": "Calvin Verdonk",
+      "href_perfil": "/calvin-verdonk/profil/spieler/258364",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/04/1997 (29)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "606023",
+      "nombre": "Nathan Tjoe-A-On",
+      "href_perfil": "/nathan-tjoe-a-on/profil/spieler/606023",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/12/2001 (24)",
+      "club_actual": "Willem II Tilburg",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "939539",
+      "nombre": "Dony Tri Pamungkas",
+      "href_perfil": "/dony-tri-pamungkas/profil/spieler/939539",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/01/2005 (21)",
+      "club_actual": "Persija Jakarta",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1275360",
+      "nombre": "Mathew Baker",
+      "href_perfil": "/mathew-baker/profil/spieler/1275360",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/05/2009 (17)",
+      "club_actual": "Melbourne City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "187329",
+      "nombre": "Sandy Walsh",
+      "href_perfil": "/sandy-walsh/profil/spieler/187329",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/03/1995 (31)",
+      "club_actual": "Buriram United",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "187293",
+      "nombre": "Joey Pelupessy",
+      "href_perfil": "/joey-pelupessy/profil/spieler/187293",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/1993 (33)",
+      "club_actual": "Lommel SK",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "656796",
+      "nombre": "Ivar Jenner",
+      "href_perfil": "/ivar-jenner/profil/spieler/656796",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/2004 (22)",
+      "club_actual": "Dewa United Banten FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1024630",
+      "nombre": "Rayhan Hannan",
+      "href_perfil": "/rayhan-hannan/profil/spieler/1024630",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "02/04/2004 (22)",
+      "club_actual": "Persija Jakarta",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "875219",
+      "nombre": "Marselino Ferdinan",
+      "href_perfil": "/marselino-ferdinan/profil/spieler/875219",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/09/2004 (21)",
+      "club_actual": "AS Trencin",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "410854",
+      "nombre": "Ragnar Oratmangoen",
+      "href_perfil": "/ragnar-oratmangoen/profil/spieler/410854",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/01/1998 (28)",
+      "club_actual": "FCV Dender EH",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "506303",
+      "nombre": "Saddil Ramdani",
+      "href_perfil": "/saddil-ramdani/profil/spieler/506303",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/01/1999 (27)",
+      "club_actual": "PERSIB Bandung",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "662777",
+      "nombre": "Beckham Putra",
+      "href_perfil": "/beckham-putra/profil/spieler/662777",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/10/2001 (24)",
+      "club_actual": "PERSIB Bandung",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "663274",
+      "nombre": "Yakob Sayuri",
+      "href_perfil": "/yakob-sayuri/profil/spieler/663274",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/09/1997 (28)",
+      "club_actual": "Malut United FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "361070",
+      "nombre": "Ole Romeny",
+      "href_perfil": "/ole-romeny/profil/spieler/361070",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/2000 (26)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "935250",
+      "nombre": "Mauro Zijlstra",
+      "href_perfil": "/mauro-zijlstra/profil/spieler/935250",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/11/2004 (21)",
+      "club_actual": "Persija Jakarta",
+      "valor_mercado_raw": "€75k"
+    }
+  ]
+}

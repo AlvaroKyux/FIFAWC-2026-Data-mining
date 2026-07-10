@@ -1,0 +1,24 @@
+{
+  "nombre": "Ali Azaizeh",
+  "href_perfil": "/ali-azaizeh/profil/spieler/1059056",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "15",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "627'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "627'"
+    }
+  ]
+}

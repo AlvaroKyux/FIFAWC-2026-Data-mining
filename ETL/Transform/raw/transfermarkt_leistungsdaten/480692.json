@@ -1,0 +1,51 @@
+{
+  "nombre": "Luis Díaz",
+  "href_perfil": "/luis-diaz/profil/spieler/480692",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "32",
+      "goles": "15",
+      "asistencias": "17",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "2,451'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "7",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "981'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "538'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "51",
+      "goles": "26",
+      "asistencias": "23",
+      "amarillas": "8",
+      "rojas": "1",
+      "minutos_raw": "4,060'"
+    }
+  ]
+}

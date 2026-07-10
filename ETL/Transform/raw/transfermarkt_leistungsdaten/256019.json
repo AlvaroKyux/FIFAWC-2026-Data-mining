@@ -1,0 +1,24 @@
+{
+  "nombre": "Alex Rufer",
+  "href_perfil": "/alex-rufer/profil/spieler/256019",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "23",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,044'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,044'"
+    }
+  ]
+}

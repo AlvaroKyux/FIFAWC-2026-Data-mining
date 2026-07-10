@@ -1,0 +1,42 @@
+{
+  "nombre": "Kevin Pina",
+  "href_perfil": "/kevin-pina/profil/spieler/544586",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,195'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "827'"
+    },
+    {
+      "competicion_raw": "Russian Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "24'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,046'"
+    }
+  ]
+}

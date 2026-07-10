@@ -1,0 +1,231 @@
+{
+  "pais": "Central African Republic",
+  "href_seleccion": "/zentralafrikanische-republik/startseite/verein/12933",
+  "jugadores": [
+    {
+      "player_id": "591190",
+      "nombre": "Dominique Youfeigane",
+      "href_perfil": "/dominique-youfeigane/profil/spieler/591190",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/02/2000 (26)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "855671",
+      "nombre": "Alladum Kolimba",
+      "href_perfil": "/alladum-kolimba/profil/spieler/855671",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/08/1987 (38)",
+      "club_actual": "Remo Stars FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1402420",
+      "nombre": "Eugène Ganazoui",
+      "href_perfil": "/eugene-ganazoui/profil/spieler/1402420",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "AS Douanes (Bangui)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "775403",
+      "nombre": "Hugo Gambor",
+      "href_perfil": "/hugo-gambor/profil/spieler/775403",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/12/2002 (23)",
+      "club_actual": "ESTAC Troyes",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "808846",
+      "nombre": "Julien Kouadio",
+      "href_perfil": "/julien-kouadio/profil/spieler/808846",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/1999 (26)",
+      "club_actual": "FC Annecy",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1004610",
+      "nombre": "Maurice Selemby",
+      "href_perfil": "/maurice-selemby/profil/spieler/1004610",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/01/2004 (22)",
+      "club_actual": "Castelfidardo Calcio",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "690615",
+      "nombre": "Yoan Zouma",
+      "href_perfil": "/yoan-zouma/profil/spieler/690615",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/05/1998 (28)",
+      "club_actual": "Lyon - La Duchère",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "920223",
+      "nombre": "Sacha M'Baka",
+      "href_perfil": "/sacha-mbaka/profil/spieler/920223",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/06/2004 (22)",
+      "club_actual": "Stade Poitevin FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111702",
+      "nombre": "Noah Ato-Zandanga",
+      "href_perfil": "/noah-ato-zandanga/profil/spieler/1111702",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/07/2003 (22)",
+      "club_actual": "FC Wil 1900",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "958383",
+      "nombre": "Séverin Tatolna",
+      "href_perfil": "/severin-tatolna/profil/spieler/958383",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "10/01/2002 (24)",
+      "club_actual": "FC Tatran Presov",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "925728",
+      "nombre": "Wesley Zahibo",
+      "href_perfil": "/wesley-zahibo/profil/spieler/925728",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/02/2003 (23)",
+      "club_actual": "US Orléans B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "335147",
+      "nombre": "Junior Sambia",
+      "href_perfil": "/junior-sambia/profil/spieler/335147",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/09/1996 (29)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "836369",
+      "nombre": "Flory Yangao",
+      "href_perfil": "/flory-yangao/profil/spieler/836369",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2002 (24)",
+      "club_actual": "Olympic Real de Bangui",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "569373",
+      "nombre": "Isaac Solet",
+      "href_perfil": "/isaac-solet/profil/spieler/569373",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/06/2001 (25)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1432086",
+      "nombre": "Ghislain Mounguidé",
+      "href_perfil": "/ghislain-mounguide/profil/spieler/1432086",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/04/2002 (24)",
+      "club_actual": "JS Kairouanaise",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "707227",
+      "nombre": "Joël Ngoya",
+      "href_perfil": "/joel-ngoya/profil/spieler/707227",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2002 (24)",
+      "club_actual": "Valenciennes FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1006409",
+      "nombre": "Sami Wattel",
+      "href_perfil": "/sami-wattel/profil/spieler/1006409",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/2006 (20)",
+      "club_actual": "OGC Nice Espoir",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1160232",
+      "nombre": "Josias Sabone",
+      "href_perfil": "/josias-sabone/profil/spieler/1160232",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/08/2006 (19)",
+      "club_actual": "Torino Primavera",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "864015",
+      "nombre": "Christian Yawanendji",
+      "href_perfil": "/christian-yawanendji/profil/spieler/864015",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2002 (24)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "976775",
+      "nombre": "Vénuste Baboula",
+      "href_perfil": "/venuste-baboula/profil/spieler/976775",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/08/1998 (27)",
+      "club_actual": "NK Bravo",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "680923",
+      "nombre": "Karl Namnganda",
+      "href_perfil": "/karl-namnganda/profil/spieler/680923",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/02/1996 (30)",
+      "club_actual": "Sitra Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "525140",
+      "nombre": "Goduine Koyalipou",
+      "href_perfil": "/goduine-koyalipou/profil/spieler/525140",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/02/2000 (26)",
+      "club_actual": "Angers SCO",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "461790",
+      "nombre": "Louis Mafouta",
+      "href_perfil": "/louis-mafouta/profil/spieler/461790",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/07/1994 (31)",
+      "club_actual": "EA Guingamp",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "864013",
+      "nombre": "Moustapha Djimet",
+      "href_perfil": "/moustapha-djimet/profil/spieler/864013",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/06/2003 (23)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "878014",
+      "nombre": "Delphin Mokonou",
+      "href_perfil": "/delphin-mokonou/profil/spieler/878014",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/10/2000 (25)",
+      "club_actual": "Aigle Noir FC de Makamba",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

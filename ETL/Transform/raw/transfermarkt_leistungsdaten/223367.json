@@ -1,0 +1,69 @@
+{
+  "nombre": "Fredrik Aursnes",
+  "href_perfil": "/fredrik-aursnes/profil/spieler/223367",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "28",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,294'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "865'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "354'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "323'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "4",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "4,091'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Hussein Ali",
+  "href_perfil": "/hussein-ali/profil/spieler/585325",
+  "competiciones": [
+    {
+      "competicion_raw": "Ekstraklasa",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "515'"
+    },
+    {
+      "competicion_raw": "STS Polish Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "515'"
+    }
+  ]
+}

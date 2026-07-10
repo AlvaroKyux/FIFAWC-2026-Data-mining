@@ -1,0 +1,51 @@
+{
+  "nombre": "Callum McCowatt",
+  "href_perfil": "/callum-mccowatt/profil/spieler/400797",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "22",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,683'"
+    },
+    {
+      "competicion_raw": "Superliga Relegation round",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "816'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "353'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "17'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "12",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,869'"
+    }
+  ]
+}

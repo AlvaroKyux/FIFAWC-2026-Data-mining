@@ -1,0 +1,42 @@
+{
+  "nombre": "Yusuf Abdurisag",
+  "href_perfil": "/yusuf-abdurisag/profil/spieler/589099",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "18",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,031'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "254'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,420'"
+    }
+  ]
+}

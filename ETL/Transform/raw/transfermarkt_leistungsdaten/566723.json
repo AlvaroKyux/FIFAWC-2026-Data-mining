@@ -1,0 +1,51 @@
+{
+  "nombre": "Michael Olise",
+  "href_perfil": "/michael-olise/profil/spieler/566723",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "32",
+      "goles": "15",
+      "asistencias": "21",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,320'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "13",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,082'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "523'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "52",
+      "goles": "22",
+      "asistencias": "31",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "4,015'"
+    }
+  ]
+}

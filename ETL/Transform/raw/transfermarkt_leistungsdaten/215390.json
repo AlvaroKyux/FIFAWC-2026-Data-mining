@@ -1,0 +1,51 @@
+{
+  "nombre": "Gustavo Gómez",
+  "href_perfil": "/gustavo-gomez/profil/spieler/215390",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "16",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,430'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "855'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,870'"
+    }
+  ]
+}

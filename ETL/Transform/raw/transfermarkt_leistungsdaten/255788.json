@@ -1,0 +1,42 @@
+{
+  "nombre": "Cameron Burgess",
+  "href_perfil": "/cameron-burgess/profil/spieler/255788",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "46",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "4,140'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "332'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "59'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "51",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "4,531'"
+    }
+  ]
+}

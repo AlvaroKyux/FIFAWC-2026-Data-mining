@@ -1,0 +1,33 @@
+{
+  "nombre": "Abdallah Al-Fakhouri",
+  "href_perfil": "/abdallah-al-fakhouri/profil/spieler/658805",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "20",
+      "goles": "18",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,728'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "5",
+      "goles": "9",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "389'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "27",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,117'"
+    }
+  ]
+}

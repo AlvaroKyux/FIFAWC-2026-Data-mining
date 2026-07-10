@@ -1,0 +1,33 @@
+{
+  "nombre": "Martin Baturina",
+  "href_perfil": "/martin-baturina/profil/spieler/580451",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "29",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,569'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "266'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,835'"
+    }
+  ]
+}

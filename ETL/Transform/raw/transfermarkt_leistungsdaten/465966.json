@@ -1,0 +1,51 @@
+{
+  "nombre": "Ahmed Fatouh",
+  "href_perfil": "/ahmed-fatouh/profil/spieler/465966",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "557'"
+    },
+    {
+      "competicion_raw": "CAF Confederation Cup",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "790'"
+    },
+    {
+      "competicion_raw": "Championship Playoff",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "331'"
+    },
+    {
+      "competicion_raw": "Egyptian Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,858'"
+    }
+  ]
+}

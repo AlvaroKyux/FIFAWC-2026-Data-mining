@@ -1,0 +1,213 @@
+{
+  "pais": "Lithuania",
+  "href_seleccion": "/litauen/startseite/verein/3851",
+  "jugadores": [
+    {
+      "player_id": "206844",
+      "nombre": "Tomas Švedkauskas",
+      "href_perfil": "/tomas-svedkauskas/profil/spieler/206844",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/06/1994 (32)",
+      "club_actual": "FK Kauno Zalgiris",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "187267",
+      "nombre": "Ignas Plūkas",
+      "href_perfil": "/ignas-plukas/profil/spieler/187267",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/12/1993 (32)",
+      "club_actual": "FK Suduva Marijampole",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "819383",
+      "nombre": "Arnas Voitinovičius",
+      "href_perfil": "/arnas-voitinovicius/profil/spieler/819383",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/08/2006 (19)",
+      "club_actual": "SL Benfica B",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "379315",
+      "nombre": "Edgaras Utkus",
+      "href_perfil": "/edgaras-utkus/profil/spieler/379315",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/06/2000 (26)",
+      "club_actual": "Al-Kholood Club",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "647701",
+      "nombre": "Artemijus Tutyškinas",
+      "href_perfil": "/artemijus-tutyskinas/profil/spieler/647701",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/2003 (22)",
+      "club_actual": "NK Celje",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "506797",
+      "nombre": "Vilius Armalas",
+      "href_perfil": "/vilius-armalas/profil/spieler/506797",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/07/2000 (25)",
+      "club_actual": "MTK Budapest",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "300164",
+      "nombre": "Ričardas Šveikauskas",
+      "href_perfil": "/ricardas-sveikauskas/profil/spieler/300164",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/04/1997 (29)",
+      "club_actual": "FK TransINVEST",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "328804",
+      "nombre": "Edvinas Kloniūnas",
+      "href_perfil": "/edvinas-kloniunas/profil/spieler/328804",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/06/1998 (28)",
+      "club_actual": "FK TransINVEST",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "518381",
+      "nombre": "Žygimantas Baltrūnas",
+      "href_perfil": "/zygimantas-baltrunas/profil/spieler/518381",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/03/2002 (24)",
+      "club_actual": "FK Suduva Marijampole",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "345311",
+      "nombre": "Justas Lasickas",
+      "href_perfil": "/justas-lasickas/profil/spieler/345311",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/10/1997 (28)",
+      "club_actual": "HNK Rijeka",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "230649",
+      "nombre": "Klaudijus Upstas",
+      "href_perfil": "/klaudijus-upstas/profil/spieler/230649",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/10/1994 (31)",
+      "club_actual": "FK Zalgiris Vilnius",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "878796",
+      "nombre": "Lukas Michelbrink",
+      "href_perfil": "/lukas-michelbrink/profil/spieler/878796",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/04/2005 (21)",
+      "club_actual": "FC Energie Cottbus",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "262636",
+      "nombre": "Modestas Vorobjovas",
+      "href_perfil": "/modestas-vorobjovas/profil/spieler/262636",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/12/1995 (30)",
+      "club_actual": "Istanbulspor",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "798929",
+      "nombre": "Gvidas Gineitis",
+      "href_perfil": "/gvidas-gineitis/profil/spieler/798929",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/04/2004 (22)",
+      "club_actual": "Torino FC",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "668420",
+      "nombre": "Matijus Remeikis",
+      "href_perfil": "/matijus-remeikis/profil/spieler/668420",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/03/2003 (23)",
+      "club_actual": "FC Hegelmann",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "798980",
+      "nombre": "Domantas Šluta",
+      "href_perfil": "/domantas-sluta/profil/spieler/798980",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/10/2004 (21)",
+      "club_actual": "FK TransINVEST",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "328806",
+      "nombre": "Eligijus Jankauskas",
+      "href_perfil": "/eligijus-jankauskas/profil/spieler/328806",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/06/1998 (28)",
+      "club_actual": "Hapoel Rishon leZion",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "633258",
+      "nombre": "Tomas Kalinauskas",
+      "href_perfil": "/tomas-kalinauskas/profil/spieler/633258",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/04/2000 (26)",
+      "club_actual": "Roda JC Kerkrade",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "582227",
+      "nombre": "Motiejus Burba",
+      "href_perfil": "/motiejus-burba/profil/spieler/582227",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/08/2003 (22)",
+      "club_actual": "FK Kauno Zalgiris",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "87444",
+      "nombre": "Arvydas Novikovas",
+      "href_perfil": "/arvydas-novikovas/profil/spieler/87444",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/12/1990 (35)",
+      "club_actual": "FA Siauliai",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "668433",
+      "nombre": "Armandas Kučys",
+      "href_perfil": "/armandas-kucys/profil/spieler/668433",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/02/2003 (23)",
+      "club_actual": "NK Celje",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "725330",
+      "nombre": "Ignas Venckus",
+      "href_perfil": "/ignas-venckus/profil/spieler/725330",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/07/2001 (24)",
+      "club_actual": "FK Banga Gargzdai",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "531904",
+      "nombre": "Meinardas Mikulėnas",
+      "href_perfil": "/meinardas-mikulenas/profil/spieler/531904",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/07/2002 (23)",
+      "club_actual": "FK Suduva Marijampole",
+      "valor_mercado_raw": "€450k"
+    }
+  ]
+}

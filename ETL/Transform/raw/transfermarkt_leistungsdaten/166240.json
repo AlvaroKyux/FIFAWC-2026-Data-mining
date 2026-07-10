@@ -1,0 +1,33 @@
+{
+  "nombre": "Jürgen Locadia",
+  "href_perfil": "/jurgen-locadia/profil/spieler/166240",
+  "competiciones": [
+    {
+      "competicion_raw": "USLC",
+      "partidos": "10",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "753'"
+    },
+    {
+      "competicion_raw": "USL Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "141'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "12",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "894'"
+    }
+  ]
+}

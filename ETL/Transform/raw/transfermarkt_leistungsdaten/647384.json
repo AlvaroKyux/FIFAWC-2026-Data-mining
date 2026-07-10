@@ -1,0 +1,69 @@
+{
+  "nombre": "Thelo Aasgaard",
+  "href_perfil": "/thelo-aasgaard/profil/spieler/647384",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "28",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,515'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "417'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "292'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "149'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "55'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "74'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "8",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,502'"
+    }
+  ]
+}

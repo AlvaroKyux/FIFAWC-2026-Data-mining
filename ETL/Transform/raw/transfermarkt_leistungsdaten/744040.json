@@ -1,0 +1,42 @@
+{
+  "nombre": "Amer Jamous",
+  "href_perfil": "/amer-jamous/profil/spieler/744040",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "19",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,416'"
+    },
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "749'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "628'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,793'"
+    }
+  ]
+}

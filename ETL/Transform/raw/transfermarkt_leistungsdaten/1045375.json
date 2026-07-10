@@ -1,0 +1,42 @@
+{
+  "nombre": "Niko Sigur",
+  "href_perfil": "/niko-sigur/profil/spieler/1045375",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,227'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "153'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,528'"
+    }
+  ]
+}

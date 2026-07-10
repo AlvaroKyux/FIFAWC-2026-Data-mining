@@ -1,0 +1,42 @@
+{
+  "nombre": "Tani Oluwaseyi",
+  "href_perfil": "/tani-oluwaseyi/profil/spieler/972465",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "892'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "399'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "3",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "244'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "7",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,535'"
+    }
+  ]
+}

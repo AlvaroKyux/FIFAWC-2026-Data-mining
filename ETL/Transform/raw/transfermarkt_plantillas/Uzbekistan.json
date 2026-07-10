@@ -1,0 +1,240 @@
+{
+  "pais": "Uzbekistan",
+  "href_seleccion": "/usbekistan/startseite/verein/3563",
+  "jugadores": [
+    {
+      "player_id": "527866",
+      "nombre": "Abduvokhid Nematov",
+      "href_perfil": "/abduvokhid-nematov/profil/spieler/527866",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/03/2001 (25)",
+      "club_actual": "Nasaf Qarshi",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "311958",
+      "nombre": "Utkir Yusupov",
+      "href_perfil": "/utkir-yusupov/profil/spieler/311958",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/01/1991 (35)",
+      "club_actual": "Navbahor Namangan",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "312690",
+      "nombre": "Botirali Ergashev",
+      "href_perfil": "/botirali-ergashev/profil/spieler/312690",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/06/1995 (31)",
+      "club_actual": "Neftchi Fergana",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "763079",
+      "nombre": "Abdukodir Khusanov",
+      "href_perfil": "/abdukodir-khusanov/profil/spieler/763079",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/02/2004 (22)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "288883",
+      "nombre": "Rustam Ashurmatov",
+      "href_perfil": "/rustam-ashurmatov/profil/spieler/288883",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/07/1996 (29)",
+      "club_actual": "Esteghlal FC",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "989069",
+      "nombre": "Jakhongir Urozov",
+      "href_perfil": "/jakhongir-urozov/profil/spieler/989069",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/2004 (22)",
+      "club_actual": "Dinamo Samarqand",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "538764",
+      "nombre": "Avazbek Ulmasaliev",
+      "href_perfil": "/avazbek-ulmasaliev/profil/spieler/538764",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/03/2000 (26)",
+      "club_actual": "FC OKMK Olmaliq",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "493725",
+      "nombre": "Umar Eshmurodov",
+      "href_perfil": "/umar-eshmurodov/profil/spieler/493725",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/11/1992 (33)",
+      "club_actual": "Nasaf Qarshi",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "608537",
+      "nombre": "Sherzod Nasrullaev",
+      "href_perfil": "/sherzod-nasrullaev/profil/spieler/608537",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/07/1998 (27)",
+      "club_actual": "Pakhtakor Tashkent",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "212499",
+      "nombre": "Farrukh Sayfiev",
+      "href_perfil": "/farrukh-sayfiev/profil/spieler/212499",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/01/1991 (35)",
+      "club_actual": "Neftchi Fergana",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "492558",
+      "nombre": "Khozhiakbar Alizhonov",
+      "href_perfil": "/khozhiakbar-alizhonov/profil/spieler/492558",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "19/04/1997 (29)",
+      "club_actual": "Pakhtakor Tashkent",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "1106187",
+      "nombre": "Bekhruz Karimov",
+      "href_perfil": "/bekhruz-karimov/profil/spieler/1106187",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/08/2007 (18)",
+      "club_actual": "Surkhon Termiz",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "288915",
+      "nombre": "Odildzhon Khamrobekov",
+      "href_perfil": "/odildzhon-khamrobekov/profil/spieler/288915",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/02/1996 (30)",
+      "club_actual": "Tractor FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "570272",
+      "nombre": "Abdulla Abdullaev",
+      "href_perfil": "/abdulla-abdullaev/profil/spieler/570272",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/1997 (28)",
+      "club_actual": "Dibba SCC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "431911",
+      "nombre": "Aziz Ganiev",
+      "href_perfil": "/aziz-ganiev/profil/spieler/431911",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/1998 (28)",
+      "club_actual": "Al-Bataeh CSC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "294525",
+      "nombre": "Otabek Shukurov",
+      "href_perfil": "/otabek-shukurov/profil/spieler/294525",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/1996 (30)",
+      "club_actual": "FC Baniyas",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "562022",
+      "nombre": "Akmal Mozgovoy",
+      "href_perfil": "/akmal-mozgovoy/profil/spieler/562022",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/04/1999 (27)",
+      "club_actual": "Pakhtakor Tashkent",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "989068",
+      "nombre": "Sherzod Esanov",
+      "href_perfil": "/sherzod-esanov/profil/spieler/989068",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/02/2003 (23)",
+      "club_actual": "FC Buxoro",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "260857",
+      "nombre": "Jamshid Iskanderov",
+      "href_perfil": "/jamshid-iskanderov/profil/spieler/260857",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/10/1993 (32)",
+      "club_actual": "Neftchi Fergana",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "492556",
+      "nombre": "Oston Urunov",
+      "href_perfil": "/oston-urunov/profil/spieler/492556",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/12/2000 (25)",
+      "club_actual": "Persepolis FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "754040",
+      "nombre": "Ruslanbek Jiyanov",
+      "href_perfil": "/ruslanbek-jiyanov/profil/spieler/754040",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/06/2001 (25)",
+      "club_actual": "Navbahor Namangan",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "754037",
+      "nombre": "Abbosbek Fayzullaev",
+      "href_perfil": "/abbosbek-fayzullaev/profil/spieler/754037",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/10/2003 (22)",
+      "club_actual": "Basaksehir FK",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "294502",
+      "nombre": "Dostonbek Khamdamov",
+      "href_perfil": "/dostonbek-khamdamov/profil/spieler/294502",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/07/1996 (29)",
+      "club_actual": "Pakhtakor Tashkent",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "358166",
+      "nombre": "Eldor Shomurodov",
+      "href_perfil": "/eldor-shomurodov/profil/spieler/358166",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/06/1995 (31)",
+      "club_actual": "Basaksehir FK",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "185372",
+      "nombre": "Igor Sergeev",
+      "href_perfil": "/igor-sergeev/profil/spieler/185372",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/04/1993 (33)",
+      "club_actual": "Persepolis FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "517918",
+      "nombre": "Azizbek Amanov",
+      "href_perfil": "/azizbek-amanov/profil/spieler/517918",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/10/1997 (28)",
+      "club_actual": "Dinamo Samarqand",
+      "valor_mercado_raw": "€500k"
+    }
+  ]
+}

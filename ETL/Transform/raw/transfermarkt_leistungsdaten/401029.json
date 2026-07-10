@@ -1,0 +1,42 @@
+{
+  "nombre": "Roshon van Eijma",
+  "href_perfil": "/roshon-van-eijma/profil/spieler/401029",
+  "competiciones": [
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,047'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Play-Offs",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "218'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "9'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,274'"
+    }
+  ]
+}

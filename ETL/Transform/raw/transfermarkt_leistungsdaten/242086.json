@@ -1,0 +1,42 @@
+{
+  "nombre": "Patrik Schick",
+  "href_perfil": "/patrik-schick/profil/spieler/242086",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "16",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,996'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "537'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "332'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "22",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,865'"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "pais": "Turkmenistan",
+  "href_seleccion": "/turkmenistan/startseite/verein/14248",
+  "jugadores": [
+    {
+      "player_id": "893484",
+      "nombre": "Rasul Charyyev",
+      "href_perfil": "/rasul-charyyev/profil/spieler/893484",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/09/1999 (26)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "662263",
+      "nombre": "Rustem Ahallyyev",
+      "href_perfil": "/rustem-ahallyyev/profil/spieler/662263",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/11/2002 (23)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1060437",
+      "nombre": "Kakageldi Berdiyev",
+      "href_perfil": "/kakageldi-berdiyev/profil/spieler/1060437",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/03/2004 (22)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "353297",
+      "nombre": "Guychmyrat Annagulyyev",
+      "href_perfil": "/guychmyrat-annagulyyev/profil/spieler/353297",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/06/1996 (30)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "214129",
+      "nombre": "Mekan Saparov",
+      "href_perfil": "/mekan-saparov/profil/spieler/214129",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/04/1994 (32)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "655794",
+      "nombre": "Abdy Byashimov",
+      "href_perfil": "/abdy-byashimov/profil/spieler/655794",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/12/1995 (30)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "827501",
+      "nombre": "Ykhlas Toydzhanov",
+      "href_perfil": "/ykhlas-toydzhanov/profil/spieler/827501",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/01/2001 (25)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "893376",
+      "nombre": "Arzuvguly Sapargulyev",
+      "href_perfil": "/arzuvguly-sapargulyev/profil/spieler/893376",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/07/2001 (24)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1186824",
+      "nombre": "Hakmuhammet Bashimov",
+      "href_perfil": "/hakmuhammet-bashimov/profil/spieler/1186824",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/10/1999 (26)",
+      "club_actual": "Ahal FK",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "893387",
+      "nombre": "Ibrayym Mammedov",
+      "href_perfil": "/ibrayym-mammedov/profil/spieler/893387",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/1996 (30)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1020729",
+      "nombre": "Teymur Charyyev",
+      "href_perfil": "/teymur-charyyev/profil/spieler/1020729",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/11/2000 (25)",
+      "club_actual": "Bars Karakol ",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "353307",
+      "nombre": "Resul Khozhaev",
+      "href_perfil": "/resul-khozhaev/profil/spieler/353307",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/01/1997 (29)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "655800",
+      "nombre": "Mirza Beknazarov",
+      "href_perfil": "/mirza-beknazarov/profil/spieler/655800",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/2000 (26)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "571402",
+      "nombre": "Velmyrat Ballakov",
+      "href_perfil": "/velmyrat-ballakov/profil/spieler/571402",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/04/1999 (27)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1026760",
+      "nombre": "Yazgylych Gurbanov",
+      "href_perfil": "/yazgylych-gurbanov/profil/spieler/1026760",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/03/1997 (29)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "724196",
+      "nombre": "Meylis Diniyev",
+      "href_perfil": "/meylis-diniyev/profil/spieler/724196",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/07/2000 (25)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "662273",
+      "nombre": "Shamammet Hydyrov",
+      "href_perfil": "/shamammet-hydyrov/profil/spieler/662273",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/01/2001 (25)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "221055",
+      "nombre": "Elman Tagayev",
+      "href_perfil": "/elman-tagayev/profil/spieler/221055",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/06/1989 (37)",
+      "club_actual": "Nebitçi FT",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "516206",
+      "nombre": "Mikhail Titov",
+      "href_perfil": "/mikhail-titov/profil/spieler/516206",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/10/1997 (28)",
+      "club_actual": "FC Ozgon",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "221041",
+      "nombre": "Didar Durdyyev",
+      "href_perfil": "/didar-durdyyev/profil/spieler/221041",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/07/1993 (32)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "662272",
+      "nombre": "Rahman Myratberdiyev",
+      "href_perfil": "/rahman-myratberdiyev/profil/spieler/662272",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/10/2001 (24)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "891868",
+      "nombre": "Dayanch Meredov",
+      "href_perfil": "/dayanch-meredov/profil/spieler/891868",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/02/2003 (23)",
+      "club_actual": "FK Arkadag",
+      "valor_mercado_raw": "€75k"
+    }
+  ]
+}

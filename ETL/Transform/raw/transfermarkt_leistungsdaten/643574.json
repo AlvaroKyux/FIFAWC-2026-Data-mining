@@ -1,0 +1,51 @@
+{
+  "nombre": "Kaishu Sano",
+  "href_perfil": "/kaishu-sano/profil/spieler/643574",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "744'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "48",
+      "goles": "2",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "4,164'"
+    }
+  ]
+}

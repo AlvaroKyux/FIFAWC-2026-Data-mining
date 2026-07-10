@@ -1,0 +1,33 @@
+{
+  "nombre": "Assane Diao",
+  "href_perfil": "/assane-diao/profil/spieler/1061282",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,084'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "73'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,157'"
+    }
+  ]
+}

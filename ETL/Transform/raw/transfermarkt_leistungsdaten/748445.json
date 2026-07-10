@@ -1,0 +1,51 @@
+{
+  "nombre": "Yassine Titraoui",
+  "href_perfil": "/yassine-titraoui/profil/spieler/748445",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "28",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,367'"
+    },
+    {
+      "competicion_raw": "JPL Europe Play-Offs",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "537'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "429'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "1",
+      "minutos_raw": "3,543'"
+    }
+  ]
+}

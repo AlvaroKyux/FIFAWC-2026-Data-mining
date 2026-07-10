@@ -1,0 +1,51 @@
+{
+  "nombre": "Paul Izzo",
+  "href_perfil": "/paul-izzo/profil/spieler/181921",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "17",
+      "goles": "22",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    },
+    {
+      "competicion_raw": "Superliga Relegation round",
+      "partidos": "9",
+      "goles": "15",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "Future Cup",
+      "partidos": "1",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "42",
+      "asistencias": "8",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,430'"
+    }
+  ]
+}

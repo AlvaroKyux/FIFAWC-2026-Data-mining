@@ -1,0 +1,60 @@
+{
+  "nombre": "Simon Banza",
+  "href_perfil": "/simon-banza/profil/spieler/344869",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "16",
+      "goles": "9",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,142'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "114'"
+    },
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "9",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,421'"
+    }
+  ]
+}

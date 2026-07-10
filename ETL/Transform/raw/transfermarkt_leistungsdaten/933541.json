@@ -1,0 +1,33 @@
+{
+  "nombre": "Akam Hashem",
+  "href_perfil": "/akam-hashem/profil/spieler/933541",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "22",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,647'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "741'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,388'"
+    }
+  ]
+}

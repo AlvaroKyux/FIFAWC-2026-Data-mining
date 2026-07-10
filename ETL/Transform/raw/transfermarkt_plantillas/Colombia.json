@@ -1,0 +1,240 @@
+{
+  "pais": "Colombia",
+  "href_seleccion": "/kolumbien/startseite/verein/3816",
+  "jugadores": [
+    {
+      "player_id": "292985",
+      "nombre": "Álvaro Montero",
+      "href_perfil": "/alvaro-montero/profil/spieler/292985",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/03/1995 (31)",
+      "club_actual": "CA Vélez Sarsfield",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "74113",
+      "nombre": "Camilo Vargas",
+      "href_perfil": "/camilo-vargas/profil/spieler/74113",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/03/1989 (37)",
+      "club_actual": "Atlas Guadalajara",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "73396",
+      "nombre": "David Ospina",
+      "href_perfil": "/david-ospina/profil/spieler/73396",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/08/1988 (37)",
+      "club_actual": "Atlético Nacional",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "413565",
+      "nombre": "Jhon Lucumí",
+      "href_perfil": "/jhon-lucumi/profil/spieler/413565",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/06/1998 (28)",
+      "club_actual": "Bologna FC 1909",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "341429",
+      "nombre": "Davinson Sánchez",
+      "href_perfil": "/davinson-sanchez/profil/spieler/341429",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/06/1996 (30)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "609255",
+      "nombre": "Willer Ditta",
+      "href_perfil": "/willer-ditta/profil/spieler/609255",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/01/1998 (28)",
+      "club_actual": "CD Cruz Azul",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "289446",
+      "nombre": "Yerry Mina",
+      "href_perfil": "/yerry-mina/profil/spieler/289446",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/09/1994 (31)",
+      "club_actual": "Cagliari Calcio",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "332560",
+      "nombre": "Deiver Machado",
+      "href_perfil": "/deiver-machado/profil/spieler/332560",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/09/1993 (32)",
+      "club_actual": "FC Nantes",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "262939",
+      "nombre": "Johan Mojica",
+      "href_perfil": "/johan-mojica/profil/spieler/262939",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/08/1992 (33)",
+      "club_actual": "RCD Mallorca",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "493003",
+      "nombre": "Daniel Muñoz",
+      "href_perfil": "/daniel-munoz/profil/spieler/493003",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/05/1996 (30)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "120443",
+      "nombre": "Santiago Arias",
+      "href_perfil": "/santiago-arias/profil/spieler/120443",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/1992 (34)",
+      "club_actual": "CA Independiente",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "735573",
+      "nombre": "Richard Ríos",
+      "href_perfil": "/richard-rios/profil/spieler/735573",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/06/2000 (26)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "262980",
+      "nombre": "Jefferson Lerma",
+      "href_perfil": "/jefferson-lerma/profil/spieler/262980",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/10/1994 (31)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "857948",
+      "nombre": "Kevin Castaño",
+      "href_perfil": "/kevin-castano/profil/spieler/857948",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/09/2000 (25)",
+      "club_actual": "CA River Plate",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "936981",
+      "nombre": "Gustavo Puerta",
+      "href_perfil": "/gustavo-puerta/profil/spieler/936981",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/07/2003 (22)",
+      "club_actual": "Racing Santander",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "585747",
+      "nombre": "Juan Portilla",
+      "href_perfil": "/juan-portilla/profil/spieler/585747",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/09/1998 (27)",
+      "club_actual": "Club Athletico Paranaense",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "354145",
+      "nombre": "Jorge Carrascal",
+      "href_perfil": "/jorge-carrascal/profil/spieler/354145",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/05/1998 (28)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "122582",
+      "nombre": "Juan Fernando Quintero",
+      "href_perfil": "/juan-fernando-quintero/profil/spieler/122582",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/1993 (33)",
+      "club_actual": "CA River Plate",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "88103",
+      "nombre": "James Rodríguez",
+      "href_perfil": "/james-rodriguez/profil/spieler/88103",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/07/1991 (34)",
+      "club_actual": "Minnesota United FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "480692",
+      "nombre": "Luis Díaz",
+      "href_perfil": "/luis-diaz/profil/spieler/480692",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/01/1997 (29)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "957461",
+      "nombre": "Andrés Gómez",
+      "href_perfil": "/andres-gomez/profil/spieler/957461",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/09/2002 (23)",
+      "club_actual": "Clube de Regatas Vasco da Gama",
+      "valor_mercado_raw": "€11.00m"
+    },
+    {
+      "player_id": "491553",
+      "nombre": "Jáminton Campaz",
+      "href_perfil": "/jaminton-campaz/profil/spieler/491553",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/05/2000 (26)",
+      "club_actual": "CA Rosario Central",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "588989",
+      "nombre": "Jhon Arias",
+      "href_perfil": "/jhon-arias/profil/spieler/588989",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/09/1997 (28)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "424784",
+      "nombre": "Luis Suárez",
+      "href_perfil": "/luis-suarez/profil/spieler/424784",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/12/1997 (28)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "459463",
+      "nombre": "Cucho Hernández",
+      "href_perfil": "/cucho-hernandez/profil/spieler/459463",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/04/1999 (27)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "185245",
+      "nombre": "Jhon Córdoba",
+      "href_perfil": "/jhon-cordoba/profil/spieler/185245",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/05/1993 (33)",
+      "club_actual": "FC Krasnodar",
+      "valor_mercado_raw": "€10.00m"
+    }
+  ]
+}

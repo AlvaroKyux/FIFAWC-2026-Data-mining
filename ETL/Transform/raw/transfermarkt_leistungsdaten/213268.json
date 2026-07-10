@@ -1,0 +1,51 @@
+{
+  "nombre": "Alireza Jahanbakhsh",
+  "href_perfil": "/alireza-jahanbakhsh/profil/spieler/213268",
+  "competiciones": [
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "531'"
+    },
+    {
+      "competicion_raw": "JPL Relegation Play-Offs",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "372'"
+    },
+    {
+      "competicion_raw": "Croky Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "131'"
+    },
+    {
+      "competicion_raw": "Jupiler Pro League Abstiegs-Playoffs",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,034'"
+    }
+  ]
+}

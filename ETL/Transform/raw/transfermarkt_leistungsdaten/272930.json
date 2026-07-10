@@ -1,0 +1,33 @@
+{
+  "nombre": "Jamiro Monteiro",
+  "href_perfil": "/jamiro-monteiro/profil/spieler/272930",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "21",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,276'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,456'"
+    }
+  ]
+}

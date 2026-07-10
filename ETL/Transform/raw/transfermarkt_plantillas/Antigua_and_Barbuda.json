@@ -1,0 +1,213 @@
+{
+  "pais": "Antigua and Barbuda",
+  "href_seleccion": "/antigua-und-barbuda/startseite/verein/16028",
+  "jugadores": [
+    {
+      "player_id": "628691",
+      "nombre": "Jayden Martin",
+      "href_perfil": "/jayden-martin/profil/spieler/628691",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/11/2002 (23)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019967",
+      "nombre": "Shahoi Dorsett",
+      "href_perfil": "/shahoi-dorsett/profil/spieler/1019967",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/06/2004 (22)",
+      "club_actual": "FCV Grace Dieu",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019965",
+      "nombre": "Taj Moore",
+      "href_perfil": "/taj-moore/profil/spieler/1019965",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/05/2005 (21)",
+      "club_actual": "Brock Badgers (Brock University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628692",
+      "nombre": "Shakore Simon",
+      "href_perfil": "/shakore-simon/profil/spieler/628692",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/02/2000 (26)",
+      "club_actual": "Old Road FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019969",
+      "nombre": "Roneba Cordice",
+      "href_perfil": "/roneba-cordice/profil/spieler/1019969",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/11/2005 (20)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239172",
+      "nombre": "Kylano Isaac",
+      "href_perfil": "/kylano-isaac/profil/spieler/1239172",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "10/01/2005 (21)",
+      "club_actual": "Graceland University",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "488967",
+      "nombre": "Leroy Graham",
+      "href_perfil": "/leroy-graham/profil/spieler/488967",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/12/1999 (26)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1280106",
+      "nombre": "Antonio Morgan",
+      "href_perfil": "/antonio-morgan/profil/spieler/1280106",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/03/2006 (20)",
+      "club_actual": "Sittingbourne FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "432181",
+      "nombre": "Luther James-Wildin",
+      "href_perfil": "/luther-james-wildin/profil/spieler/432181",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1997 (28)",
+      "club_actual": "Stevenage FC",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "763757",
+      "nombre": "Amir Daley",
+      "href_perfil": "/amir-daley/profil/spieler/763757",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/02/2002 (24)",
+      "club_actual": "Birmingham Legion FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "977351",
+      "nombre": "Zafique Drew",
+      "href_perfil": "/zafique-drew/profil/spieler/977351",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "30/08/2003 (22)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019957",
+      "nombre": "Tyrik Hughes",
+      "href_perfil": "/tyrik-hughes/profil/spieler/1019957",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/07/2005 (20)",
+      "club_actual": "Villa Lions FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "977343",
+      "nombre": "Jahzinho O'Garro",
+      "href_perfil": "/jahzinho-ogarro/profil/spieler/977343",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "12/12/2002 (23)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1374925",
+      "nombre": "Vaughn Jackson",
+      "href_perfil": "/vaughn-jackson/profil/spieler/1374925",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/09/2008 (17)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1146687",
+      "nombre": "Karique Knight",
+      "href_perfil": "/karique-knight/profil/spieler/1146687",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/04/2005 (21)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "574809",
+      "nombre": "TJ Bramble",
+      "href_perfil": "/tj-bramble/profil/spieler/574809",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/05/2001 (25)",
+      "club_actual": "Maidstone United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "488969",
+      "nombre": "Shalon Knight",
+      "href_perfil": "/shalon-knight/profil/spieler/488969",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "04/03/2000 (26)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "703522",
+      "nombre": "D'Andre Bishop",
+      "href_perfil": "/dandre-bishop/profil/spieler/703522",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "02/10/2002 (23)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "574808",
+      "nombre": "Raheem Deterville",
+      "href_perfil": "/raheem-deterville/profil/spieler/574808",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/12/1999 (26)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1019968",
+      "nombre": "Sean Tomlinson",
+      "href_perfil": "/sean-tomlinson/profil/spieler/1019968",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/03/2004 (22)",
+      "club_actual": "CF Lorca Deportiva B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628966",
+      "nombre": "Keon Greene",
+      "href_perfil": "/keon-greene/profil/spieler/628966",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/07/2000 (25)",
+      "club_actual": "Potters Tigers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1023183",
+      "nombre": "Drake Hadeed",
+      "href_perfil": "/drake-hadeed/profil/spieler/1023183",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "21/11/2007 (18)",
+      "club_actual": "Antequera CF U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "977347",
+      "nombre": "Shackwon Simon",
+      "href_perfil": "/shackwon-simon/profil/spieler/977347",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "16/05/2002 (24)",
+      "club_actual": "Old Road FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Ryan Mendes",
+  "href_perfil": "/ryan-mendes/profil/spieler/111627",
+  "competiciones": [
+    {
+      "competicion_raw": "1.Lig",
+      "partidos": "29",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,872'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "273'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,309'"
+    }
+  ]
+}

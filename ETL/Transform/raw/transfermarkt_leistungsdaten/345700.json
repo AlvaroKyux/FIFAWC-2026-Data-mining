@@ -1,0 +1,42 @@
+{
+  "nombre": "Joe Bell",
+  "href_perfil": "/joe-bell/profil/spieler/345700",
+  "competiciones": [
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "520'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "243'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "853'"
+    }
+  ]
+}

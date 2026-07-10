@@ -1,0 +1,42 @@
+{
+  "nombre": "Carlos Harvey",
+  "href_perfil": "/carlos-harvey/profil/spieler/628806",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "97'"
+    },
+    {
+      "competicion_raw": "MLS Next Pro",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "262'"
+    }
+  ]
+}

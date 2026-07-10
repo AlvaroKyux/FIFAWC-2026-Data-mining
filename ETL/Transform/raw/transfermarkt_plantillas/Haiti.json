@@ -1,0 +1,240 @@
+{
+  "pais": "Haiti",
+  "href_seleccion": "/haiti/startseite/verein/14161",
+  "jugadores": [
+    {
+      "player_id": "838947",
+      "nombre": "Alexandre Pierre",
+      "href_perfil": "/alexandre-pierre/profil/spieler/838947",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/2001 (25)",
+      "club_actual": "FC Sochaux-Montbéliard",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "51035",
+      "nombre": "Johny Placide",
+      "href_perfil": "/johny-placide/profil/spieler/51035",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/01/1988 (38)",
+      "club_actual": "SC Bastia",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "490369",
+      "nombre": "Josué Duverger",
+      "href_perfil": "/josue-duverger/profil/spieler/490369",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/04/2000 (26)",
+      "club_actual": "FC Cosmos Koblenz",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "338635",
+      "nombre": "Hannes Delcroix",
+      "href_perfil": "/hannes-delcroix/profil/spieler/338635",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/1999 (27)",
+      "club_actual": "FC Lugano",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "344864",
+      "nombre": "Jean-Kévin Duverne",
+      "href_perfil": "/jean-kevin-duverne/profil/spieler/344864",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/07/1997 (28)",
+      "club_actual": "KAA Gent",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "278145",
+      "nombre": "Ricardo Adé",
+      "href_perfil": "/ricardo-ade/profil/spieler/278145",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/05/1990 (36)",
+      "club_actual": "LDU Quito",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "859175",
+      "nombre": "Garven Metusala",
+      "href_perfil": "/garven-metusala/profil/spieler/859175",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/12/1999 (26)",
+      "club_actual": "Colorado Springs Switchbacks FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1061046",
+      "nombre": "Keeto Thermoncy",
+      "href_perfil": "/keeto-thermoncy/profil/spieler/1061046",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/03/2006 (20)",
+      "club_actual": "BSC Young Boys U21",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "804885",
+      "nombre": "Martin Expérience",
+      "href_perfil": "/martin-experience/profil/spieler/804885",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/03/1999 (27)",
+      "club_actual": "AS Nancy-Lorraine",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "375472",
+      "nombre": "Duke Lacroix",
+      "href_perfil": "/duke-lacroix/profil/spieler/375472",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/10/1993 (32)",
+      "club_actual": "Colorado Springs Switchbacks FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "371686",
+      "nombre": "Carlens Arcus",
+      "href_perfil": "/carlens-arcus/profil/spieler/371686",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/06/1996 (30)",
+      "club_actual": "Angers SCO",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "609691",
+      "nombre": "Wilguens Paugain",
+      "href_perfil": "/wilguens-paugain/profil/spieler/609691",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/08/2001 (24)",
+      "club_actual": "Zulte Waregem",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "628834",
+      "nombre": "Danley Jean Jacques",
+      "href_perfil": "/danley-jean-jacques/profil/spieler/628834",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "20/05/2000 (26)",
+      "club_actual": "Philadelphia Union",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "988188",
+      "nombre": "Dominique Simon",
+      "href_perfil": "/dominique-simon/profil/spieler/988188",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/07/2000 (25)",
+      "club_actual": "FC Tatran Presov",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "718244",
+      "nombre": "Carl Sainté",
+      "href_perfil": "/carl-sainte/profil/spieler/718244",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/08/2002 (23)",
+      "club_actual": "El Paso Locomotive FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1017735",
+      "nombre": "Woodensky Pierre",
+      "href_perfil": "/woodensky-pierre/profil/spieler/1017735",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/12/2004 (21)",
+      "club_actual": "Violette Athletic Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "450050",
+      "nombre": "Jean-Ricner Bellegarde",
+      "href_perfil": "/jean-ricner-bellegarde/profil/spieler/450050",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/06/1998 (28)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "354763",
+      "nombre": "Derrick Etienne Jr.",
+      "href_perfil": "/derrick-etienne-jr-/profil/spieler/354763",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/11/1996 (29)",
+      "club_actual": "Toronto FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "536520",
+      "nombre": "Ruben Providence",
+      "href_perfil": "/ruben-providence/profil/spieler/536520",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/07/2001 (24)",
+      "club_actual": "Almere City FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "763182",
+      "nombre": "Josué Casimir",
+      "href_perfil": "/josue-casimir/profil/spieler/763182",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/09/2001 (24)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "646108",
+      "nombre": "Louicius Deedson",
+      "href_perfil": "/louicius-deedson/profil/spieler/646108",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/02/2001 (25)",
+      "club_actual": "FC Dallas",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "494237",
+      "nombre": "Wilson Isidor",
+      "href_perfil": "/wilson-isidor/profil/spieler/494237",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/08/2000 (25)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "815359",
+      "nombre": "Lenny Joseph",
+      "href_perfil": "/lenny-joseph/profil/spieler/815359",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/10/2000 (25)",
+      "club_actual": "Ferencvárosi TC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "492955",
+      "nombre": "Frantzdy Pierrot",
+      "href_perfil": "/frantzdy-pierrot/profil/spieler/492955",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/03/1995 (31)",
+      "club_actual": "Caykur Rizespor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "345763",
+      "nombre": "Duckens Nazon",
+      "href_perfil": "/duckens-nazon/profil/spieler/345763",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/04/1994 (32)",
+      "club_actual": "Esteghlal FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "342878",
+      "nombre": "Yassin Fortuné",
+      "href_perfil": "/yassin-fortune/profil/spieler/342878",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/01/1999 (27)",
+      "club_actual": "FC Vizela",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

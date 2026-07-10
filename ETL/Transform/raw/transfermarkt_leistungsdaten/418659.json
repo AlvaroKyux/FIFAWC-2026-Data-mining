@@ -1,0 +1,51 @@
+{
+  "nombre": "Amine Gouiri",
+  "href_perfil": "/amine-gouiri/profil/spieler/418659",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "22",
+      "goles": "8",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,331'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "142'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "11",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,705'"
+    }
+  ]
+}

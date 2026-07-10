@@ -1,0 +1,267 @@
+{
+  "pais": "Burundi",
+  "href_seleccion": "/burundi/startseite/verein/13943",
+  "jugadores": [
+    {
+      "player_id": "599446",
+      "nombre": "Jonathan Nahimana",
+      "href_perfil": "/jonathan-nahimana/profil/spieler/599446",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/12/1999 (26)",
+      "club_actual": "Vision FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "649273",
+      "nombre": "Onesime Rukundo",
+      "href_perfil": "/onesime-rukundo/profil/spieler/649273",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/04/1999 (27)",
+      "club_actual": "Police FC (Ruanda)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1537073",
+      "nombre": "Daniel Hakizimana",
+      "href_perfil": "/daniel-hakizimana/profil/spieler/1537073",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/04/2001 (25)",
+      "club_actual": "Musongati FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1187587",
+      "nombre": "Jean Marie Harerimana",
+      "href_perfil": "/jean-marie-harerimana/profil/spieler/1187587",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/04/2004 (22)",
+      "club_actual": "Vital'O FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1187590",
+      "nombre": "Kevin Icoyitungiye",
+      "href_perfil": "/kevin-icoyitungiye/profil/spieler/1187590",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "21/11/2004 (21)",
+      "club_actual": "Aigle Noir FC de Makamba",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "674612",
+      "nombre": "Youssouf Ndayishimiye",
+      "href_perfil": "/youssouf-ndayishimiye/profil/spieler/674612",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/10/1998 (27)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "340032",
+      "nombre": "Christophe Nduwarugira",
+      "href_perfil": "/christophe-nduwarugira/profil/spieler/340032",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/06/1994 (32)",
+      "club_actual": "Borneo FC Samarinda",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "318197",
+      "nombre": "Omar Moussa",
+      "href_perfil": "/omar-moussa/profil/spieler/318197",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/08/1997 (28)",
+      "club_actual": "Gorilla Football Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "568254",
+      "nombre": "Derrick Mukombozi",
+      "href_perfil": "/derrick-mukombozi/profil/spieler/568254",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/1999 (27)",
+      "club_actual": "Fountain Gate FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1469820",
+      "nombre": "Franck Nduwimana",
+      "href_perfil": "/franck-nduwimana/profil/spieler/1469820",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2002 (24)",
+      "club_actual": "Gorilla Football Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1299939",
+      "nombre": "Djuma Nzeyimana",
+      "href_perfil": "/djuma-nzeyimana/profil/spieler/1299939",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Aigle Noir FC de Makamba",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "700673",
+      "nombre": "Claus Niyukuri",
+      "href_perfil": "/claus-niyukuri/profil/spieler/700673",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/02/2000 (26)",
+      "club_actual": "Sarpsborg 08 FF",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "904466",
+      "nombre": "Emanuel Swedi",
+      "href_perfil": "/emanuel-swedi/profil/spieler/904466",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/12/2003 (22)",
+      "club_actual": "Nordic United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "846031",
+      "nombre": "Akbar Muderi",
+      "href_perfil": "/akbar-muderi/profil/spieler/846031",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/04/2003 (23)",
+      "club_actual": "Gasogi United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1061146",
+      "nombre": "Henry Msanga",
+      "href_perfil": "/henry-msanga/profil/spieler/1061146",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "22/08/1999 (26)",
+      "club_actual": "Police FC (Ruanda)",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "166359",
+      "nombre": "Cédric Amissi",
+      "href_perfil": "/cedric-amissi/profil/spieler/166359",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/1990 (35)",
+      "club_actual": "Inter Star Bujumbura",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "649298",
+      "nombre": "Eric Mbirizi",
+      "href_perfil": "/eric-mbirizi/profil/spieler/649298",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/1999 (26)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1061143",
+      "nombre": "Leonard Gakwaya",
+      "href_perfil": "/leonard-gakwaya/profil/spieler/1061143",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/06/2002 (24)",
+      "club_actual": "Police FC (Ruanda)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1187593",
+      "nombre": "Karim Kamana",
+      "href_perfil": "/karim-kamana/profil/spieler/1187593",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Aigle Noir FC de Makamba",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "627329",
+      "nombre": "Jordi Liongola",
+      "href_perfil": "/jordi-liongola/profil/spieler/627329",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "17/05/2000 (26)",
+      "club_actual": "RAAL La Louvière",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "45846",
+      "nombre": "Saidi Ntibazonkiza",
+      "href_perfil": "/saidi-ntibazonkiza/profil/spieler/45846",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/05/1987 (39)",
+      "club_actual": "Vital'O FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1551893",
+      "nombre": "Igiraneza Victoire",
+      "href_perfil": "/igiraneza-victoire/profil/spieler/1551893",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Vision FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1143648",
+      "nombre": "Aaron Musore",
+      "href_perfil": "/aaron-musore/profil/spieler/1143648",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/12/1999 (26)",
+      "club_actual": "Green Eagles FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "549954",
+      "nombre": "Mohamed Amissi",
+      "href_perfil": "/mohamed-amissi/profil/spieler/549954",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/08/2000 (25)",
+      "club_actual": "Vancouver FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "649272",
+      "nombre": "Bienvenue Kanakimana",
+      "href_perfil": "/bienvenue-kanakimana/profil/spieler/649272",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/12/1999 (26)",
+      "club_actual": "FC Zbrojovka Brno",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1123500",
+      "nombre": "Jean Claude Girumugisha",
+      "href_perfil": "/jean-claude-girumugisha/profil/spieler/1123500",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/09/2004 (21)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1018182",
+      "nombre": "Vancy Mabanza",
+      "href_perfil": "/vancy-mabanza/profil/spieler/1018182",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/11/2000 (25)",
+      "club_actual": "KSC Lokeren",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "568311",
+      "nombre": "Bonfils-Caleb Bimenyimana",
+      "href_perfil": "/bonfils-caleb-bimenyimana/profil/spieler/568311",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/11/1997 (28)",
+      "club_actual": "Jeddah SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1537074",
+      "nombre": "Abdoul Karim Mpawenimana",
+      "href_perfil": "/abdoul-karim-mpawenimana/profil/spieler/1537074",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "01/01/2004 (22)",
+      "club_actual": "CD Costa do Sol",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

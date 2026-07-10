@@ -1,0 +1,33 @@
+{
+  "nombre": "Brice Samba",
+  "href_perfil": "/brice-samba/profil/spieler/191056",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "32",
+      "goles": "44",
+      "asistencias": "10",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "48",
+      "asistencias": "10",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    }
+  ]
+}

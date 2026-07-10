@@ -1,0 +1,42 @@
+{
+  "nombre": "Mark Flekken",
+  "href_perfil": "/mark-flekken/profil/spieler/125714",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "24",
+      "goles": "38",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,130'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "12",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "54",
+      "asistencias": "9",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    }
+  ]
+}

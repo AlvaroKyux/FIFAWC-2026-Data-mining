@@ -1,0 +1,33 @@
+{
+  "nombre": "Juan José Cáceres",
+  "href_perfil": "/juan-jose-caceres/profil/spieler/756494",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,064'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "585'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "8",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,649'"
+    }
+  ]
+}

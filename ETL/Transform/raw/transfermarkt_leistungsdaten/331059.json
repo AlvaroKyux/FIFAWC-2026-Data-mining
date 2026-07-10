@@ -1,0 +1,33 @@
+{
+  "nombre": "Luis Chávez",
+  "href_perfil": "/luis-chavez/profil/spieler/331059",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "159'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "5'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    }
+  ]
+}

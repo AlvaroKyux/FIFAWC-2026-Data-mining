@@ -1,0 +1,42 @@
+{
+  "nombre": "Gervane Kastaneer",
+  "href_perfil": "/gervane-kastaneer/profil/spieler/240752",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "13",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,077'"
+    },
+    {
+      "competicion_raw": "Super League",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "561'"
+    },
+    {
+      "competicion_raw": "Piala Malaysia",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "171'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "6",
+      "asistencias": "8",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,809'"
+    }
+  ]
+}

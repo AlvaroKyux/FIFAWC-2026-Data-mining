@@ -1,0 +1,33 @@
+{
+  "nombre": "Khalid Al-Ghannam",
+  "href_perfil": "/khalid-al-ghannam/profil/spieler/631923",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "13",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,175'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "86'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "13",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,261'"
+    }
+  ]
+}

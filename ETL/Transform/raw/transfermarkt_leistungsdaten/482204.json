@@ -1,0 +1,42 @@
+{
+  "nombre": "Callan Elliot",
+  "href_perfil": "/callan-elliot/profil/spieler/482204",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "23",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,407'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "337'"
+    },
+    {
+      "competicion_raw": "OFC Pro League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,744'"
+    }
+  ]
+}

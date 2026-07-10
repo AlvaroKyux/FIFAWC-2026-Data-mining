@@ -1,0 +1,33 @@
+{
+  "nombre": "Paul Okon-Engstler",
+  "href_perfil": "/paul-okon-engstler/profil/spieler/1064377",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "23",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,935'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,325'"
+    }
+  ]
+}

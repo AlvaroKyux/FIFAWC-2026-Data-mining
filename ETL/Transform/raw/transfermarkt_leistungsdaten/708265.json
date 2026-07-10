@@ -1,0 +1,69 @@
+{
+  "nombre": "Bradley Barcola",
+  "href_perfil": "/bradley-barcola/profil/spieler/708265",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "29",
+      "goles": "11",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,750'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "18'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "56'"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "13",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,971'"
+    }
+  ]
+}

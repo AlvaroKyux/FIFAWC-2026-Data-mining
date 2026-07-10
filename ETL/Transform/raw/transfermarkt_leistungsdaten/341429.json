@@ -1,0 +1,51 @@
+{
+  "nombre": "Davinson Sánchez",
+  "href_perfil": "/davinson-sanchez/profil/spieler/341429",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,425'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,020'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "115'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "124'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,684'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Exequiel Palacios",
+  "href_perfil": "/exequiel-palacios/profil/spieler/401578",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,097'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "335'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,580'"
+    }
+  ]
+}

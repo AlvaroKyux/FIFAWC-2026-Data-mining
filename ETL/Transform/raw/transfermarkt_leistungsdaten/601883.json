@@ -1,0 +1,51 @@
+{
+  "nombre": "Matheus Nunes",
+  "href_perfil": "/matheus-nunes/profil/spieler/601883",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,865'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "434'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "356'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "1",
+      "asistencias": "9",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "4,015'"
+    }
+  ]
+}

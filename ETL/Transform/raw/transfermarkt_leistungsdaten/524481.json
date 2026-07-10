@@ -1,0 +1,60 @@
+{
+  "nombre": "Roger Ibañez",
+  "href_perfil": "/roger-ibanez/profil/spieler/524481",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,426'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,005'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "420'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "1",
+      "minutos_raw": "4,121'"
+    }
+  ]
+}

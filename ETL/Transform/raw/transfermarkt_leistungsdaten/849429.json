@@ -1,0 +1,60 @@
+{
+  "nombre": "Tete Yengi",
+  "href_perfil": "/tete-yengi/profil/spieler/849429",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "19",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,056'"
+    },
+    {
+      "competicion_raw": "J1 Special Season",
+      "partidos": "15",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "958'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "7",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "33'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "37'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,564'"
+    }
+  ]
+}

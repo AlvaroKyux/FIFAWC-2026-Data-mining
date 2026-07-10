@@ -1,0 +1,33 @@
+{
+  "nombre": "Joel Waterman",
+  "href_perfil": "/joel-waterman/profil/spieler/441738",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "643'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "823'"
+    }
+  ]
+}

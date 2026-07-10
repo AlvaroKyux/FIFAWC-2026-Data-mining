@@ -1,0 +1,213 @@
+{
+  "pais": "Afghanistan",
+  "href_seleccion": "/afghanistan/startseite/verein/3576",
+  "jugadores": [
+    {
+      "player_id": "1067633",
+      "nombre": "Keyvan Mottaghian",
+      "href_perfil": "/keyvan-mottaghian/profil/spieler/1067633",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/11/2002 (23)",
+      "club_actual": "Valenzuela PB–Mendiola FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "678316",
+      "nombre": "Faisal Hamidi",
+      "href_perfil": "/faisal-hamidi/profil/spieler/678316",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/03/1997 (29)",
+      "club_actual": "FC Sorkh Poshan Herat",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1450863",
+      "nombre": "Ali Sina Hakimi",
+      "href_perfil": "/ali-sina-hakimi/profil/spieler/1450863",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Springvale White Eagles SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1552581",
+      "nombre": "Ali Rayez Muradi",
+      "href_perfil": "/ali-rayez-muradi/profil/spieler/1552581",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "25/04/2002 (24)",
+      "club_actual": "West Adelaide SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "678659",
+      "nombre": "Mahboob Hanifi",
+      "href_perfil": "/mahboob-hanifi/profil/spieler/678659",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/03/1997 (29)",
+      "club_actual": "Abu Muslim FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1243949",
+      "nombre": "Amid Arezou",
+      "href_perfil": "/amid-arezou/profil/spieler/1243949",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/02/1996 (30)",
+      "club_actual": "Gokulam Kerala FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1145101",
+      "nombre": "Ahmad Shekib Mehri",
+      "href_perfil": "/ahmad-shekib-mehri/profil/spieler/1145101",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/12/2006 (19)",
+      "club_actual": "FC Sorkh Poshan Herat",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "742105",
+      "nombre": "Habibulla Askar",
+      "href_perfil": "/habibulla-askar/profil/spieler/742105",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/08/1999 (26)",
+      "club_actual": "Oskarshamns AIK",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1391049",
+      "nombre": "Nawid Mahbobi",
+      "href_perfil": "/nawid-mahbobi/profil/spieler/1391049",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/02/2008 (18)",
+      "club_actual": "FC Sorkh Poshan Herat",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1212563",
+      "nombre": "Elias Mansor",
+      "href_perfil": "/elias-mansor/profil/spieler/1212563",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/11/2006 (19)",
+      "club_actual": "Millwall FC U21",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "543320",
+      "nombre": "Rahmat Akbari",
+      "href_perfil": "/rahmat-akbari/profil/spieler/543320",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/06/2000 (26)",
+      "club_actual": "Queensland Lions FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "891410",
+      "nombre": "Jamshed Asekzai",
+      "href_perfil": "/jamshed-asekzai/profil/spieler/891410",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/10/1997 (28)",
+      "club_actual": "IFK Trelleborg",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1203462",
+      "nombre": "Ali Reza Panahi",
+      "href_perfil": "/ali-reza-panahi/profil/spieler/1203462",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/06/2000 (26)",
+      "club_actual": "Abu Muslim FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1219357",
+      "nombre": "Hamed Mumand",
+      "href_perfil": "/hamed-mumand/profil/spieler/1219357",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/07/2002 (23)",
+      "club_actual": "FOC Farsta",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "734207",
+      "nombre": "Mustafa Omarkheil",
+      "href_perfil": "/mustafa-omarkheil/profil/spieler/734207",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/04/1999 (27)",
+      "club_actual": "Skjetten SK",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1221601",
+      "nombre": "Amin Nabizada",
+      "href_perfil": "/amin-nabizada/profil/spieler/1221601",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/06/2007 (19)",
+      "club_actual": "Watford FC U21",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "275309",
+      "nombre": "Omid Popalzay",
+      "href_perfil": "/omid-popalzay/profil/spieler/275309",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/01/1996 (30)",
+      "club_actual": "Persiraja Banda Aceh",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1391055",
+      "nombre": "Sahil Sarwari",
+      "href_perfil": "/sahil-sarwari/profil/spieler/1391055",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/2009 (17)",
+      "club_actual": "FC Sorkh Poshan Herat",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "524042",
+      "nombre": "Omid Musawi",
+      "href_perfil": "/omid-musawi/profil/spieler/524042",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "Penang FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1391067",
+      "nombre": "Yaser Safi",
+      "href_perfil": "/yaser-safi/profil/spieler/1391067",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/09/2008 (17)",
+      "club_actual": "FC Sorkh Poshan Herat",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "423277",
+      "nombre": "Maziar Kouhyar",
+      "href_perfil": "/maziar-kouhyar/profil/spieler/423277",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/09/1997 (28)",
+      "club_actual": "Notts County",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "406699",
+      "nombre": "Mosawer Ahadi",
+      "href_perfil": "/mosawer-ahadi/profil/spieler/406699",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/03/2000 (26)",
+      "club_actual": "Abu Muslim FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "472069",
+      "nombre": "Roman Fazi",
+      "href_perfil": "/roman-fazi/profil/spieler/472069",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "10/02/1999 (27)",
+      "club_actual": "Asker Fotball",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

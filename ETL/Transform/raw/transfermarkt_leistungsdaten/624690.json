@@ -1,0 +1,42 @@
+{
+  "nombre": "Manu Koné",
+  "href_perfil": "/manu-kone/profil/spieler/624690",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "29",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,459'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "266'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "33'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,758'"
+    }
+  ]
+}

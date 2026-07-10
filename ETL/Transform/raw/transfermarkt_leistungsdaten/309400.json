@@ -1,0 +1,51 @@
+{
+  "nombre": "Kai Havertz",
+  "href_perfil": "/kai-havertz/profil/spieler/309400",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "12",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "583'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "6",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "226'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "95'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "162'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,066'"
+    }
+  ]
+}

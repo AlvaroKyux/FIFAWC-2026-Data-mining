@@ -1,0 +1,42 @@
+{
+  "nombre": "Éric Davis",
+  "href_perfil": "/eric-davis/profil/spieler/121791",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Panameña Clausura",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "926'"
+    },
+    {
+      "competicion_raw": "Central American Cup",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "692'"
+    },
+    {
+      "competicion_raw": "LPF Clausura Playoff",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "236'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "3",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,854'"
+    }
+  ]
+}

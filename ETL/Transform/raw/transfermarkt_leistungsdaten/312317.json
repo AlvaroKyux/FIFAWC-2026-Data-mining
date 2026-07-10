@@ -1,0 +1,42 @@
+{
+  "nombre": "Logan Rogerson",
+  "href_perfil": "/logan-rogerson/profil/spieler/312317",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "24",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,174'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "155'"
+    },
+    {
+      "competicion_raw": "OFC Pro League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,329'"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Ecuador",
+  "href_seleccion": "/ecuador/startseite/verein/5750",
+  "jugadores": [
+    {
+      "player_id": "351941",
+      "nombre": "Gonzalo Valle",
+      "href_perfil": "/gonzalo-valle/profil/spieler/351941",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/02/1996 (30)",
+      "club_actual": "LDU Quito",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "450233",
+      "nombre": "Moisés Ramírez",
+      "href_perfil": "/moises-ramirez/profil/spieler/450233",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/09/2000 (25)",
+      "club_actual": "AE Kifisia",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "77127",
+      "nombre": "Hernán Galíndez",
+      "href_perfil": "/hernan-galindez/profil/spieler/77127",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/03/1987 (39)",
+      "club_actual": "CA Huracán",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "661171",
+      "nombre": "Willian Pacho",
+      "href_perfil": "/willian-pacho/profil/spieler/661171",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/10/2001 (24)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "659813",
+      "nombre": "Piero Hincapié",
+      "href_perfil": "/piero-hincapie/profil/spieler/659813",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/2002 (24)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "893661",
+      "nombre": "Joel Ordóñez",
+      "href_perfil": "/joel-ordonez/profil/spieler/893661",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/04/2004 (22)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€33.00m"
+    },
+    {
+      "player_id": "491616",
+      "nombre": "Jackson Porozo",
+      "href_perfil": "/jackson-porozo/profil/spieler/491616",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/08/2000 (25)",
+      "club_actual": "Club Tijuana",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "468174",
+      "nombre": "Félix Torres",
+      "href_perfil": "/felix-torres/profil/spieler/468174",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/01/1997 (29)",
+      "club_actual": "Sport Club Internacional",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "349599",
+      "nombre": "Pervis Estupiñán",
+      "href_perfil": "/pervis-estupinan/profil/spieler/349599",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/01/1998 (28)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "893659",
+      "nombre": "Yaimar Medina",
+      "href_perfil": "/yaimar-medina/profil/spieler/893659",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/11/2004 (21)",
+      "club_actual": "KRC Genk",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "450241",
+      "nombre": "Angelo Preciado",
+      "href_perfil": "/angelo-preciado/profil/spieler/450241",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/02/1998 (28)",
+      "club_actual": "Clube Atlético Mineiro",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "687626",
+      "nombre": "Moisés Caicedo",
+      "href_perfil": "/moises-caicedo/profil/spieler/687626",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/11/2001 (24)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "598145",
+      "nombre": "Jordy Alcívar",
+      "href_perfil": "/jordy-alcivar/profil/spieler/598145",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/08/1999 (26)",
+      "club_actual": "Independiente del Valle",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "941418",
+      "nombre": "Denil Castillo",
+      "href_perfil": "/denil-castillo/profil/spieler/941418",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/03/2004 (22)",
+      "club_actual": "FC Midtjylland",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "659806",
+      "nombre": "Pedro Vite",
+      "href_perfil": "/pedro-vite/profil/spieler/659806",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/03/2002 (24)",
+      "club_actual": "UNAM Pumas",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "400960",
+      "nombre": "Alan Franco",
+      "href_perfil": "/alan-franco/profil/spieler/400960",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/1998 (27)",
+      "club_actual": "Clube Atlético Mineiro",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "1052439",
+      "nombre": "Kendry Páez",
+      "href_perfil": "/kendry-paez/profil/spieler/1052439",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/2007 (19)",
+      "club_actual": "CA River Plate",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "903611",
+      "nombre": "Nilson Angulo",
+      "href_perfil": "/nilson-angulo/profil/spieler/903611",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/06/2003 (23)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "592735",
+      "nombre": "Gonzalo Plata",
+      "href_perfil": "/gonzalo-plata/profil/spieler/592735",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/11/2000 (25)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "897051",
+      "nombre": "Alan Minda",
+      "href_perfil": "/alan-minda/profil/spieler/897051",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/05/2003 (23)",
+      "club_actual": "Clube Atlético Mineiro",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "974374",
+      "nombre": "Anthony Valencia",
+      "href_perfil": "/anthony-valencia/profil/spieler/974374",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/07/2003 (22)",
+      "club_actual": "Royal Antwerp FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "439914",
+      "nombre": "John Yeboah",
+      "href_perfil": "/john-yeboah/profil/spieler/439914",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "23/06/2000 (26)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "971663",
+      "nombre": "Jeremy Arévalo",
+      "href_perfil": "/jeremy-arevalo/profil/spieler/971663",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/03/2005 (21)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "684159",
+      "nombre": "Kevin Rodríguez",
+      "href_perfil": "/kevin-rodriguez/profil/spieler/684159",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/03/2000 (26)",
+      "club_actual": "Union Saint-Gilloise",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "360412",
+      "nombre": "Jordy Caicedo",
+      "href_perfil": "/jordy-caicedo/profil/spieler/360412",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/11/1997 (28)",
+      "club_actual": "CA Huracán",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "139503",
+      "nombre": "Enner Valencia",
+      "href_perfil": "/enner-valencia/profil/spieler/139503",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/11/1989 (36)",
+      "club_actual": "CF Pachuca",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

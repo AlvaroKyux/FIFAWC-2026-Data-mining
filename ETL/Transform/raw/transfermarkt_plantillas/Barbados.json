@@ -1,0 +1,222 @@
+{
+  "pais": "Barbados",
+  "href_seleccion": "/barbados/startseite/verein/16030",
+  "jugadores": [
+    {
+      "player_id": "1107659",
+      "nombre": "Jireh Malcolm",
+      "href_perfil": "/jireh-malcolm/profil/spieler/1107659",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/11/2006 (19)",
+      "club_actual": "Paradise FC (Barbados)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953649",
+      "nombre": "Justin Griffith",
+      "href_perfil": "/justin-griffith/profil/spieler/953649",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/02/2005 (21)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "766101",
+      "nombre": "Shaquan Phillips",
+      "href_perfil": "/shaquan-phillips/profil/spieler/766101",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/02/2002 (24)",
+      "club_actual": "Weymouth Wales",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953646",
+      "nombre": "Tyrique Bailey",
+      "href_perfil": "/tyrique-bailey/profil/spieler/953646",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "21/04/2004 (22)",
+      "club_actual": "UCU Bulldogs (Union Commonwealth Univ.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1107655",
+      "nombre": "Kamari Johnson",
+      "href_perfil": "/kamari-johnson/profil/spieler/1107655",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "21/06/2007 (19)",
+      "club_actual": "Kickstart Rush",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "766083",
+      "nombre": "Lemar Catlyn",
+      "href_perfil": "/lemar-catlyn/profil/spieler/766083",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "06/12/2002 (23)",
+      "club_actual": "Shaw Bears (Shaw University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414385",
+      "nombre": "Romario Small",
+      "href_perfil": "/romario-small/profil/spieler/1414385",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/12/1994 (31)",
+      "club_actual": "Central FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1343820",
+      "nombre": "Jayden Goodridge",
+      "href_perfil": "/jayden-goodridge/profil/spieler/1343820",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/11/2004 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "604801",
+      "nombre": "Nicoli Brathwaite",
+      "href_perfil": "/nicoli-brathwaite/profil/spieler/604801",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/12/2000 (25)",
+      "club_actual": "Weymouth Wales",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628703",
+      "nombre": "Andre Applewhaite",
+      "href_perfil": "/andre-applewhaite/profil/spieler/628703",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/06/2002 (24)",
+      "club_actual": "Connecticut United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1131897",
+      "nombre": "Leon Elliott",
+      "href_perfil": "/leon-elliott/profil/spieler/1131897",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/10/2006 (19)",
+      "club_actual": "Ipswich Town U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "242193",
+      "nombre": "Ricardio Morris",
+      "href_perfil": "/ricardio-morris/profil/spieler/242193",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/04/1993 (33)",
+      "club_actual": "Weymouth Wales",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "576126",
+      "nombre": "Carl Hinkson",
+      "href_perfil": "/carl-hinkson/profil/spieler/576126",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/04/1997 (29)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "397371",
+      "nombre": "Mario Williams",
+      "href_perfil": "/mario-williams/profil/spieler/397371",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/08/1992 (33)",
+      "club_actual": "AC Port of Spain",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414384",
+      "nombre": "Jaheim Neblett",
+      "href_perfil": "/jaheim-neblett/profil/spieler/1414384",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "30/09/2002 (23)",
+      "club_actual": "Weymouth Wales",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1107653",
+      "nombre": "Shamari Harewood",
+      "href_perfil": "/shamari-harewood/profil/spieler/1107653",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "25/05/2006 (20)",
+      "club_actual": "University of the West Indies",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "766086",
+      "nombre": "Jaylan Gilkes",
+      "href_perfil": "/jaylan-gilkes/profil/spieler/766086",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "Barbados Soccer Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414383",
+      "nombre": "Sekani Mayers",
+      "href_perfil": "/sekani-mayers/profil/spieler/1414383",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "23/09/1998 (27)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "494312",
+      "nombre": "Sheran Hoyte",
+      "href_perfil": "/sheran-hoyte/profil/spieler/494312",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/2000 (26)",
+      "club_actual": "Central FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628706",
+      "nombre": "Niall Reid-Stephen",
+      "href_perfil": "/niall-reid-stephen/profil/spieler/628706",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "08/09/2001 (24)",
+      "club_actual": "New Mexico United",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "898936",
+      "nombre": "Tajio James",
+      "href_perfil": "/tajio-james/profil/spieler/898936",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/12/2003 (22)",
+      "club_actual": "NK Radnik Krizevci",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "397372",
+      "nombre": "Omani Leacock",
+      "href_perfil": "/omani-leacock/profil/spieler/397372",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/05/1998 (28)",
+      "club_actual": "Waterhouse FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "898916",
+      "nombre": "Devonte Richards",
+      "href_perfil": "/devonte-richards/profil/spieler/898916",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/09/2002 (23)",
+      "club_actual": "CSF Spartanii Sportul Selemet",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953629",
+      "nombre": "Khimani Cox",
+      "href_perfil": "/khimani-cox/profil/spieler/953629",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "14/01/2005 (21)",
+      "club_actual": "Paradise FC (Barbados)",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

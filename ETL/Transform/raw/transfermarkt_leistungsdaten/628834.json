@@ -1,0 +1,33 @@
+{
+  "nombre": "Danley Jean Jacques",
+  "href_perfil": "/danley-jean-jacques/profil/spieler/628834",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,151'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "144'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,295'"
+    }
+  ]
+}

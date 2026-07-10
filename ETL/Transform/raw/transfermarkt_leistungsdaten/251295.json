@@ -1,0 +1,33 @@
+{
+  "nombre": "Dzenis Burnic",
+  "href_perfil": "/dzenis-burnic/profil/spieler/251295",
+  "competiciones": [
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,086'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "30'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,116'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Rajaei Ayed",
+  "href_perfil": "/rajaei-ayed/profil/spieler/261842",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,929'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "574'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,503'"
+    }
+  ]
+}

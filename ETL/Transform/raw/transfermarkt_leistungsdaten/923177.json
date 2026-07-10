@@ -1,0 +1,33 @@
+{
+  "nombre": "Edgardo Fariña",
+  "href_perfil": "/edgardo-farina/profil/spieler/923177",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,084'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "171'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,255'"
+    }
+  ]
+}

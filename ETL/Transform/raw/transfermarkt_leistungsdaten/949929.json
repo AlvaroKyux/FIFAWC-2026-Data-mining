@@ -1,0 +1,42 @@
+{
+  "nombre": "Achref Abada",
+  "href_perfil": "/achref-abada/profil/spieler/949929",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,708'"
+    },
+    {
+      "competicion_raw": "Coupe d'Algerie",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "193'"
+    },
+    {
+      "competicion_raw": "CAF Confederation Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,901'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Kevin Yakob",
+  "href_perfil": "/kevin-yakob/profil/spieler/413268",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "17",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "841'"
+    },
+    {
+      "competicion_raw": "Superliga Championship round",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "605'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "408'"
+    },
+    {
+      "competicion_raw": "Future Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,899'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Frenkie de Jong",
+  "href_perfil": "/frenkie-de-jong/profil/spieler/326330",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,631'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "514'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "154'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "1",
+      "asistencias": "8",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "2,569'"
+    }
+  ]
+}

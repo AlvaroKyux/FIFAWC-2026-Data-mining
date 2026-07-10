@@ -1,0 +1,33 @@
+{
+  "nombre": "Takefusa Kubo",
+  "href_perfil": "/takefusa-kubo/profil/spieler/405398",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "24",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,509'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "237'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,746'"
+    }
+  ]
+}

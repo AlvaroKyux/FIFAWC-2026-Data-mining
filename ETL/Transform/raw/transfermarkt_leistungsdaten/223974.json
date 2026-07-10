@@ -1,0 +1,51 @@
+{
+  "nombre": "Stefan Posch",
+  "href_perfil": "/stefan-posch/profil/spieler/223974",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,395'"
+    },
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "384'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,184'"
+    }
+  ]
+}

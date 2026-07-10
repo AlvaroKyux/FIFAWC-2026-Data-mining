@@ -1,0 +1,168 @@
+{
+  "pais": "Tahiti",
+  "href_seleccion": "/tahiti/startseite/verein/17763",
+  "jugadores": [
+    {
+      "player_id": "486544",
+      "nombre": "Tevaearai Tamatai",
+      "href_perfil": "/tevaearai-tamatai/profil/spieler/486544",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/01/2001 (25)",
+      "club_actual": "AS Vénus Mahina",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "990295",
+      "nombre": "François Decoret",
+      "href_perfil": "/francois-decoret/profil/spieler/990295",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/05/1994 (32)",
+      "club_actual": "AS Pirae",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1331351",
+      "nombre": "Rautea Vongue",
+      "href_perfil": "/rautea-vongue/profil/spieler/1331351",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "128379",
+      "nombre": "Taumihau Tiatia",
+      "href_perfil": "/taumihau-tiatia/profil/spieler/128379",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "25/07/1991 (34)",
+      "club_actual": "AS Pirae",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "871563",
+      "nombre": "François Hapipi",
+      "href_perfil": "/francois-hapipi/profil/spieler/871563",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/03/1999 (27)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "264456",
+      "nombre": "Dylan Paama",
+      "href_perfil": "/dylan-paama/profil/spieler/264456",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/10/1992 (33)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "455536",
+      "nombre": "Pothin Poma",
+      "href_perfil": "/pothin-poma/profil/spieler/455536",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/02/1997 (29)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352287",
+      "nombre": "Mauri Heitaa",
+      "href_perfil": "/mauri-heitaa/profil/spieler/352287",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/07/1999 (26)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "932500",
+      "nombre": "Teva Lossec",
+      "href_perfil": "/teva-lossec/profil/spieler/932500",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/12/2002 (23)",
+      "club_actual": "Greensboro Spartans (University of NC Greensboro)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1387226",
+      "nombre": "Vehia Tetuaroa",
+      "href_perfil": "/vehia-tetuaroa/profil/spieler/1387226",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "184115",
+      "nombre": "Tauhiti Keck",
+      "href_perfil": "/tauhiti-keck/profil/spieler/184115",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/08/1994 (31)",
+      "club_actual": "AS Vénus Mahina",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "128836",
+      "nombre": "Alvin Tehau",
+      "href_perfil": "/alvin-tehau/profil/spieler/128836",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/04/1989 (37)",
+      "club_actual": "AS Pirae",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053110",
+      "nombre": "Matai Papaura",
+      "href_perfil": "/matai-papaura/profil/spieler/1053110",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/04/2005 (21)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "911387",
+      "nombre": "Matéo Degrumelle",
+      "href_perfil": "/mateo-degrumelle/profil/spieler/911387",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/08/2003 (22)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "128837",
+      "nombre": "Teaonui Tehau",
+      "href_perfil": "/teaonui-tehau/profil/spieler/128837",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/09/1992 (33)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352276",
+      "nombre": "Roonui Tehau",
+      "href_perfil": "/roonui-tehau/profil/spieler/352276",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/12/1999 (26)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "651384",
+      "nombre": "Benoit Mathon",
+      "href_perfil": "/benoit-mathon/profil/spieler/651384",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/04/1989 (37)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "963144",
+      "nombre": "Manuarii Shan",
+      "href_perfil": "/manuarii-shan/profil/spieler/963144",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/02/2004 (22)",
+      "club_actual": "Tahiti United FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "pais": "Benin",
+  "href_seleccion": "/benin/startseite/verein/3955",
+  "jugadores": [
+    {
+      "player_id": "274958",
+      "nombre": "Saturnin Allagbé",
+      "href_perfil": "/saturnin-allagbe/profil/spieler/274958",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/11/1993 (32)",
+      "club_actual": "FC Chauray",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "704462",
+      "nombre": "Marcel Dandjinou",
+      "href_perfil": "/marcel-dandjinou/profil/spieler/704462",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/06/1998 (28)",
+      "club_actual": "Kruger United FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "845661",
+      "nombre": "Serge Obassa",
+      "href_perfil": "/serge-obassa/profil/spieler/845661",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/06/1996 (29)",
+      "club_actual": "Remo Stars FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "504125",
+      "nombre": "Olivier Verdon",
+      "href_perfil": "/olivier-verdon/profil/spieler/504125",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/10/1995 (30)",
+      "club_actual": "Ludogorets Razgrad",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "524988",
+      "nombre": "Yohan Roche",
+      "href_perfil": "/yohan-roche/profil/spieler/524988",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/07/1997 (28)",
+      "club_actual": "Petrolul Ploiesti",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "534375",
+      "nombre": "Mohamed Tijani",
+      "href_perfil": "/mohamed-tijani/profil/spieler/534375",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/07/1997 (28)",
+      "club_actual": "Yverdon Sport FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1049373",
+      "nombre": "Charlemagne Azongnitode",
+      "href_perfil": "/charlemagne-azongnitode/profil/spieler/1049373",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/2001 (24)",
+      "club_actual": "Turun Palloseura",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1046660",
+      "nombre": "Tamimou Ouorou",
+      "href_perfil": "/tamimou-ouorou/profil/spieler/1046660",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/05/2003 (23)",
+      "club_actual": "Botev Vratsa",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1111914",
+      "nombre": "Abdoul Rachid Moumini",
+      "href_perfil": "/abdoul-rachid-moumini/profil/spieler/1111914",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/10/2004 (21)",
+      "club_actual": "Sumgayit PFC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1133684",
+      "nombre": "Liam Omore",
+      "href_perfil": "/liam-omore/profil/spieler/1133684",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/03/2003 (23)",
+      "club_actual": "Würzburger Kickers",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "587936",
+      "nombre": "Rodrigue Fassinou",
+      "href_perfil": "/rodrigue-fassinou/profil/spieler/587936",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/12/1995 (30)",
+      "club_actual": "Coton Sport FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "842074",
+      "nombre": "Imourane Hassane",
+      "href_perfil": "/imourane-hassane/profil/spieler/842074",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/04/2003 (23)",
+      "club_actual": "Grasshopper Club Zurich",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1111927",
+      "nombre": "Attidjikou Samadou",
+      "href_perfil": "/attidjikou-samadou/profil/spieler/1111927",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/02/2004 (22)",
+      "club_actual": "Smouha SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1159851",
+      "nombre": "Gislain Ahoudo",
+      "href_perfil": "/gislain-ahoudo/profil/spieler/1159851",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/1999 (26)",
+      "club_actual": "Al-Arabi SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "642295",
+      "nombre": "Rodrigue Kossi Fiogbé",
+      "href_perfil": "/rodrigue-kossi-fiogbe/profil/spieler/642295",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "31/12/1999 (26)",
+      "club_actual": "Hassania d'Agadir",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1072297",
+      "nombre": "Dokou Dodo",
+      "href_perfil": "/dokou-dodo/profil/spieler/1072297",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/2004 (22)",
+      "club_actual": "Leixões SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "509234",
+      "nombre": "Mattéo Ahlinvi",
+      "href_perfil": "/matteo-ahlinvi/profil/spieler/509234",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/1999 (26)",
+      "club_actual": "Arsenal Tula",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "900938",
+      "nombre": "Junior Olaitan",
+      "href_perfil": "/junior-olaitan/profil/spieler/900938",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/05/2002 (24)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "1144374",
+      "nombre": "Prince Ricardo Dossou",
+      "href_perfil": "/prince-ricardo-dossou/profil/spieler/1144374",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/07/2006 (19)",
+      "club_actual": "ASVO Benin",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "563340",
+      "nombre": "Felipe Santos",
+      "href_perfil": "/felipe-santos/profil/spieler/563340",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/01/1997 (29)",
+      "club_actual": "Araz-Nakhchivan ",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "1111922",
+      "nombre": "Rodolfo Aloko",
+      "href_perfil": "/rodolfo-aloko/profil/spieler/1111922",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/12/2006 (19)",
+      "club_actual": "Charlotte FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "221151",
+      "nombre": "Jodel Dossou",
+      "href_perfil": "/jodel-dossou/profil/spieler/221151",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/03/1992 (34)",
+      "club_actual": "US Le Pays du Valois",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "239647",
+      "nombre": "Aiyegun Tosin",
+      "href_perfil": "/aiyegun-tosin/profil/spieler/239647",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/06/1998 (28)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "238639",
+      "nombre": "Steve Mounié",
+      "href_perfil": "/steve-mounie/profil/spieler/238639",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/09/1994 (31)",
+      "club_actual": "Alanyaspor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1352589",
+      "nombre": "Michel Boni",
+      "href_perfil": "/michel-boni/profil/spieler/1352589",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/03/2008 (18)",
+      "club_actual": "FC Brentford U18",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

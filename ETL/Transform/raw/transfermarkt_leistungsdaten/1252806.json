@@ -1,0 +1,33 @@
+{
+  "nombre": "Mohammad Abu Ghoush",
+  "href_perfil": "/mohammad-abu-ghoush/profil/spieler/1252806",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "24",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,860'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,965'"
+    }
+  ]
+}

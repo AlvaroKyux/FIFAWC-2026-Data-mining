@@ -1,0 +1,24 @@
+{
+  "nombre": "Tim Payne",
+  "href_perfil": "/tim-payne/profil/spieler/149901",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "868'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "868'"
+    }
+  ]
+}

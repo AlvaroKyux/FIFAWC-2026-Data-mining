@@ -1,0 +1,249 @@
+{
+  "pais": "Angola",
+  "href_seleccion": "/angola/startseite/verein/3585",
+  "jugadores": [
+    {
+      "player_id": "216444",
+      "nombre": "Neblú",
+      "href_perfil": "/neblu/profil/spieler/216444",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/12/1993 (32)",
+      "club_actual": "CD 1º de Agosto",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "147029",
+      "nombre": "Signori Antonio",
+      "href_perfil": "/signori-antonio/profil/spieler/147029",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/07/1994 (31)",
+      "club_actual": "Etoile Carouge FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "72776",
+      "nombre": "Hugo Marques",
+      "href_perfil": "/hugo-marques/profil/spieler/72776",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/01/1986 (40)",
+      "club_actual": "CA Petróleos Luanda",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "498237",
+      "nombre": "David Carmo",
+      "href_perfil": "/david-carmo/profil/spieler/498237",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/07/1999 (26)",
+      "club_actual": "Real Oviedo",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "836441",
+      "nombre": "Gaspar",
+      "href_perfil": "/gaspar/profil/spieler/836441",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/09/1997 (28)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "187718",
+      "nombre": "Clinton Mata",
+      "href_perfil": "/clinton-mata/profil/spieler/187718",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/11/1992 (33)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "137313",
+      "nombre": "Buatu",
+      "href_perfil": "/buatu/profil/spieler/137313",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/09/1993 (32)",
+      "club_actual": "Gil Vicente FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "847484",
+      "nombre": "Pedro Bondo",
+      "href_perfil": "/pedro-bondo/profil/spieler/847484",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/11/2004 (21)",
+      "club_actual": "FC Famalicão",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "290261",
+      "nombre": "Núrio Fortuna",
+      "href_perfil": "/nurio-fortuna/profil/spieler/290261",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/03/1995 (31)",
+      "club_actual": "Volos NFC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "573065",
+      "nombre": "Tó Carneiro",
+      "href_perfil": "/to-carneiro/profil/spieler/573065",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/11/1995 (30)",
+      "club_actual": "AS FAR Rabat",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "406808",
+      "nombre": "Eddie Afonso",
+      "href_perfil": "/eddie-afonso/profil/spieler/406808",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/03/1994 (32)",
+      "club_actual": "CA Petróleos Luanda",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "666551",
+      "nombre": "Maestro",
+      "href_perfil": "/maestro/profil/spieler/666551",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/08/2003 (22)",
+      "club_actual": "Alanyaspor",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "568216",
+      "nombre": "Show",
+      "href_perfil": "/show/profil/spieler/568216",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/03/1999 (27)",
+      "club_actual": "Kocaelispor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1059814",
+      "nombre": "Kelliano",
+      "href_perfil": "/kelliano/profil/spieler/1059814",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/01/2003 (23)",
+      "club_actual": "Akhmat Grozny",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "666539",
+      "nombre": "Beni Mukendi",
+      "href_perfil": "/beni-mukendi/profil/spieler/666539",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/05/2002 (24)",
+      "club_actual": "Vitória Guimarães SC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "598486",
+      "nombre": "Mário Balbúrdia",
+      "href_perfil": "/mario-balburdia/profil/spieler/598486",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/08/1997 (28)",
+      "club_actual": "Boluspor",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "87854",
+      "nombre": "Fredy",
+      "href_perfil": "/fredy/profil/spieler/87854",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/1990 (36)",
+      "club_actual": "Corum FK",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "560483",
+      "nombre": "Randy Nteka",
+      "href_perfil": "/randy-nteka/profil/spieler/560483",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/12/1997 (28)",
+      "club_actual": "Rayo Vallecano",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "589374",
+      "nombre": "Milson",
+      "href_perfil": "/milson/profil/spieler/589374",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/10/1999 (26)",
+      "club_actual": "Al-Jazira Club",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "574352",
+      "nombre": "Chico Banza",
+      "href_perfil": "/chico-banza/profil/spieler/574352",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/12/1998 (27)",
+      "club_actual": "Zamalek SC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "229949",
+      "nombre": "Ary Papel",
+      "href_perfil": "/ary-papel/profil/spieler/229949",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/03/1994 (32)",
+      "club_actual": "Al-Akhdar SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "666547",
+      "nombre": "Zito Luvumbo",
+      "href_perfil": "/zito-luvumbo/profil/spieler/666547",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/03/2002 (24)",
+      "club_actual": "RCD Mallorca",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "322702",
+      "nombre": "Manuel Benson",
+      "href_perfil": "/manuel-benson/profil/spieler/322702",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/03/1997 (29)",
+      "club_actual": "Maccabi Haifa",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "671799",
+      "nombre": "Rui Modesto",
+      "href_perfil": "/rui-modesto/profil/spieler/671799",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/10/1999 (26)",
+      "club_actual": "Palermo FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "354814",
+      "nombre": "M'Bala Nzola",
+      "href_perfil": "/mbala-nzola/profil/spieler/354814",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/08/1996 (29)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "407907",
+      "nombre": "Gelson Dala",
+      "href_perfil": "/gelson-dala/profil/spieler/407907",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/07/1996 (29)",
+      "club_actual": "Al-Wakrah SC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "215505",
+      "nombre": "Mabululu",
+      "href_perfil": "/mabululu/profil/spieler/215505",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/06/1992 (34)",
+      "club_actual": "Ittihad Alexandria SC",
+      "valor_mercado_raw": "€500k"
+    }
+  ]
+}

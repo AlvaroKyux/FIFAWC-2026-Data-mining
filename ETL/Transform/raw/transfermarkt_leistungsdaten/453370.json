@@ -1,0 +1,60 @@
+{
+  "nombre": "Sipho Chaine",
+  "href_perfil": "/sipho-chaine/profil/spieler/453370",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "30",
+      "goles": "12",
+      "asistencias": "21",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,700'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "231'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "15",
+      "asistencias": "28",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "3,831'"
+    }
+  ]
+}

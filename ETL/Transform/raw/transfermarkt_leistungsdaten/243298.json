@@ -1,0 +1,33 @@
+{
+  "nombre": "Ismael Díaz",
+  "href_perfil": "/ismael-diaz/profil/spieler/243298",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "15",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,162'"
+    },
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "12",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "770'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "10",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,932'"
+    }
+  ]
+}

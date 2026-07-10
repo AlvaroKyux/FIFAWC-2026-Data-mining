@@ -1,0 +1,49 @@
+id,nombre_en,name_en_normalizado,codigo_fifa,codigo_iso2,iso2_valido,grupo
+1,Mexico,MEXICO,MEX,MX,True,A
+2,South Africa,SOUTH AFRICA,RSA,ZA,True,A
+3,South Korea,SOUTH KOREA,KOR,KR,True,A
+4,Czech Republic,CZECH REPUBLIC,CZE,CZ,True,A
+5,Canada,CANADA,CAN,CA,True,B
+6,Bosnia and Herzegovina,BOSNIA AND HERZEGOVINA,BIH,BA,True,B
+7,Qatar,QATAR,QAT,QA,True,B
+8,Switzerland,SWITZERLAND,SUI,CH,True,B
+9,Brazil,BRAZIL,BRA,BR,True,C
+10,Morocco,MOROCCO,MAR,MA,True,C
+11,Haiti,HAITI,HAI,HT,True,C
+12,Scotland,SCOTLAND,SCO,SCO,False,C
+13,United States,UNITED STATES,USA,US,True,D
+14,Paraguay,PARAGUAY,PAR,PY,True,D
+15,Australia,AUSTRALIA,AUS,AU,True,D
+16,Turkey,TURKEY,TUR,TR,True,D
+17,Germany,GERMANY,GER,DE,True,E
+18,Curaçao,CURAÇAO,CUW,CW,True,E
+19,Ivory Coast,IVORY COAST,CIV,CI,True,E
+20,Ecuador,ECUADOR,ECU,EC,True,E
+21,Netherlands,NETHERLANDS,NED,NL,True,F
+22,Japan,JAPAN,JPN,JP,True,F
+23,Sweden,SWEDEN,SWE,SE,True,F
+24,Tunisia,TUNISIA,TUN,TN,True,F
+25,Belgium,BELGIUM,BEL,BE,True,G
+26,Egypt,EGYPT,EGY,EG,True,G
+27,Iran,IRAN,IRN,IR,True,G
+28,New Zealand,NEW ZEALAND,NZL,NZ,True,G
+29,Spain,SPAIN,ESP,ES,True,H
+30,Cape Verde,CAPE VERDE,CPV,CV,True,H
+31,Saudi Arabia,SAUDI ARABIA,KSA,SA,True,H
+32,Uruguay,URUGUAY,URU,UY,True,H
+33,France,FRANCE,FRA,FR,True,I
+34,Senegal,SENEGAL,SEN,SN,True,I
+35,Iraq,IRAQ,IRQ,IQ,True,I
+36,Norway,NORWAY,NOR,NO,True,I
+37,Argentina,ARGENTINA,ARG,AR,True,J
+38,Algeria,ALGERIA,ALG,DZ,True,J
+39,Austria,AUSTRIA,AUT,AT,True,J
+40,Jordan,JORDAN,JOR,JO,True,J
+41,Portugal,PORTUGAL,POR,PT,True,K
+42,Democratic Republic of the Congo,DEMOCRATIC REPUBLIC OF THE CONGO,COD,CD,True,K
+43,Uzbekistan,UZBEKISTAN,UZB,UZ,True,K
+44,Colombia,COLOMBIA,COL,CO,True,K
+45,England,ENGLAND,ENG,ENG,False,L
+46,Croatia,CROATIA,CRO,HR,True,L
+47,Ghana,GHANA,GHA,GH,True,L
+48,Panama,PANAMA,PAN,PA,True,L

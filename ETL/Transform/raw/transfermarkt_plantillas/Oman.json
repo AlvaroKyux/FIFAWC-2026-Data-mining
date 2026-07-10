@@ -1,0 +1,447 @@
+{
+  "pais": "Oman",
+  "href_seleccion": "/oman/startseite/verein/14165",
+  "jugadores": [
+    {
+      "player_id": "560989",
+      "nombre": "Ibrahim Al-Mukhaini",
+      "href_perfil": "/ibrahim-al-mukhaini/profil/spieler/560989",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/06/1997 (29)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1010654",
+      "nombre": "Abdulmalik Al-Badri",
+      "href_perfil": "/abdulmalik-al-badri/profil/spieler/1010654",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/08/1998 (27)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "962739",
+      "nombre": "Ibrahim Al-Rajhi",
+      "href_perfil": "/ibrahim-al-rajhi/profil/spieler/962739",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/10/2000 (25)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "625311",
+      "nombre": "Ahmed Al-Rawahi",
+      "href_perfil": "/ahmed-al-rawahi/profil/spieler/625311",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/05/1994 (32)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "560987",
+      "nombre": "Bilal Al-Balushi",
+      "href_perfil": "/bilal-al-balushi/profil/spieler/560987",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/05/1996 (30)",
+      "club_actual": "Sur SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "857135",
+      "nombre": "Muatasim Al-Wahaibi",
+      "href_perfil": "/muatasim-al-wahaibi/profil/spieler/857135",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "208317",
+      "nombre": "Faiyz Al-Rusheidi",
+      "href_perfil": "/faiyz-al-rusheidi/profil/spieler/208317",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/07/1988 (37)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "560992",
+      "nombre": "Thani Al-Rushaidi",
+      "href_perfil": "/thani-al-rushaidi/profil/spieler/560992",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/03/1995 (31)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1049950",
+      "nombre": "Ghanim Al-Habashi",
+      "href_perfil": "/ghanim-al-habashi/profil/spieler/1049950",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/08/1998 (27)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1122080",
+      "nombre": "Khalid Al-Ghatrifi",
+      "href_perfil": "/khalid-al-ghatrifi/profil/spieler/1122080",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/12/2002 (23)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1010659",
+      "nombre": "Musab Al-Shaqsy",
+      "href_perfil": "/musab-al-shaqsy/profil/spieler/1010659",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/03/2000 (26)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "562185",
+      "nombre": "Ahmed Al-Khamisi",
+      "href_perfil": "/ahmed-al-khamisi/profil/spieler/562185",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/11/1991 (34)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "560991",
+      "nombre": "Majid Al-Saadi",
+      "href_perfil": "/majid-al-saadi/profil/spieler/560991",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/05/1996 (30)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "625310",
+      "nombre": "Khalid Al-Braiki",
+      "href_perfil": "/khalid-al-braiki/profil/spieler/625310",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/07/1993 (32)",
+      "club_actual": "SK Artis Brno",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "208164",
+      "nombre": "Mohammed Al-Musalami",
+      "href_perfil": "/mohammed-al-musalami/profil/spieler/208164",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/04/1990 (36)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1045633",
+      "nombre": "Yousuf Al-Malki",
+      "href_perfil": "/yousuf-al-malki/profil/spieler/1045633",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/08/2000 (25)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "561000",
+      "nombre": "Ahmed Al-Kaabi",
+      "href_perfil": "/ahmed-al-kaabi/profil/spieler/561000",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/09/1996 (29)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1320500",
+      "nombre": "Saeed Al-Alawi",
+      "href_perfil": "/saeed-al-alawi/profil/spieler/1320500",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/08/2006 (19)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "351526",
+      "nombre": "Ali Al-Busaidi",
+      "href_perfil": "/ali-al-busaidi/profil/spieler/351526",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/01/1991 (35)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "952808",
+      "nombre": "Nayef Faraj",
+      "href_perfil": "/nayef-faraj/profil/spieler/952808",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/11/2002 (23)",
+      "club_actual": "Dhofar Club",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "877600",
+      "nombre": "Mulham Al-Sinaidi",
+      "href_perfil": "/mulham-al-sinaidi/profil/spieler/877600",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/03/2002 (24)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "310166",
+      "nombre": "Mahmood Mabrook",
+      "href_perfil": "/mahmood-mabrook/profil/spieler/310166",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/01/1993 (33)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "877583",
+      "nombre": "Issa Al-Naabi",
+      "href_perfil": "/issa-al-naabi/profil/spieler/877583",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/03/2002 (24)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "823240",
+      "nombre": "Amjad Al-Harthi",
+      "href_perfil": "/amjad-al-harthi/profil/spieler/823240",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1994 (32)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1061431",
+      "nombre": "Ahed Al-Mashaiki",
+      "href_perfil": "/ahed-al-mashaiki/profil/spieler/1061431",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/05/2003 (23)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "310163",
+      "nombre": "Harib Al-Saadi",
+      "href_perfil": "/harib-al-saadi/profil/spieler/310163",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/02/1990 (36)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1206893",
+      "nombre": "Mohammed Al-Subaie",
+      "href_perfil": "/mohammed-al-subaie/profil/spieler/1206893",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/11/2004 (21)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "560999",
+      "nombre": "Abdullah Fawaz",
+      "href_perfil": "/abdullah-fawaz/profil/spieler/560999",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/10/1996 (29)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1061432",
+      "nombre": "Sultan Al-Marzouq",
+      "href_perfil": "/sultan-al-marzouq/profil/spieler/1061432",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/2004 (21)",
+      "club_actual": "Dhofar Club",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "715887",
+      "nombre": "Arshad Al-Alawi",
+      "href_perfil": "/arshad-al-alawi/profil/spieler/715887",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/04/2000 (26)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1061888",
+      "nombre": "Musab Al-Mamari",
+      "href_perfil": "/musab-al-mamari/profil/spieler/1061888",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/01/2000 (26)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "560995",
+      "nombre": "Mataz Saleh",
+      "href_perfil": "/mataz-saleh/profil/spieler/560995",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/1996 (30)",
+      "club_actual": "Dhofar Club",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1122077",
+      "nombre": "Al-Faraj Al-Kiyumi",
+      "href_perfil": "/al-faraj-al-kiyumi/profil/spieler/1122077",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "17/07/2001 (24)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "877789",
+      "nombre": "Hussein Al-Shahri",
+      "href_perfil": "/hussein-al-shahri/profil/spieler/877789",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/12/2002 (23)",
+      "club_actual": "Al-Nasr Club",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "429449",
+      "nombre": "Salah Al-Yahyaei",
+      "href_perfil": "/salah-al-yahyaei/profil/spieler/429449",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/08/1998 (27)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "567034",
+      "nombre": "Hatem Al-Rushadi",
+      "href_perfil": "/hatem-al-rushadi/profil/spieler/567034",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "15/02/1996 (30)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "560997",
+      "nombre": "Zahir Al-Aghbari",
+      "href_perfil": "/zahir-al-aghbari/profil/spieler/560997",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/05/1999 (27)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "560993",
+      "nombre": "Al-Mandhar Al-Alawi",
+      "href_perfil": "/al-mandhar-al-alawi/profil/spieler/560993",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/03/1995 (31)",
+      "club_actual": "Duhok SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "857147",
+      "nombre": "Ahmed Al-Riyami",
+      "href_perfil": "/ahmed-al-riyami/profil/spieler/857147",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/09/1998 (27)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1075182",
+      "nombre": "Nasser Al-Rawahi",
+      "href_perfil": "/nasser-al-rawahi/profil/spieler/1075182",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/06/2001 (25)",
+      "club_actual": "Al-Seeb Club",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "498082",
+      "nombre": "Jameel Al-Yahmadi",
+      "href_perfil": "/jameel-al-yahmadi/profil/spieler/498082",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/07/1996 (29)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1023950",
+      "nombre": "Hamad Al-Habsi",
+      "href_perfil": "/hamad-al-habsi/profil/spieler/1023950",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/05/1994 (32)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "560996",
+      "nombre": "Muhsen Al-Ghassani",
+      "href_perfil": "/muhsen-al-ghassani/profil/spieler/560996",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/03/1997 (29)",
+      "club_actual": "True Bangkok United",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "715886",
+      "nombre": "Essam Al-Subhi",
+      "href_perfil": "/essam-al-subhi/profil/spieler/715886",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/05/1997 (29)",
+      "club_actual": "Al-Quwa Al-Jawiya",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "715879",
+      "nombre": "Mohammed Al-Ghafri",
+      "href_perfil": "/mohammed-al-ghafri/profil/spieler/715879",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/05/1997 (29)",
+      "club_actual": "Al-Nahda Club",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1028620",
+      "nombre": "Dahman",
+      "href_perfil": "/dahman/profil/spieler/1028620",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/08/1998 (27)",
+      "club_actual": "SK Artis Brno",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1229807",
+      "nombre": "Mohamed Al-Ghafri",
+      "href_perfil": "/mohamed-al-ghafri/profil/spieler/1229807",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/02/2000 (26)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1262809",
+      "nombre": "Abdulsalam Al-Shukaili",
+      "href_perfil": "/abdulsalam-al-shukaili/profil/spieler/1262809",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/04/1996 (30)",
+      "club_actual": "Bahla Club",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1081154",
+      "nombre": "Tariq Al-Sadi",
+      "href_perfil": "/tariq-al-sadi/profil/spieler/1081154",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "27/06/2006 (20)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

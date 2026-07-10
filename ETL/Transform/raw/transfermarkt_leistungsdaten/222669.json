@@ -1,0 +1,51 @@
+{
+  "nombre": "Boualem Khoukhi",
+  "href_perfil": "/boualem-khoukhi/profil/spieler/222669",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,451'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "663'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,384'"
+    }
+  ]
+}

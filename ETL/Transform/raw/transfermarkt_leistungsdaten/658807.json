@@ -1,0 +1,33 @@
+{
+  "nombre": "Saleem Obaid",
+  "href_perfil": "/saleem-obaid/profil/spieler/658807",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "22",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,771'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "501'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,272'"
+    }
+  ]
+}

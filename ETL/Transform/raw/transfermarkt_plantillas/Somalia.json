@@ -1,0 +1,177 @@
+{
+  "pais": "Somalia",
+  "href_seleccion": "/somalia/startseite/verein/13974",
+  "jugadores": [
+    {
+      "player_id": "991063",
+      "nombre": "Abdirahman Mamaan",
+      "href_perfil": "/abdirahman-mamaan/profil/spieler/991063",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "Dekedaha FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1190534",
+      "nombre": "Ibrahim Ahmed Hussein",
+      "href_perfil": "/ibrahim-ahmed-hussein/profil/spieler/1190534",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/12/2005 (20)",
+      "club_actual": "Heegan FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1398231",
+      "nombre": "Mohamed Hassan Mohamed",
+      "href_perfil": "/mohamed-hassan-mohamed/profil/spieler/1398231",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "10/09/2002 (23)",
+      "club_actual": "Portland Hearts of Pine",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "130393",
+      "nombre": "Abel Gigli",
+      "href_perfil": "/abel-gigli/profil/spieler/130393",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/08/1990 (35)",
+      "club_actual": "Terre di Castelli",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "713561",
+      "nombre": "Mohamud Ali",
+      "href_perfil": "/mohamud-ali/profil/spieler/713561",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/07/1994 (31)",
+      "club_actual": "Y Rhyl 1879",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "620041",
+      "nombre": "Ali Omar",
+      "href_perfil": "/ali-omar/profil/spieler/620041",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/09/1999 (26)",
+      "club_actual": "Dumbarton FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "847981",
+      "nombre": "Ahmed Abdullahi Abdi",
+      "href_perfil": "/ahmed-abdullahi-abdi/profil/spieler/847981",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/10/2000 (25)",
+      "club_actual": "Horseed SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "848014",
+      "nombre": "Abdiwali Abdirahman Mohamed",
+      "href_perfil": "/abdiwali-abdirahman-mohamed/profil/spieler/848014",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Elman FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1134160",
+      "nombre": "Abdulle Abdullahi",
+      "href_perfil": "/abdulle-abdullahi/profil/spieler/1134160",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/11/2006 (19)",
+      "club_actual": "Heegan FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1100584",
+      "nombre": "Jarma Mohamed Ibrahim Abdi",
+      "href_perfil": "/jarma-mohamed-ibrahim-abdi/profil/spieler/1100584",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/10/2005 (20)",
+      "club_actual": "Newcastle Town FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "503684",
+      "nombre": "Abdi Sharif",
+      "href_perfil": "/abdi-sharif/profil/spieler/503684",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "Connah's Quay Nomads",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "127661",
+      "nombre": "Omar Jama",
+      "href_perfil": "/omar-jama/profil/spieler/127661",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/05/1998 (28)",
+      "club_actual": "Järvenpään Palloseura",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1386415",
+      "nombre": "Ilyas Akram",
+      "href_perfil": "/ilyas-akram/profil/spieler/1386415",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2004 (22)",
+      "club_actual": "Mogadishu City Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "998770",
+      "nombre": "Sakariya Hassan",
+      "href_perfil": "/sakariya-hassan/profil/spieler/998770",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2001 (25)",
+      "club_actual": "Wealdstone FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1267973",
+      "nombre": "Zakariyah Nur",
+      "href_perfil": "/zakariyah-nur/profil/spieler/1267973",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/12/2005 (20)",
+      "club_actual": "Modbury Jets SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "462029",
+      "nombre": "Abdulsamed Abdullahi",
+      "href_perfil": "/abdulsamed-abdullahi/profil/spieler/462029",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/01/1997 (29)",
+      "club_actual": "FK Novi Pazar",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "684830",
+      "nombre": "Mukhtar Suleiman",
+      "href_perfil": "/mukhtar-suleiman/profil/spieler/684830",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/08/1998 (27)",
+      "club_actual": "VV Katwijk",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1271178",
+      "nombre": "Yusuf Ali Ahmed",
+      "href_perfil": "/yusuf-ali-ahmed/profil/spieler/1271178",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2003 (23)",
+      "club_actual": "Eastern United FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1462590",
+      "nombre": "Abdulkadir Benteke",
+      "href_perfil": "/abdulkadir-benteke/profil/spieler/1462590",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/03/1993 (33)",
+      "club_actual": "Mogadishu City Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

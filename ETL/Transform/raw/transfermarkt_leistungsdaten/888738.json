@@ -1,0 +1,33 @@
+{
+  "nombre": "Farès Ghedjemis",
+  "href_perfil": "/fares-ghedjemis/profil/spieler/888738",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie B",
+      "partidos": "37",
+      "goles": "15",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,024'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "75'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "15",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,099'"
+    }
+  ]
+}

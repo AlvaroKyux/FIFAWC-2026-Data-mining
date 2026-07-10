@@ -1,0 +1,42 @@
+{
+  "nombre": "Lucas Herrington",
+  "href_perfil": "/lucas-herrington/profil/spieler/1279984",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "15",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    },
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "930'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,490'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Kevin Danso",
+  "href_perfil": "/kevin-danso/profil/spieler/263236",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,491'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "477'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,328'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Ibrahim Maza",
+  "href_perfil": "/ibrahim-maza/profil/spieler/905011",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,854'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "788'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "302'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,944'"
+    }
+  ]
+}

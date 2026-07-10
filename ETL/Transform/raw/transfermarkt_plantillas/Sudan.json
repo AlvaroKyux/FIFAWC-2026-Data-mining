@@ -1,0 +1,249 @@
+{
+  "pais": "Sudan",
+  "href_seleccion": "/sudan/startseite/verein/13313",
+  "jugadores": [
+    {
+      "player_id": "625323",
+      "nombre": "Monged Elneel",
+      "href_perfil": "/monged-elneel/profil/spieler/625323",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/01/1996 (30)",
+      "club_actual": "El Merriekh FC Bentiu",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "490356",
+      "nombre": "Mohamed Abooja",
+      "href_perfil": "/mohamed-abooja/profil/spieler/490356",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "703304",
+      "nombre": "Ali Abu-Eshrein",
+      "href_perfil": "/ali-abu-eshrein/profil/spieler/703304",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/12/1989 (36)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "863246",
+      "nombre": "Mohamed Saeed Ahmed",
+      "href_perfil": "/mohamed-saeed-ahmed/profil/spieler/863246",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/10/1997 (28)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "634392",
+      "nombre": "Mustafa Karshom",
+      "href_perfil": "/mustafa-karshom/profil/spieler/634392",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/12/1992 (33)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "752485",
+      "nombre": "Altayeb Abaker",
+      "href_perfil": "/altayeb-abaker/profil/spieler/752485",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1991 (35)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "729888",
+      "nombre": "Mohamed Kasri Hakeem",
+      "href_perfil": "/mohamed-kasri-hakeem/profil/spieler/729888",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/10/1996 (29)",
+      "club_actual": "Jamus FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "490354",
+      "nombre": "Mazin Mohamedein",
+      "href_perfil": "/mazin-mohamedein/profil/spieler/490354",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/05/2000 (26)",
+      "club_actual": "Al-Akhdar SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "853271",
+      "nombre": "Ahmed Tabanja",
+      "href_perfil": "/ahmed-tabanja/profil/spieler/853271",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "02/09/2000 (25)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "343781",
+      "nombre": "Bakhit Khamis",
+      "href_perfil": "/bakhit-khamis/profil/spieler/343781",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1994 (32)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "562701",
+      "nombre": "Sheddy Barglan",
+      "href_perfil": "/sheddy-barglan/profil/spieler/562701",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/10/2002 (23)",
+      "club_actual": "FC Den Bosch",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1303276",
+      "nombre": "Yaser Awad Boshara",
+      "href_perfil": "/yaser-awad-boshara/profil/spieler/1303276",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/03/2006 (20)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "969227",
+      "nombre": "Awad Zaid",
+      "href_perfil": "/awad-zaid/profil/spieler/969227",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1993 (33)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "490318",
+      "nombre": "Ammar Taifour",
+      "href_perfil": "/ammar-taifour/profil/spieler/490318",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/04/1997 (29)",
+      "club_actual": "CS Sfaxien",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "634396",
+      "nombre": "Salaheldin Adil",
+      "href_perfil": "/salaheldin-adil/profil/spieler/634396",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/1995 (31)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "615575",
+      "nombre": "Walieldin Khidir",
+      "href_perfil": "/walieldin-khidir/profil/spieler/615575",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/09/1995 (30)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "407781",
+      "nombre": "Mohamed Abuaagla",
+      "href_perfil": "/mohamed-abuaagla/profil/spieler/407781",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/03/1993 (33)",
+      "club_actual": "Al-Hilal SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "866533",
+      "nombre": "Al-Gozoli Nooh",
+      "href_perfil": "/al-gozoli-nooh/profil/spieler/866533",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "24/10/2002 (23)",
+      "club_actual": "Al-Akhdar SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "741509",
+      "nombre": "Abdelrazig Omer",
+      "href_perfil": "/abdelrazig-omer/profil/spieler/741509",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/07/1993 (32)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1138868",
+      "nombre": "Musa Ali Hussein",
+      "href_perfil": "/musa-ali-hussein/profil/spieler/1138868",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/10/2006 (19)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "566408",
+      "nombre": "Abo Eisa",
+      "href_perfil": "/abo-eisa/profil/spieler/566408",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/01/1996 (30)",
+      "club_actual": "Chonburi FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "857754",
+      "nombre": "Aamir Abdallah",
+      "href_perfil": "/aamir-abdallah/profil/spieler/857754",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/05/1999 (27)",
+      "club_actual": "Kazma SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "634394",
+      "nombre": "Yasir Mozamil",
+      "href_perfil": "/yasir-mozamil/profil/spieler/634394",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/04/1993 (33)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1433926",
+      "nombre": "Muhamed Tia Asad",
+      "href_perfil": "/muhamed-tia-asad/profil/spieler/1433926",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/02/2001 (25)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "255619",
+      "nombre": "Mo Eisa",
+      "href_perfil": "/mo-eisa/profil/spieler/255619",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/07/1994 (31)",
+      "club_actual": "Uthai Thani FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "315077",
+      "nombre": "Mohamed Abdelrahman",
+      "href_perfil": "/mohamed-abdelrahman/profil/spieler/315077",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/07/1993 (32)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1061095",
+      "nombre": "John Mano",
+      "href_perfil": "/john-mano/profil/spieler/1061095",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/12/2001 (24)",
+      "club_actual": "Al-Akhdar SC",
+      "valor_mercado_raw": "€100k"
+    }
+  ]
+}

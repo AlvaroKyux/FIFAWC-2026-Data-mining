@@ -1,0 +1,60 @@
+{
+  "nombre": "Mateo Chávez",
+  "href_perfil": "/mateo-chavez/profil/spieler/1066953",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "20",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "826'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "453'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "216'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "127'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "93'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "1,715'"
+    }
+  ]
+}

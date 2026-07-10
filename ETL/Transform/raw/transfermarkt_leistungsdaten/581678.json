@@ -1,0 +1,51 @@
+{
+  "nombre": "Jude Bellingham",
+  "href_perfil": "/jude-bellingham/profil/spieler/581678",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "28",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,918'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "607'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "13'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "8",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,718'"
+    }
+  ]
+}

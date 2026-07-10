@@ -1,0 +1,213 @@
+{
+  "pais": "Papua New Guinea",
+  "href_seleccion": "/papua-neuguinea/startseite/verein/15233",
+  "jugadores": [
+    {
+      "player_id": "197978",
+      "nombre": "Ronald Warisan",
+      "href_perfil": "/ronald-warisan/profil/spieler/197978",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/09/1989 (36)",
+      "club_actual": "Lae City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "745136",
+      "nombre": "Dave Tomare",
+      "href_perfil": "/dave-tomare/profil/spieler/745136",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/04/1997 (29)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1027281",
+      "nombre": "Christinus Biasu",
+      "href_perfil": "/christinus-biasu/profil/spieler/1027281",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/06/1995 (31)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "266171",
+      "nombre": "Joshua Talau",
+      "href_perfil": "/joshua-talau/profil/spieler/266171",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "19/04/1996 (30)",
+      "club_actual": "Port Moresby Strikers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "684301",
+      "nombre": "Shane Sakael",
+      "href_perfil": "/shane-sakael/profil/spieler/684301",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "31/12/1992 (33)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1235547",
+      "nombre": "Harold Tataeng",
+      "href_perfil": "/harold-tataeng/profil/spieler/1235547",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "05/04/1997 (29)",
+      "club_actual": "Port Moresby Strikers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "474222",
+      "nombre": "Kolu Kepo",
+      "href_perfil": "/kolu-kepo/profil/spieler/474222",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/07/1993 (32)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "206194",
+      "nombre": "Daniel Joe",
+      "href_perfil": "/daniel-joe/profil/spieler/206194",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/05/1990 (36)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "995004",
+      "nombre": "Godfrey Haro",
+      "href_perfil": "/godfrey-haro/profil/spieler/995004",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/02/1998 (28)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487315",
+      "nombre": "Yagi Yasasa",
+      "href_perfil": "/yagi-yasasa/profil/spieler/487315",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "17/08/2000 (25)",
+      "club_actual": "FC Bendigo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1027288",
+      "nombre": "Joseph Joe",
+      "href_perfil": "/joseph-joe/profil/spieler/1027288",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/06/2002 (24)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "185222",
+      "nombre": "Emmanuel Simon",
+      "href_perfil": "/emmanuel-simon/profil/spieler/185222",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/12/1992 (33)",
+      "club_actual": "FC Bendigo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "978424",
+      "nombre": "Pala Paul",
+      "href_perfil": "/pala-paul/profil/spieler/978424",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/07/1999 (26)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "616215",
+      "nombre": "Bruce Tiampo",
+      "href_perfil": "/bruce-tiampo/profil/spieler/616215",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/07/2002 (23)",
+      "club_actual": "Lae City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "262268",
+      "nombre": "Tommy Semmy",
+      "href_perfil": "/tommy-semmy/profil/spieler/262268",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/09/1994 (31)",
+      "club_actual": "Melbourne Knights",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1027282",
+      "nombre": "Rex Naime",
+      "href_perfil": "/rex-naime/profil/spieler/1027282",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/10/2003 (22)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "678455",
+      "nombre": "Ati Kepo",
+      "href_perfil": "/ati-kepo/profil/spieler/678455",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "15/01/1996 (30)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "206192",
+      "nombre": "Raymond Gunemba",
+      "href_perfil": "/raymond-gunemba/profil/spieler/206192",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/06/1986 (40)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "487314",
+      "nombre": "Oberth Simon",
+      "href_perfil": "/oberth-simon/profil/spieler/487314",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1203156",
+      "nombre": "Kenneth Arah",
+      "href_perfil": "/kenneth-arah/profil/spieler/1203156",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/01/1996 (30)",
+      "club_actual": "Gulf Komara FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1177893",
+      "nombre": "Nathaniel Eddie",
+      "href_perfil": "/nathaniel-eddie/profil/spieler/1177893",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "29/06/2002 (24)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1331335",
+      "nombre": "Logan Biwa",
+      "href_perfil": "/logan-biwa/profil/spieler/1331335",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "12/08/2000 (25)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1331336",
+      "nombre": "Judahbill Asar",
+      "href_perfil": "/judahbill-asar/profil/spieler/1331336",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "11/04/1998 (28)",
+      "club_actual": "PNG Hekari FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

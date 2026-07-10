@@ -1,0 +1,24 @@
+{
+  "nombre": "Finn Surman",
+  "href_perfil": "/finn-surman/profil/spieler/724809",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,215'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,215'"
+    }
+  ]
+}

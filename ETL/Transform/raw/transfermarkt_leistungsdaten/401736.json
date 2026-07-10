@@ -1,0 +1,42 @@
+{
+  "nombre": "Yaya Sithole",
+  "href_perfil": "/yaya-sithole/profil/spieler/401736",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,542'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "117'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,659'"
+    }
+  ]
+}

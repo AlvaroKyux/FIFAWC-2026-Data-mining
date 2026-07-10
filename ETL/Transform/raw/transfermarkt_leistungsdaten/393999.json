@@ -1,0 +1,60 @@
+{
+  "nombre": "Florian Wiegele",
+  "href_perfil": "/florian-wiegele/profil/spieler/393999",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "16",
+      "goles": "14",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,425'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "6",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "570'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "3",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "27",
+      "asistencias": "14",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,805'"
+    }
+  ]
+}

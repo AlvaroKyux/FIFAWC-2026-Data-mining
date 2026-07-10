@@ -1,0 +1,33 @@
+{
+  "nombre": "Cristian Volpato",
+  "href_perfil": "/cristian-volpato/profil/spieler/746891",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "24",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,064'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "99'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,163'"
+    }
+  ]
+}

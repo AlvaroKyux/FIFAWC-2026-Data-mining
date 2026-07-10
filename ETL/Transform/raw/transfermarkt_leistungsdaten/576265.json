@@ -1,0 +1,33 @@
+{
+  "nombre": "Ali Yousif",
+  "href_perfil": "/ali-yousif/profil/spieler/576265",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "20",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "760'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "20",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "760'"
+    }
+  ]
+}

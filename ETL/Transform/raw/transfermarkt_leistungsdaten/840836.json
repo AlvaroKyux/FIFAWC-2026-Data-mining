@@ -1,0 +1,60 @@
+{
+  "nombre": "Hélio Varela",
+  "href_perfil": "/helio-varela/profil/spieler/840836",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligat ha'Al",
+      "partidos": "21",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,303'"
+    },
+    {
+      "competicion_raw": "Ligat ha'Al -  Championship round",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "678'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "369'"
+    },
+    {
+      "competicion_raw": "Gvia haMedina",
+      "partidos": "4",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "321'"
+    },
+    {
+      "competicion_raw": "Jupiler Pro League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "163'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,834'"
+    }
+  ]
+}

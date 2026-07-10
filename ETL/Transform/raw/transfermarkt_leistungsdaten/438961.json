@@ -1,0 +1,33 @@
+{
+  "nombre": "Michael Svoboda",
+  "href_perfil": "/michael-svoboda/profil/spieler/438961",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie B",
+      "partidos": "29",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,527'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "15'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,542'"
+    }
+  ]
+}

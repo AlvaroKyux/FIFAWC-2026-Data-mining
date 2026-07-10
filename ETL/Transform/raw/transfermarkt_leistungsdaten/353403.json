@@ -1,0 +1,51 @@
+{
+  "nombre": "Samuel Moutoussamy",
+  "href_perfil": "/samuel-moutoussamy/profil/spieler/353403",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "21",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,761'"
+    },
+    {
+      "competicion_raw": "Super League Play-out",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "577'"
+    },
+    {
+      "competicion_raw": "1.Lig",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "203'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "116'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,657'"
+    }
+  ]
+}

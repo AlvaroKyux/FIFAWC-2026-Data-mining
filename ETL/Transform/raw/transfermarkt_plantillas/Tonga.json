@@ -1,0 +1,204 @@
+{
+  "pais": "Tonga",
+  "href_seleccion": "/tonga/startseite/verein/16435",
+  "jugadores": [
+    {
+      "player_id": "352318",
+      "nombre": "Semesi Otukolo",
+      "href_perfil": "/semesi-otukolo/profil/spieler/352318",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/06/1999 (27)",
+      "club_actual": "Veitongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319292",
+      "nombre": "Unaloto Pahulu",
+      "href_perfil": "/unaloto-pahulu/profil/spieler/1319292",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319290",
+      "nombre": "Petelo Manu",
+      "href_perfil": "/petelo-manu/profil/spieler/1319290",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Marist Prems FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053397",
+      "nombre": "Utu'one Lea'aetoa",
+      "href_perfil": "/utuone-leaaetoa/profil/spieler/1053397",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "16/02/2005 (21)",
+      "club_actual": "Veitongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1129722",
+      "nombre": "Hakeai Fonua",
+      "href_perfil": "/hakeai-fonua/profil/spieler/1129722",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/09/2008 (17)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "208155",
+      "nombre": "Fineasi Palei",
+      "href_perfil": "/fineasi-palei/profil/spieler/208155",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "20/05/1989 (37)",
+      "club_actual": "Launceston City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1098336",
+      "nombre": "Va'inga Teu",
+      "href_perfil": "/vainga-teu/profil/spieler/1098336",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "12/02/2006 (20)",
+      "club_actual": "Fahefa FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319289",
+      "nombre": "Viliami Tikoipau",
+      "href_perfil": "/viliami-tikoipau/profil/spieler/1319289",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Manukau United FC U23",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319291",
+      "nombre": "Tomasi Armitage",
+      "href_perfil": "/tomasi-armitage/profil/spieler/1319291",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/05/2005 (21)",
+      "club_actual": "Waikato Unicol AFC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053400",
+      "nombre": "Herick Funaki",
+      "href_perfil": "/herick-funaki/profil/spieler/1053400",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "07/08/2003 (22)",
+      "club_actual": "Longolongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1098337",
+      "nombre": "Ulafala Sonasi",
+      "href_perfil": "/ulafala-sonasi/profil/spieler/1098337",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "28/07/2007 (18)",
+      "club_actual": "Marist Prems FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597709",
+      "nombre": "Christopher Kefu",
+      "href_perfil": "/christopher-kefu/profil/spieler/597709",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "11/02/2003 (23)",
+      "club_actual": "Veitongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053409",
+      "nombre": "Petelo Naniseni",
+      "href_perfil": "/petelo-naniseni/profil/spieler/1053409",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "20/12/2003 (22)",
+      "club_actual": "Navutoka FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1177118",
+      "nombre": "Topuluka Tuamoheloa",
+      "href_perfil": "/topuluka-tuamoheloa/profil/spieler/1177118",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Oratia United AFC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319293",
+      "nombre": "Maikeli Lomu",
+      "href_perfil": "/maikeli-lomu/profil/spieler/1319293",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/10/1997 (28)",
+      "club_actual": "Nukuhetulu FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597707",
+      "nombre": "Lisiate Feke",
+      "href_perfil": "/lisiate-feke/profil/spieler/597707",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/03/2004 (22)",
+      "club_actual": "Longolongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "597747",
+      "nombre": "Kulisitofa Kite",
+      "href_perfil": "/kulisitofa-kite/profil/spieler/597747",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "17/01/2003 (23)",
+      "club_actual": "Lavengatonga FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "444005",
+      "nombre": "Viliami Tukia",
+      "href_perfil": "/viliami-tukia/profil/spieler/444005",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "07/01/2001 (25)",
+      "club_actual": "Lami FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "216334",
+      "nombre": "Hemaloto Polovili",
+      "href_perfil": "/hemaloto-polovili/profil/spieler/216334",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/07/1997 (28)",
+      "club_actual": "Veitongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1098338",
+      "nombre": "Vilikisepi Tai",
+      "href_perfil": "/vilikisepi-tai/profil/spieler/1098338",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "24/02/2006 (20)",
+      "club_actual": "Fahefa FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "647992",
+      "nombre": "Timote Fakasiieiki",
+      "href_perfil": "/timote-fakasiieiki/profil/spieler/647992",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "30/04/1997 (29)",
+      "club_actual": "Veitongo FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1053398",
+      "nombre": "Amoni Fifita",
+      "href_perfil": "/amoni-fifita/profil/spieler/1053398",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/06/2004 (22)",
+      "club_actual": "Navutoka FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

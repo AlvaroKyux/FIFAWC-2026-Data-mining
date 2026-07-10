@@ -1,0 +1,240 @@
+{
+  "pais": "Mexico",
+  "href_seleccion": "/mexiko/startseite/verein/6303",
+  "jugadores": [
+    {
+      "player_id": "802855",
+      "nombre": "Raúl Rangel",
+      "href_perfil": "/raul-rangel/profil/spieler/802855",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/2000 (26)",
+      "club_actual": "Deportivo Guadalajara",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "356042",
+      "nombre": "Carlos Acevedo",
+      "href_perfil": "/carlos-acevedo/profil/spieler/356042",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/04/1996 (30)",
+      "club_actual": "Santos Laguna",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "29559",
+      "nombre": "Guillermo Ochoa",
+      "href_perfil": "/guillermo-ochoa/profil/spieler/29559",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/07/1985 (40)",
+      "club_actual": "AEL Limassol",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "532937",
+      "nombre": "Johan Vásquez",
+      "href_perfil": "/johan-vasquez/profil/spieler/532937",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1998 (27)",
+      "club_actual": "Genoa CFC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "387687",
+      "nombre": "César Montes",
+      "href_perfil": "/cesar-montes/profil/spieler/387687",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/02/1997 (29)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "532938",
+      "nombre": "Luis Romo",
+      "href_perfil": "/luis-romo/profil/spieler/532938",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/1995 (31)",
+      "club_actual": "Deportivo Guadalajara",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1066953",
+      "nombre": "Mateo Chávez",
+      "href_perfil": "/mateo-chavez/profil/spieler/1066953",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/05/2004 (22)",
+      "club_actual": "AZ Alkmaar",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "344854",
+      "nombre": "Jesús Gallardo",
+      "href_perfil": "/jesus-gallardo/profil/spieler/344854",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/08/1994 (31)",
+      "club_actual": "Deportivo Toluca",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "687558",
+      "nombre": "Israel Reyes",
+      "href_perfil": "/israel-reyes/profil/spieler/687558",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/05/2000 (26)",
+      "club_actual": "CF América",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "356044",
+      "nombre": "Jorge Sánchez",
+      "href_perfil": "/jorge-sanchez/profil/spieler/356044",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/12/1997 (28)",
+      "club_actual": "PAOK Thessaloniki",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "401356",
+      "nombre": "Edson Álvarez",
+      "href_perfil": "/edson-alvarez/profil/spieler/401356",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/10/1997 (28)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "602324",
+      "nombre": "Érik Lira",
+      "href_perfil": "/erik-lira/profil/spieler/602324",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/05/2000 (26)",
+      "club_actual": "CD Cruz Azul",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "331059",
+      "nombre": "Luis Chávez",
+      "href_perfil": "/luis-chavez/profil/spieler/331059",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/1996 (30)",
+      "club_actual": "Dynamo Moscow",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "889435",
+      "nombre": "Obed Vargas",
+      "href_perfil": "/obed-vargas/profil/spieler/889435",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/08/2005 (20)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "334042",
+      "nombre": "Orbelín Pineda",
+      "href_perfil": "/orbelin-pineda/profil/spieler/334042",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/03/1996 (30)",
+      "club_actual": "AEK Athens",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "261503",
+      "nombre": "Álvaro Fidalgo",
+      "href_perfil": "/alvaro-fidalgo/profil/spieler/261503",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/04/1997 (29)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1155723",
+      "nombre": "Gilberto Mora",
+      "href_perfil": "/gilberto-mora/profil/spieler/1155723",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/10/2008 (17)",
+      "club_actual": "Club Tijuana",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "724443",
+      "nombre": "Brian Gutiérrez",
+      "href_perfil": "/brian-gutierrez/profil/spieler/724443",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/2003 (23)",
+      "club_actual": "Deportivo Guadalajara",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "424689",
+      "nombre": "Alexis Vega",
+      "href_perfil": "/alexis-vega/profil/spieler/424689",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/11/1997 (28)",
+      "club_actual": "Deportivo Toluca",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "540315",
+      "nombre": "César Huerta",
+      "href_perfil": "/cesar-huerta/profil/spieler/540315",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/12/2000 (25)",
+      "club_actual": "RSC Anderlecht",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "353583",
+      "nombre": "Roberto Alvarado",
+      "href_perfil": "/roberto-alvarado/profil/spieler/353583",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/09/1998 (27)",
+      "club_actual": "Deportivo Guadalajara",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "552955",
+      "nombre": "Santiago Gimenez",
+      "href_perfil": "/santiago-gimenez/profil/spieler/552955",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/04/2001 (25)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "837619",
+      "nombre": "Armando González",
+      "href_perfil": "/armando-gonzalez/profil/spieler/837619",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/04/2003 (23)",
+      "club_actual": "Deportivo Guadalajara",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "416090",
+      "nombre": "Julián Quiñones",
+      "href_perfil": "/julian-quinones/profil/spieler/416090",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/03/1997 (29)",
+      "club_actual": "Al-Qadsiah FC",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "206040",
+      "nombre": "Raúl Jiménez",
+      "href_perfil": "/raul-jimenez/profil/spieler/206040",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/05/1991 (35)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "347932",
+      "nombre": "Guillermo Martínez",
+      "href_perfil": "/guillermo-martinez/profil/spieler/347932",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/03/1995 (31)",
+      "club_actual": "UNAM Pumas",
+      "valor_mercado_raw": "€1.50m"
+    }
+  ]
+}

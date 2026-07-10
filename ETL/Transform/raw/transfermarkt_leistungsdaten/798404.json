@@ -1,0 +1,42 @@
+{
+  "nombre": "Alidu Seidu",
+  "href_perfil": "/alidu-seidu/profil/spieler/798404",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,185'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "222'"
+    },
+    {
+      "competicion_raw": "National 2 - Grp. C",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "142'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,549'"
+    }
+  ]
+}

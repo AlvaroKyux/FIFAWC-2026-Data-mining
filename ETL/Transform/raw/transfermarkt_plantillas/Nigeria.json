@@ -1,0 +1,213 @@
+{
+  "pais": "Nigeria",
+  "href_seleccion": "/nigeria/startseite/verein/3444",
+  "jugadores": [
+    {
+      "player_id": "340353",
+      "nombre": "Maduka Okoye",
+      "href_perfil": "/maduka-okoye/profil/spieler/340353",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/08/1999 (26)",
+      "club_actual": "Udinese Calcio",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "503769",
+      "nombre": "Arthur Okonkwo",
+      "href_perfil": "/arthur-okonkwo/profil/spieler/503769",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/09/2001 (24)",
+      "club_actual": "Wrexham AFC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "295360",
+      "nombre": "Francis Uzoho",
+      "href_perfil": "/francis-uzoho/profil/spieler/295360",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/10/1998 (27)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "461883",
+      "nombre": "Calvin Bassey",
+      "href_perfil": "/calvin-bassey/profil/spieler/461883",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/12/1999 (26)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "807417",
+      "nombre": "Emmanuel Fernandez",
+      "href_perfil": "/emmanuel-fernandez/profil/spieler/807417",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/11/2001 (24)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "567738",
+      "nombre": "Igoh Ogbu",
+      "href_perfil": "/igoh-ogbu/profil/spieler/567738",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/02/2000 (26)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "251912",
+      "nombre": "Semi Ajayi",
+      "href_perfil": "/semi-ajayi/profil/spieler/251912",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/11/1993 (32)",
+      "club_actual": "Hull City",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "544784",
+      "nombre": "Zaidu Sanusi",
+      "href_perfil": "/zaidu-sanusi/profil/spieler/544784",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/06/1997 (29)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "701325",
+      "nombre": "Bruno Onyemaechi",
+      "href_perfil": "/bruno-onyemaechi/profil/spieler/701325",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/04/1999 (27)",
+      "club_actual": "Olympiacos Piraeus",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1103809",
+      "nombre": "Christian Akpan",
+      "href_perfil": "/christian-akpan/profil/spieler/1103809",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/01/2005 (21)",
+      "club_actual": "Jong Genk",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "699783",
+      "nombre": "Raphael Onyedika",
+      "href_perfil": "/raphael-onyedika/profil/spieler/699783",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/04/2001 (25)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "274839",
+      "nombre": "Wilfred Ndidi",
+      "href_perfil": "/wilfred-ndidi/profil/spieler/274839",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/12/1996 (29)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "920470",
+      "nombre": "Tochukwu Nnadi",
+      "href_perfil": "/tochukwu-nnadi/profil/spieler/920470",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/06/2003 (22)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "421637",
+      "nombre": "Frank Onyeka",
+      "href_perfil": "/frank-onyeka/profil/spieler/421637",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1998 (28)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "530742",
+      "nombre": "Fisayo Dele-Bashiru",
+      "href_perfil": "/fisayo-dele-bashiru/profil/spieler/530742",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/2001 (25)",
+      "club_actual": "SS Lazio",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1287400",
+      "nombre": "Tosin Oyedokun",
+      "href_perfil": "/tosin-oyedokun/profil/spieler/1287400",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/07/2002 (23)",
+      "club_actual": "Ikorodu City FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1118054",
+      "nombre": "Abdullahi Bewene",
+      "href_perfil": "/abdullahi-bewene/profil/spieler/1118054",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "29/11/2004 (21)",
+      "club_actual": "FC Banik Ostrava",
+      "valor_mercado_raw": "€850k"
+    },
+    {
+      "player_id": "274862",
+      "nombre": "Moses Simon",
+      "href_perfil": "/moses-simon/profil/spieler/274862",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/07/1995 (30)",
+      "club_actual": "Paris FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "678655",
+      "nombre": "Philip Otele",
+      "href_perfil": "/philip-otele/profil/spieler/678655",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/04/1999 (27)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "607034",
+      "nombre": "Akor Adams",
+      "href_perfil": "/akor-adams/profil/spieler/607034",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/01/2000 (26)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "538874",
+      "nombre": "Terem Moffi",
+      "href_perfil": "/terem-moffi/profil/spieler/538874",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/05/1999 (27)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "935760",
+      "nombre": "Rafiu Durosinmi",
+      "href_perfil": "/rafiu-durosinmi/profil/spieler/935760",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2003 (23)",
+      "club_actual": "Pisa Sporting Club",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "272855",
+      "nombre": "Paul Onuachu",
+      "href_perfil": "/paul-onuachu/profil/spieler/272855",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/05/1994 (32)",
+      "club_actual": "Trabzonspor",
+      "valor_mercado_raw": "€6.00m"
+    }
+  ]
+}

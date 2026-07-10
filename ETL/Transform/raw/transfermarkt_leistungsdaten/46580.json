@@ -1,0 +1,33 @@
+{
+  "nombre": "Andrej Kramaric",
+  "href_perfil": "/andrej-kramaric/profil/spieler/46580",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "34",
+      "goles": "14",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,223'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "199'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "15",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,422'"
+    }
+  ]
+}

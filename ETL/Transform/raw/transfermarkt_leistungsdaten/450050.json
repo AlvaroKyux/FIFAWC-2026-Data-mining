@@ -1,0 +1,42 @@
+{
+  "nombre": "Jean-Ricner Bellegarde",
+  "href_perfil": "/jean-ricner-bellegarde/profil/spieler/450050",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,250'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "172'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "91'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,513'"
+    }
+  ]
+}

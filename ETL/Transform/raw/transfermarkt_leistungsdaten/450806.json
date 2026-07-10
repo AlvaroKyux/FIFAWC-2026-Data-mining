@@ -1,0 +1,51 @@
+{
+  "nombre": "Khuliso Mudau",
+  "href_perfil": "/khuliso-mudau/profil/spieler/450806",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,527'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,239'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "99'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,865'"
+    }
+  ]
+}

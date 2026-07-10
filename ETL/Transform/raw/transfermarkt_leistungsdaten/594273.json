@@ -1,0 +1,42 @@
+{
+  "nombre": "Jeremy Antonisse",
+  "href_perfil": "/jeremy-antonisse/profil/spieler/594273",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "22",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,567'"
+    },
+    {
+      "competicion_raw": "Super League Play-out",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "436'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "192'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,195'"
+    }
+  ]
+}

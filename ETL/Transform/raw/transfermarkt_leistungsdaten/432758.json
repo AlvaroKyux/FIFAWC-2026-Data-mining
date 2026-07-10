@@ -1,0 +1,60 @@
+{
+  "nombre": "Toni Fruk",
+  "href_perfil": "/toni-fruk/profil/spieler/432758",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "31",
+      "goles": "12",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,132'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "849'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "316'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "259'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "19",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,736'"
+    }
+  ]
+}

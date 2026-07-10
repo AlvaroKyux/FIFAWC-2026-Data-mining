@@ -1,0 +1,240 @@
+{
+  "pais": "Austria",
+  "href_seleccion": "/osterreich/startseite/verein/3383",
+  "jugadores": [
+    {
+      "player_id": "393999",
+      "nombre": "Florian Wiegele",
+      "href_perfil": "/florian-wiegele/profil/spieler/393999",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/03/2001 (25)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "223972",
+      "nombre": "Patrick Pentz",
+      "href_perfil": "/patrick-pentz/profil/spieler/223972",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/01/1997 (29)",
+      "club_actual": "Bröndby IF",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "186374",
+      "nombre": "Alexander Schlager",
+      "href_perfil": "/alexander-schlager/profil/spieler/186374",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/02/1996 (30)",
+      "club_actual": "Red Bull Salzburg",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "452483",
+      "nombre": "David Affengruber",
+      "href_perfil": "/david-affengruber/profil/spieler/452483",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/03/2001 (25)",
+      "club_actual": "Elche CF",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "263236",
+      "nombre": "Kevin Danso",
+      "href_perfil": "/kevin-danso/profil/spieler/263236",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/09/1998 (27)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "225657",
+      "nombre": "Philipp Lienhart",
+      "href_perfil": "/philipp-lienhart/profil/spieler/225657",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/07/1996 (29)",
+      "club_actual": "SC Freiburg",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "156990",
+      "nombre": "Marco Friedl",
+      "href_perfil": "/marco-friedl/profil/spieler/156990",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/03/1998 (28)",
+      "club_actual": "SV Werder Bremen",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "223974",
+      "nombre": "Stefan Posch",
+      "href_perfil": "/stefan-posch/profil/spieler/223974",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/05/1997 (29)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "438961",
+      "nombre": "Michael Svoboda",
+      "href_perfil": "/michael-svoboda/profil/spieler/438961",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/10/1998 (27)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "59016",
+      "nombre": "David Alaba",
+      "href_perfil": "/david-alaba/profil/spieler/59016",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/06/1992 (34)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "127573",
+      "nombre": "Phillipp Mwene",
+      "href_perfil": "/phillipp-mwene/profil/spieler/127573",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/01/1994 (32)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "223967",
+      "nombre": "Konrad Laimer",
+      "href_perfil": "/konrad-laimer/profil/spieler/223967",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/05/1997 (29)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "404950",
+      "nombre": "Nicolas Seiwald",
+      "href_perfil": "/nicolas-seiwald/profil/spieler/404950",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/05/2001 (25)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "287188",
+      "nombre": "Dejan Ljubicic",
+      "href_perfil": "/dejan-ljubicic/profil/spieler/287188",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/10/1997 (28)",
+      "club_actual": "FC Schalke 04",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "195736",
+      "nombre": "Florian Grillitsch",
+      "href_perfil": "/florian-grillitsch/profil/spieler/195736",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/08/1995 (30)",
+      "club_actual": "SC Braga",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "900909",
+      "nombre": "Paul Wanner",
+      "href_perfil": "/paul-wanner/profil/spieler/900909",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/12/2005 (20)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "659459",
+      "nombre": "Carney Chukwuemeka",
+      "href_perfil": "/carney-chukwuemeka/profil/spieler/659459",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/10/2003 (22)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "223979",
+      "nombre": "Xaver Schlager",
+      "href_perfil": "/xaver-schlager/profil/spieler/223979",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/09/1997 (28)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "106987",
+      "nombre": "Marcel Sabitzer",
+      "href_perfil": "/marcel-sabitzer/profil/spieler/106987",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/1994 (32)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "118397",
+      "nombre": "Alessandro Schöpf",
+      "href_perfil": "/alessandro-schopf/profil/spieler/118397",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/02/1994 (32)",
+      "club_actual": "Wolfsberger AC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "434116",
+      "nombre": "Alexander Prass",
+      "href_perfil": "/alexander-prass/profil/spieler/434116",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "26/05/2001 (25)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "346853",
+      "nombre": "Romano Schmid",
+      "href_perfil": "/romano-schmid/profil/spieler/346853",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "27/01/2000 (26)",
+      "club_actual": "SV Werder Bremen",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "533295",
+      "nombre": "Patrick Wimmer",
+      "href_perfil": "/patrick-wimmer/profil/spieler/533295",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/05/2001 (25)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "369567",
+      "nombre": "Sasa Kalajdzic",
+      "href_perfil": "/sasa-kalajdzic/profil/spieler/369567",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/07/1997 (28)",
+      "club_actual": "LASK",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "41384",
+      "nombre": "Marko Arnautovic",
+      "href_perfil": "/marko-arnautovic/profil/spieler/41384",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/04/1989 (37)",
+      "club_actual": "Red Star Belgrade",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "120205",
+      "nombre": "Michael Gregoritsch",
+      "href_perfil": "/michael-gregoritsch/profil/spieler/120205",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/04/1994 (32)",
+      "club_actual": "FC Augsburg",
+      "valor_mercado_raw": "€1.50m"
+    }
+  ]
+}

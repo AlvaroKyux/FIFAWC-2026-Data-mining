@@ -1,0 +1,51 @@
+{
+  "nombre": "Ollie Watkins",
+  "href_perfil": "/ollie-watkins/profil/spieler/324358",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "37",
+      "goles": "16",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,854'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "15",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "912'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "50'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "23'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "55",
+      "goles": "21",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,839'"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pais": "Iraq",
+  "href_seleccion": "/irak/startseite/verein/3560",
+  "jugadores": [
+    {
+      "player_id": "560952",
+      "nombre": "Ahmed Basil Fadhil",
+      "href_perfil": "/ahmed-basil-fadhil/profil/spieler/560952",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/08/1996 (29)",
+      "club_actual": "Al-Shorta SC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "377268",
+      "nombre": "Fahad Talib",
+      "href_perfil": "/fahad-talib/profil/spieler/377268",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/10/1994 (31)",
+      "club_actual": "Al-Talaba SC",
+      "valor_mercado_raw": "€375k"
+    },
+    {
+      "player_id": "206782",
+      "nombre": "Jalal Hassan",
+      "href_perfil": "/jalal-hassan/profil/spieler/206782",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/05/1991 (35)",
+      "club_actual": "Al-Zawraa SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "933541",
+      "nombre": "Akam Hashem",
+      "href_perfil": "/akam-hashem/profil/spieler/933541",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/08/1998 (27)",
+      "club_actual": "Al-Zawraa SC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "931147",
+      "nombre": "Zaid Tahseen",
+      "href_perfil": "/zaid-tahseen/profil/spieler/931147",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/01/2001 (25)",
+      "club_actual": "Pakhtakor Tashkent",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "166460",
+      "nombre": "Frans Putros",
+      "href_perfil": "/frans-putros/profil/spieler/166460",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/07/1993 (32)",
+      "club_actual": "PERSIB Bandung",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "945266",
+      "nombre": "Manaf Younis",
+      "href_perfil": "/manaf-younis/profil/spieler/945266",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/11/1996 (29)",
+      "club_actual": "Al-Shorta SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "217073",
+      "nombre": "Rebin Sulaka",
+      "href_perfil": "/rebin-sulaka/profil/spieler/217073",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/04/1992 (34)",
+      "club_actual": "Port FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "530527",
+      "nombre": "Merchas Doski",
+      "href_perfil": "/merchas-doski/profil/spieler/530527",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/12/1999 (26)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "881506",
+      "nombre": "Ahmed Maknzi",
+      "href_perfil": "/ahmed-maknzi/profil/spieler/881506",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/09/2001 (24)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "585325",
+      "nombre": "Hussein Ali",
+      "href_perfil": "/hussein-ali/profil/spieler/585325",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/03/2002 (24)",
+      "club_actual": "Pogon Szczecin",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "952341",
+      "nombre": "Mustafa Saadoon",
+      "href_perfil": "/mustafa-saadoon/profil/spieler/952341",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/05/2001 (25)",
+      "club_actual": "Al-Shorta SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "303766",
+      "nombre": "Amir Al-Ammari",
+      "href_perfil": "/amir-al-ammari/profil/spieler/303766",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/07/1997 (28)",
+      "club_actual": "Cracovia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1132850",
+      "nombre": "Zaid Ismail",
+      "href_perfil": "/zaid-ismail/profil/spieler/1132850",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2002 (24)",
+      "club_actual": "Al-Talaba SC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "579294",
+      "nombre": "Aimar Sher",
+      "href_perfil": "/aimar-sher/profil/spieler/579294",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/12/2002 (23)",
+      "club_actual": "Sarpsborg 08 FF",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "686845",
+      "nombre": "Zidane Iqbal",
+      "href_perfil": "/zidane-iqbal/profil/spieler/686845",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/04/2003 (23)",
+      "club_actual": "FC Utrecht U21",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "413268",
+      "nombre": "Kevin Yakob",
+      "href_perfil": "/kevin-yakob/profil/spieler/413268",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/10/2000 (25)",
+      "club_actual": "Aarhus GF",
+      "valor_mercado_raw": "€850k"
+    },
+    {
+      "player_id": "663153",
+      "nombre": "Marko Farji",
+      "href_perfil": "/marko-farji/profil/spieler/663153",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/03/2004 (22)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "684307",
+      "nombre": "Youssef Amyn",
+      "href_perfil": "/youssef-amyn/profil/spieler/684307",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/08/2003 (22)",
+      "club_actual": "AEK Larnaca",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "877672",
+      "nombre": "Ali Jasim",
+      "href_perfil": "/ali-jasim/profil/spieler/877672",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/01/2004 (22)",
+      "club_actual": "Al-Najma SC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "833817",
+      "nombre": "Ahmed Qasem",
+      "href_perfil": "/ahmed-qasem/profil/spieler/833817",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2003 (22)",
+      "club_actual": "Nashville SC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "560957",
+      "nombre": "Ibrahim Bayesh",
+      "href_perfil": "/ibrahim-bayesh/profil/spieler/560957",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/05/2000 (26)",
+      "club_actual": "Al-Dhafra FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "610581",
+      "nombre": "Ali Al-Hamadi",
+      "href_perfil": "/ali-al-hamadi/profil/spieler/610581",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/03/2002 (24)",
+      "club_actual": "Luton Town",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "589646",
+      "nombre": "Mohanad Ali",
+      "href_perfil": "/mohanad-ali/profil/spieler/589646",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/06/2000 (26)",
+      "club_actual": "Dibba SCC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "401054",
+      "nombre": "Aymen Hussein",
+      "href_perfil": "/aymen-hussein/profil/spieler/401054",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/03/1996 (30)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "576265",
+      "nombre": "Ali Yousif",
+      "href_perfil": "/ali-yousif/profil/spieler/576265",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/01/1996 (30)",
+      "club_actual": "Al-Talaba SC",
+      "valor_mercado_raw": "€200k"
+    }
+  ]
+}

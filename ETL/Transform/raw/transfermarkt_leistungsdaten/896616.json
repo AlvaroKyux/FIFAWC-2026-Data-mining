@@ -1,0 +1,87 @@
+{
+  "nombre": "Mostafa Ziko",
+  "href_perfil": "/mostafa-ziko/profil/spieler/896616",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "17",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "885'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "10",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "377'"
+    },
+    {
+      "competicion_raw": "Egypt Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "346'"
+    },
+    {
+      "competicion_raw": "Championship Playoff",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "334'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "80'"
+    },
+    {
+      "competicion_raw": "Egyptian Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "73'"
+    },
+    {
+      "competicion_raw": "Egyptian League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "CAF-Supercup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "14",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,095'"
+    }
+  ]
+}

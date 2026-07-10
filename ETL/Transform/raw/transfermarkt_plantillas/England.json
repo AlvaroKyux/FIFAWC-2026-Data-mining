@@ -1,0 +1,240 @@
+{
+  "pais": "England",
+  "href_seleccion": "/england/startseite/verein/3299",
+  "jugadores": [
+    {
+      "player_id": "258919",
+      "nombre": "Dean Henderson",
+      "href_perfil": "/dean-henderson/profil/spieler/258919",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/03/1997 (29)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "566799",
+      "nombre": "James Trafford",
+      "href_perfil": "/james-trafford/profil/spieler/566799",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/10/2002 (23)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "130164",
+      "nombre": "Jordan Pickford",
+      "href_perfil": "/jordan-pickford/profil/spieler/130164",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/03/1994 (32)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€13.00m"
+    },
+    {
+      "player_id": "392757",
+      "nombre": "Marc Guéhi",
+      "href_perfil": "/marc-guehi/profil/spieler/392757",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/07/2000 (25)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "632349",
+      "nombre": "Jarell Quansah",
+      "href_perfil": "/jarell-quansah/profil/spieler/632349",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/01/2003 (23)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "413403",
+      "nombre": "Ezri Konsa",
+      "href_perfil": "/ezri-konsa/profil/spieler/413403",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/10/1997 (28)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "346314",
+      "nombre": "Trevoh Chalobah",
+      "href_perfil": "/trevoh-chalobah/profil/spieler/346314",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/07/1999 (26)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "186590",
+      "nombre": "John Stones",
+      "href_perfil": "/john-stones/profil/spieler/186590",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/05/1994 (32)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "134270",
+      "nombre": "Dan Burn",
+      "href_perfil": "/dan-burn/profil/spieler/134270",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/05/1992 (34)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "743413",
+      "nombre": "Nico O'Reilly",
+      "href_perfil": "/nico-oreilly/profil/spieler/743413",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/03/2005 (21)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "483348",
+      "nombre": "Djed Spence",
+      "href_perfil": "/djed-spence/profil/spieler/483348",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/08/2000 (25)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "472423",
+      "nombre": "Reece James",
+      "href_perfil": "/reece-james/profil/spieler/472423",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/12/1999 (26)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "61651",
+      "nombre": "Jordan Henderson",
+      "href_perfil": "/jordan-henderson/profil/spieler/61651",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/1990 (36)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "357662",
+      "nombre": "Declan Rice",
+      "href_perfil": "/declan-rice/profil/spieler/357662",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/01/1999 (27)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€120.00m"
+    },
+    {
+      "player_id": "567576",
+      "nombre": "Elliot Anderson",
+      "href_perfil": "/elliot-anderson/profil/spieler/567576",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/11/2002 (23)",
+      "club_actual": "Nottingham Forest",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "820374",
+      "nombre": "Kobbie Mainoo",
+      "href_perfil": "/kobbie-mainoo/profil/spieler/820374",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/04/2005 (21)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "581678",
+      "nombre": "Jude Bellingham",
+      "href_perfil": "/jude-bellingham/profil/spieler/581678",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/06/2003 (23)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€130.00m"
+    },
+    {
+      "player_id": "503743",
+      "nombre": "Morgan Rogers",
+      "href_perfil": "/morgan-rogers/profil/spieler/503743",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/07/2002 (23)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "479999",
+      "nombre": "Eberechi Eze",
+      "href_perfil": "/eberechi-eze/profil/spieler/479999",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/06/1998 (28)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€65.00m"
+    },
+    {
+      "player_id": "503733",
+      "nombre": "Anthony Gordon",
+      "href_perfil": "/anthony-gordon/profil/spieler/503733",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/02/2001 (25)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€65.00m"
+    },
+    {
+      "player_id": "258923",
+      "nombre": "Marcus Rashford",
+      "href_perfil": "/marcus-rashford/profil/spieler/258923",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "31/10/1997 (28)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "433177",
+      "nombre": "Bukayo Saka",
+      "href_perfil": "/bukayo-saka/profil/spieler/433177",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/09/2001 (24)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€110.00m"
+    },
+    {
+      "player_id": "503987",
+      "nombre": "Noni Madueke",
+      "href_perfil": "/noni-madueke/profil/spieler/503987",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/03/2002 (24)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "132098",
+      "nombre": "Harry Kane",
+      "href_perfil": "/harry-kane/profil/spieler/132098",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/07/1993 (32)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "324358",
+      "nombre": "Ollie Watkins",
+      "href_perfil": "/ollie-watkins/profil/spieler/324358",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/12/1995 (30)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "251664",
+      "nombre": "Ivan Toney",
+      "href_perfil": "/ivan-toney/profil/spieler/251664",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/03/1996 (30)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€20.00m"
+    }
+  ]
+}

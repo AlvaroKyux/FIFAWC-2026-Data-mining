@@ -1,0 +1,42 @@
+{
+  "nombre": "Joseph Anang",
+  "href_perfil": "/joseph-anang/profil/spieler/576099",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Division",
+      "partidos": "19",
+      "goles": "17",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "9",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "570'"
+    },
+    {
+      "competicion_raw": "Leinster Senior Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "26",
+      "asistencias": "9",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,280'"
+    }
+  ]
+}

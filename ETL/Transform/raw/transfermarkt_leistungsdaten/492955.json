@@ -1,0 +1,69 @@
+{
+  "nombre": "Frantzdy Pierrot",
+  "href_perfil": "/frantzdy-pierrot/profil/spieler/492955",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "115'"
+    },
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "537'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "337'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "243'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "140'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "67'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,439'"
+    }
+  ]
+}

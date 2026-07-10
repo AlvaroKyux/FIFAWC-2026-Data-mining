@@ -1,0 +1,24 @@
+{
+  "nombre": "Fahad Talib",
+  "href_perfil": "/fahad-talib/profil/spieler/377268",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "28",
+      "goles": "24",
+      "asistencias": "10",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,465'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "24",
+      "asistencias": "10",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,465'"
+    }
+  ]
+}

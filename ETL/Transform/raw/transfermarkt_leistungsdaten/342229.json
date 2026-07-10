@@ -1,0 +1,51 @@
+{
+  "nombre": "Kylian Mbappé",
+  "href_perfil": "/kylian-mbappe/profil/spieler/342229",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "31",
+      "goles": "25",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,606'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "15",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "911'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "14'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "42",
+      "asistencias": "7",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,621'"
+    }
+  ]
+}

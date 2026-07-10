@@ -1,0 +1,69 @@
+{
+  "nombre": "Zizo",
+  "href_perfil": "/zizo/profil/spieler/320722",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "14",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "956'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "590'"
+    },
+    {
+      "competicion_raw": "Championship Playoff",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "310'"
+    },
+    {
+      "competicion_raw": "Egyptian Super Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "169'"
+    },
+    {
+      "competicion_raw": "Egyptian League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Egypt Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "5",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,025'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Deveron Fonville",
+  "href_perfil": "/deveron-fonville/profil/spieler/708989",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,458'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "252'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "-",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,070'"
+    }
+  ]
+}

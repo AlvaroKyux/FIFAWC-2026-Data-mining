@@ -1,0 +1,177 @@
+{
+  "pais": "Cook Islands",
+  "href_seleccion": "/cookinseln/startseite/verein/17752",
+  "jugadores": [
+    {
+      "player_id": "1001481",
+      "nombre": "Ine Maro",
+      "href_perfil": "/ine-maro/profil/spieler/1001481",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/03/2005 (21)",
+      "club_actual": "Auckland United FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "194404",
+      "nombre": "Tahiri Elikana",
+      "href_perfil": "/tahiri-elikana/profil/spieler/194404",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/09/1988 (37)",
+      "club_actual": "Retired",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "189732",
+      "nombre": "Tyson Tekeu",
+      "href_perfil": "/tyson-tekeu/profil/spieler/189732",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "441797",
+      "nombre": "Orin Prattley",
+      "href_perfil": "/orin-prattley/profil/spieler/441797",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/11/1997 (28)",
+      "club_actual": "Brooklyn Northern United AFC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "352163",
+      "nombre": "Tamaiva Mateariki",
+      "href_perfil": "/tamaiva-mateariki/profil/spieler/352163",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1999 (27)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "256530",
+      "nombre": "Dwayne Tiputoa",
+      "href_perfil": "/dwayne-tiputoa/profil/spieler/256530",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/12/1997 (28)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1110415",
+      "nombre": "John Noovao",
+      "href_perfil": "/john-noovao/profil/spieler/1110415",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/09/2004 (21)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "208127",
+      "nombre": "Emiel Burrow",
+      "href_perfil": "/emiel-burrow/profil/spieler/208127",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/05/1992 (34)",
+      "club_actual": "Oratia United AFC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "256466",
+      "nombre": "Thane Beal",
+      "href_perfil": "/thane-beal/profil/spieler/256466",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/03/1997 (29)",
+      "club_actual": "Westvale SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1052584",
+      "nombre": "Ngametua Tuakana",
+      "href_perfil": "/ngametua-tuakana/profil/spieler/1052584",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/2005 (21)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "75783",
+      "nombre": "Paavo Mustonen",
+      "href_perfil": "/paavo-mustonen/profil/spieler/75783",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "10/11/1989 (36)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "627473",
+      "nombre": "Tacettin Kumsuz",
+      "href_perfil": "/tacettin-kumsuz/profil/spieler/627473",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/01/1999 (27)",
+      "club_actual": "University of New South Wales FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "194409",
+      "nombre": "Grover Harmon",
+      "href_perfil": "/grover-harmon/profil/spieler/194409",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/08/1989 (36)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1052585",
+      "nombre": "Oscar Wichman",
+      "href_perfil": "/oscar-wichman/profil/spieler/1052585",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/2005 (20)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "194422",
+      "nombre": "Taylor Saghabi",
+      "href_perfil": "/taylor-saghabi/profil/spieler/194422",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/12/1990 (35)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1319236",
+      "nombre": "Tupaia Ringi",
+      "href_perfil": "/tupaia-ringi/profil/spieler/1319236",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/03/2003 (23)",
+      "club_actual": "Belconnen United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1020545",
+      "nombre": "Tremaine Rimene-Albrett",
+      "href_perfil": "/tremaine-rimene-albrett/profil/spieler/1020545",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/09/2002 (23)",
+      "club_actual": "Western Suburbs FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1110417",
+      "nombre": "Siaosi Kaufononga",
+      "href_perfil": "/siaosi-kaufononga/profil/spieler/1110417",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/02/1995 (31)",
+      "club_actual": "Tupapa Maraerenga",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "390864",
+      "nombre": "Josh Karika",
+      "href_perfil": "/josh-karika/profil/spieler/390864",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/09/1989 (36)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

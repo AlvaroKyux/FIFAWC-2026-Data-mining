@@ -1,0 +1,33 @@
+{
+  "nombre": "Mohammed Al-Owais",
+  "href_perfil": "/mohammed-al-owais/profil/spieler/262845",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi First Division League",
+      "partidos": "33",
+      "goles": "29",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,970'"
+    },
+    {
+      "competicion_raw": "First Div. Play-off",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "240'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "32",
+      "asistencias": "11",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,210'"
+    }
+  ]
+}

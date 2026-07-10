@@ -1,0 +1,222 @@
+{
+  "pais": "Eswatini",
+  "href_seleccion": "/eswatini/startseite/verein/13675",
+  "jugadores": [
+    {
+      "player_id": "935062",
+      "nombre": "Mlamuli Makhanya",
+      "href_perfil": "/mlamuli-makhanya/profil/spieler/935062",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/09/1996 (29)",
+      "club_actual": "Royal Leopards Simunye",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1531908",
+      "nombre": "Nyawo Qiniso",
+      "href_perfil": "/nyawo-qiniso/profil/spieler/1531908",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/1998 (28)",
+      "club_actual": "Moneni Pirates FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1540013",
+      "nombre": "Siyabonga Mfanukhona Magagula",
+      "href_perfil": "/siyabonga-mfanukhona-magagula/profil/spieler/1540013",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/02/2003 (23)",
+      "club_actual": "Ezulwini United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1343592",
+      "nombre": "Mlungisi Nxumalo",
+      "href_perfil": "/mlungisi-nxumalo/profil/spieler/1343592",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/12/1997 (28)",
+      "club_actual": "Young Buffaloes Simunye",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1066842",
+      "nombre": "Simanga Masangane",
+      "href_perfil": "/simanga-masangane/profil/spieler/1066842",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/05/1997 (29)",
+      "club_actual": "Royal Leopards Simunye",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1247494",
+      "nombre": "Gift Gamedze",
+      "href_perfil": "/gift-gamedze/profil/spieler/1247494",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/08/2002 (23)",
+      "club_actual": "Royal Leopards Simunye",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1210866",
+      "nombre": "Thulani Jingana",
+      "href_perfil": "/thulani-jingana/profil/spieler/1210866",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/03/2003 (23)",
+      "club_actual": "Orbit College FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "951010",
+      "nombre": "Kwakhe Thwala",
+      "href_perfil": "/kwakhe-thwala/profil/spieler/951010",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/04/2002 (24)",
+      "club_actual": "Scottland Football Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "588413",
+      "nombre": "Lindo Mkhonta",
+      "href_perfil": "/lindo-mkhonta/profil/spieler/588413",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/04/1991 (35)",
+      "club_actual": "ZESCO United FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1194657",
+      "nombre": "Siphephelo Newman Philiso",
+      "href_perfil": "/siphephelo-newman-philiso/profil/spieler/1194657",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/11/2003 (22)",
+      "club_actual": "Mbabane Swallows",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "702875",
+      "nombre": "Andy Junior Magagula",
+      "href_perfil": "/andy-junior-magagula/profil/spieler/702875",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "12/01/1995 (31)",
+      "club_actual": "Royal Leopards Simunye",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1126799",
+      "nombre": "Mpendulo Lungelo Tfomo",
+      "href_perfil": "/mpendulo-lungelo-tfomo/profil/spieler/1126799",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "17/03/2000 (26)",
+      "club_actual": "Manzini Sea Birds FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1469574",
+      "nombre": "Alakhe Mdluli",
+      "href_perfil": "/alakhe-mdluli/profil/spieler/1469574",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "AmaZulu FC Reserves",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531910",
+      "nombre": "Pakule Innocent Mangaliso",
+      "href_perfil": "/pakule-innocent-mangaliso/profil/spieler/1531910",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "21/04/2002 (24)",
+      "club_actual": "Moneni Pirates FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531911",
+      "nombre": "Dlamini Malangeni",
+      "href_perfil": "/dlamini-malangeni/profil/spieler/1531911",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "07/02/2002 (24)",
+      "club_actual": "Tambankulu Callies",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531912",
+      "nombre": "Simelane Mpendulo Sifiso",
+      "href_perfil": "/simelane-mpendulo-sifiso/profil/spieler/1531912",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "25/10/1998 (27)",
+      "club_actual": "Ezulwini United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "998708",
+      "nombre": "Neliswa Dlamini",
+      "href_perfil": "/neliswa-dlamini/profil/spieler/998708",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/12/2002 (23)",
+      "club_actual": "Hardrock Football Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1175321",
+      "nombre": "Innocent Dlamini",
+      "href_perfil": "/innocent-dlamini/profil/spieler/1175321",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/12/1998 (27)",
+      "club_actual": "Young Buffaloes Simunye",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "998707",
+      "nombre": "Philani Mkhonto",
+      "href_perfil": "/philani-mkhonto/profil/spieler/998707",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/04/1995 (31)",
+      "club_actual": "Manzini Sea Birds FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "846021",
+      "nombre": "Bongwa Matsebula",
+      "href_perfil": "/bongwa-matsebula/profil/spieler/846021",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/11/1997 (28)",
+      "club_actual": "Young Buffaloes Simunye",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "604952",
+      "nombre": "Justice Figuareido",
+      "href_perfil": "/justice-figuareido/profil/spieler/604952",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/07/1998 (27)",
+      "club_actual": "Chippa United",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1299083",
+      "nombre": "Sambulo Simelane",
+      "href_perfil": "/sambulo-simelane/profil/spieler/1299083",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/06/2001 (25)",
+      "club_actual": "Hardrock Football Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1454957",
+      "nombre": "Joseph Kibonge",
+      "href_perfil": "/joseph-kibonge/profil/spieler/1454957",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "22/04/2004 (22)",
+      "club_actual": "Manzini Sea Birds FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531909",
+      "nombre": "Gamedze Hleliso Mzweleni",
+      "href_perfil": "/gamedze-hleliso-mzweleni/profil/spieler/1531909",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "29/01/2004 (22)",
+      "club_actual": "Royal Leopards Simunye",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

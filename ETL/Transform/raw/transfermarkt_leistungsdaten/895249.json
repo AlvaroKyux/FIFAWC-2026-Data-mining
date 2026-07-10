@@ -1,0 +1,33 @@
+{
+  "nombre": "Mohammad Abu Hasheesh",
+  "href_perfil": "/mohammad-abu-hasheesh/profil/spieler/895249",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,671'"
+    },
+    {
+      "competicion_raw": "Iraq FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,791'"
+    }
+  ]
+}

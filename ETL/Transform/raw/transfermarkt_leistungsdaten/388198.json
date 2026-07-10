@@ -1,0 +1,42 @@
+{
+  "nombre": "Nico Schlotterbeck",
+  "href_perfil": "/nico-schlotterbeck/profil/spieler/388198",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,520'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "560'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,290'"
+    }
+  ]
+}

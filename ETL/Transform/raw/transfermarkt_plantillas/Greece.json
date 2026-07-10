@@ -1,0 +1,231 @@
+{
+  "pais": "Greece",
+  "href_seleccion": "/griechenland/startseite/verein/3378",
+  "jugadores": [
+    {
+      "player_id": "554389",
+      "nombre": "Konstantinos Tzolakis",
+      "href_perfil": "/konstantinos-tzolakis/profil/spieler/554389",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/11/2002 (23)",
+      "club_actual": "Olympiacos Piraeus",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "481675",
+      "nombre": "Christos Mandas",
+      "href_perfil": "/christos-mandas/profil/spieler/481675",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/09/2001 (24)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "124419",
+      "nombre": "Odysseas Vlachodimos",
+      "href_perfil": "/odysseas-vlachodimos/profil/spieler/124419",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/04/1994 (32)",
+      "club_actual": "Sevilla FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "669380",
+      "nombre": "Konstantinos Koulierakis",
+      "href_perfil": "/konstantinos-koulierakis/profil/spieler/669380",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/11/2003 (22)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "415912",
+      "nombre": "Konstantinos Mavropanos",
+      "href_perfil": "/konstantinos-mavropanos/profil/spieler/415912",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/12/1997 (28)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "324351",
+      "nombre": "Panagiotis Retsos",
+      "href_perfil": "/panagiotis-retsos/profil/spieler/324351",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/08/1998 (27)",
+      "club_actual": "Olympiacos Piraeus",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "724035",
+      "nombre": "Andreas Ntoi",
+      "href_perfil": "/andreas-ntoi/profil/spieler/724035",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/02/2003 (23)",
+      "club_actual": "Rio Ave FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "144244",
+      "nombre": "Pantelis Hatzidiakos",
+      "href_perfil": "/pantelis-hatzidiakos/profil/spieler/144244",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/01/1997 (29)",
+      "club_actual": "FC Copenhagen",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "338070",
+      "nombre": "Konstantinos Tsimikas",
+      "href_perfil": "/konstantinos-tsimikas/profil/spieler/338070",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/05/1996 (30)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "311178",
+      "nombre": "Georgios Kyriakopoulos",
+      "href_perfil": "/georgios-kyriakopoulos/profil/spieler/311178",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1996 (30)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "546186",
+      "nombre": "Georgios Vagiannidis",
+      "href_perfil": "/georgios-vagiannidis/profil/spieler/546186",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/09/2001 (24)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "483916",
+      "nombre": "Lazaros Rota",
+      "href_perfil": "/lazaros-rota/profil/spieler/483916",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/08/1997 (28)",
+      "club_actual": "AEK Athens",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "157543",
+      "nombre": "Dimitrios Kourbelis",
+      "href_perfil": "/dimitrios-kourbelis/profil/spieler/157543",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/11/1993 (32)",
+      "club_actual": "Al-Khaleej FC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "964426",
+      "nombre": "Christos Mouzakitis",
+      "href_perfil": "/christos-mouzakitis/profil/spieler/964426",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/12/2006 (19)",
+      "club_actual": "Olympiacos Piraeus",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "580978",
+      "nombre": "Christos Zafeiris",
+      "href_perfil": "/christos-zafeiris/profil/spieler/580978",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/2003 (23)",
+      "club_actual": "PAOK Thessaloniki",
+      "valor_mercado_raw": "€11.00m"
+    },
+    {
+      "player_id": "957224",
+      "nombre": "Nectarios Triantis",
+      "href_perfil": "/nectarios-triantis/profil/spieler/957224",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2003 (23)",
+      "club_actual": "Minnesota United FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "1031590",
+      "nombre": "Sotiris Kontouris",
+      "href_perfil": "/sotiris-kontouris/profil/spieler/1031590",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/02/2005 (21)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "341680",
+      "nombre": "Athanasios Androutsos",
+      "href_perfil": "/athanasios-androutsos/profil/spieler/341680",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/05/1997 (29)",
+      "club_actual": "OFI Crete",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "451677",
+      "nombre": "Christos Tzolis",
+      "href_perfil": "/christos-tzolis/profil/spieler/451677",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/01/2002 (24)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "586538",
+      "nombre": "Alexandros Kyziridis",
+      "href_perfil": "/alexandros-kyziridis/profil/spieler/586538",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/09/2000 (25)",
+      "club_actual": "Heart of Midlothian FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "329517",
+      "nombre": "Georgios Masouras",
+      "href_perfil": "/georgios-masouras/profil/spieler/329517",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/01/1994 (32)",
+      "club_actual": "Al-Khaleej FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "324503",
+      "nombre": "Vangelis Pavlidis",
+      "href_perfil": "/vangelis-pavlidis/profil/spieler/324503",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/11/1998 (27)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "523318",
+      "nombre": "Anastasios Douvikas",
+      "href_perfil": "/anastasios-douvikas/profil/spieler/523318",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/08/1999 (26)",
+      "club_actual": "Como 1907",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "1060087",
+      "nombre": "Charalampos Kostoulas",
+      "href_perfil": "/charalampos-kostoulas/profil/spieler/1060087",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/05/2007 (19)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "905184",
+      "nombre": "Andreas Tetteh",
+      "href_perfil": "/andreas-tetteh/profil/spieler/905184",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/05/2001 (25)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€4.00m"
+    }
+  ]
+}

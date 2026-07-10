@@ -1,0 +1,42 @@
+{
+  "nombre": "Tommy Smith",
+  "href_perfil": "/tommy-smith/profil/spieler/54381",
+  "competiciones": [
+    {
+      "competicion_raw": "National League",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,217'"
+    },
+    {
+      "competicion_raw": "National League Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "159'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "22'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,398'"
+    }
+  ]
+}

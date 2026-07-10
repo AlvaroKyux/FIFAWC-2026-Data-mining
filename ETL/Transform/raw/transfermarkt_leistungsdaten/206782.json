@@ -1,0 +1,33 @@
+{
+  "nombre": "Jalal Hassan",
+  "href_perfil": "/jalal-hassan/profil/spieler/206782",
+  "competiciones": [
+    {
+      "competicion_raw": "Iraq Stars League",
+      "partidos": "18",
+      "goles": "14",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,510'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "8",
+      "goles": "17",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "750'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "26",
+      "goles": "31",
+      "asistencias": "9",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,260'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Bernardo Silva",
+  "href_perfil": "/bernardo-silva/profil/spieler/241641",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "38",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,888'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "551'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "211'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "204'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "53",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "14",
+      "rojas": "-",
+      "minutos_raw": "3,854'"
+    }
+  ]
+}

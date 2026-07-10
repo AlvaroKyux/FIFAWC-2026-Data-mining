@@ -1,0 +1,222 @@
+{
+  "pais": "Tajikistan",
+  "href_seleccion": "/tadschikistan/startseite/verein/13975",
+  "jugadores": [
+    {
+      "player_id": "424022",
+      "nombre": "Rustam Yatimov",
+      "href_perfil": "/rustam-yatimov/profil/spieler/424022",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/07/1998 (27)",
+      "club_actual": "FC Rostov",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "481254",
+      "nombre": "Daler Azizov",
+      "href_perfil": "/daler-azizov/profil/spieler/481254",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/05/2000 (26)",
+      "club_actual": "Khosilot Farkhor",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "718501",
+      "nombre": "Mukhriddin Khasanov",
+      "href_perfil": "/mukhriddin-khasanov/profil/spieler/718501",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/09/2002 (23)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "513883",
+      "nombre": "Zoir Dzhuraboev",
+      "href_perfil": "/zoir-dzhuraboev/profil/spieler/513883",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/09/1998 (27)",
+      "club_actual": "Sogdiana Jizzakh",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1110676",
+      "nombre": "Sodikdzhon Kurbonov",
+      "href_perfil": "/sodikdzhon-kurbonov/profil/spieler/1110676",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/01/2003 (23)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "481262",
+      "nombre": "Vakhdat Khanonov",
+      "href_perfil": "/vakhdat-khanonov/profil/spieler/481262",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/07/2000 (25)",
+      "club_actual": "Sepahan FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "758270",
+      "nombre": "Alidzhon Karomatullozoda",
+      "href_perfil": "/alidzhon-karomatullozoda/profil/spieler/758270",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/05/2002 (24)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "859719",
+      "nombre": "Mekhrubon Karimov",
+      "href_perfil": "/mekhrubon-karimov/profil/spieler/859719",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/01/2004 (22)",
+      "club_actual": "Ravshan Kulob",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "417804",
+      "nombre": "Tabrez Islomov",
+      "href_perfil": "/tabrez-islomov/profil/spieler/417804",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/06/1998 (28)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "208885",
+      "nombre": "Akhtam Nazarov",
+      "href_perfil": "/akhtam-nazarov/profil/spieler/208885",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/09/1992 (33)",
+      "club_actual": "Vakhsh Bokhtar",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "107518",
+      "nombre": "Parvizdzhon Umarbaev",
+      "href_perfil": "/parvizdzhon-umarbaev/profil/spieler/107518",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/11/1994 (31)",
+      "club_actual": "Lokomotiv Plovdiv",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "308589",
+      "nombre": "Amirbek Dzhuraboev",
+      "href_perfil": "/amirbek-dzhuraboev/profil/spieler/308589",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/1996 (30)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "762389",
+      "nombre": "Rakhmatsho Rakhmatzoda",
+      "href_perfil": "/rakhmatsho-rakhmatzoda/profil/spieler/762389",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/2004 (22)",
+      "club_actual": "PSIM Yogyakarta",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "573041",
+      "nombre": "Ekhson Pandzhshanbe",
+      "href_perfil": "/ekhson-pandzhshanbe/profil/spieler/573041",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/05/1999 (27)",
+      "club_actual": "Terengganu FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "878829",
+      "nombre": "Alisher Shukurov",
+      "href_perfil": "/alisher-shukurov/profil/spieler/878829",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/03/2002 (24)",
+      "club_actual": "FC Qizilqum",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1191012",
+      "nombre": "Furkon Rakhimzoda",
+      "href_perfil": "/furkon-rakhimzoda/profil/spieler/1191012",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "25/08/2009 (16)",
+      "club_actual": "Khosilot Farkhor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "104697",
+      "nombre": "Alisher Dzhalilov",
+      "href_perfil": "/alisher-dzhalilov/profil/spieler/104697",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/08/1993 (32)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1089071",
+      "nombre": "Salokhiddin Irgashev",
+      "href_perfil": "/salokhiddin-irgashev/profil/spieler/1089071",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/07/2003 (22)",
+      "club_actual": "Khosilot Farkhor",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "632942",
+      "nombre": "Shervoni Mabatshoev",
+      "href_perfil": "/shervoni-mabatshoev/profil/spieler/632942",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/12/2000 (25)",
+      "club_actual": "Terengganu FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1000998",
+      "nombre": "Faridun Davlatov",
+      "href_perfil": "/faridun-davlatov/profil/spieler/1000998",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/02/2004 (22)",
+      "club_actual": "Regar-TadAZ Tursunzoda",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "583220",
+      "nombre": "Mukhammadjon Rakhimov",
+      "href_perfil": "/mukhammadjon-rakhimov/profil/spieler/583220",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/10/1998 (27)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "481284",
+      "nombre": "Sheriddin Boboev",
+      "href_perfil": "/sheriddin-boboev/profil/spieler/481284",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/04/1999 (27)",
+      "club_actual": "PSM Makassar",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "481282",
+      "nombre": "Shakhrom Samiev",
+      "href_perfil": "/shakhrom-samiev/profil/spieler/481282",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/02/2001 (25)",
+      "club_actual": "Al-Karma",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "718515",
+      "nombre": "Rustam Soirov",
+      "href_perfil": "/rustam-soirov/profil/spieler/718515",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/09/2002 (23)",
+      "club_actual": "Istiqlol Dushanbe",
+      "valor_mercado_raw": "€200k"
+    }
+  ]
+}

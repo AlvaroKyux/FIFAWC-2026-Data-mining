@@ -1,0 +1,33 @@
+{
+  "nombre": "Yazeed Abulaila",
+  "href_perfil": "/yazeed-abulaila/profil/spieler/261850",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "24",
+      "goles": "15",
+      "asistencias": "12",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,160'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "5",
+      "goles": "6",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "21",
+      "asistencias": "14",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,610'"
+    }
+  ]
+}

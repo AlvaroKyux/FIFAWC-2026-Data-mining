@@ -1,0 +1,231 @@
+{
+  "pais": "Venezuela",
+  "href_seleccion": "/venezuela/startseite/verein/3504",
+  "jugadores": [
+    {
+      "player_id": "308226",
+      "nombre": "José Contreras",
+      "href_perfil": "/jose-contreras/profil/spieler/308226",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/10/1994 (31)",
+      "club_actual": "Barcelona SC Guayaquil",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "498123",
+      "nombre": "Cristopher Varela",
+      "href_perfil": "/cristopher-varela/profil/spieler/498123",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/11/1999 (26)",
+      "club_actual": "Deportivo La Guaira",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "463320",
+      "nombre": "Joel Graterol",
+      "href_perfil": "/joel-graterol/profil/spieler/463320",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/05/1997 (29)",
+      "club_actual": "Academia Puerto Cabello",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "750807",
+      "nombre": "Javier Otero",
+      "href_perfil": "/javier-otero/profil/spieler/750807",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/11/2002 (23)",
+      "club_actual": "Orlando City SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "466336",
+      "nombre": "Nahuel Ferraresi",
+      "href_perfil": "/nahuel-ferraresi/profil/spieler/466336",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/11/1998 (27)",
+      "club_actual": "Botafogo de Futebol e Regatas",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "463667",
+      "nombre": "Christian Makoun",
+      "href_perfil": "/christian-makoun/profil/spieler/463667",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/03/2000 (26)",
+      "club_actual": "Levski Sofia",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "627069",
+      "nombre": "Teo Quintero",
+      "href_perfil": "/teo-quintero/profil/spieler/627069",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/03/1999 (27)",
+      "club_actual": "Sparta Rotterdam",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "657784",
+      "nombre": "Carlos Vivas",
+      "href_perfil": "/carlos-vivas/profil/spieler/657784",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/04/2002 (24)",
+      "club_actual": "Internacional de Bogotá",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "295070",
+      "nombre": "Diego Osio",
+      "href_perfil": "/diego-osio/profil/spieler/295070",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/01/1997 (29)",
+      "club_actual": "Deportivo La Guaira",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1012731",
+      "nombre": "Luis Balbo",
+      "href_perfil": "/luis-balbo/profil/spieler/1012731",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/03/2006 (20)",
+      "club_actual": "ACF Fiorentina",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "661145",
+      "nombre": "Jon Aramburu",
+      "href_perfil": "/jon-aramburu/profil/spieler/661145",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "23/07/2002 (23)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "618804",
+      "nombre": "Adrián Cova",
+      "href_perfil": "/adrian-cova/profil/spieler/618804",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/02/2001 (25)",
+      "club_actual": "Lokomotiv Plovdiv",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "486834",
+      "nombre": "Jorge Yriarte",
+      "href_perfil": "/jorge-yriarte/profil/spieler/486834",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "04/03/2000 (26)",
+      "club_actual": "Slask Wroclaw",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "467632",
+      "nombre": "Cristian Cásseres Jr.",
+      "href_perfil": "/cristian-casseres-jr-/profil/spieler/467632",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/01/2000 (26)",
+      "club_actual": "FC Toulouse",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "378293",
+      "nombre": "Yangel Herrera",
+      "href_perfil": "/yangel-herrera/profil/spieler/378293",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/01/1998 (28)",
+      "club_actual": "Real Sociedad",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "858719",
+      "nombre": "Telasco Segovia",
+      "href_perfil": "/telasco-segovia/profil/spieler/858719",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/04/2003 (23)",
+      "club_actual": "Inter Miami CF",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "856498",
+      "nombre": "Daniel Pereira",
+      "href_perfil": "/daniel-pereira/profil/spieler/856498",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/07/2000 (25)",
+      "club_actual": "Austin FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1311378",
+      "nombre": "Marco Libra",
+      "href_perfil": "/marco-libra/profil/spieler/1311378",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2008 (18)",
+      "club_actual": "Bologna Primavera",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "661147",
+      "nombre": "Wikelman Carmona",
+      "href_perfil": "/wikelman-carmona/profil/spieler/661147",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/02/2003 (23)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1029207",
+      "nombre": "Gleiker Mendoza",
+      "href_perfil": "/gleiker-mendoza/profil/spieler/1029207",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/12/2001 (24)",
+      "club_actual": "Kryvbas Kryvyi Rig",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "409424",
+      "nombre": "Edson Tortolero",
+      "href_perfil": "/edson-tortolero/profil/spieler/409424",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/02/1998 (28)",
+      "club_actual": "Carabobo FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "988222",
+      "nombre": "David Martínez",
+      "href_perfil": "/david-martinez/profil/spieler/988222",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/02/2006 (20)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "856791",
+      "nombre": "Ender Echenique",
+      "href_perfil": "/ender-echenique/profil/spieler/856791",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/04/2004 (22)",
+      "club_actual": "FC Cincinnati",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "419936",
+      "nombre": "Jesús Ramírez",
+      "href_perfil": "/jesus-ramirez/profil/spieler/419936",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/05/1998 (28)",
+      "club_actual": "CD Nacional",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "888023",
+      "nombre": "Kevin Kelsy",
+      "href_perfil": "/kevin-kelsy/profil/spieler/888023",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/07/2004 (21)",
+      "club_actual": "Portland Timbers",
+      "valor_mercado_raw": "€4.00m"
+    }
+  ]
+}

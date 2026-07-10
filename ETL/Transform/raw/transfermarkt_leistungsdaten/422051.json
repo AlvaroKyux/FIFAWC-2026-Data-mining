@@ -1,0 +1,33 @@
+{
+  "nombre": "Nikola Katic",
+  "href_perfil": "/nikola-katic/profil/spieler/422051",
+  "competiciones": [
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "26",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "2,268'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "183'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "2,451'"
+    }
+  ]
+}

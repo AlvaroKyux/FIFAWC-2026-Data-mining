@@ -1,0 +1,69 @@
+{
+  "nombre": "Stephen Eustaquio",
+  "href_perfil": "/stephen-eustaquio/profil/spieler/512913",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "602'"
+    },
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "182'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "201'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "108'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,331'"
+    }
+  ]
+}

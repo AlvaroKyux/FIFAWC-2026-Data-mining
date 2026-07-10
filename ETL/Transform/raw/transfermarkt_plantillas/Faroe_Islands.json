@@ -1,0 +1,213 @@
+{
+  "pais": "Faroe Islands",
+  "href_seleccion": "/faroer/startseite/verein/9173",
+  "jugadores": [
+    {
+      "player_id": "428568",
+      "nombre": "Mattias Lamhauge",
+      "href_perfil": "/mattias-lamhauge/profil/spieler/428568",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/08/1999 (26)",
+      "club_actual": "Strømsgodset IF",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "340971",
+      "nombre": "Bárdur á Reynatröd",
+      "href_perfil": "/bardur-a-reynatrod/profil/spieler/340971",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/01/2000 (26)",
+      "club_actual": "Víkingur Gøta",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "470507",
+      "nombre": "Bjarti Mørk",
+      "href_perfil": "/bjarti-mork/profil/spieler/470507",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/06/2001 (25)",
+      "club_actual": "HB Tórshavn",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "617790",
+      "nombre": "Samuel Chukwudi",
+      "href_perfil": "/samuel-chukwudi/profil/spieler/617790",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/06/2003 (23)",
+      "club_actual": "SJK Seinäjoki",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "291070",
+      "nombre": "Gunnar Vatnhamar",
+      "href_perfil": "/gunnar-vatnhamar/profil/spieler/291070",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/03/1995 (31)",
+      "club_actual": "Víkingur Reykjavík",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "412525",
+      "nombre": "Arnbjørn Svensson",
+      "href_perfil": "/arnbjorn-svensson/profil/spieler/412525",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/07/1999 (26)",
+      "club_actual": "Víkingur Gøta",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "198768",
+      "nombre": "Heini Vatnsdal",
+      "href_perfil": "/heini-vatnsdal/profil/spieler/198768",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/10/1991 (34)",
+      "club_actual": "B36 Tórshavn",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "668709",
+      "nombre": "Martin Agnarsson",
+      "href_perfil": "/martin-agnarsson/profil/spieler/668709",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/12/2003 (22)",
+      "club_actual": "Aarhus Fremad",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "102123",
+      "nombre": "Viljormur Davidsen",
+      "href_perfil": "/viljormur-davidsen/profil/spieler/102123",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/07/1991 (34)",
+      "club_actual": "NSÍ Runavík",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "371640",
+      "nombre": "Jóannes Danielsen",
+      "href_perfil": "/joannes-danielsen/profil/spieler/371640",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/09/1997 (28)",
+      "club_actual": "KÍ Klaksvík",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "470503",
+      "nombre": "Hanus Sørensen",
+      "href_perfil": "/hanus-sorensen/profil/spieler/470503",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "19/02/2001 (25)",
+      "club_actual": "NK Triglav Kranj",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "428567",
+      "nombre": "Jann Benjaminsen",
+      "href_perfil": "/jann-benjaminsen/profil/spieler/428567",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/03/1997 (29)",
+      "club_actual": "NSÍ Runavík",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "295498",
+      "nombre": "Jákup Andreasen",
+      "href_perfil": "/jakup-andreasen/profil/spieler/295498",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "31/05/1998 (28)",
+      "club_actual": "KÍ Klaksvík",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "574789",
+      "nombre": "Noah Mneney",
+      "href_perfil": "/noah-mneney/profil/spieler/574789",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/12/2002 (23)",
+      "club_actual": "HB Tórshavn",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "692906",
+      "nombre": "Géza Dávid Turi",
+      "href_perfil": "/geza-david-turi/profil/spieler/692906",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/10/2001 (24)",
+      "club_actual": "Grimsby Town",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "668707",
+      "nombre": "Emil Joensen",
+      "href_perfil": "/emil-joensen/profil/spieler/668707",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/11/2003 (22)",
+      "club_actual": "NSÍ Runavík",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "605667",
+      "nombre": "Ási Dam",
+      "href_perfil": "/asi-dam/profil/spieler/605667",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "18/12/2002 (23)",
+      "club_actual": "HB Tórshavn",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "223717",
+      "nombre": "Patrik Johannesen",
+      "href_perfil": "/patrik-johannesen/profil/spieler/223717",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/09/1995 (30)",
+      "club_actual": "KÍ Klaksvík",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "668712",
+      "nombre": "Poul Kallsberg",
+      "href_perfil": "/poul-kallsberg/profil/spieler/668712",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "04/02/2003 (23)",
+      "club_actual": "Hilleröd Fodbold",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "155074",
+      "nombre": "Árni Frederiksberg",
+      "href_perfil": "/arni-frederiksberg/profil/spieler/155074",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "13/06/1992 (34)",
+      "club_actual": "KÍ Klaksvík",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "285294",
+      "nombre": "Petur Knudsen",
+      "href_perfil": "/petur-knudsen/profil/spieler/285294",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/04/1998 (28)",
+      "club_actual": "NSÍ Runavík",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "668710",
+      "nombre": "Jørgen Nielsen",
+      "href_perfil": "/jorgen-nielsen/profil/spieler/668710",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/11/2003 (22)",
+      "club_actual": "Víkingur Gøta",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "62547",
+      "nombre": "Páll Klettskard",
+      "href_perfil": "/pall-klettskard/profil/spieler/62547",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/05/1990 (36)",
+      "club_actual": "KÍ Klaksvík",
+      "valor_mercado_raw": "€50k"
+    }
+  ]
+}

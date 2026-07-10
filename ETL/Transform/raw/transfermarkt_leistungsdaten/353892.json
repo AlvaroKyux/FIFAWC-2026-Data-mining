@@ -1,0 +1,51 @@
+{
+  "nombre": "Hiroki Ito",
+  "href_perfil": "/hiroki-ito/profil/spieler/353892",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "16",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "921'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "122'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "6'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,049'"
+    }
+  ]
+}

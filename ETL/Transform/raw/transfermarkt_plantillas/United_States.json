@@ -1,0 +1,240 @@
+{
+  "pais": "United States",
+  "href_seleccion": "/vereinigte-staaten/startseite/verein/3505",
+  "jugadores": [
+    {
+      "player_id": "425306",
+      "nombre": "Matt Turner",
+      "href_perfil": "/matt-turner/profil/spieler/425306",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/06/1994 (32)",
+      "club_actual": "New England Revolution",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "765504",
+      "nombre": "Chris Brady",
+      "href_perfil": "/chris-brady/profil/spieler/765504",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/03/2004 (22)",
+      "club_actual": "Chicago Fire FC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "500309",
+      "nombre": "Matt Freese",
+      "href_perfil": "/matt-freese/profil/spieler/500309",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/09/1998 (27)",
+      "club_actual": "New York City FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "578539",
+      "nombre": "Chris Richards",
+      "href_perfil": "/chris-richards/profil/spieler/578539",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/03/2000 (26)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "429259",
+      "nombre": "Mark McKenzie",
+      "href_perfil": "/mark-mckenzie/profil/spieler/429259",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/02/1999 (27)",
+      "club_actual": "FC Toulouse",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "389253",
+      "nombre": "Auston Trusty",
+      "href_perfil": "/auston-trusty/profil/spieler/389253",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/08/1998 (27)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "468022",
+      "nombre": "Miles Robinson",
+      "href_perfil": "/miles-robinson/profil/spieler/468022",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/03/1997 (29)",
+      "club_actual": "FC Cincinnati",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "145466",
+      "nombre": "Tim Ream",
+      "href_perfil": "/tim-ream/profil/spieler/145466",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/10/1987 (38)",
+      "club_actual": "Charlotte FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "349701",
+      "nombre": "Antonee Robinson",
+      "href_perfil": "/antonee-robinson/profil/spieler/349701",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/08/1997 (28)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "361104",
+      "nombre": "Sergiño Dest",
+      "href_perfil": "/sergino-dest/profil/spieler/361104",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/11/2000 (25)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "504153",
+      "nombre": "Joe Scally",
+      "href_perfil": "/joe-scally/profil/spieler/504153",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/12/2002 (23)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "985806",
+      "nombre": "Alex Freeman",
+      "href_perfil": "/alex-freeman/profil/spieler/985806",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/08/2004 (21)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "332705",
+      "nombre": "Tyler Adams",
+      "href_perfil": "/tyler-adams/profil/spieler/332705",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/02/1999 (27)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "332697",
+      "nombre": "Weston McKennie",
+      "href_perfil": "/weston-mckennie/profil/spieler/332697",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/08/1998 (27)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "734761",
+      "nombre": "Sebastian Berhalter",
+      "href_perfil": "/sebastian-berhalter/profil/spieler/734761",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/2001 (25)",
+      "club_actual": "Vancouver Whitecaps FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "354792",
+      "nombre": "Cristian Roldán",
+      "href_perfil": "/cristian-roldan/profil/spieler/354792",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/06/1995 (31)",
+      "club_actual": "Seattle Sounders FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "370846",
+      "nombre": "Timothy Weah",
+      "href_perfil": "/timothy-weah/profil/spieler/370846",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "22/02/2000 (26)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "467437",
+      "nombre": "Malik Tillman",
+      "href_perfil": "/malik-tillman/profil/spieler/467437",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/2002 (24)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "393323",
+      "nombre": "Brenden Aaronson",
+      "href_perfil": "/brenden-aaronson/profil/spieler/393323",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/10/2000 (25)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "504215",
+      "nombre": "Giovanni Reyna",
+      "href_perfil": "/giovanni-reyna/profil/spieler/504215",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "13/11/2002 (23)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "993063",
+      "nombre": "Max Arfsten",
+      "href_perfil": "/max-arfsten/profil/spieler/993063",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/04/2001 (25)",
+      "club_actual": "Columbus Crew",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "315779",
+      "nombre": "Christian Pulisic",
+      "href_perfil": "/christian-pulisic/profil/spieler/315779",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "18/09/1998 (27)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "351505",
+      "nombre": "Álex Zendejas",
+      "href_perfil": "/alex-zendejas/profil/spieler/351505",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/02/1998 (28)",
+      "club_actual": "CF América",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "503770",
+      "nombre": "Folarin Balogun",
+      "href_perfil": "/folarin-balogun/profil/spieler/503770",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/07/2001 (24)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "627207",
+      "nombre": "Ricardo Pepi",
+      "href_perfil": "/ricardo-pepi/profil/spieler/627207",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/01/2003 (23)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "315291",
+      "nombre": "Haji Wright",
+      "href_perfil": "/haji-wright/profil/spieler/315291",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/03/1998 (28)",
+      "club_actual": "Coventry City",
+      "valor_mercado_raw": "€16.00m"
+    }
+  ]
+}

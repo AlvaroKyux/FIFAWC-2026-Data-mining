@@ -1,0 +1,231 @@
+{
+  "pais": "Guam",
+  "href_seleccion": "/guam/startseite/verein/17753",
+  "jugadores": [
+    {
+      "player_id": "1181784",
+      "nombre": "John-Michael Guidroz",
+      "href_perfil": "/john-michael-guidroz/profil/spieler/1181784",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/08/2004 (21)",
+      "club_actual": "West Florida Argonauts (Uni. of West Florida)",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1181795",
+      "nombre": "Josiah Jones",
+      "href_perfil": "/josiah-jones/profil/spieler/1181795",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/11/2006 (19)",
+      "club_actual": "Bank of Guam Strykers FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1181796",
+      "nombre": "Jacob Toves",
+      "href_perfil": "/jacob-toves/profil/spieler/1181796",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/11/2006 (19)",
+      "club_actual": "Red Wings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "678148",
+      "nombre": "Kyle Halehale",
+      "href_perfil": "/kyle-halehale/profil/spieler/678148",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/06/2002 (24)",
+      "club_actual": "Mercyhurst Lakers (Mercyhurst University)",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1056939",
+      "nombre": "Levi Buckwalter",
+      "href_perfil": "/levi-buckwalter/profil/spieler/1056939",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/12/2004 (21)",
+      "club_actual": "Red Wings FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "875853",
+      "nombre": "Morgan McKenna",
+      "href_perfil": "/morgan-mckenna/profil/spieler/875853",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/01/2003 (23)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181785",
+      "nombre": "Quincy Walker",
+      "href_perfil": "/quincy-walker/profil/spieler/1181785",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/09/2004 (21)",
+      "club_actual": "George Fox University",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "875855",
+      "nombre": "Leon Morimoto",
+      "href_perfil": "/leon-morimoto/profil/spieler/875855",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/12/2001 (24)",
+      "club_actual": "Hunters FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1181787",
+      "nombre": "Anthony Quidachay Jr.",
+      "href_perfil": "/anthony-quidachay-jr-/profil/spieler/1181787",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/06/2002 (24)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "906663",
+      "nombre": "Kai Pahl",
+      "href_perfil": "/kai-pahl/profil/spieler/906663",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/12/2004 (21)",
+      "club_actual": "SMU Saints (Saint Martin's University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "942227",
+      "nombre": "Alec Taitague",
+      "href_perfil": "/alec-taitague/profil/spieler/942227",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/05/2000 (26)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "906659",
+      "nombre": "Michael Castaneda",
+      "href_perfil": "/michael-castaneda/profil/spieler/906659",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "02/12/2001 (24)",
+      "club_actual": "Islanders FC (Guam)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181788",
+      "nombre": "Riku Meyar",
+      "href_perfil": "/riku-meyar/profil/spieler/1181788",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "22/06/2006 (20)",
+      "club_actual": "John F. Kennedy High School Islander",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529648",
+      "nombre": "Jacob Bargeron",
+      "href_perfil": "/jacob-bargeron/profil/spieler/1529648",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Yuta Kickers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1056944",
+      "nombre": "Elijah Ochoa",
+      "href_perfil": "/elijah-ochoa/profil/spieler/1056944",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/08/2003 (22)",
+      "club_actual": "SV Morlautern",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "198044",
+      "nombre": "Jason Cunliffe",
+      "href_perfil": "/jason-cunliffe/profil/spieler/198044",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/1983 (42)",
+      "club_actual": "FC Arizona",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "906662",
+      "nombre": "Nainoa Norton",
+      "href_perfil": "/nainoa-norton/profil/spieler/906662",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/2004 (22)",
+      "club_actual": "ONU Tigers (Olivet Nazarene University)",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1056946",
+      "nombre": "Shuntaro Suzuki",
+      "href_perfil": "/shuntaro-suzuki/profil/spieler/1056946",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/10/2005 (20)",
+      "club_actual": "Red Wings FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181790",
+      "nombre": "Oz Rocca",
+      "href_perfil": "/oz-rocca/profil/spieler/1181790",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/08/2004 (21)",
+      "club_actual": "PLNU Athletics",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "678107",
+      "nombre": "Joey Ciochetto",
+      "href_perfil": "/joey-ciochetto/profil/spieler/678107",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/10/1996 (29)",
+      "club_actual": "Irvine Zeta FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1193398",
+      "nombre": "Levi Berg",
+      "href_perfil": "/levi-berg/profil/spieler/1193398",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/04/2008 (18)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "875857",
+      "nombre": "Eduardo Pedemonte",
+      "href_perfil": "/eduardo-pedemonte/profil/spieler/875857",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "22/07/2003 (22)",
+      "club_actual": "CCSF Rams (City College of SF)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "942226",
+      "nombre": "James Gomez",
+      "href_perfil": "/james-gomez/profil/spieler/942226",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/09/2004 (21)",
+      "club_actual": "AMSG FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "906647",
+      "nombre": "E. J. Sablan",
+      "href_perfil": "/e-j-sablan/profil/spieler/906647",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "06/11/2004 (21)",
+      "club_actual": "WL Hilltoppers (West Liberty University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529647",
+      "nombre": "Justin Cruz",
+      "href_perfil": "/justin-cruz/profil/spieler/1529647",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Rovers FC Guam",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

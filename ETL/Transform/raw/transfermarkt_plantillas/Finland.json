@@ -1,0 +1,249 @@
+{
+  "pais": "Finland",
+  "href_seleccion": "/finnland/startseite/verein/3443",
+  "jugadores": [
+    {
+      "player_id": "48015",
+      "nombre": "Lukas Hradecky",
+      "href_perfil": "/lukas-hradecky/profil/spieler/48015",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/11/1989 (36)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "484838",
+      "nombre": "Viljami Sinisalo",
+      "href_perfil": "/viljami-sinisalo/profil/spieler/484838",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/10/2001 (24)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "131758",
+      "nombre": "Jesse Joronen",
+      "href_perfil": "/jesse-joronen/profil/spieler/131758",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/03/1993 (33)",
+      "club_actual": "Palermo FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "581326",
+      "nombre": "Ville Koski",
+      "href_perfil": "/ville-koski/profil/spieler/581326",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/01/2002 (24)",
+      "club_actual": "Deportivo Alavés",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "273064",
+      "nombre": "Miro Tenho",
+      "href_perfil": "/miro-tenho/profil/spieler/273064",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/04/1995 (31)",
+      "club_actual": "Djurgårdens IF",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "579761",
+      "nombre": "Tony Miettinen",
+      "href_perfil": "/tony-miettinen/profil/spieler/579761",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/09/2002 (23)",
+      "club_actual": "Mjällby AIF",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "807247",
+      "nombre": "Samuli Miettinen",
+      "href_perfil": "/samuli-miettinen/profil/spieler/807247",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/06/2004 (22)",
+      "club_actual": "NK Istra 1961",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "742407",
+      "nombre": "Ryan Mahuta",
+      "href_perfil": "/ryan-mahuta/profil/spieler/742407",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/07/2002 (23)",
+      "club_actual": "FK Pardubice",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "716897",
+      "nombre": "Rony Jansson",
+      "href_perfil": "/rony-jansson/profil/spieler/716897",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/01/2004 (22)",
+      "club_actual": "Kalmar FF",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "131745",
+      "nombre": "Nikolai Alho",
+      "href_perfil": "/nikolai-alho/profil/spieler/131745",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/03/1993 (33)",
+      "club_actual": "Asteras Aktor",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "592878",
+      "nombre": "Adam Markhiev",
+      "href_perfil": "/adam-markhiev/profil/spieler/592878",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/2002 (24)",
+      "club_actual": "1.FC Nuremberg",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "592379",
+      "nombre": "Matti Peltola",
+      "href_perfil": "/matti-peltola/profil/spieler/592379",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/07/2002 (23)",
+      "club_actual": "D.C. United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "564621",
+      "nombre": "Santeri Väänänen",
+      "href_perfil": "/santeri-vaananen/profil/spieler/564621",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "Rosenborg BK",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "563841",
+      "nombre": "Doni Arifi",
+      "href_perfil": "/doni-arifi/profil/spieler/563841",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/2002 (24)",
+      "club_actual": "SpVgg Greuther Fürth",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "679754",
+      "nombre": "Niklas Pyyhtiä",
+      "href_perfil": "/niklas-pyyhtia/profil/spieler/679754",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/09/2003 (22)",
+      "club_actual": "Modena FC",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "173573",
+      "nombre": "Robin Lod",
+      "href_perfil": "/robin-lod/profil/spieler/173573",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/04/1993 (33)",
+      "club_actual": "Chicago Fire FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "538642",
+      "nombre": "Juho Kilo",
+      "href_perfil": "/juho-kilo/profil/spieler/538642",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/06/2002 (24)",
+      "club_actual": "ADO Den Haag",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "433894",
+      "nombre": "Anssi Suhonen",
+      "href_perfil": "/anssi-suhonen/profil/spieler/433894",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/01/2001 (25)",
+      "club_actual": "Odense Boldklub",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "567309",
+      "nombre": "Naatan Skyttä",
+      "href_perfil": "/naatan-skytta/profil/spieler/567309",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/2002 (24)",
+      "club_actual": "1.FC Kaiserslautern",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "674054",
+      "nombre": "Leo Walta",
+      "href_perfil": "/leo-walta/profil/spieler/674054",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/06/2003 (23)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "448284",
+      "nombre": "Daniel Håkans",
+      "href_perfil": "/daniel-hakans/profil/spieler/448284",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/10/2000 (25)",
+      "club_actual": "Lech Poznan",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "646189",
+      "nombre": "Topi Keskinen",
+      "href_perfil": "/topi-keskinen/profil/spieler/646189",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/03/2003 (23)",
+      "club_actual": "Aberdeen FC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "674212",
+      "nombre": "Oiva Jukkola",
+      "href_perfil": "/oiva-jukkola/profil/spieler/674212",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/05/2002 (24)",
+      "club_actual": "Kairat Almaty",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "527896",
+      "nombre": "Oliver Antman",
+      "href_perfil": "/oliver-antman/profil/spieler/527896",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/08/2001 (24)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "679597",
+      "nombre": "Casper Terho",
+      "href_perfil": "/casper-terho/profil/spieler/679597",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/06/2003 (23)",
+      "club_actual": "Sparta Rotterdam",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "322990",
+      "nombre": "Benjamin Källman",
+      "href_perfil": "/benjamin-kallman/profil/spieler/322990",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/06/1998 (28)",
+      "club_actual": "Hannover 96",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "173491",
+      "nombre": "Joel Pohjanpalo",
+      "href_perfil": "/joel-pohjanpalo/profil/spieler/173491",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/09/1994 (31)",
+      "club_actual": "Palermo FC",
+      "valor_mercado_raw": "€3.50m"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "pais": "Latvia",
+  "href_seleccion": "/lettland/startseite/verein/3555",
+  "jugadores": [
+    {
+      "player_id": "444605",
+      "nombre": "Krisjanis Zviedris",
+      "href_perfil": "/krisjanis-zviedris/profil/spieler/444605",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/01/1997 (29)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "372115",
+      "nombre": "Rihards Matrevics",
+      "href_perfil": "/rihards-matrevics/profil/spieler/372115",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/03/1999 (27)",
+      "club_actual": "FC RFS",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "589588",
+      "nombre": "Frenks Orols",
+      "href_perfil": "/frenks-orols/profil/spieler/589588",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/06/2000 (26)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "271099",
+      "nombre": "Antonijs Cernomordijs",
+      "href_perfil": "/antonijs-cernomordijs/profil/spieler/271099",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/09/1996 (29)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "574117",
+      "nombre": "Deniss Melniks",
+      "href_perfil": "/deniss-melniks/profil/spieler/574117",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/09/2002 (23)",
+      "club_actual": "FK Auda",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "372106",
+      "nombre": "Roberts Veips",
+      "href_perfil": "/roberts-veips/profil/spieler/372106",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/02/2000 (26)",
+      "club_actual": "FC RFS",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "464581",
+      "nombre": "Ilja Korotkovs",
+      "href_perfil": "/ilja-korotkovs/profil/spieler/464581",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/05/2000 (26)",
+      "club_actual": "FK Liepaja",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "342151",
+      "nombre": "Daniels Balodis",
+      "href_perfil": "/daniels-balodis/profil/spieler/342151",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/06/1998 (28)",
+      "club_actual": "FC Tatran Presov",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "150284",
+      "nombre": "Vitalijs Jagodinskis",
+      "href_perfil": "/vitalijs-jagodinskis/profil/spieler/150284",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/1992 (34)",
+      "club_actual": "Visakha FC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "202659",
+      "nombre": "Andrejs Ciganiks",
+      "href_perfil": "/andrejs-ciganiks/profil/spieler/202659",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/04/1997 (29)",
+      "club_actual": "FC Luzern",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "230631",
+      "nombre": "Raivis Jurkovskis",
+      "href_perfil": "/raivis-jurkovskis/profil/spieler/230631",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/12/1996 (29)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "464591",
+      "nombre": "Maksims Tonisevs",
+      "href_perfil": "/maksims-tonisevs/profil/spieler/464591",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/05/2000 (26)",
+      "club_actual": "Riga FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "80315",
+      "nombre": "Roberts Savalnieks",
+      "href_perfil": "/roberts-savalnieks/profil/spieler/80315",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/02/1993 (33)",
+      "club_actual": "FC RFS",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "682321",
+      "nombre": "Kristers Penkevics",
+      "href_perfil": "/kristers-penkevics/profil/spieler/682321",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/01/2003 (23)",
+      "club_actual": "FC Zlin",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "462887",
+      "nombre": "Dmitrijs Zelenkovs",
+      "href_perfil": "/dmitrijs-zelenkovs/profil/spieler/462887",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/2000 (26)",
+      "club_actual": "FC RFS",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "372122",
+      "nombre": "Aleksejs Saveljevs",
+      "href_perfil": "/aleksejs-saveljevs/profil/spieler/372122",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/01/1999 (27)",
+      "club_actual": "Asia Talas",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "270651",
+      "nombre": "Eduards Emsis",
+      "href_perfil": "/eduards-emsis/profil/spieler/270651",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/1996 (30)",
+      "club_actual": "SK Super Nova",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "806953",
+      "nombre": "Glebs Zaleiko",
+      "href_perfil": "/glebs-zaleiko/profil/spieler/806953",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/06/2004 (22)",
+      "club_actual": "FS Jelgava",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "719174",
+      "nombre": "Lukass Vapne",
+      "href_perfil": "/lukass-vapne/profil/spieler/719174",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "31/08/2003 (22)",
+      "club_actual": "Sogndal IL",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "351581",
+      "nombre": "Martins Kigurs",
+      "href_perfil": "/martins-kigurs/profil/spieler/351581",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "31/03/1997 (29)",
+      "club_actual": "FC RFS",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "907917",
+      "nombre": "Kristaps Grabovskis",
+      "href_perfil": "/kristaps-grabovskis/profil/spieler/907917",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/06/2005 (21)",
+      "club_actual": "Boldklubben af 1893",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "517632",
+      "nombre": "Eduards Daskevics",
+      "href_perfil": "/eduards-daskevics/profil/spieler/517632",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2002 (23)",
+      "club_actual": "FK Auda",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "192710",
+      "nombre": "Vladislavs Gutkovskis",
+      "href_perfil": "/vladislavs-gutkovskis/profil/spieler/192710",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/04/1995 (31)",
+      "club_actual": "Arka Gdynia",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "405804",
+      "nombre": "Marko Regza",
+      "href_perfil": "/marko-regza/profil/spieler/405804",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/01/1999 (27)",
+      "club_actual": "FC Hradec Kralove",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "806955",
+      "nombre": "Dario Sits",
+      "href_perfil": "/dario-sits/profil/spieler/806955",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/02/2004 (22)",
+      "club_actual": "Atlético Madrileño",
+      "valor_mercado_raw": "€300k"
+    }
+  ]
+}

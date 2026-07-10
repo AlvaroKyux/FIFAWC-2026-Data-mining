@@ -1,0 +1,213 @@
+{
+  "pais": "Bhutan",
+  "href_seleccion": "/bhutan/startseite/verein/15920",
+  "jugadores": [
+    {
+      "player_id": "678139",
+      "nombre": "Gyeltshen Zangpo",
+      "href_perfil": "/gyeltshen-zangpo/profil/spieler/678139",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/07/1998 (27)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "364539",
+      "nombre": "Tshering Dendup",
+      "href_perfil": "/tshering-dendup/profil/spieler/364539",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/01/1992 (34)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1320470",
+      "nombre": "Lhocho Nima",
+      "href_perfil": "/lhocho-nima/profil/spieler/1320470",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/2005 (21)",
+      "club_actual": "Ugyen Academy FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1320540",
+      "nombre": "Kinzang Tashi Tobden",
+      "href_perfil": "/kinzang-tashi-tobden/profil/spieler/1320540",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "03/02/2005 (21)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "796620",
+      "nombre": "Tenzin Norbu",
+      "href_perfil": "/tenzin-norbu/profil/spieler/796620",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/05/2001 (25)",
+      "club_actual": "Balga SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1312357",
+      "nombre": "Yeshi Gyeltshen",
+      "href_perfil": "/yeshi-gyeltshen/profil/spieler/1312357",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/10/2001 (24)",
+      "club_actual": "Royal Thimphu College",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "364518",
+      "nombre": "Sonam Phuntsho",
+      "href_perfil": "/sonam-phuntsho/profil/spieler/364518",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/10/1995 (30)",
+      "club_actual": "Tensung FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "563536",
+      "nombre": "Kinley Penjor",
+      "href_perfil": "/kinley-penjor/profil/spieler/563536",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1996 (29)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1059953",
+      "nombre": "Bikash Pradhan",
+      "href_perfil": "/bikash-pradhan/profil/spieler/1059953",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/01/2004 (22)",
+      "club_actual": "Transport United",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "678143",
+      "nombre": "Phuntsho Jigme",
+      "href_perfil": "/phuntsho-jigme/profil/spieler/678143",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/09/1997 (28)",
+      "club_actual": "Drukpa FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1248036",
+      "nombre": "Jigman Seltob Dorji",
+      "href_perfil": "/jigman-seltob-dorji/profil/spieler/1248036",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "13/01/2006 (20)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1248002",
+      "nombre": "Jetsuen Dorji",
+      "href_perfil": "/jetsuen-dorji/profil/spieler/1248002",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/08/2006 (19)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "738627",
+      "nombre": "Tshelthrim Namgyel",
+      "href_perfil": "/tshelthrim-namgyel/profil/spieler/738627",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/2002 (23)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "498091",
+      "nombre": "Orgyen Wangchuk Tshering",
+      "href_perfil": "/orgyen-wangchuk-tshering/profil/spieler/498091",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/1999 (26)",
+      "club_actual": "Thimphu City FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1123688",
+      "nombre": "Pema Zangpo",
+      "href_perfil": "/pema-zangpo/profil/spieler/1123688",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/03/2005 (21)",
+      "club_actual": "Royal Thimphu College",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "364437",
+      "nombre": "Chencho Gyeltshen",
+      "href_perfil": "/chencho-gyeltshen/profil/spieler/364437",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/05/1996 (30)",
+      "club_actual": "Thimphu FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "564150",
+      "nombre": "Dawa Tshering",
+      "href_perfil": "/dawa-tshering/profil/spieler/564150",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/08/1998 (27)",
+      "club_actual": "Thimphu FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "668470",
+      "nombre": "Kinga Wangchuk",
+      "href_perfil": "/kinga-wangchuk/profil/spieler/668470",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/09/2002 (23)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "498085",
+      "nombre": "Nima Wangdi",
+      "href_perfil": "/nima-wangdi/profil/spieler/498085",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/12/1998 (27)",
+      "club_actual": "Paro FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1400237",
+      "nombre": "Thinley Yezer",
+      "href_perfil": "/thinley-yezer/profil/spieler/1400237",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/02/2008 (18)",
+      "club_actual": "BFF Academy FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1123689",
+      "nombre": "Kinzang Tenzin",
+      "href_perfil": "/kinzang-tenzin/profil/spieler/1123689",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/05/2005 (21)",
+      "club_actual": "Royal Thimphu College",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1320456",
+      "nombre": "Jigme Namgyel",
+      "href_perfil": "/jigme-namgyel/profil/spieler/1320456",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "13/08/2006 (19)",
+      "club_actual": "Royal Thimphu College",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1389152",
+      "nombre": "Rinzin Dorji",
+      "href_perfil": "/rinzin-dorji/profil/spieler/1389152",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/06/2007 (19)",
+      "club_actual": "BFF Academy FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

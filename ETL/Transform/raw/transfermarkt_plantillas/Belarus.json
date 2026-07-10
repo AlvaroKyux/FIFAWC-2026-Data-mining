@@ -1,0 +1,222 @@
+{
+  "pais": "Belarus",
+  "href_seleccion": "/belarus/startseite/verein/3450",
+  "jugadores": [
+    {
+      "player_id": "898127",
+      "nombre": "Fedor Lapoukhov",
+      "href_perfil": "/fedor-lapoukhov/profil/spieler/898127",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/06/2003 (23)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "344548",
+      "nombre": "Pavel Pavlyuchenko",
+      "href_perfil": "/pavel-pavlyuchenko/profil/spieler/344548",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/01/1998 (28)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "669274",
+      "nombre": "Mikhail Kozakevich",
+      "href_perfil": "/mikhail-kozakevich/profil/spieler/669274",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/05/2002 (24)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "471156",
+      "nombre": "Zakhar Volkov",
+      "href_perfil": "/zakhar-volkov/profil/spieler/471156",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/08/1997 (28)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "720932",
+      "nombre": "Egor Parkhomenko",
+      "href_perfil": "/egor-parkhomenko/profil/spieler/720932",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/01/2003 (23)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1039877",
+      "nombre": "Kirill Gomanov",
+      "href_perfil": "/kirill-gomanov/profil/spieler/1039877",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/02/2005 (21)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "662056",
+      "nombre": "Vladislav Kalinin",
+      "href_perfil": "/vladislav-kalinin/profil/spieler/662056",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/01/2002 (24)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "498015",
+      "nombre": "Kirill Pechenin",
+      "href_perfil": "/kirill-pechenin/profil/spieler/498015",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/03/1997 (29)",
+      "club_actual": "Krylya Sovetov Samara",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "395919",
+      "nombre": "Vladislav Malkevich",
+      "href_perfil": "/vladislav-malkevich/profil/spieler/395919",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "04/12/1999 (26)",
+      "club_actual": "Ural Yekaterinburg",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "444312",
+      "nombre": "Gleb Shevchenko",
+      "href_perfil": "/gleb-shevchenko/profil/spieler/444312",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/02/1999 (27)",
+      "club_actual": "Torpedo Moscow",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "293771",
+      "nombre": "Evgeniy Yablonskiy",
+      "href_perfil": "/evgeniy-yablonskiy/profil/spieler/293771",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/1995 (31)",
+      "club_actual": "Asteras Aktor",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "187532",
+      "nombre": "Aleksandr Selyava",
+      "href_perfil": "/aleksandr-selyava/profil/spieler/187532",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/05/1992 (34)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "140475",
+      "nombre": "Mikhail Kozlov",
+      "href_perfil": "/mikhail-kozlov/profil/spieler/140475",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/02/1990 (36)",
+      "club_actual": "Neman Grodno",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "533783",
+      "nombre": "Maks Ebong",
+      "href_perfil": "/maks-ebong/profil/spieler/533783",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/08/1999 (26)",
+      "club_actual": "CSKA Sofia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "607571",
+      "nombre": "Ruslan Lisakovich",
+      "href_perfil": "/ruslan-lisakovich/profil/spieler/607571",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/03/2002 (24)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "981852",
+      "nombre": "Artem Sokolovskiy",
+      "href_perfil": "/artem-sokolovskiy/profil/spieler/981852",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/07/2006 (19)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "203510",
+      "nombre": "Yuriy Kovalev",
+      "href_perfil": "/yuriy-kovalev/profil/spieler/203510",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "27/01/1993 (33)",
+      "club_actual": "Baltika Kaliningrad",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "351729",
+      "nombre": "Valeriy Gromyko",
+      "href_perfil": "/valeriy-gromyko/profil/spieler/351729",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/1997 (29)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "671677",
+      "nombre": "Maksim Kireev",
+      "href_perfil": "/maksim-kireev/profil/spieler/671677",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/07/2004 (21)",
+      "club_actual": "KV Mechelen",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "547528",
+      "nombre": "Artem Kontsevoy",
+      "href_perfil": "/artem-kontsevoy/profil/spieler/547528",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/08/1999 (26)",
+      "club_actual": "ML Vitebsk",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "946413",
+      "nombre": "Ruslan Myalkovskiy",
+      "href_perfil": "/ruslan-myalkovskiy/profil/spieler/946413",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/05/2006 (20)",
+      "club_actual": "Lokomotiv Moscow",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "898119",
+      "nombre": "Artem Shumanskiy",
+      "href_perfil": "/artem-shumanskiy/profil/spieler/898119",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/11/2004 (21)",
+      "club_actual": "Krylya Sovetov Samara",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "927919",
+      "nombre": "Karen Vardanyan",
+      "href_perfil": "/karen-vardanyan/profil/spieler/927919",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/09/2003 (22)",
+      "club_actual": "Dinamo Minsk",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "662415",
+      "nombre": "Vladislav Morozov",
+      "href_perfil": "/vladislav-morozov/profil/spieler/662415",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/10/2000 (25)",
+      "club_actual": "Kolding IF",
+      "valor_mercado_raw": "€400k"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Stepan Chaloupek",
+  "href_perfil": "/stepan-chaloupek/profil/spieler/944827",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "24",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,550'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "559'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "4",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "308'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "164'"
+    },
+    {
+      "competicion_raw": "ChNL",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "39'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "9",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,620'"
+    }
+  ]
+}

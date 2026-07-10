@@ -1,0 +1,42 @@
+{
+  "nombre": "Stopira",
+  "href_perfil": "/stopira/profil/spieler/80486",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal 2",
+      "partidos": "31",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,715'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "631'"
+    },
+    {
+      "competicion_raw": "Liga Portugal - Play-Off",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,526'"
+    }
+  ]
+}

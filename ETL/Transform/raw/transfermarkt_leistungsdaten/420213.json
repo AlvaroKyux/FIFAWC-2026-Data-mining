@@ -1,0 +1,78 @@
+{
+  "nombre": "Quinten Timber",
+  "href_perfil": "/quinten-timber/profil/spieler/420213",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "17",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,317'"
+    },
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,112'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "239'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "151'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "70'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,979'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Kevin De Bruyne",
+  "href_perfil": "/kevin-de-bruyne/profil/spieler/88755",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "18",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,169'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "191'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,360'"
+    }
+  ]
+}

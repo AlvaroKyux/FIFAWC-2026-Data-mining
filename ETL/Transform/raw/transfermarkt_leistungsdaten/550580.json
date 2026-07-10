@@ -1,0 +1,33 @@
+{
+  "nombre": "Shuto Machino",
+  "href_perfil": "/shuto-machino/profil/spieler/550580",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,063'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "163'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,226'"
+    }
+  ]
+}

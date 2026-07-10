@@ -1,0 +1,42 @@
+{
+  "nombre": "Christopher Bonsu Baah",
+  "href_perfil": "/christopher-bonsu-baah/profil/spieler/1119447",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "12",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,684'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "155'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "42'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "3",
+      "asistencias": "13",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,881'"
+    }
+  ]
+}

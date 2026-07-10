@@ -1,0 +1,231 @@
+{
+  "pais": "Syria",
+  "href_seleccion": "/syrien/startseite/verein/13674",
+  "jugadores": [
+    {
+      "player_id": "467179",
+      "nombre": "Ahmad Madanieh",
+      "href_perfil": "/ahmad-madanieh/profil/spieler/467179",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/01/1990 (36)",
+      "club_actual": "Homs Al-Fidaa SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "571671",
+      "nombre": "Shaher Al-Shakhir",
+      "href_perfil": "/shaher-al-shakhir/profil/spieler/571671",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/04/1993 (33)",
+      "club_actual": "Al-Ahli SC (Syria)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "814867",
+      "nombre": "Maksim Sarraf",
+      "href_perfil": "/maksim-sarraf/profil/spieler/814867",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/03/2005 (21)",
+      "club_actual": "Al-Karamah SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "537100",
+      "nombre": "Abdallah Al-Shami",
+      "href_perfil": "/abdallah-al-shami/profil/spieler/537100",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/10/1994 (31)",
+      "club_actual": "Al-Karamah SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "271686",
+      "nombre": "Omar Al-Midani",
+      "href_perfil": "/omar-al-midani/profil/spieler/271686",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/01/1994 (32)",
+      "club_actual": "Al-Salmiya SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "950400",
+      "nombre": "Ahmad Faqa",
+      "href_perfil": "/ahmad-faqa/profil/spieler/950400",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/01/2003 (23)",
+      "club_actual": "AIK",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "686013",
+      "nombre": "Abdal Razak Al-Mohamad",
+      "href_perfil": "/abdal-razak-al-mohamad/profil/spieler/686013",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/01/1995 (31)",
+      "club_actual": "Al-Ahli SC (Syria)",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "669446",
+      "nombre": "Ziad Ghanoum",
+      "href_perfil": "/ziad-ghanoum/profil/spieler/669446",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/06/2001 (25)",
+      "club_actual": "FC Stockholm Internazionale",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "560598",
+      "nombre": "Khaled Kourdoghli",
+      "href_perfil": "/khaled-kourdoghli/profil/spieler/560598",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/01/1997 (29)",
+      "club_actual": "Duhok SC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "504592",
+      "nombre": "Abdul Rahman Oues",
+      "href_perfil": "/abdul-rahman-oues/profil/spieler/504592",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/06/1998 (28)",
+      "club_actual": "Iraklis Thessaloniki",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "561165",
+      "nombre": "Zakaria Hanan",
+      "href_perfil": "/zakaria-hanan/profil/spieler/561165",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/08/1997 (28)",
+      "club_actual": "Al-Ahli SC (Syria)",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "561199",
+      "nombre": "Ahmed Al-Ashkar",
+      "href_perfil": "/ahmed-al-ashkar/profil/spieler/561199",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1996 (30)",
+      "club_actual": "Al-Ahli SC (Syria)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "561198",
+      "nombre": "Mohammad Anez",
+      "href_perfil": "/mohammad-anez/profil/spieler/561198",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/05/1995 (31)",
+      "club_actual": "Borneo FC Samarinda",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "554822",
+      "nombre": "Simon Amin",
+      "href_perfil": "/simon-amin/profil/spieler/554822",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/11/1997 (28)",
+      "club_actual": "Mosul SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1001805",
+      "nombre": "Mahmoud Nayef",
+      "href_perfil": "/mahmoud-nayef/profil/spieler/1001805",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2004 (22)",
+      "club_actual": "Al-Karamah SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "571182",
+      "nombre": "Elmar Abraham",
+      "href_perfil": "/elmar-abraham/profil/spieler/571182",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/03/1999 (27)",
+      "club_actual": "IFK Skövde",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "273431",
+      "nombre": "Mohammed Osman",
+      "href_perfil": "/mohammed-osman/profil/spieler/273431",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1994 (32)",
+      "club_actual": "Lamphun Warriors",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "876993",
+      "nombre": "Hasan Dahan",
+      "href_perfil": "/hasan-dahan/profil/spieler/876993",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/2003 (23)",
+      "club_actual": "Al-Ahli SC (Syria)",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "490811",
+      "nombre": "Ammar Ramadan",
+      "href_perfil": "/ammar-ramadan/profil/spieler/490811",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/01/2001 (25)",
+      "club_actual": "DAC Dunajska Streda",
+      "valor_mercado_raw": "€2.30m"
+    },
+    {
+      "player_id": "717420",
+      "nombre": "Mahmoud Al-Aswad",
+      "href_perfil": "/mahmoud-al-aswad/profil/spieler/717420",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/09/2003 (22)",
+      "club_actual": "Al-Salmiya SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "380348",
+      "nombre": "Mahmoud Al-Mawas",
+      "href_perfil": "/mahmoud-al-mawas/profil/spieler/380348",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/01/1993 (33)",
+      "club_actual": "Al-Shorta SC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "426325",
+      "nombre": "Pablo Sabbag",
+      "href_perfil": "/pablo-sabbag/profil/spieler/426325",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/06/1997 (29)",
+      "club_actual": "Al-Ahli SC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "720481",
+      "nombre": "Alaa Al-Dali",
+      "href_perfil": "/alaa-al-dali/profil/spieler/720481",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/01/1997 (29)",
+      "club_actual": "Mosul SC",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "1253641",
+      "nombre": "Mohammad Al-Mustafa",
+      "href_perfil": "/mohammad-al-mustafa/profil/spieler/1253641",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/01/2005 (21)",
+      "club_actual": "Al-Karamah SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1117563",
+      "nombre": "Mohamad Ahmad Al-Sheikh",
+      "href_perfil": "/mohamad-ahmad-al-sheikh/profil/spieler/1117563",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2006 (20)",
+      "club_actual": "Mikkelin Palloilijat",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

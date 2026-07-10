@@ -1,0 +1,33 @@
+{
+  "nombre": "Michael Boxall",
+  "href_perfil": "/michael-boxall/profil/spieler/81723",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    }
+  ]
+}

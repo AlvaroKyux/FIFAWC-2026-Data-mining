@@ -1,0 +1,60 @@
+{
+  "nombre": "Oswin Appollis",
+  "href_perfil": "/oswin-appollis/profil/spieler/673381",
+  "competiciones": [
+    {
+      "competicion_raw": "Betway Premiership",
+      "partidos": "30",
+      "goles": "9",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,170'"
+    },
+    {
+      "competicion_raw": "MTN8",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "233'"
+    },
+    {
+      "competicion_raw": "Carling Knockout",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "348'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Nedbank Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "119'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "12",
+      "asistencias": "9",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,140'"
+    }
+  ]
+}

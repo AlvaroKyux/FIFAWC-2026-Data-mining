@@ -1,0 +1,33 @@
+{
+  "nombre": "Yerry Mina",
+  "href_perfil": "/yerry-mina/profil/spieler/289446",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,153'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,243'"
+    }
+  ]
+}

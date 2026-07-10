@@ -1,0 +1,150 @@
+{
+  "pais": "Turks and Caicos Islands",
+  "href_seleccion": "/turks-und-caicosinseln/startseite/verein/17764",
+  "jugadores": [
+    {
+      "player_id": "661379",
+      "nombre": "Sebastian Turbyfield",
+      "href_perfil": "/sebastian-turbyfield/profil/spieler/661379",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/12/2002 (23)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022686",
+      "nombre": "Peterson St. Fleurant",
+      "href_perfil": "/peterson-st-fleurant/profil/spieler/1022686",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/04/2007 (19)",
+      "club_actual": "SWA Sharks FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181879",
+      "nombre": "Keniel Clervil",
+      "href_perfil": "/keniel-clervil/profil/spieler/1181879",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "23/06/2005 (21)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312567",
+      "nombre": "Anios Jean",
+      "href_perfil": "/anios-jean/profil/spieler/1312567",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "01/05/2008 (18)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022685",
+      "nombre": "Hency Gédéon",
+      "href_perfil": "/hency-gedeon/profil/spieler/1022685",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "09/06/2006 (20)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312569",
+      "nombre": "Joshua Busuttil",
+      "href_perfil": "/joshua-busuttil/profil/spieler/1312569",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "11/04/2009 (17)",
+      "club_actual": "Cheshire Hall",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "614330",
+      "nombre": "Ledson Jerome",
+      "href_perfil": "/ledson-jerome/profil/spieler/614330",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/12/1998 (27)",
+      "club_actual": "SWA Sharks FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "574923",
+      "nombre": "Jeff Beljour",
+      "href_perfil": "/jeff-beljour/profil/spieler/574923",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/04/1998 (28)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "705185",
+      "nombre": "Christopher Louisy",
+      "href_perfil": "/christopher-louisy/profil/spieler/705185",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "06/04/2005 (21)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239162",
+      "nombre": "Kyle Belizaire",
+      "href_perfil": "/kyle-belizaire/profil/spieler/1239162",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/2006 (20)",
+      "club_actual": "Cavalier FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239167",
+      "nombre": "Wepsdel Saintilus",
+      "href_perfil": "/wepsdel-saintilus/profil/spieler/1239167",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "13/03/2008 (18)",
+      "club_actual": "Cheshire Hall",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1316672",
+      "nombre": "Idelin Gardiner",
+      "href_perfil": "/idelin-gardiner/profil/spieler/1316672",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "07/12/2010 (15)",
+      "club_actual": "Cheshire Hall",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "877815",
+      "nombre": "Callum Park",
+      "href_perfil": "/callum-park/profil/spieler/877815",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "06/12/2004 (21)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "78283",
+      "nombre": "Billy Forbes",
+      "href_perfil": "/billy-forbes/profil/spieler/78283",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/12/1990 (35)",
+      "club_actual": "SWA Sharks FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1123045",
+      "nombre": "Emmanuel Martin",
+      "href_perfil": "/emmanuel-martin/profil/spieler/1123045",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "26/05/2007 (19)",
+      "club_actual": "AFC Academy B (Academy Eagles)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1008513",
+      "nombre": "Junior Paul",
+      "href_perfil": "/junior-paul/profil/spieler/1008513",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "14/06/2001 (25)",
+      "club_actual": "AFC Academy (Academy Jaguars)",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

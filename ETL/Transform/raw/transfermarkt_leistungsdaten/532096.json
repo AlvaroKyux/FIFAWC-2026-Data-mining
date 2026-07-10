@@ -1,0 +1,33 @@
+{
+  "nombre": "CJ dos Santos",
+  "href_perfil": "/cj-dos-santos/profil/spieler/532096",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "2",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "2",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    }
+  ]
+}

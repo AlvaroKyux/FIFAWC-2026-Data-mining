@@ -1,0 +1,231 @@
+{
+  "pais": "Slovenia",
+  "href_seleccion": "/slowenien/startseite/verein/3588",
+  "jugadores": [
+    {
+      "player_id": "121483",
+      "nombre": "Jan Oblak",
+      "href_perfil": "/jan-oblak/profil/spieler/121483",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/01/1993 (33)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "371863",
+      "nombre": "Matevz Vidovsek",
+      "href_perfil": "/matevz-vidovsek/profil/spieler/371863",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/10/1999 (26)",
+      "club_actual": "NK Olimpija Ljubljana",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "605757",
+      "nombre": "Zan-Luk Leban",
+      "href_perfil": "/zan-luk-leban/profil/spieler/605757",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/12/2002 (23)",
+      "club_actual": "NK Celje",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "371851",
+      "nombre": "Jaka Bijol",
+      "href_perfil": "/jaka-bijol/profil/spieler/371851",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1999 (27)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "371856",
+      "nombre": "Vanja Drkusic",
+      "href_perfil": "/vanja-drkusic/profil/spieler/371856",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/10/1999 (26)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "371864",
+      "nombre": "David Brekalo",
+      "href_perfil": "/david-brekalo/profil/spieler/371864",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1998 (27)",
+      "club_actual": "Orlando City SC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "469709",
+      "nombre": "David Zec",
+      "href_perfil": "/david-zec/profil/spieler/469709",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/01/2000 (26)",
+      "club_actual": "Holstein Kiel",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "660544",
+      "nombre": "Marcel Ratnik",
+      "href_perfil": "/marcel-ratnik/profil/spieler/660544",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/12/2003 (22)",
+      "club_actual": "Al-Ain FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "722375",
+      "nombre": "Srdjan Kuzmic",
+      "href_perfil": "/srdjan-kuzmic/profil/spieler/722375",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/01/2004 (22)",
+      "club_actual": "Viborg FF",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "487605",
+      "nombre": "Jost Urbancic",
+      "href_perfil": "/jost-urbancic/profil/spieler/487605",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/04/2001 (25)",
+      "club_actual": "NK Olimpija Ljubljana",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "174522",
+      "nombre": "Erik Janza",
+      "href_perfil": "/erik-janza/profil/spieler/174522",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/06/1993 (33)",
+      "club_actual": "Górnik Zabrze",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "507403",
+      "nombre": "Zan Karnicnik",
+      "href_perfil": "/zan-karnicnik/profil/spieler/507403",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/09/1994 (31)",
+      "club_actual": "NK Celje",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "469695",
+      "nombre": "Tamar Svetlin",
+      "href_perfil": "/tamar-svetlin/profil/spieler/469695",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/07/2001 (24)",
+      "club_actual": "Korona Kielce",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "660545",
+      "nombre": "Adrian Zeljkovic",
+      "href_perfil": "/adrian-zeljkovic/profil/spieler/660545",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "19/08/2002 (23)",
+      "club_actual": "MTK Budapest",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "401394",
+      "nombre": "Adam Gnezda Cerin",
+      "href_perfil": "/adam-gnezda-cerin/profil/spieler/401394",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/07/1999 (26)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "268429",
+      "nombre": "Sandi Lovrić",
+      "href_perfil": "/sandi-lovric/profil/spieler/268429",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/03/1998 (28)",
+      "club_actual": "Hellas Verona",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "603368",
+      "nombre": "Svit Seslar",
+      "href_perfil": "/svit-seslar/profil/spieler/603368",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "09/01/2002 (24)",
+      "club_actual": "NK Celje",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "1191293",
+      "nombre": "Tian Nai Koren",
+      "href_perfil": "/tian-nai-koren/profil/spieler/1191293",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "31/07/2009 (16)",
+      "club_actual": "Club NXT",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "421758",
+      "nombre": "Danijel Sturm",
+      "href_perfil": "/danijel-sturm/profil/spieler/421758",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/01/1999 (27)",
+      "club_actual": "SK Sigma Olomouc",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "708186",
+      "nombre": "Tjas Begic",
+      "href_perfil": "/tjas-begic/profil/spieler/708186",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/06/2003 (22)",
+      "club_actual": "UC Sampdoria",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "188180",
+      "nombre": "Benjamin Verbic",
+      "href_perfil": "/benjamin-verbic/profil/spieler/188180",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/11/1993 (32)",
+      "club_actual": "Levadiakos",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "487606",
+      "nombre": "Aljosa Matko",
+      "href_perfil": "/aljosa-matko/profil/spieler/487606",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "29/03/2000 (26)",
+      "club_actual": "Újpest FC",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "506942",
+      "nombre": "Zan Vipotnik",
+      "href_perfil": "/zan-vipotnik/profil/spieler/506942",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/03/2002 (24)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "179860",
+      "nombre": "Andraz Sporar",
+      "href_perfil": "/andraz-sporar/profil/spieler/179860",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/02/1994 (32)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "481244",
+      "nombre": "Ester Sokler",
+      "href_perfil": "/ester-sokler/profil/spieler/481244",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/06/1999 (27)",
+      "club_actual": "FK Radnicki 1923 Kragujevac",
+      "valor_mercado_raw": "€1.50m"
+    }
+  ]
+}

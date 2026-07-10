@@ -1,0 +1,60 @@
+{
+  "nombre": "Pedro Vite",
+  "href_perfil": "/pedro-vite/profil/spieler/659806",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,405'"
+    },
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "907'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "173'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,070'"
+    }
+  ]
+}

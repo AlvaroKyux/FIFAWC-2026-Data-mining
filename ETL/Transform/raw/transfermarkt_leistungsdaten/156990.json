@@ -1,0 +1,33 @@
+{
+  "nombre": "Marco Friedl",
+  "href_perfil": "/marco-friedl/profil/spieler/156990",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,549'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,639'"
+    }
+  ]
+}

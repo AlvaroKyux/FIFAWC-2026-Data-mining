@@ -1,0 +1,249 @@
+{
+  "pais": "Malta",
+  "href_seleccion": "/malta/startseite/verein/3587",
+  "jugadores": [
+    {
+      "player_id": "497103",
+      "nombre": "Rashed Al-Tumi",
+      "href_perfil": "/rashed-al-tumi/profil/spieler/497103",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/10/2000 (25)",
+      "club_actual": "Sliema Wanderers",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "125033",
+      "nombre": "Henry Bonello",
+      "href_perfil": "/henry-bonello/profil/spieler/125033",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/10/1988 (37)",
+      "club_actual": "Hamrun Spartans",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1026944",
+      "nombre": "James Sissons",
+      "href_perfil": "/james-sissons/profil/spieler/1026944",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/03/2007 (19)",
+      "club_actual": "Chesterfield FC U18",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "324369",
+      "nombre": "Jean Borg",
+      "href_perfil": "/jean-borg/profil/spieler/324369",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/01/1998 (28)",
+      "club_actual": "Sliema Wanderers",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "699249",
+      "nombre": "Gabriel Mentz",
+      "href_perfil": "/gabriel-mentz/profil/spieler/699249",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/08/1998 (27)",
+      "club_actual": "Gzira United FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "411964",
+      "nombre": "Kurt Shaw",
+      "href_perfil": "/kurt-shaw/profil/spieler/411964",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/04/1999 (27)",
+      "club_actual": "Hibernians FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "198722",
+      "nombre": "Zach Muscat",
+      "href_perfil": "/zach-muscat/profil/spieler/198722",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/08/1993 (32)",
+      "club_actual": "GD Chaves",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "98853",
+      "nombre": "Enrico Pepe",
+      "href_perfil": "/enrico-pepe/profil/spieler/98853",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1989 (36)",
+      "club_actual": "Marsaxlokk FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "324366",
+      "nombre": "Myles Beerman",
+      "href_perfil": "/myles-beerman/profil/spieler/324366",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/03/1999 (27)",
+      "club_actual": "Floriana FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "547743",
+      "nombre": "Carlo Zammit Lonardelli",
+      "href_perfil": "/carlo-zammit-lonardelli/profil/spieler/547743",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "29/04/2001 (25)",
+      "club_actual": "Floriana FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "569829",
+      "nombre": "Alejandro Garzia",
+      "href_perfil": "/alejandro-garzia/profil/spieler/569829",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/03/2002 (24)",
+      "club_actual": "Birkirkara FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "309472",
+      "nombre": "Matthew Guillaumier",
+      "href_perfil": "/matthew-guillaumier/profil/spieler/309472",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/04/1998 (28)",
+      "club_actual": "Hamrun Spartans",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "998560",
+      "nombre": "Kean Scicluna",
+      "href_perfil": "/kean-scicluna/profil/spieler/998560",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/09/2006 (19)",
+      "club_actual": "Zabbar St. Patrick FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "998609",
+      "nombre": "Jake Azzopardi",
+      "href_perfil": "/jake-azzopardi/profil/spieler/998609",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "13/02/2006 (20)",
+      "club_actual": "Valletta FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "409153",
+      "nombre": "Teddy Teuma",
+      "href_perfil": "/teddy-teuma/profil/spieler/409153",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/09/1993 (32)",
+      "club_actual": "Standard Liège",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "273689",
+      "nombre": "Jake Grech",
+      "href_perfil": "/jake-grech/profil/spieler/273689",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/11/1997 (28)",
+      "club_actual": "Floriana FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "482776",
+      "nombre": "Brandon Paiber",
+      "href_perfil": "/brandon-paiber/profil/spieler/482776",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/06/1995 (31)",
+      "club_actual": "Valletta FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "998556",
+      "nombre": "Keyon Ewurum",
+      "href_perfil": "/keyon-ewurum/profil/spieler/998556",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/04/2007 (19)",
+      "club_actual": "Torino Primavera",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "639058",
+      "nombre": "Ilyas Chouaref",
+      "href_perfil": "/ilyas-chouaref/profil/spieler/639058",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/12/2000 (25)",
+      "club_actual": "FC Sion",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "458816",
+      "nombre": "Kevin Cannavò",
+      "href_perfil": "/kevin-cannavo/profil/spieler/458816",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/02/2000 (26)",
+      "club_actual": "Cosenza Calcio",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "342226",
+      "nombre": "Irvin Cardona",
+      "href_perfil": "/irvin-cardona/profil/spieler/342226",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/08/1997 (28)",
+      "club_actual": "AS Saint-Étienne",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "324380",
+      "nombre": "Joseph Mbong",
+      "href_perfil": "/joseph-mbong/profil/spieler/324380",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/07/1997 (28)",
+      "club_actual": "Hamrun Spartans",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "415273",
+      "nombre": "Trent Buhagiar",
+      "href_perfil": "/trent-buhagiar/profil/spieler/415273",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/02/1998 (28)",
+      "club_actual": "BG Tampines Rovers",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "547744",
+      "nombre": "Paul Mbong",
+      "href_perfil": "/paul-mbong/profil/spieler/547744",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/09/2001 (24)",
+      "club_actual": "Floriana FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "260097",
+      "nombre": "Juan Corbalan",
+      "href_perfil": "/juan-corbalan/profil/spieler/260097",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/03/1997 (29)",
+      "club_actual": "Marsaxlokk FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "491026",
+      "nombre": "Alexander Satariano",
+      "href_perfil": "/alexander-satariano/profil/spieler/491026",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/10/2001 (24)",
+      "club_actual": "Athens Kallithea",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "654673",
+      "nombre": "Andrea Zammit",
+      "href_perfil": "/andrea-zammit/profil/spieler/654673",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/04/2003 (23)",
+      "club_actual": "Valletta FC",
+      "valor_mercado_raw": "€250k"
+    }
+  ]
+}

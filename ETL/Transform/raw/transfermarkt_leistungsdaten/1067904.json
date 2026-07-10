@@ -1,0 +1,33 @@
+{
+  "nombre": "Bazoumana Touré",
+  "href_perfil": "/bazoumana-toure/profil/spieler/1067904",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "12",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,326'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "199'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "5",
+      "asistencias": "12",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,525'"
+    }
+  ]
+}

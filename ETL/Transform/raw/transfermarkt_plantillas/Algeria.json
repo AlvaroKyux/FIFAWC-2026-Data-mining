@@ -1,0 +1,240 @@
+{
+  "pais": "Algeria",
+  "href_seleccion": "/algerien/startseite/verein/3614",
+  "jugadores": [
+    {
+      "player_id": "283489",
+      "nombre": "Luca Zidane",
+      "href_perfil": "/luca-zidane/profil/spieler/283489",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/05/1998 (28)",
+      "club_actual": "Granada CF",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "437982",
+      "nombre": "Oussama Benbout",
+      "href_perfil": "/oussama-benbout/profil/spieler/437982",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/10/1994 (31)",
+      "club_actual": "USM Alger",
+      "valor_mercado_raw": "€850k"
+    },
+    {
+      "player_id": "534398",
+      "nombre": "Melvin Mastil",
+      "href_perfil": "/melvin-mastil/profil/spieler/534398",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/02/2000 (26)",
+      "club_actual": "FC Stade Nyonnais",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "284732",
+      "nombre": "Ramy Bensebaini",
+      "href_perfil": "/ramy-bensebaini/profil/spieler/284732",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/04/1995 (31)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "668167",
+      "nombre": "Samir Chergui",
+      "href_perfil": "/samir-chergui/profil/spieler/668167",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/02/1999 (27)",
+      "club_actual": "Paris FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "625142",
+      "nombre": "Zineddine Belaid",
+      "href_perfil": "/zineddine-belaid/profil/spieler/625142",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/03/1999 (27)",
+      "club_actual": "JS Kabylie",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "592396",
+      "nombre": "Mohamed Amine Tougai",
+      "href_perfil": "/mohamed-amine-tougai/profil/spieler/592396",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/01/2000 (26)",
+      "club_actual": "Esperance Tunis",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "80293",
+      "nombre": "Aïssa Mandi",
+      "href_perfil": "/aissa-mandi/profil/spieler/80293",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1991 (34)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "949929",
+      "nombre": "Achref Abada",
+      "href_perfil": "/achref-abada/profil/spieler/949929",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/06/1999 (27)",
+      "club_actual": "USM Alger",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "578391",
+      "nombre": "Rayan Aït-Nouri",
+      "href_perfil": "/rayan-ait-nouri/profil/spieler/578391",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/06/2001 (25)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "750903",
+      "nombre": "Jaouen Hadjam",
+      "href_perfil": "/jaouen-hadjam/profil/spieler/750903",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/03/2003 (23)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "864306",
+      "nombre": "Rafik Belghali",
+      "href_perfil": "/rafik-belghali/profil/spieler/864306",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/06/2002 (24)",
+      "club_actual": "Hellas Verona",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "416660",
+      "nombre": "Ramiz Zerrouki",
+      "href_perfil": "/ramiz-zerrouki/profil/spieler/416660",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "FC Twente Enschede",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "245537",
+      "nombre": "Nabil Bentaleb",
+      "href_perfil": "/nabil-bentaleb/profil/spieler/245537",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/11/1994 (31)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "560593",
+      "nombre": "Hicham Boudaoui",
+      "href_perfil": "/hicham-boudaoui/profil/spieler/560593",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/09/1999 (26)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "748445",
+      "nombre": "Yassine Titraoui",
+      "href_perfil": "/yassine-titraoui/profil/spieler/748445",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/07/2003 (22)",
+      "club_actual": "Royal Charleroi SC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "905011",
+      "nombre": "Ibrahim Maza",
+      "href_perfil": "/ibrahim-maza/profil/spieler/905011",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/11/2005 (20)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "855015",
+      "nombre": "Farès Chaïbi",
+      "href_perfil": "/fares-chaibi/profil/spieler/855015",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/11/2002 (23)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "395693",
+      "nombre": "Houssem Aouar",
+      "href_perfil": "/houssem-aouar/profil/spieler/395693",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/06/1998 (27)",
+      "club_actual": "Al-Ittihad Club",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "748443",
+      "nombre": "Adil Boulbina",
+      "href_perfil": "/adil-boulbina/profil/spieler/748443",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/05/2003 (23)",
+      "club_actual": "Al-Duhail SC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "917911",
+      "nombre": "Anis Hadj Moussa",
+      "href_perfil": "/anis-hadj-moussa/profil/spieler/917911",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/02/2002 (24)",
+      "club_actual": "Feyenoord Rotterdam",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "888738",
+      "nombre": "Farès Ghedjemis",
+      "href_perfil": "/fares-ghedjemis/profil/spieler/888738",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/09/2002 (23)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "171424",
+      "nombre": "Riyad Mahrez",
+      "href_perfil": "/riyad-mahrez/profil/spieler/171424",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/02/1991 (35)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "418659",
+      "nombre": "Amine Gouiri",
+      "href_perfil": "/amine-gouiri/profil/spieler/418659",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/02/2000 (26)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "746910",
+      "nombre": "Mohamed Amoura",
+      "href_perfil": "/mohamed-amoura/profil/spieler/746910",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/05/2000 (26)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "840254",
+      "nombre": "Nadhir Benbouali",
+      "href_perfil": "/nadhir-benbouali/profil/spieler/840254",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/04/2000 (26)",
+      "club_actual": "ETO FC",
+      "valor_mercado_raw": "€1.20m"
+    }
+  ]
+}

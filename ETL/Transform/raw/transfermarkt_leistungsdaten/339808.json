@@ -1,0 +1,42 @@
+{
+  "nombre": "Theo Hernández",
+  "href_perfil": "/theo-hernandez/profil/spieler/339808",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,744'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "733'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "330'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "9",
+      "asistencias": "6",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,807'"
+    }
+  ]
+}

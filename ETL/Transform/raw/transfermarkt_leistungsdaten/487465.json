@@ -1,0 +1,51 @@
+{
+  "nombre": "Pedro Neto",
+  "href_perfil": "/pedro-neto/profil/spieler/487465",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "34",
+      "goles": "5",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "2,643'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "614'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "6",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "362'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "52",
+      "goles": "10",
+      "asistencias": "10",
+      "amarillas": "6",
+      "rojas": "1",
+      "minutos_raw": "3,767'"
+    }
+  ]
+}

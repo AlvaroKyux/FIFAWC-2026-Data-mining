@@ -1,0 +1,42 @@
+{
+  "nombre": "Francis de Vries",
+  "href_perfil": "/francis-de-vries/profil/spieler/207061",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "22",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,980'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "43'"
+    },
+    {
+      "competicion_raw": "OFC Pro League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,023'"
+    }
+  ]
+}

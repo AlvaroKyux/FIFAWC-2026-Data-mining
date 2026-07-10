@@ -1,0 +1,213 @@
+{
+  "pais": "Ethiopia",
+  "href_seleccion": "/athiopien/startseite/verein/13941",
+  "jugadores": [
+    {
+      "player_id": "751028",
+      "nombre": "Seid Habtamu",
+      "href_perfil": "/seid-habtamu/profil/spieler/751028",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/04/1998 (28)",
+      "club_actual": "Hawasa Ketema SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1123053",
+      "nombre": "Abubeker Nuri",
+      "href_perfil": "/abubeker-nuri/profil/spieler/1123053",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/06/1999 (27)",
+      "club_actual": "Ethiopian Insurance Corporation SA",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "511995",
+      "nombre": "Frew Getahun",
+      "href_perfil": "/frew-getahun/profil/spieler/511995",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/06/1992 (34)",
+      "club_actual": "Diredawa Ketema SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "429575",
+      "nombre": "Yared Baye",
+      "href_perfil": "/yared-baye/profil/spieler/429575",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/01/1995 (31)",
+      "club_actual": "Sidama Bunna FC ",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1180962",
+      "nombre": "Ramkel James",
+      "href_perfil": "/ramkel-james/profil/spieler/1180962",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/07/2000 (25)",
+      "club_actual": "Ethiopia Bunna SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "928258",
+      "nombre": "Mignot Debebe",
+      "href_perfil": "/mignot-debebe/profil/spieler/928258",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/09/1995 (30)",
+      "club_actual": "Fasil Kenema SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1296353",
+      "nombre": "Girum Hagos",
+      "href_perfil": "/girum-hagos/profil/spieler/1296353",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/01/2001 (25)",
+      "club_actual": "Mechal SC ",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1199943",
+      "nombre": "Yared Kassaye",
+      "href_perfil": "/yared-kassaye/profil/spieler/1199943",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "16/06/2002 (24)",
+      "club_actual": "Ethiopian Insurance Corporation SA",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "552622",
+      "nombre": "Asrat Tonjo",
+      "href_perfil": "/asrat-tonjo/profil/spieler/552622",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/11/1996 (29)",
+      "club_actual": "Diredawa Ketema SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1334383",
+      "nombre": "Abdulselam Yesuf",
+      "href_perfil": "/abdulselam-yesuf/profil/spieler/1334383",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2002 (23)",
+      "club_actual": "Diredawa Ketema SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "934713",
+      "nombre": "Alembirhan Yigzaw",
+      "href_perfil": "/alembirhan-yigzaw/profil/spieler/934713",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/01/2001 (25)",
+      "club_actual": "Mechal SC ",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "376684",
+      "nombre": "Gathouch Panom",
+      "href_perfil": "/gathouch-panom/profil/spieler/376684",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/1994 (32)",
+      "club_actual": "Al-Arabi SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1286526",
+      "nombre": "Biruk Endale",
+      "href_perfil": "/biruk-endale/profil/spieler/1286526",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/10/2000 (25)",
+      "club_actual": "Wolwalo Adigrat University FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "870550",
+      "nombre": "Habtamu Tekeste",
+      "href_perfil": "/habtamu-tekeste/profil/spieler/870550",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/09/1998 (27)",
+      "club_actual": "Fasil Kenema SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "555456",
+      "nombre": "Kenean Markneh",
+      "href_perfil": "/kenean-markneh/profil/spieler/555456",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/03/1997 (29)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1257536",
+      "nombre": "Biniam Ayiten",
+      "href_perfil": "/biniam-ayiten/profil/spieler/1257536",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "31/03/2003 (23)",
+      "club_actual": "Adama Ketema FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1297268",
+      "nombre": "Buzuayehu Seife",
+      "href_perfil": "/buzuayehu-seife/profil/spieler/1297268",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/08/1995 (30)",
+      "club_actual": "Adama Ketema FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "755804",
+      "nombre": "Cherinet Gugsa",
+      "href_perfil": "/cherinet-gugsa/profil/spieler/755804",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/09/1999 (26)",
+      "club_actual": "Mechal SC ",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1147620",
+      "nombre": "Wogene Gezahegn",
+      "href_perfil": "/wogene-gezahegn/profil/spieler/1147620",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/06/2004 (22)",
+      "club_actual": "Ethiopian Insurance Corporation SA",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "703167",
+      "nombre": "Mesfin Tafesse",
+      "href_perfil": "/mesfin-tafesse/profil/spieler/703167",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/11/2001 (24)",
+      "club_actual": "Sidama Bunna FC ",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "426807",
+      "nombre": "Abubeker Sani",
+      "href_perfil": "/abubeker-sani/profil/spieler/426807",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/11/1997 (28)",
+      "club_actual": "Adama Ketema FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1482793",
+      "nombre": "Kebe Bezuneh",
+      "href_perfil": "/kebe-bezuneh/profil/spieler/1482793",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Negele Arsi Town FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "555448",
+      "nombre": "Abel Yalew",
+      "href_perfil": "/abel-yalew/profil/spieler/555448",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/03/1996 (30)",
+      "club_actual": "Sidama Bunna FC ",
+      "valor_mercado_raw": "€125k"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Saud Abdulhamid",
+  "href_perfil": "/saud-abdulhamid/profil/spieler/631927",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,345'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "493'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "3",
+      "asistencias": "8",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,838'"
+    }
+  ]
+}

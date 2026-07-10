@@ -1,0 +1,51 @@
+{
+  "nombre": "Jhon Lucumí",
+  "href_perfil": "/jhon-lucumi/profil/spieler/413565",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,287'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "930'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "170'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,567'"
+    }
+  ]
+}

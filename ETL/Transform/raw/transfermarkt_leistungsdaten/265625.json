@@ -1,0 +1,33 @@
+{
+  "nombre": "Ajdin Hrustic",
+  "href_perfil": "/ajdin-hrustic/profil/spieler/265625",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,222'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "300'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "7",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,522'"
+    }
+  ]
+}

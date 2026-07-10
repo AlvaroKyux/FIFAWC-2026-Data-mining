@@ -1,0 +1,42 @@
+{
+  "nombre": "Salem Al-Dawsari",
+  "href_perfil": "/salem-al-dawsari/profil/spieler/195332",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "26",
+      "goles": "8",
+      "asistencias": "10",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,889'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "271'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "287'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "10",
+      "asistencias": "10",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,447'"
+    }
+  ]
+}

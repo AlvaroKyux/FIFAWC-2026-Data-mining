@@ -1,0 +1,42 @@
+{
+  "nombre": "Awer Mabil",
+  "href_perfil": "/awer-mabil/profil/spieler/255729",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga2",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,721'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "85'"
+    },
+    {
+      "competicion_raw": "Promoción a LaLiga",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "3",
+      "asistencias": "6",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,806'"
+    }
+  ]
+}

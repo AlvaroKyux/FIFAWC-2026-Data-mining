@@ -1,0 +1,42 @@
+{
+  "nombre": "Ayyoub Bouaddi",
+  "href_perfil": "/ayyoub-bouaddi/profil/spieler/1097139",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,328'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "666'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "159'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,153'"
+    }
+  ]
+}

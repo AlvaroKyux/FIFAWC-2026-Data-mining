@@ -1,0 +1,42 @@
+{
+  "nombre": "Ibrahim Bayesh",
+  "href_perfil": "/ibrahim-bayesh/profil/spieler/560957",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,026'"
+    },
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "592'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "1,681'"
+    }
+  ]
+}

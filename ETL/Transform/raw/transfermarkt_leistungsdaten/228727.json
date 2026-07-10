@@ -1,0 +1,51 @@
+{
+  "nombre": "Pedro Miguel",
+  "href_perfil": "/pedro-miguel/profil/spieler/228727",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "18",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,476'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "672'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,463'"
+    }
+  ]
+}

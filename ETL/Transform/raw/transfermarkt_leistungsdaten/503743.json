@@ -1,0 +1,51 @@
+{
+  "nombre": "Morgan Rogers",
+  "href_perfil": "/morgan-rogers/profil/spieler/503743",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "37",
+      "goles": "10",
+      "asistencias": "7",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,285'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "15",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,089'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "167'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "23'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "55",
+      "goles": "14",
+      "asistencias": "12",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "4,564'"
+    }
+  ]
+}

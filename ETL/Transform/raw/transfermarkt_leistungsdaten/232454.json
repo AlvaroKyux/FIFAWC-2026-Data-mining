@@ -1,0 +1,51 @@
+{
+  "nombre": "Nadiem Amiri",
+  "href_perfil": "/nadiem-amiri/profil/spieler/232454",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "26",
+      "goles": "12",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,092'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "395'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "169'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "17",
+      "asistencias": "4",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,836'"
+    }
+  ]
+}

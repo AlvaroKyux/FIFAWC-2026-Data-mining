@@ -1,0 +1,42 @@
+{
+  "nombre": "Igor Matanovic",
+  "href_perfil": "/igor-matanovic/profil/spieler/605268",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "31",
+      "goles": "11",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,563'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "15",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "812'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "261'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "15",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,636'"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nombre": "Marko Arnautovic",
+  "href_perfil": "/marko-arnautovic/profil/spieler/41384",
+  "competiciones": [
+    {
+      "competicion_raw": "Super liga Srbije",
+      "partidos": "13",
+      "goles": "5",
+      "asistencias": "8",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "793'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "665'"
+    },
+    {
+      "competicion_raw": "Super liga Championship round",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "200'"
+    },
+    {
+      "competicion_raw": "Kup Srbije",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "207'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "10",
+      "asistencias": "9",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,928'"
+    }
+  ]
+}

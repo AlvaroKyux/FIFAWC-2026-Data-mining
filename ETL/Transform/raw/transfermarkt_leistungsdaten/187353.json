@@ -1,0 +1,51 @@
+{
+  "nombre": "Milos Degenek",
+  "href_perfil": "/milos-degenek/profil/spieler/187353",
+  "competiciones": [
+    {
+      "competicion_raw": "Super liga Srbije",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,052'"
+    },
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Kup Srbije",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,952'"
+    }
+  ]
+}

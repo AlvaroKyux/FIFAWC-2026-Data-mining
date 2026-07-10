@@ -1,0 +1,33 @@
+{
+  "nombre": "Carlos Acevedo",
+  "href_perfil": "/carlos-acevedo/profil/spieler/356042",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "17",
+      "goles": "28",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "15",
+      "goles": "36",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,330'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "64",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,860'"
+    }
+  ]
+}

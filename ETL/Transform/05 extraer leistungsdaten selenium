@@ -1,0 +1,346 @@
+"""
+Proyecto: Data Mining - FIFA WC2026
+Entregable 3 - Limpieza y Transformación
+Fuente: Transfermarkt — Estadísticas de carrera (leistungsdaten) por jugador
+
+HALLAZGO CRÍTICO (verificado empíricamente, Entregable 3):
+A diferencia de la página de plantilla (kader/startseite), que SÍ trae
+su tabla en el HTML estático del servidor, la página de estadísticas de
+rendimiento (leistungsdaten) construye su tabla vía JavaScript en el
+cliente. Se confirmó con `requests` puro (0 ocurrencias de '<table' en
+una respuesta 200 OK) y también con "Ver código fuente" del navegador
+(mismo resultado). Por lo tanto, este extractor usa Selenium con un
+navegador Chrome real, igual que se hizo para resolver el bloqueo de
+FBref en el Entregable 2.
+
+DIFERENCIA CON EL CASO DE FBREF: aquí no hay bloqueo activo tipo
+Cloudflare — el código 200 confirma que el servidor responde sin
+problema. El único motivo para usar Selenium es esperar a que el
+JavaScript termine de renderizar la tabla antes de leer el HTML.
+
+ESCALA DEL PROBLEMA: 1,248 jugadores. Cada página con Selenium tarda
+varios segundos en cargar y renderizar (mucho más que una petición
+`requests`, que tarda milisegundos). Estimar 8-12 segundos por jugador
+(carga + renderizado + margen de pausa) => aproximadamente 3-4 HORAS
+para el total. Por eso este script es:
+  1. REANUDABLE: guarda cada jugador en su propio archivo JSON apenas
+     se extrae, y salta los que ya existen si se vuelve a correr.
+  2. Pensado para correr en segundo plano mientras se hace otro trabajo
+     (redacción del minireporte, Bitácora BRAI, etc.)
+
+INSTALACIÓN PREVIA:
+    python -m pip install selenium pandas
+    (Selenium necesita ChromeDriver; si no lo tienes, instálalo con:)
+    python -m pip install webdriver-manager
+
+RECOMENDACIÓN DE ALCANCE: dado el tiempo total (3-4 horas), considera
+si necesitas los 1,248 jugadores o si una muestra representativa (ej.
+solo titulares probables, ~11 por selección = 528 jugadores) sería
+suficiente para tu análisis. Ver la función `filtrar_jugadores()` abajo
+para ajustar el alcance fácilmente.
+"""
+
+import json
+import re
+import time
+from pathlib import Path
+
+import pandas as pd
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+
+BASE_URL = "https://www.transfermarkt.co.uk"
+RAW_DIR = Path("raw/transfermarkt_leistungsdaten")
+RAW_DIR.mkdir(parents=True, exist_ok=True)
+CLEAN_DIR = Path("clean")
+
+RUTA_JUGADORES = Path("clean/jugadores_mundial_limpio.csv")  # de la Fase 3
+
+PAUSA_SEGUNDOS = 1.5
+TIMEOUT_CARGA = 15
+
+
+def crear_driver() -> webdriver.Chrome:
+    opciones = Options()
+    # PRUEBA DECISIVA: se quita "--headless=new". La evidencia muestra que
+    # en modo headless, page_source se queda en ~85,000 caracteres (el
+    # esqueleto HTML mínimo, idéntico al HTML estático sin JavaScript) y
+    # NUNCA crece a los ~318,000 caracteres confirmados cuando la página
+    # se renderiza completa. Esto indica que el JavaScript pesado de esta
+    # página específica no se ejecuta (o no termina de ejecutarse) en modo
+    # headless, posiblemente por detección del navegador o por timing del
+    # motor de renderizado headless. Se corre con navegador VISIBLE para
+    # confirmar esta hipótesis de forma definitiva.
+    opciones.add_argument("--disable-gpu")
+    opciones.add_argument("--no-sandbox")
+    opciones.add_argument("--window-size=1920,1080")
+    opciones.add_argument(
+        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    )
+    return webdriver.Chrome(options=opciones)
+
+
+def construir_url_leistungsdaten(href_perfil: str) -> str:
+    href_stats = href_perfil.replace("/profil/", "/leistungsdaten/")
+    return f"{BASE_URL}{href_stats}"
+
+
+def cerrar_modal_cookies_si_aparece(driver: webdriver.Chrome) -> bool:
+    """
+    Cierra el modal de consentimiento de cookies si aparece.
+
+    CORRECCIÓN IMPORTANTE: el XPath original "//button[contains(text(),
+    'Accept')]" usa text() que solo encuentra el nodo de texto DIRECTO del
+    botón. Si el texto del botón está envuelto en un <span> interno (común
+    en componentes modernos), text() del <button> está vacío y el XPath
+    nunca coincide -- el TimeoutException se captura silenciosamente
+    (except: pass) y el modal queda sin cerrar, bloqueando toda la carga
+    posterior de la página SIN ningún mensaje de error visible. Esto
+    explica por qué el extractor fallaba consistentemente incluso con
+    navegadores nuevos: Selenium siempre inicia sin cookies guardadas, así
+    que el modal SIEMPRE aparece, y si nunca se cerraba correctamente, la
+    página de cada jugador procesado habría estado bloqueada igual.
+
+    SOLUCIÓN: usar .//text() (cualquier descendiente) en vez de text()
+    (solo el nodo directo), y devolver explícitamente si se hizo clic o no
+    para poder diagnosticarlo en los logs.
+    """
+    try:
+        boton_aceptar = WebDriverWait(driver, 8).until(
+            EC.element_to_be_clickable(
+                (By.XPATH, "//button[.//text()[contains(., 'Accept')]] | //button[contains(., 'Accept')]")
+            )
+        )
+        boton_aceptar.click()
+        time.sleep(1)
+        return True
+    except TimeoutException:
+        return False
+
+
+def extraer_estadisticas_jugador(driver: webdriver.Chrome, href_perfil: str, nombre: str) -> dict | None:
+    """
+    SOLUCIÓN DEFINITIVA (verificada con HTML real, Entregable 3):
+    El método .text de Selenium no captura el contenido de este
+    componente Svelte de forma confiable (posible problema de criterios
+    de "visibilidad" de Selenium con este framework específico). La
+    solución verificada es leer el innerHTML real vía JavaScript
+    (execute_script) y parsearlo con BeautifulSoup, igual que se hace
+    con una respuesta de `requests` normal.
+
+    Estructura real confirmada (verificada con HTML real de Emiliano
+    Martínez y Gerónimo Rulli): UNA fila por competición, donde la
+    primera celda es un <a> con el nombre de la competición y las
+    siguientes son <div class="tm-grid__cell"> con [partidos, goles,
+    asistencias, amarillas, rojas, minutos]. La fila de "Total:" usa
+    estructura similar pero con 8 celdas (la primera es el label "Total:").
+    """
+    url = construir_url_leistungsdaten(href_perfil)
+    driver.get(url)
+
+    modal_cerrado = cerrar_modal_cookies_si_aparece(driver)
+    print(f"      (modal de cookies {'cerrado' if modal_cerrado else 'NO apareció o no se pudo cerrar'})")
+
+    try:
+        WebDriverWait(driver, TIMEOUT_CARGA).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "tm-player-performance-table-new"))
+        )
+    except TimeoutException:
+        print(f"   ⚠️ Timeout esperando el componente para {nombre}.")
+        return {"nombre": nombre, "href_perfil": href_perfil, "competiciones": []}
+
+    # Espera fija inicial: dar tiempo al JavaScript de la página a empezar
+    # su proceso de renderizado antes de iniciar el polling activo. En la
+    # prueba manual exitosa hubo varios segundos de margen "accidental"
+    # (tiempo de escritura de comandos); en el loop automatizado las
+    # páginas se piden una tras otra muy rápido, sin ese margen natural.
+    time.sleep(2)
+
+    # Espera activa a que el contenido real se popule (verificado necesario
+    # en pruebas previas: el componente puede existir antes de poblarse).
+    # Margen ampliado tras detectar fallos en la corrida automatizada que
+    # no aparecieron en la prueba manual de un solo jugador.
+    componente = driver.find_element(By.CSS_SELECTOR, "tm-player-performance-table-new")
+    html_actual = ""
+    for intento in range(40):  # hasta 20s de espera (40 x 0.5s)
+        html_actual = driver.execute_script("return arguments[0].innerHTML", componente)
+        if len(html_actual) > 2000:
+            break
+        time.sleep(0.5)
+
+    if len(html_actual) <= 2000:
+        print(f"   ⚠️ El contenido no se pobló a tiempo para {nombre}.")
+        print(f"      Longitud final del innerHTML: {len(html_actual)} caracteres")
+        # Guardamos evidencia de depuración con ruta ABSOLUTA explícita,
+        # para eliminar cualquier ambigüedad sobre dónde queda el archivo
+        # (ya tuvimos antes problemas de rutas relativas confusas entre
+        # las carpetas Extract/ y Transform/ del proyecto).
+        carpeta_actual = Path.cwd()
+        archivo_debug_html = carpeta_actual / "debug_fallo_en_loop.html"
+        archivo_debug_png = carpeta_actual / "debug_fallo_en_loop.png"
+
+        with open(archivo_debug_html, "w", encoding="utf-8") as f:
+            f.write(driver.page_source)
+        driver.save_screenshot(str(archivo_debug_png))
+
+        print(f"      📄 HTML guardado en: {archivo_debug_html}")
+        print(f"      📸 Screenshot guardado en: {archivo_debug_png}")
+        print(f"      Longitud del page_source completo: {len(driver.page_source)} caracteres")
+
+        # Diagnóstico adicional inmediato: buscamos pistas de bloqueo
+        # directamente aquí, sin necesitar otro script ni otra ronda.
+        fuente = driver.page_source.lower()
+        for pista in ["accept", "cookie", "consent", "captcha", "cloudflare",
+                      "just a moment", "access denied", "blocked", "error"]:
+            if pista in fuente:
+                print(f"      🔍 Palabra clave encontrada: '{pista}'")
+
+        print(f"      Título actual de la página: '{driver.title}'")
+        print(f"      URL actual: {driver.current_url}")
+
+        return {"nombre": nombre, "href_perfil": href_perfil, "competiciones": []}
+
+    # Parseo del innerHTML real con BeautifulSoup (no más .text de Selenium)
+    soup = BeautifulSoup(html_actual, "lxml")
+    filas = soup.find_all("div", class_="grid-row")
+
+    competiciones = []
+
+    for fila in filas:
+        # CORRECCIÓN DEFINITIVA (verificada con HTML real, capturado tras
+        # varias rondas de diagnóstico): NO existen filas separadas de
+        # "nombre de competición" y "números". Es UNA SOLA fila por
+        # competición. La primera celda es un elemento <a> (enlace a la
+        # página de la competición), no un <div>, con texto del nombre
+        # de la competición (ej. "Premier League"). Las celdas numéricas
+        # restantes SÍ son <div class="tm-grid__cell">. Por eso había que
+        # buscar tanto <a> como <div> con esa clase, no solo <div>.
+        todas_celdas = fila.find_all(["a", "div"], class_=lambda c: c and "tm-grid__cell" in c)
+
+        if not todas_celdas:
+            continue  # fila sin celdas reales (ej. la fila de encabezados ↓↕)
+
+        textos = [c.get_text(strip=True) for c in todas_celdas]
+
+        # Fila de "Total:" se distingue porque su primera celda es "Total:"
+        if textos and textos[0] == "Total:":
+            competiciones.append({
+                "competicion_raw": "TOTAL",
+                "partidos": textos[1] if len(textos) > 1 else None,
+                "goles": textos[2] if len(textos) > 2 else None,
+                "asistencias": textos[3] if len(textos) > 3 else None,
+                "amarillas": textos[4] if len(textos) > 4 else None,
+                "rojas": textos[5] if len(textos) > 5 else None,
+                "minutos_raw": textos[-1] if textos else None,
+            })
+            continue
+
+        # Fila normal: primera celda = nombre de competición, resto = números
+        if len(textos) >= 7:
+            competiciones.append({
+                "competicion_raw": textos[0],
+                "partidos": textos[1],
+                "goles": textos[2],
+                "asistencias": textos[3],
+                "amarillas": textos[4],
+                "rojas": textos[5],
+                "minutos_raw": textos[-1],
+            })
+
+    return {"nombre": nombre, "href_perfil": href_perfil, "competiciones": competiciones}
+
+
+def ya_extraido(player_id: str) -> bool:
+    return (RAW_DIR / f"{player_id}.json").exists()
+
+
+def guardar_resultado(player_id: str, data: dict) -> None:
+    with open(RAW_DIR / f"{player_id}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def filtrar_jugadores(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    CORRIDA COMPLETA: procesa los 1,248 jugadores del Mundial 2026.
+    Validado exitosamente con muestra de Argentina (Emiliano Martínez,
+    Gerónimo Rulli) — estructura de competiciones, partidos, goles,
+    asistencias, tarjetas y minutos confirmada correcta.
+    """
+    return df
+
+
+if __name__ == "__main__":
+    # Limpiamos evidencia de depuración de corridas anteriores, para que
+    # si vuelve a fallar, la evidencia guardada sea fresca y relevante.
+    archivo_debug_previo = RAW_DIR.parent / "debug_fallo_en_loop.html"
+    if archivo_debug_previo.exists():
+        archivo_debug_previo.unlink()
+
+    print("=" * 80)
+    print("CARGA DE JUGADORES A PROCESAR")
+    print("=" * 80)
+    jugadores = pd.read_csv(RUTA_JUGADORES)
+    jugadores = filtrar_jugadores(jugadores)
+    print(f"\n✅ {len(jugadores)} jugadores a procesar.")
+    print(f"   Tiempo estimado: {len(jugadores) * 10 / 3600:.1f} horas (a ~10s por jugador)")
+
+    print("\n" + "=" * 80)
+    print("INICIANDO EXTRACCIÓN CON SELENIUM")
+    print("=" * 80)
+    print("NOTA: esta versión crea un navegador NUEVO por cada jugador")
+    print("(más lento, pero elimina problemas de estado compartido entre")
+    print("páginas detectados al reutilizar la misma sesión).\n")
+
+    exitosos = 0
+    fallidos = []
+
+    for i, fila in jugadores.iterrows():
+        player_id = str(fila["player_id"])
+        nombre = fila["nombre"]
+
+        if ya_extraido(player_id):
+            continue
+
+        print(f"[{i + 1}] {nombre} ({fila['seleccion']})")
+
+        driver = crear_driver()
+        try:
+            resultado = extraer_estadisticas_jugador(driver, fila["href_perfil"], nombre)
+        finally:
+            driver.quit()
+
+        if resultado is None or not resultado["competiciones"]:
+            fallidos.append(nombre)
+        else:
+            guardar_resultado(player_id, resultado)
+            exitosos += 1
+
+        time.sleep(PAUSA_SEGUNDOS)
+
+    print("\n" + "=" * 80)
+    print("RESUMEN")
+    print("=" * 80)
+    print(f"Extraídos exitosamente: {exitosos}")
+    print(f"Fallidos: {len(fallidos)}")
+    if fallidos:
+        print(f"Lista: {fallidos}")
+
+    # Verificación visual inmediata: mostramos lo que se extrajo de
+    # los primeros jugadores procesados, para confirmar a simple vista
+    # que los datos tienen sentido antes de pasar a la corrida completa.
+    print("\n" + "=" * 80)
+    print("MUESTRA DE DATOS EXTRAÍDOS (verificación visual)")
+    print("=" * 80)
+    archivos_generados = sorted(RAW_DIR.glob("*.json"))[:3]
+    for archivo in archivos_generados:
+        with open(archivo, encoding="utf-8") as f:
+            data = json.load(f)
+        print(f"\n--- {data['nombre']} ---")
+        for comp in data["competiciones"]:
+            print(f"  {comp}")

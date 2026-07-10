@@ -1,0 +1,42 @@
+{
+  "nombre": "Jesse Randall",
+  "href_perfil": "/jesse-randall/profil/spieler/677509",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "26",
+      "goles": "9",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,123'"
+    },
+    {
+      "competicion_raw": "A-League Fin.",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "354'"
+    },
+    {
+      "competicion_raw": "OFC Pro League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,477'"
+    }
+  ]
+}

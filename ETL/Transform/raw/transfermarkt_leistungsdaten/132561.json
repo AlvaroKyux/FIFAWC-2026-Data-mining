@@ -1,0 +1,51 @@
+{
+  "nombre": "Seyed Hossein Hosseini",
+  "href_perfil": "/seyed-hossein-hosseini/profil/spieler/132561",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "15",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,350'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "5",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "AFC CL Elite Qualif.",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "20",
+      "asistencias": "11",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,100'"
+    }
+  ]
+}

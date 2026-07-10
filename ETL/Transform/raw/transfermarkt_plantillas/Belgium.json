@@ -1,0 +1,240 @@
+{
+  "pais": "Belgium",
+  "href_seleccion": "/belgien/startseite/verein/3382",
+  "jugadores": [
+    {
+      "player_id": "503883",
+      "nombre": "Senne Lammens",
+      "href_perfil": "/senne-lammens/profil/spieler/503883",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/07/2002 (23)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "834397",
+      "nombre": "Mike Penders",
+      "href_perfil": "/mike-penders/profil/spieler/834397",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/07/2005 (20)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "108390",
+      "nombre": "Thibaut Courtois",
+      "href_perfil": "/thibaut-courtois/profil/spieler/108390",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/05/1992 (34)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "548193",
+      "nombre": "Zeno Debast",
+      "href_perfil": "/zeno-debast/profil/spieler/548193",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/10/2003 (22)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "548254",
+      "nombre": "Nathan Ngoy",
+      "href_perfil": "/nathan-ngoy/profil/spieler/548254",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/06/2003 (23)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "490384",
+      "nombre": "Koni De Winter",
+      "href_perfil": "/koni-de-winter/profil/spieler/490384",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/06/2002 (24)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "368891",
+      "nombre": "Arthur Theate",
+      "href_perfil": "/arthur-theate/profil/spieler/368891",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/05/2000 (26)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "236168",
+      "nombre": "Brandon Mechele",
+      "href_perfil": "/brandon-mechele/profil/spieler/236168",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/01/1993 (33)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "429915",
+      "nombre": "Maxim De Cuyper",
+      "href_perfil": "/maxim-de-cuyper/profil/spieler/429915",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/12/2000 (25)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "981196",
+      "nombre": "Joaquin Seys",
+      "href_perfil": "/joaquin-seys/profil/spieler/981196",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/03/2005 (21)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "262226",
+      "nombre": "Timothy Castagne",
+      "href_perfil": "/timothy-castagne/profil/spieler/262226",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/12/1995 (30)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "100986",
+      "nombre": "Thomas Meunier",
+      "href_perfil": "/thomas-meunier/profil/spieler/100986",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/09/1991 (34)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "485706",
+      "nombre": "Amadou Onana",
+      "href_perfil": "/amadou-onana/profil/spieler/485706",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/08/2001 (24)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "422763",
+      "nombre": "Nicolas Raskin",
+      "href_perfil": "/nicolas-raskin/profil/spieler/422763",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/2001 (25)",
+      "club_actual": "Rangers FC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "35047",
+      "nombre": "Axel Witsel",
+      "href_perfil": "/axel-witsel/profil/spieler/35047",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "12/01/1989 (37)",
+      "club_actual": "Girona FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "249565",
+      "nombre": "Youri Tielemans",
+      "href_perfil": "/youri-tielemans/profil/spieler/249565",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/1997 (29)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "381950",
+      "nombre": "Alexis Saelemaekers",
+      "href_perfil": "/alexis-saelemaekers/profil/spieler/381950",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "27/06/1999 (27)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "655006",
+      "nombre": "Diego Moreira",
+      "href_perfil": "/diego-moreira/profil/spieler/655006",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "06/08/2004 (21)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "435772",
+      "nombre": "Charles De Ketelaere",
+      "href_perfil": "/charles-de-ketelaere/profil/spieler/435772",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/03/2001 (25)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "88755",
+      "nombre": "Kevin De Bruyne",
+      "href_perfil": "/kevin-de-bruyne/profil/spieler/88755",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/06/1991 (35)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "137576",
+      "nombre": "Hans Vanaken",
+      "href_perfil": "/hans-vanaken/profil/spieler/137576",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/08/1992 (33)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "486049",
+      "nombre": "Jérémy Doku",
+      "href_perfil": "/jeremy-doku/profil/spieler/486049",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/05/2002 (24)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "144028",
+      "nombre": "Leandro Trossard",
+      "href_perfil": "/leandro-trossard/profil/spieler/144028",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/12/1994 (31)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "303259",
+      "nombre": "Dodi Lukébakio",
+      "href_perfil": "/dodi-lukebakio/profil/spieler/303259",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/09/1997 (28)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "724129",
+      "nombre": "Matias Fernandez-Pardo",
+      "href_perfil": "/matias-fernandez-pardo/profil/spieler/724129",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/02/2005 (21)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "96341",
+      "nombre": "Romelu Lukaku",
+      "href_perfil": "/romelu-lukaku/profil/spieler/96341",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/05/1993 (33)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€6.00m"
+    }
+  ]
+}

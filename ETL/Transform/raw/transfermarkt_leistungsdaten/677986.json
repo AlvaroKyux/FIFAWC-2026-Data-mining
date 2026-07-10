@@ -1,0 +1,42 @@
+{
+  "nombre": "Mohammad Abu Zrayq",
+  "href_perfil": "/mohammad-abu-zrayq/profil/spieler/677986",
+  "competiciones": [
+    {
+      "competicion_raw": "Botola Pro Inwi",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "616'"
+    },
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "10",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "828'"
+    },
+    {
+      "competicion_raw": "Coupe du Trône Marocaine",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,444'"
+    }
+  ]
+}

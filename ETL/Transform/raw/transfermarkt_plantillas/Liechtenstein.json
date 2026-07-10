@@ -1,0 +1,222 @@
+{
+  "pais": "Liechtenstein",
+  "href_seleccion": "/liechtenstein/startseite/verein/5673",
+  "jugadores": [
+    {
+      "player_id": "405831",
+      "nombre": "Justin Ospelt",
+      "href_perfil": "/justin-ospelt/profil/spieler/405831",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/09/1999 (26)",
+      "club_actual": "Sportfreunde Siegen",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "149792",
+      "nombre": "Lorenzo Lo Russo",
+      "href_perfil": "/lorenzo-lo-russo/profil/spieler/149792",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/07/1993 (32)",
+      "club_actual": "FC Balzers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "508075",
+      "nombre": "Gabriel Foser",
+      "href_perfil": "/gabriel-foser/profil/spieler/508075",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/09/2002 (23)",
+      "club_actual": "USV Eschen/Mauren",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "521438",
+      "nombre": "Lars Traber",
+      "href_perfil": "/lars-traber/profil/spieler/521438",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/06/2000 (26)",
+      "club_actual": "SC Brühl SG",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "842193",
+      "nombre": "Felix Oberwaditzer",
+      "href_perfil": "/felix-oberwaditzer/profil/spieler/842193",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/03/2006 (20)",
+      "club_actual": "SC Austria Lustenau",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "156695",
+      "nombre": "Andreas Malin",
+      "href_perfil": "/andreas-malin/profil/spieler/156695",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/01/1994 (32)",
+      "club_actual": "SC Göfis",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "254961",
+      "nombre": "Jens Hofer",
+      "href_perfil": "/jens-hofer/profil/spieler/254961",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/10/1997 (28)",
+      "club_actual": "SC Düdingen",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "946507",
+      "nombre": "Jonas Weissenhofer",
+      "href_perfil": "/jonas-weissenhofer/profil/spieler/946507",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/07/2006 (19)",
+      "club_actual": "VfB Hohenems",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "294704",
+      "nombre": "Maximilian Göppel",
+      "href_perfil": "/maximilian-goppel/profil/spieler/294704",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/08/1997 (28)",
+      "club_actual": "FC Freienbach",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "203567",
+      "nombre": "Sandro Wolfinger",
+      "href_perfil": "/sandro-wolfinger/profil/spieler/203567",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/08/1991 (34)",
+      "club_actual": "FC Balzers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "927429",
+      "nombre": "Luca Beck",
+      "href_perfil": "/luca-beck/profil/spieler/927429",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/08/2005 (20)",
+      "club_actual": "FC Widnau",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "74956",
+      "nombre": "Marcel Büchel",
+      "href_perfil": "/marcel-buchel/profil/spieler/74956",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/1991 (35)",
+      "club_actual": "Unipomezia Virtus",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "294726",
+      "nombre": "Livio Meier",
+      "href_perfil": "/livio-meier/profil/spieler/294726",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/01/1998 (28)",
+      "club_actual": "USV Eschen/Mauren",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "346401",
+      "nombre": "Liam Kranz",
+      "href_perfil": "/liam-kranz/profil/spieler/346401",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/07/2003 (22)",
+      "club_actual": "FC Schaan",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1341679",
+      "nombre": "Bruno Poitner",
+      "href_perfil": "/bruno-poitner/profil/spieler/1341679",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/03/2007 (19)",
+      "club_actual": "SV Fellbach U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "342866",
+      "nombre": "Emanuel Zünd",
+      "href_perfil": "/emanuel-zund/profil/spieler/342866",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/2004 (21)",
+      "club_actual": "Meyrin FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "692101",
+      "nombre": "Alessio Hasler",
+      "href_perfil": "/alessio-hasler/profil/spieler/692101",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "07/07/2005 (20)",
+      "club_actual": "FC Vaduz",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "294742",
+      "nombre": "Dennis Salanović",
+      "href_perfil": "/dennis-salanovic/profil/spieler/294742",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/02/1996 (30)",
+      "club_actual": "FC Linth 04",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "346414",
+      "nombre": "Kenny Kindle",
+      "href_perfil": "/kenny-kindle/profil/spieler/346414",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/11/2003 (22)",
+      "club_actual": "FC Balzers",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "508069",
+      "nombre": "Ferhat Saglam",
+      "href_perfil": "/ferhat-saglam/profil/spieler/508069",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/10/2001 (24)",
+      "club_actual": "Eintracht Hohkeppel",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "149797",
+      "nombre": "Willy Pizzi",
+      "href_perfil": "/willy-pizzi/profil/spieler/149797",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "28/12/1994 (31)",
+      "club_actual": "USV Eschen/Mauren",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "692103",
+      "nombre": "Fabio Luque-Notaro",
+      "href_perfil": "/fabio-luque-notaro/profil/spieler/692103",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/08/2005 (20)",
+      "club_actual": "1.FC Schweinfurt 05",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "553634",
+      "nombre": "Philipp Gassner",
+      "href_perfil": "/philipp-gassner/profil/spieler/553634",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/08/2003 (22)",
+      "club_actual": "VfB Hohenems",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "66726",
+      "nombre": "Julien Hasler",
+      "href_perfil": "/julien-hasler/profil/spieler/66726",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/09/1989 (36)",
+      "club_actual": "FC Schaan",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

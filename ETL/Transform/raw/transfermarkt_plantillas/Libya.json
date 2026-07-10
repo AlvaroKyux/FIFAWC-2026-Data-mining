@@ -1,0 +1,177 @@
+{
+  "pais": "Libya",
+  "href_seleccion": "/libyen/startseite/verein/6602",
+  "jugadores": [
+    {
+      "player_id": "325998",
+      "nombre": "Jawad Rizq",
+      "href_perfil": "/jawad-rizq/profil/spieler/325998",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/01/1994 (32)",
+      "club_actual": "Al-Nasr SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "626018",
+      "nombre": "Murad Al-Wuheeshi",
+      "href_perfil": "/murad-al-wuheeshi/profil/spieler/626018",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/02/1997 (29)",
+      "club_actual": "Al-Ahly SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1174273",
+      "nombre": "Mohamed Darebi",
+      "href_perfil": "/mohamed-darebi/profil/spieler/1174273",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/05/2003 (23)",
+      "club_actual": "Al-Ittihad SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "944724",
+      "nombre": "Ali Youssif",
+      "href_perfil": "/ali-youssif/profil/spieler/944724",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/07/2001 (24)",
+      "club_actual": "FC Nantes",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1356722",
+      "nombre": "Ibrahim Bourouis",
+      "href_perfil": "/ibrahim-bourouis/profil/spieler/1356722",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/02/1999 (27)",
+      "club_actual": "Al-Madina SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1174265",
+      "nombre": "Saif Jaddour",
+      "href_perfil": "/saif-jaddour/profil/spieler/1174265",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/12/1998 (27)",
+      "club_actual": "Swehly SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1356685",
+      "nombre": "Moataz Al Jurnazi",
+      "href_perfil": "/moataz-al-jurnazi/profil/spieler/1356685",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/02/2002 (24)",
+      "club_actual": "Al-Madina SC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "377641",
+      "nombre": "Moatasem Al-Musrati",
+      "href_perfil": "/moatasem-al-musrati/profil/spieler/377641",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/1996 (30)",
+      "club_actual": "Hellas Verona",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "507711",
+      "nombre": "Muhannad Etoo",
+      "href_perfil": "/muhannad-etoo/profil/spieler/507711",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/03/1994 (32)",
+      "club_actual": "Al-Nasr SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1323723",
+      "nombre": "Maruwan Al-Hbeishi",
+      "href_perfil": "/maruwan-al-hbeishi/profil/spieler/1323723",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/10/2003 (22)",
+      "club_actual": "Al-Ahli SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1356738",
+      "nombre": "Farouq Al-Fleit",
+      "href_perfil": "/farouq-al-fleit/profil/spieler/1356738",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/02/1999 (27)",
+      "club_actual": "Al-Madina SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1220226",
+      "nombre": "Mohamed Bawa",
+      "href_perfil": "/mohamed-bawa/profil/spieler/1220226",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "20/07/2004 (21)",
+      "club_actual": "GAIS",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1176446",
+      "nombre": "Osama Elsharimi",
+      "href_perfil": "/osama-elsharimi/profil/spieler/1176446",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/02/2001 (25)",
+      "club_actual": "Club Africain",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1174266",
+      "nombre": "Abdulmunem Akasha",
+      "href_perfil": "/abdulmunem-akasha/profil/spieler/1174266",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1997 (29)",
+      "club_actual": "Swehly SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "1343658",
+      "nombre": "Omar El-Harek",
+      "href_perfil": "/omar-el-harek/profil/spieler/1343658",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/11/2006 (19)",
+      "club_actual": "East Fife FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "158120",
+      "nombre": "Ismael Tajouri-Shradi",
+      "href_perfil": "/ismael-tajouri-shradi/profil/spieler/158120",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/03/1994 (32)",
+      "club_actual": "Al-Ahli SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1356899",
+      "nombre": "Amjed Al-Gsheim",
+      "href_perfil": "/amjed-al-gsheim/profil/spieler/1356899",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/04/1999 (27)",
+      "club_actual": "Swehly SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "724141",
+      "nombre": "Ezoo El Maremi",
+      "href_perfil": "/ezoo-el-maremi/profil/spieler/724141",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/08/1998 (27)",
+      "club_actual": "Al-Ahli SC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1262924",
+      "nombre": "Ahmed Elmsmari",
+      "href_perfil": "/ahmed-elmsmari/profil/spieler/1262924",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/01/2006 (20)",
+      "club_actual": "CD Leganés C",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

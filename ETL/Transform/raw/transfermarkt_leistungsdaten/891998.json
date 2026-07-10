@@ -1,0 +1,60 @@
+{
+  "nombre": "Antoine Mendy",
+  "href_perfil": "/antoine-mendy/profil/spieler/891998",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,098'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "413'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "L1/L2 Playoffs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,231'"
+    }
+  ]
+}

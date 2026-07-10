@@ -1,0 +1,33 @@
+{
+  "nombre": "Rayan",
+  "href_perfil": "/rayan/profil/spieler/1012564",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "15",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,120'"
+    },
+    {
+      "competicion_raw": "Campeonato Carioca",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "85'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "16",
+      "goles": "7",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,205'"
+    }
+  ]
+}

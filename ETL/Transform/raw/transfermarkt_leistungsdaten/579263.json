@@ -1,0 +1,42 @@
+{
+  "nombre": "Augustine Boakye",
+  "href_perfil": "/augustine-boakye/profil/spieler/579263",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "9",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,477'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "225'"
+    },
+    {
+      "competicion_raw": "L1/L2 Playoffs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "6",
+      "asistencias": "9",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,882'"
+    }
+  ]
+}

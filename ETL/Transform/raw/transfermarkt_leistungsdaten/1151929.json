@@ -1,0 +1,51 @@
+{
+  "nombre": "Gessime Yassine",
+  "href_perfil": "/gessime-yassine/profil/spieler/1151929",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "13",
+      "goles": "2",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "804'"
+    },
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "510'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "236'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "169'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "3",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,719'"
+    }
+  ]
+}

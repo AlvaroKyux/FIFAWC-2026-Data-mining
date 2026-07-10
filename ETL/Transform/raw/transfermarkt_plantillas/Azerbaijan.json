@@ -1,0 +1,249 @@
+{
+  "pais": "Azerbaijan",
+  "href_seleccion": "/aserbaidschan/startseite/verein/8605",
+  "jugadores": [
+    {
+      "player_id": "313078",
+      "nombre": "Shahrudin Mahammadaliyev",
+      "href_perfil": "/shahrudin-mahammadaliyev/profil/spieler/313078",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/06/1994 (32)",
+      "club_actual": "Qarabağ FK",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "865801",
+      "nombre": "Rza Cafarov",
+      "href_perfil": "/rza-cafarov/profil/spieler/865801",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/07/2003 (22)",
+      "club_actual": "FK Gabala",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "236366",
+      "nombre": "Emil Balayev",
+      "href_perfil": "/emil-balayev/profil/spieler/236366",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/04/1994 (32)",
+      "club_actual": "Neftchi PFK",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "358648",
+      "nombre": "Anton Kryvotsiuk",
+      "href_perfil": "/anton-kryvotsiuk/profil/spieler/358648",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/08/1998 (27)",
+      "club_actual": "Daejeon Hana Citizen",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "256465",
+      "nombre": "Elvin Badalov",
+      "href_perfil": "/elvin-badalov/profil/spieler/256465",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/06/1995 (31)",
+      "club_actual": "Neftchi PFK",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "481981",
+      "nombre": "Rahman Dashdamirov",
+      "href_perfil": "/rahman-dashdamirov/profil/spieler/481981",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/10/1999 (26)",
+      "club_actual": "Sabah FK",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "369078",
+      "nombre": "Rahil Mammadov",
+      "href_perfil": "/rahil-mammadov/profil/spieler/369078",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/11/1995 (30)",
+      "club_actual": "Araz-Nakhchivan ",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "198648",
+      "nombre": "Badavi Hüseynov",
+      "href_perfil": "/badavi-huseynov/profil/spieler/198648",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/07/1991 (34)",
+      "club_actual": "Qarabağ FK",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "554940",
+      "nombre": "Elvin Cafarquliyev",
+      "href_perfil": "/elvin-cafarquliyev/profil/spieler/554940",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/10/2000 (25)",
+      "club_actual": "Qarabağ FK",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "536722",
+      "nombre": "Toral Bayramov",
+      "href_perfil": "/toral-bayramov/profil/spieler/536722",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/02/2001 (25)",
+      "club_actual": "Qarabağ FK",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "923579",
+      "nombre": "Rüfat Abbasov",
+      "href_perfil": "/rufat-abbasov/profil/spieler/923579",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2005 (21)",
+      "club_actual": "FC Shamakhi",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "367039",
+      "nombre": "Qismat Aliyev",
+      "href_perfil": "/qismat-aliyev/profil/spieler/367039",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/10/1996 (29)",
+      "club_actual": "Zira FC",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "393249",
+      "nombre": "Tellur Mütallimov",
+      "href_perfil": "/tellur-mutallimov/profil/spieler/393249",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/04/1995 (31)",
+      "club_actual": "Sabah FK",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "721526",
+      "nombre": "Calal Hüseynov",
+      "href_perfil": "/calal-huseynov/profil/spieler/721526",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/01/2003 (23)",
+      "club_actual": "Arda Kardzhali",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "530151",
+      "nombre": "Sabuhi Abdullazada",
+      "href_perfil": "/sabuhi-abdullazada/profil/spieler/530151",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/12/2001 (24)",
+      "club_actual": "Sumgayit PFC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "332242",
+      "nombre": "Aleksey Isayev",
+      "href_perfil": "/aleksey-isayev/profil/spieler/332242",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/11/1995 (30)",
+      "club_actual": "Sabah FK",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "711732",
+      "nombre": "Emil Safarov",
+      "href_perfil": "/emil-safarov/profil/spieler/711732",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/10/2002 (23)",
+      "club_actual": "Neftchi PFK",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "654118",
+      "nombre": "Abdulakh Khaybulayev",
+      "href_perfil": "/abdulakh-khaybulayev/profil/spieler/654118",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/08/2001 (24)",
+      "club_actual": "Sabah FK",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "137203",
+      "nombre": "Emin Mahmudov",
+      "href_perfil": "/emin-mahmudov/profil/spieler/137203",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/04/1992 (34)",
+      "club_actual": "Neftchi PFK",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "255971",
+      "nombre": "Rahim Sadykhov",
+      "href_perfil": "/rahim-sadykhov/profil/spieler/255971",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "18/07/1996 (29)",
+      "club_actual": "Turan-Tovuz IK",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "596522",
+      "nombre": "Aykhan Hüseynov",
+      "href_perfil": "/aykhan-huseynov/profil/spieler/596522",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/09/1999 (26)",
+      "club_actual": "Turan-Tovuz IK",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "895891",
+      "nombre": "Khayal Aliyev",
+      "href_perfil": "/khayal-aliyev/profil/spieler/895891",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/02/2004 (22)",
+      "club_actual": "Sabah FK",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "792844",
+      "nombre": "Rüstam Ahmadzada",
+      "href_perfil": "/rustam-ahmadzada/profil/spieler/792844",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/12/2000 (25)",
+      "club_actual": "Sumgayit PFC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "375763",
+      "nombre": "Vüsal Isgandarli",
+      "href_perfil": "/vusal-isgandarli/profil/spieler/375763",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/11/1995 (30)",
+      "club_actual": "FK Partizani",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "865793",
+      "nombre": "Nariman Akhundzada",
+      "href_perfil": "/nariman-akhundzada/profil/spieler/865793",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/04/2004 (22)",
+      "club_actual": "Columbus Crew",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "255957",
+      "nombre": "Mahir Emreli",
+      "href_perfil": "/mahir-emreli/profil/spieler/255957",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/07/1997 (28)",
+      "club_actual": "1.FC Kaiserslautern",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "335461",
+      "nombre": "Renat Dadashov",
+      "href_perfil": "/renat-dadashov/profil/spieler/335461",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/05/1999 (27)",
+      "club_actual": "Motor Lublin",
+      "valor_mercado_raw": "€400k"
+    }
+  ]
+}

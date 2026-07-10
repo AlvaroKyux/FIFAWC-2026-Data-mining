@@ -1,0 +1,51 @@
+{
+  "nombre": "Aurélien Tchouaméni",
+  "href_perfil": "/aurelien-tchouameni/profil/spieler/413112",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,623'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "13",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,125'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "13'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "3,941'"
+    }
+  ]
+}

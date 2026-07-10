@@ -1,0 +1,33 @@
+{
+  "nombre": "Mousa Tamari",
+  "href_perfil": "/mousa-tamari/profil/spieler/551505",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "33",
+      "goles": "6",
+      "asistencias": "9",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,228'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "265'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "7",
+      "asistencias": "11",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,493'"
+    }
+  ]
+}

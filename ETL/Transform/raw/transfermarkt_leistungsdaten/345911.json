@@ -1,0 +1,51 @@
+{
+  "nombre": "Ladislav Krejčí",
+  "href_perfil": "/ladislav-krejci/profil/spieler/345911",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,361'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "2,856'"
+    }
+  ]
+}

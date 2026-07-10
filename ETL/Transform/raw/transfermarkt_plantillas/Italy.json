@@ -1,0 +1,213 @@
+{
+  "pais": "Italy",
+  "href_seleccion": "/italien/startseite/verein/3376",
+  "jugadores": [
+    {
+      "player_id": "315858",
+      "nombre": "Gianluigi Donnarumma",
+      "href_perfil": "/gianluigi-donnarumma/profil/spieler/315858",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/02/1999 (27)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "705355",
+      "nombre": "Lorenzo Palmisani",
+      "href_perfil": "/lorenzo-palmisani/profil/spieler/705355",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/06/2004 (22)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "814473",
+      "nombre": "Giovanni Daffara",
+      "href_perfil": "/giovanni-daffara/profil/spieler/814473",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/12/2004 (21)",
+      "club_actual": "US Avellino 1912",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "1077175",
+      "nombre": "Honest Ahanor",
+      "href_perfil": "/honest-ahanor/profil/spieler/1077175",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/02/2008 (18)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "746712",
+      "nombre": "Pietro Comuzzo",
+      "href_perfil": "/pietro-comuzzo/profil/spieler/746712",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/02/2005 (21)",
+      "club_actual": "ACF Fiorentina",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "1074990",
+      "nombre": "Luca Reggiani",
+      "href_perfil": "/luca-reggiani/profil/spieler/1074990",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/2008 (18)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "724104",
+      "nombre": "Fabio Chiarodia",
+      "href_perfil": "/fabio-chiarodia/profil/spieler/724104",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/2005 (21)",
+      "club_actual": "Borussia Mönchengladbach",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "883007",
+      "nombre": "Filippo Mane",
+      "href_perfil": "/filippo-mane/profil/spieler/883007",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/03/2005 (21)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "887638",
+      "nombre": "Davide Bartesaghi",
+      "href_perfil": "/davide-bartesaghi/profil/spieler/887638",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/12/2005 (20)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "724106",
+      "nombre": "Luca Lipani",
+      "href_perfil": "/luca-lipani/profil/spieler/724106",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/05/2005 (21)",
+      "club_actual": "US Sassuolo",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "651002",
+      "nombre": "Giacomo Faticanti",
+      "href_perfil": "/giacomo-faticanti/profil/spieler/651002",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "31/07/2004 (21)",
+      "club_actual": "Juventus Next Gen",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "813137",
+      "nombre": "Niccolò Pisilli",
+      "href_perfil": "/niccolo-pisilli/profil/spieler/813137",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/09/2004 (21)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "651005",
+      "nombre": "Cher Ndour",
+      "href_perfil": "/cher-ndour/profil/spieler/651005",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/07/2004 (21)",
+      "club_actual": "ACF Fiorentina",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "744621",
+      "nombre": "Matteo Dagasso",
+      "href_perfil": "/matteo-dagasso/profil/spieler/744621",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/04/2004 (22)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "820635",
+      "nombre": "Costantino Favasuli",
+      "href_perfil": "/costantino-favasuli/profil/spieler/820635",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "26/04/2004 (22)",
+      "club_actual": "US Catanzaro",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "908768",
+      "nombre": "Tommaso Berti",
+      "href_perfil": "/tommaso-berti/profil/spieler/908768",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/03/2004 (22)",
+      "club_actual": "Cesena FC",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "1188619",
+      "nombre": "Alessio Cacciamani",
+      "href_perfil": "/alessio-cacciamani/profil/spieler/1188619",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "29/06/2007 (19)",
+      "club_actual": "SS Juve Stabia",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "745461",
+      "nombre": "Luca Koleosho",
+      "href_perfil": "/luca-koleosho/profil/spieler/745461",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/09/2004 (21)",
+      "club_actual": "Paris FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "866250",
+      "nombre": "Seydou Fini",
+      "href_perfil": "/seydou-fini/profil/spieler/866250",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/06/2006 (20)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1058359",
+      "nombre": "Samuele Inácio",
+      "href_perfil": "/samuele-inacio/profil/spieler/1058359",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "02/04/2008 (18)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "930781",
+      "nombre": "Pio Esposito",
+      "href_perfil": "/pio-esposito/profil/spieler/930781",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/06/2005 (21)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "934878",
+      "nombre": "Jeff Ekhator",
+      "href_perfil": "/jeff-ekhator/profil/spieler/934878",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/11/2006 (19)",
+      "club_actual": "Genoa CFC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "1058368",
+      "nombre": "Francesco Camarda",
+      "href_perfil": "/francesco-camarda/profil/spieler/1058368",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/03/2008 (18)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€15.00m"
+    }
+  ]
+}

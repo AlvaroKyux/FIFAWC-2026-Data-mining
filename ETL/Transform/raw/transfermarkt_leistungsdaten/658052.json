@@ -1,0 +1,60 @@
+{
+  "nombre": "Mohammad Abualnadi",
+  "href_perfil": "/mohammad-abualnadi/profil/spieler/658052",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,169'"
+    },
+    {
+      "competicion_raw": "ASEAN Club Championship",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "618'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "464'"
+    },
+    {
+      "competicion_raw": "Piala Malaysia",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "274'"
+    },
+    {
+      "competicion_raw": "Malaysia FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "95'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,620'"
+    }
+  ]
+}

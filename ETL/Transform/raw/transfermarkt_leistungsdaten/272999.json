@@ -1,0 +1,33 @@
+{
+  "nombre": "Miguel Almirón",
+  "href_perfil": "/miguel-almiron/profil/spieler/272999",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "658'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "25'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "683'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Brandley Kuwas",
+  "href_perfil": "/brandley-kuwas/profil/spieler/232219",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "32",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,024'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Play-Offs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "107'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,401'"
+    }
+  ]
+}

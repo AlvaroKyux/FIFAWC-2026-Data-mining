@@ -1,0 +1,33 @@
+{
+  "nombre": "Samú Costa",
+  "href_perfil": "/samu-costa/profil/spieler/657430",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "34",
+      "goles": "7",
+      "asistencias": "2",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,707'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "103'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "7",
+      "asistencias": "2",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,810'"
+    }
+  ]
+}

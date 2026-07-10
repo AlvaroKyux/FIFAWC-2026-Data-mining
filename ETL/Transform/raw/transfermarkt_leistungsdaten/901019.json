@@ -1,0 +1,42 @@
+{
+  "nombre": "Neil El Aynaoui",
+  "href_perfil": "/neil-el-aynaoui/profil/spieler/901019",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "991'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "712'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,703'"
+    }
+  ]
+}

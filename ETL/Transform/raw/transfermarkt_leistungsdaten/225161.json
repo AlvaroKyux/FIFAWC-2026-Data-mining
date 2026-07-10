@@ -1,0 +1,42 @@
+{
+  "nombre": "Rúben Neves",
+  "href_perfil": "/ruben-neves/profil/spieler/225161",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "31",
+      "goles": "11",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,751'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "657'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "310'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "12",
+      "asistencias": "10",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,718'"
+    }
+  ]
+}

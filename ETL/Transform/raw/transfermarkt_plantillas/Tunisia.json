@@ -1,0 +1,240 @@
+{
+  "pais": "Tunisia",
+  "href_seleccion": "/tunesien/startseite/verein/3670",
+  "jugadores": [
+    {
+      "player_id": "584250",
+      "nombre": "Abdelmouhib Chamakh",
+      "href_perfil": "/abdelmouhib-chamakh/profil/spieler/584250",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/08/2001 (24)",
+      "club_actual": "Club Africain",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "569433",
+      "nombre": "Aymen Dahmen",
+      "href_perfil": "/aymen-dahmen/profil/spieler/569433",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/01/1997 (29)",
+      "club_actual": "CS Sfaxien",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "295381",
+      "nombre": "Sabri Ben Hessen",
+      "href_perfil": "/sabri-ben-hessen/profil/spieler/295381",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/06/1996 (30)",
+      "club_actual": "Etoile Sportive du Sahel",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "496706",
+      "nombre": "Montassar Talbi",
+      "href_perfil": "/montassar-talbi/profil/spieler/496706",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "1071742",
+      "nombre": "Adem Arous",
+      "href_perfil": "/adem-arous/profil/spieler/1071742",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/07/2004 (21)",
+      "club_actual": "Kasimpasa",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "450417",
+      "nombre": "Dylan Bronn",
+      "href_perfil": "/dylan-bronn/profil/spieler/450417",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/06/1995 (31)",
+      "club_actual": "Servette FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1075790",
+      "nombre": "Raed Chikhaoui",
+      "href_perfil": "/raed-chikhaoui/profil/spieler/1075790",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/06/2004 (22)",
+      "club_actual": "US Monastir",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "578292",
+      "nombre": "Omar Rekik",
+      "href_perfil": "/omar-rekik/profil/spieler/578292",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/12/2001 (24)",
+      "club_actual": "NK Maribor",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "211474",
+      "nombre": "Ali Abdi",
+      "href_perfil": "/ali-abdi/profil/spieler/211474",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/12/1993 (32)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "454495",
+      "nombre": "Mohamed Amine Ben Hamida",
+      "href_perfil": "/mohamed-amine-ben-hamida/profil/spieler/454495",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/12/1995 (30)",
+      "club_actual": "Esperance Tunis",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "406008",
+      "nombre": "Yan Valery",
+      "href_perfil": "/yan-valery/profil/spieler/406008",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/02/1999 (27)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1034598",
+      "nombre": "Moutaz Neffati",
+      "href_perfil": "/moutaz-neffati/profil/spieler/1034598",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/09/2004 (21)",
+      "club_actual": "IFK Norrköping",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "290587",
+      "nombre": "Ellyes Skhiri",
+      "href_perfil": "/ellyes-skhiri/profil/spieler/290587",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/1995 (31)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "124410",
+      "nombre": "Rani Khedira",
+      "href_perfil": "/rani-khedira/profil/spieler/124410",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/01/1994 (32)",
+      "club_actual": "1.FC Union Berlin",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "673513",
+      "nombre": "Mohamed Belhadj Mahmoud",
+      "href_perfil": "/mohamed-belhadj-mahmoud/profil/spieler/673513",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/04/2000 (26)",
+      "club_actual": "FC Lugano",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "607224",
+      "nombre": "Hannibal",
+      "href_perfil": "/hannibal/profil/spieler/607224",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/01/2003 (23)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "546712",
+      "nombre": "Anis Ben Slimane",
+      "href_perfil": "/anis-ben-slimane/profil/spieler/546712",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/2001 (25)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "810096",
+      "nombre": "Ismaël Gharbi",
+      "href_perfil": "/ismael-gharbi/profil/spieler/810096",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/04/2004 (22)",
+      "club_actual": "FC Augsburg",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "539677",
+      "nombre": "Sebastian Tounekti",
+      "href_perfil": "/sebastian-tounekti/profil/spieler/539677",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "13/07/2002 (23)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "645589",
+      "nombre": "Elias Achouri",
+      "href_perfil": "/elias-achouri/profil/spieler/645589",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "10/02/1999 (27)",
+      "club_actual": "FC Copenhagen",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "526466",
+      "nombre": "Elias Saad",
+      "href_perfil": "/elias-saad/profil/spieler/526466",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/12/1999 (26)",
+      "club_actual": "Hannover 96",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "230921",
+      "nombre": "Mortadha Ben Ouanes",
+      "href_perfil": "/mortadha-ben-ouanes/profil/spieler/230921",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/07/1994 (31)",
+      "club_actual": "Kasimpasa",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1198342",
+      "nombre": "Khalil Ayari",
+      "href_perfil": "/khalil-ayari/profil/spieler/1198342",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/02/2005 (21)",
+      "club_actual": "Paris Saint-Germain Espoirs",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "402087",
+      "nombre": "Firas Chaouat",
+      "href_perfil": "/firas-chaouat/profil/spieler/402087",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/05/1996 (30)",
+      "club_actual": "Club Africain",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "953150",
+      "nombre": "Hazem Mastouri",
+      "href_perfil": "/hazem-mastouri/profil/spieler/953150",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/06/1997 (29)",
+      "club_actual": "Dinamo Makhachkala",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "1273985",
+      "nombre": "Rayan Elloumi",
+      "href_perfil": "/rayan-elloumi/profil/spieler/1273985",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/09/2007 (18)",
+      "club_actual": "Vancouver Whitecaps FC",
+      "valor_mercado_raw": "€800k"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "David Ospina",
+  "href_perfil": "/david-ospina/profil/spieler/73396",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga DIMAYOR I",
+      "partidos": "9",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "Fase Final LBD I",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "13",
+      "goles": "9",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,170'"
+    }
+  ]
+}

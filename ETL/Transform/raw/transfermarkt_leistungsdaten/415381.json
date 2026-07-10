@@ -1,0 +1,42 @@
+{
+  "nombre": "Mats Wieffer",
+  "href_perfil": "/mats-wieffer/profil/spieler/415381",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,908'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "9'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "23'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,940'"
+    }
+  ]
+}

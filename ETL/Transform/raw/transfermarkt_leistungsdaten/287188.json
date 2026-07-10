@@ -1,0 +1,51 @@
+{
+  "nombre": "Dejan Ljubicic",
+  "href_perfil": "/dejan-ljubicic/profil/spieler/287188",
+  "competiciones": [
+    {
+      "competicion_raw": "2. Bundesliga",
+      "partidos": "15",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,182'"
+    },
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,007'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "504'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "6",
+      "asistencias": "6",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,693'"
+    }
+  ]
+}

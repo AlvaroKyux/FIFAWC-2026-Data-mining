@@ -1,0 +1,213 @@
+{
+  "pais": "Seychelles",
+  "href_seleccion": "/seychellen/startseite/verein/3562",
+  "jugadores": [
+    {
+      "player_id": "1205593",
+      "nombre": "Carlos Simeon",
+      "href_perfil": "/carlos-simeon/profil/spieler/1205593",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/10/1998 (27)",
+      "club_actual": "Anse Reunion FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "625187",
+      "nombre": "Romeo Padayachi",
+      "href_perfil": "/romeo-padayachi/profil/spieler/625187",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/02/1993 (33)",
+      "club_actual": "Light Stars FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "661938",
+      "nombre": "Alvin Michel",
+      "href_perfil": "/alvin-michel/profil/spieler/661938",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/01/1990 (36)",
+      "club_actual": "St. Michel United Anse-aux-Pins",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272436",
+      "nombre": "Elie Sopha",
+      "href_perfil": "/elie-sopha/profil/spieler/1272436",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "03/11/2004 (21)",
+      "club_actual": "St. Michel United Anse-aux-Pins",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "633924",
+      "nombre": "Don Fanchette",
+      "href_perfil": "/don-fanchette/profil/spieler/633924",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "03/12/1997 (28)",
+      "club_actual": "Anse Reunion FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "615591",
+      "nombre": "Juninho Mathiot",
+      "href_perfil": "/juninho-mathiot/profil/spieler/615591",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "09/02/2000 (26)",
+      "club_actual": "St. Louis Suns United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "513484",
+      "nombre": "Warren Mellie",
+      "href_perfil": "/warren-mellie/profil/spieler/513484",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/10/1994 (31)",
+      "club_actual": "Real Maldive FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1384976",
+      "nombre": "Alfie Walters",
+      "href_perfil": "/alfie-walters/profil/spieler/1384976",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/09/2002 (23)",
+      "club_actual": "Metropolitan Police",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "196831",
+      "nombre": "Charmaine Häusl",
+      "href_perfil": "/charmaine-hausl/profil/spieler/196831",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/01/1996 (30)",
+      "club_actual": "BFC Preussen",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "947907",
+      "nombre": "Imra Raheriniaina",
+      "href_perfil": "/imra-raheriniaina/profil/spieler/947907",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "19/11/2004 (21)",
+      "club_actual": "St. Louis Suns United",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1306137",
+      "nombre": "Riano Denis",
+      "href_perfil": "/riano-denis/profil/spieler/1306137",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "10/10/2007 (18)",
+      "club_actual": "Foresters Mont Fleuri",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "703203",
+      "nombre": "Josip Ravighia",
+      "href_perfil": "/josip-ravighia/profil/spieler/703203",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "19/02/2001 (25)",
+      "club_actual": "St. Michel United Anse-aux-Pins",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1272435",
+      "nombre": "Vince Fred",
+      "href_perfil": "/vince-fred/profil/spieler/1272435",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "16/10/2005 (20)",
+      "club_actual": "Light Stars FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1272438",
+      "nombre": "Jerron Joubert",
+      "href_perfil": "/jerron-joubert/profil/spieler/1272438",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/09/2002 (23)",
+      "club_actual": "Light Stars FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1306134",
+      "nombre": "Kesh Valentin",
+      "href_perfil": "/kesh-valentin/profil/spieler/1306134",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "09/05/2009 (17)",
+      "club_actual": "Foresters Mont Fleuri",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1470178",
+      "nombre": "Rahim Henry",
+      "href_perfil": "/rahim-henry/profil/spieler/1470178",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "23/06/2008 (18)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272439",
+      "nombre": "Anil Dijoux",
+      "href_perfil": "/anil-dijoux/profil/spieler/1272439",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/07/2006 (19)",
+      "club_actual": "Anse Reunion FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "703199",
+      "nombre": "Dean Mothe",
+      "href_perfil": "/dean-mothe/profil/spieler/703199",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/08/2000 (25)",
+      "club_actual": "St. Louis Suns United",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "703201",
+      "nombre": "Brandon Labrosse",
+      "href_perfil": "/brandon-labrosse/profil/spieler/703201",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/03/1999 (27)",
+      "club_actual": "Foresters Mont Fleuri",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "947879",
+      "nombre": "Lorenzo Hoareau",
+      "href_perfil": "/lorenzo-hoareau/profil/spieler/947879",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "06/01/2007 (19)",
+      "club_actual": "Anse Reunion FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1454384",
+      "nombre": "Samuel Okolie",
+      "href_perfil": "/samuel-okolie/profil/spieler/1454384",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/03/2008 (18)",
+      "club_actual": "Cambridge United U18",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1064676",
+      "nombre": "Neil Mario Aaron Confiance",
+      "href_perfil": "/neil-mario-aaron-confiance/profil/spieler/1064676",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "12/08/1997 (28)",
+      "club_actual": "St. Michel United Anse-aux-Pins",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1454513",
+      "nombre": "Anelka Adela",
+      "href_perfil": "/anelka-adela/profil/spieler/1454513",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "16/05/2008 (18)",
+      "club_actual": "Saint John Bosco FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nombre": "Gonçalo Ramos",
+  "href_perfil": "/goncalo-ramos/profil/spieler/550550",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "30",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,309'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "201'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1'"
+    },
+    {
+      "competicion_raw": "UEFA Super Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "13'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "45",
+      "goles": "12",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,704'"
+    }
+  ]
+}

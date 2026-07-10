@@ -1,0 +1,222 @@
+{
+  "pais": "Madagascar",
+  "href_seleccion": "/madagaskar/startseite/verein/14635",
+  "jugadores": [
+    {
+      "player_id": "199909",
+      "nombre": "Geordan Dupire",
+      "href_perfil": "/geordan-dupire/profil/spieler/199909",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/09/1993 (32)",
+      "club_actual": "Swift Hesperange",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "913338",
+      "nombre": "Ilam Djailane",
+      "href_perfil": "/ilam-djailane/profil/spieler/913338",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/08/2003 (22)",
+      "club_actual": "Blagnac FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1433714",
+      "nombre": "Michel Ramandimbisoa",
+      "href_perfil": "/michel-ramandimbisoa/profil/spieler/1433714",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/02/1986 (40)",
+      "club_actual": "ASSM Elgeco Plus",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "796897",
+      "nombre": "Sandro Trémoulet",
+      "href_perfil": "/sandro-tremoulet/profil/spieler/796897",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/11/1999 (26)",
+      "club_actual": "FK Radnik Surdulica",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "80036",
+      "nombre": "Thomas Fontaine",
+      "href_perfil": "/thomas-fontaine/profil/spieler/80036",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/05/1991 (35)",
+      "club_actual": "Grand Ouest Association Lyonnaise FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "394918",
+      "nombre": "Louis Démoléon",
+      "href_perfil": "/louis-demoleon/profil/spieler/394918",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/04/1997 (29)",
+      "club_actual": "Acireale Calcio",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "806791",
+      "nombre": "Ehsan Kari",
+      "href_perfil": "/ehsan-kari/profil/spieler/806791",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/05/2002 (24)",
+      "club_actual": "ÉFC Fréjus Saint-Raphaël",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "356481",
+      "nombre": "Morgan Jean-Pierre",
+      "href_perfil": "/morgan-jean-pierre/profil/spieler/356481",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/10/1992 (33)",
+      "club_actual": "FC Fleury 91",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1303387",
+      "nombre": "Bono Rabearivelo",
+      "href_perfil": "/bono-rabearivelo/profil/spieler/1303387",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/07/2007 (18)",
+      "club_actual": "Disciples FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "944355",
+      "nombre": "Mathieu Acapandié",
+      "href_perfil": "/mathieu-acapandie/profil/spieler/944355",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/12/2004 (21)",
+      "club_actual": "FC Nantes",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1066838",
+      "nombre": "Radoniaina Rabemanantsoa",
+      "href_perfil": "/radoniaina-rabemanantsoa/profil/spieler/1066838",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/12/1997 (28)",
+      "club_actual": "Disciples FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1209455",
+      "nombre": "Nicolas Randriamanampisoa",
+      "href_perfil": "/nicolas-randriamanampisoa/profil/spieler/1209455",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/09/1994 (31)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1508936",
+      "nombre": "Behaja Tsirava",
+      "href_perfil": "/behaja-tsirava/profil/spieler/1508936",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/10/2007 (18)",
+      "club_actual": "US Monastir",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "344576",
+      "nombre": "Rayan Raveloson",
+      "href_perfil": "/rayan-raveloson/profil/spieler/344576",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/01/1997 (29)",
+      "club_actual": "BSC Young Boys",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "467304",
+      "nombre": "Clément Couturier",
+      "href_perfil": "/clement-couturier/profil/spieler/467304",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/09/1993 (32)",
+      "club_actual": "US Thionville Lusitanos",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "533158",
+      "nombre": "Loïc Lapoussin",
+      "href_perfil": "/loic-lapoussin/profil/spieler/533158",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/1996 (30)",
+      "club_actual": "Guangxi Hengchen",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "737481",
+      "nombre": "Ryan Ponti",
+      "href_perfil": "/ryan-ponti/profil/spieler/737481",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/1998 (28)",
+      "club_actual": "Rodez AF",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "523777",
+      "nombre": "Johan N'zi",
+      "href_perfil": "/johan-nzi/profil/spieler/523777",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/1995 (31)",
+      "club_actual": "Ihud Bnei Sakhnin",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1146314",
+      "nombre": "Ylan El Hadary",
+      "href_perfil": "/ylan-el-hadary/profil/spieler/1146314",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/08/2006 (19)",
+      "club_actual": "Valenciennes FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "395243",
+      "nombre": "Nicolas Fontaine",
+      "href_perfil": "/nicolas-fontaine/profil/spieler/395243",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/02/2000 (26)",
+      "club_actual": "Septemvri Sofia",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "724403",
+      "nombre": "Arnaud Randrianantenaina",
+      "href_perfil": "/arnaud-randrianantenaina/profil/spieler/724403",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/01/2001 (25)",
+      "club_actual": "El Gouna FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "369599",
+      "nombre": "Warren Caddy",
+      "href_perfil": "/warren-caddy/profil/spieler/369599",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/04/1997 (29)",
+      "club_actual": "Randers FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "654092",
+      "nombre": "Bryan Adinany",
+      "href_perfil": "/bryan-adinany/profil/spieler/654092",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/03/2000 (26)",
+      "club_actual": "KV Kortrijk",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "354338",
+      "nombre": "Hakim Abdallah",
+      "href_perfil": "/hakim-abdallah/profil/spieler/354338",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/01/1998 (28)",
+      "club_actual": "UTA Arad",
+      "valor_mercado_raw": "€600k"
+    }
+  ]
+}

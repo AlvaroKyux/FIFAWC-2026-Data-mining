@@ -1,0 +1,33 @@
+{
+  "nombre": "Haris Tabakovic",
+  "href_perfil": "/haris-tabakovic/profil/spieler/203123",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "32",
+      "goles": "13",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,396'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "266'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "15",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,662'"
+    }
+  ]
+}

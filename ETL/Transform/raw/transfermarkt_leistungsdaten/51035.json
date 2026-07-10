@@ -1,0 +1,33 @@
+{
+  "nombre": "Johny Placide",
+  "href_perfil": "/johny-placide/profil/spieler/51035",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 2",
+      "partidos": "24",
+      "goles": "24",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,160'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "24",
+      "goles": "24",
+      "asistencias": "8",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,160'"
+    }
+  ]
+}

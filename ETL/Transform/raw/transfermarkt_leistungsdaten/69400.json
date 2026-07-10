@@ -1,0 +1,60 @@
+{
+  "nombre": "Weverton",
+  "href_perfil": "/weverton/profil/spieler/69400",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "17",
+      "goles": "20",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,530'"
+    },
+    {
+      "competicion_raw": "Campeonato Gaúcho",
+      "partidos": "7",
+      "goles": "7",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "6",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "30",
+      "asistencias": "14",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,880'"
+    }
+  ]
+}

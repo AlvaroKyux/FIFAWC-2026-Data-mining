@@ -1,0 +1,42 @@
+{
+  "nombre": "Mohamed Amoura",
+  "href_perfil": "/mohamed-amoura/profil/spieler/746910",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "30",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,928'"
+    },
+    {
+      "competicion_raw": "Bundesliga Playoffs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "40'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,058'"
+    }
+  ]
+}

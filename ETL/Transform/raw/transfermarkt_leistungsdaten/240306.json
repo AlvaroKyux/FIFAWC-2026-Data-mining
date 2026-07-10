@@ -1,0 +1,42 @@
+{
+  "nombre": "Bruno Fernandes",
+  "href_perfil": "/bruno-fernandes/profil/spieler/240306",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "35",
+      "goles": "9",
+      "asistencias": "21",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,068'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "9",
+      "asistencias": "22",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,203'"
+    }
+  ]
+}

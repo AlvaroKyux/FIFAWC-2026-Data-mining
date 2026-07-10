@@ -1,0 +1,33 @@
+{
+  "nombre": "Xaver Schlager",
+  "href_perfil": "/xaver-schlager/profil/spieler/223979",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "26",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,837'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "230'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,067'"
+    }
+  ]
+}

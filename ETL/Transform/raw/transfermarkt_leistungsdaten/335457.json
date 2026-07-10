@@ -1,0 +1,51 @@
+{
+  "nombre": "Ermedin Demirovic",
+  "href_perfil": "/ermedin-demirovic/profil/spieler/335457",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "25",
+      "goles": "12",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,498'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "547'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "303'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "19'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "15",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,367'"
+    }
+  ]
+}

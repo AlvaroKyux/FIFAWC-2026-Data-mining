@@ -1,0 +1,51 @@
+{
+  "nombre": "Fabián Balbuena",
+  "href_perfil": "/fabian-balbuena/profil/spieler/285548",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "585'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "234'"
+    },
+    {
+      "competicion_raw": "Campeonato Gaúcho",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "244'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,064'"
+    }
+  ]
+}

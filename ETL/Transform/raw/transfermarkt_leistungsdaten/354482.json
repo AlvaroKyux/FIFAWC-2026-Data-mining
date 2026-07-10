@@ -1,0 +1,69 @@
+{
+  "nombre": "Amir Murillo",
+  "href_perfil": "/amir-murillo/profil/spieler/354482",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "988'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "12",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "957'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "388'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "Trophée des Champions",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "13'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "4",
+      "asistencias": "5",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,706'"
+    }
+  ]
+}

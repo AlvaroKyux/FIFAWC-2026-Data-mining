@@ -1,0 +1,51 @@
+{
+  "nombre": "Patrick Berg",
+  "href_perfil": "/patrick-berg/profil/spieler/308439",
+  "competiciones": [
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "12",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,110'"
+    },
+    {
+      "competicion_raw": "Eliteserien",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "NM-Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "510'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,700'"
+    }
+  ]
+}

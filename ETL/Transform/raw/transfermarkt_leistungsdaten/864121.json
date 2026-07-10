@@ -1,0 +1,42 @@
+{
+  "nombre": "Abdul Fatawu",
+  "href_perfil": "/abdul-fatawu/profil/spieler/864121",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "44",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,722'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "9",
+      "asistencias": "8",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,722'"
+    }
+  ]
+}

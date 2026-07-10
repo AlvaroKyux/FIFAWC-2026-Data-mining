@@ -1,0 +1,240 @@
+{
+  "pais": "Turkiye",
+  "href_seleccion": "/turkei/startseite/verein/3381",
+  "jugadores": [
+    {
+      "player_id": "292199",
+      "nombre": "Uğurcan Çakır",
+      "href_perfil": "/ugurcan-cakir/profil/spieler/292199",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/04/1996 (30)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "336077",
+      "nombre": "Altay Bayındır",
+      "href_perfil": "/altay-bayindir/profil/spieler/336077",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/04/1998 (28)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "51894",
+      "nombre": "Mert Günok",
+      "href_perfil": "/mert-gunok/profil/spieler/51894",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/03/1989 (37)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "361260",
+      "nombre": "Ozan Kabak",
+      "href_perfil": "/ozan-kabak/profil/spieler/361260",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/03/2000 (26)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "340879",
+      "nombre": "Merih Demiral",
+      "href_perfil": "/merih-demiral/profil/spieler/340879",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/03/1998 (28)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "199316",
+      "nombre": "Abdülkerim Bardakcı",
+      "href_perfil": "/abdulkerim-bardakci/profil/spieler/199316",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/09/1994 (31)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "320141",
+      "nombre": "Çağlar Söyüncü",
+      "href_perfil": "/caglar-soyuncu/profil/spieler/320141",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/05/1996 (30)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "295024",
+      "nombre": "Samet Akaydin",
+      "href_perfil": "/samet-akaydin/profil/spieler/295024",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/03/1994 (32)",
+      "club_actual": "Caykur Rizespor",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "369316",
+      "nombre": "Ferdi Kadıoğlu",
+      "href_perfil": "/ferdi-kadioglu/profil/spieler/369316",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/10/1999 (26)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "616894",
+      "nombre": "Eren Elmalı",
+      "href_perfil": "/eren-elmali/profil/spieler/616894",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/07/2000 (25)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "251075",
+      "nombre": "Zeki Çelik",
+      "href_perfil": "/zeki-celik/profil/spieler/251075",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/02/1997 (29)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "353922",
+      "nombre": "Mert Müldür",
+      "href_perfil": "/mert-muldur/profil/spieler/353922",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/04/1999 (27)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "126414",
+      "nombre": "Hakan Çalhanoğlu",
+      "href_perfil": "/hakan-calhanoglu/profil/spieler/126414",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/02/1994 (32)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "613725",
+      "nombre": "İsmail Yüksek",
+      "href_perfil": "/ismail-yuksek/profil/spieler/613725",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/01/1999 (27)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "244940",
+      "nombre": "Salih Özcan",
+      "href_perfil": "/salih-ozcan/profil/spieler/244940",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1998 (28)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "119031",
+      "nombre": "Kaan Ayhan",
+      "href_perfil": "/kaan-ayhan/profil/spieler/119031",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/11/1994 (31)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "454567",
+      "nombre": "Orkun Kökçü",
+      "href_perfil": "/orkun-kokcu/profil/spieler/454567",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/2000 (25)",
+      "club_actual": "Besiktas JK",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "861410",
+      "nombre": "Arda Güler",
+      "href_perfil": "/arda-guler/profil/spieler/861410",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/02/2005 (21)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "816585",
+      "nombre": "Can Uzun",
+      "href_perfil": "/can-uzun/profil/spieler/816585",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/11/2005 (20)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "845654",
+      "nombre": "Kenan Yıldız",
+      "href_perfil": "/kenan-yildiz/profil/spieler/845654",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/05/2005 (21)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "541537",
+      "nombre": "Barış Alper Yılmaz",
+      "href_perfil": "/baris-alper-yilmaz/profil/spieler/541537",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/05/2000 (26)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "382528",
+      "nombre": "Kerem Aktürkoğlu",
+      "href_perfil": "/kerem-akturkoglu/profil/spieler/382528",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/10/1998 (27)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "396908",
+      "nombre": "Yunus Akgün",
+      "href_perfil": "/yunus-akgun/profil/spieler/396908",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/07/2000 (25)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "563749",
+      "nombre": "Oğuz Aydın",
+      "href_perfil": "/oguz-aydin/profil/spieler/563749",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/10/2000 (25)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "216603",
+      "nombre": "İrfan Can Kahveci",
+      "href_perfil": "/irfan-can-kahveci/profil/spieler/216603",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/07/1995 (30)",
+      "club_actual": "Kasimpasa",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1063292",
+      "nombre": "Deniz Gül",
+      "href_perfil": "/deniz-gul/profil/spieler/1063292",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/07/2004 (21)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€5.00m"
+    }
+  ]
+}

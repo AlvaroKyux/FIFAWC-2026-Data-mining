@@ -1,0 +1,42 @@
+{
+  "nombre": "Kamaldeen Sulemana",
+  "href_perfil": "/kamaldeen-sulemana/profil/spieler/746695",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,002'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "288'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "55'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,345'"
+    }
+  ]
+}

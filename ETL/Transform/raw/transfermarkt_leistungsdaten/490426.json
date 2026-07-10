@@ -1,0 +1,42 @@
+{
+  "nombre": "Krépin Diatta",
+  "href_perfil": "/krepin-diatta/profil/spieler/490426",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,011'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "179'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,235'"
+    }
+  ]
+}

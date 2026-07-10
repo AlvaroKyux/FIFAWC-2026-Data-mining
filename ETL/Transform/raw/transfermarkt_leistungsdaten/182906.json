@@ -1,0 +1,42 @@
+{
+  "nombre": "Mike Maignan",
+  "href_perfil": "/mike-maignan/profil/spieler/182906",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "37",
+      "goles": "35",
+      "asistencias": "14",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,296'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "38",
+      "asistencias": "16",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,656'"
+    }
+  ]
+}

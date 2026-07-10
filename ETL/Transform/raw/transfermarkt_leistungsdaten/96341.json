@@ -1,0 +1,51 @@
+{
+  "nombre": "Romelu Lukaku",
+  "href_perfil": "/romelu-lukaku/profil/spieler/96341",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "40'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "16'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "8'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "64'"
+    }
+  ]
+}

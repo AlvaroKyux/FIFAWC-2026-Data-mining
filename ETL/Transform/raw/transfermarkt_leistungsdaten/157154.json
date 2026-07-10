@@ -1,0 +1,33 @@
+{
+  "nombre": "Roderick Miller",
+  "href_perfil": "/roderick-miller/profil/spieler/157154",
+  "competiciones": [
+    {
+      "competicion_raw": "Premyer Liqa",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,020'"
+    },
+    {
+      "competicion_raw": "Azerbaycan Kuboku",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "279'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,299'"
+    }
+  ]
+}

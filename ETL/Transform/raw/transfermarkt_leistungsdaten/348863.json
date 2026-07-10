@@ -1,0 +1,60 @@
+{
+  "nombre": "Juninho Bacuna",
+  "href_perfil": "/juninho-bacuna/profil/spieler/348863",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "709'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "214'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "249'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Play-Offs",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "151'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,323'"
+    }
+  ]
+}

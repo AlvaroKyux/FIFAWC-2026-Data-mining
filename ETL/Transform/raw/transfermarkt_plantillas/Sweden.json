@@ -1,0 +1,240 @@
+{
+  "pais": "Sweden",
+  "href_seleccion": "/schweden/startseite/verein/3557",
+  "jugadores": [
+    {
+      "player_id": "273742",
+      "nombre": "Viktor Johansson",
+      "href_perfil": "/viktor-johansson/profil/spieler/273742",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/09/1998 (27)",
+      "club_actual": "Stoke City",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "549440",
+      "nombre": "Jacob Widell Zetterström",
+      "href_perfil": "/jacob-widell-zetterstrom/profil/spieler/549440",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/07/1998 (27)",
+      "club_actual": "Derby County",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "75890",
+      "nombre": "Kristoffer Nordfeldt",
+      "href_perfil": "/kristoffer-nordfeldt/profil/spieler/75890",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/06/1989 (37)",
+      "club_actual": "AIK",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "503075",
+      "nombre": "Isak Hien",
+      "href_perfil": "/isak-hien/profil/spieler/503075",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/01/1999 (27)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "485395",
+      "nombre": "Gustaf Lagerbielke",
+      "href_perfil": "/gustaf-lagerbielke/profil/spieler/485395",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/04/2000 (26)",
+      "club_actual": "SC Braga",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "184573",
+      "nombre": "Victor Lindelöf",
+      "href_perfil": "/victor-lindelof/profil/spieler/184573",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/07/1994 (31)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "392179",
+      "nombre": "Hjalmar Ekdal",
+      "href_perfil": "/hjalmar-ekdal/profil/spieler/392179",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/10/1998 (27)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "292534",
+      "nombre": "Eric Smith",
+      "href_perfil": "/eric-smith/profil/spieler/292534",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/01/1997 (29)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "258987",
+      "nombre": "Carl Starfelt",
+      "href_perfil": "/carl-starfelt/profil/spieler/258987",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/06/1995 (31)",
+      "club_actual": "Celta de Vigo",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "579287",
+      "nombre": "Daniel Svensson",
+      "href_perfil": "/daniel-svensson/profil/spieler/579287",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/02/2002 (24)",
+      "club_actual": "Borussia Dortmund",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "362108",
+      "nombre": "Gabriel Gudmundsson",
+      "href_perfil": "/gabriel-gudmundsson/profil/spieler/362108",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/04/1999 (27)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "252345",
+      "nombre": "Ken Sema",
+      "href_perfil": "/ken-sema/profil/spieler/252345",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/09/1993 (32)",
+      "club_actual": "Pafos FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "222855",
+      "nombre": "Jesper Karlström",
+      "href_perfil": "/jesper-karlstrom/profil/spieler/222855",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/06/1995 (31)",
+      "club_actual": "Udinese Calcio",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "866246",
+      "nombre": "Lucas Bergvall",
+      "href_perfil": "/lucas-bergvall/profil/spieler/866246",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/02/2006 (20)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "667287",
+      "nombre": "Yasin Ayari",
+      "href_perfil": "/yasin-ayari/profil/spieler/667287",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/10/2003 (22)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "342405",
+      "nombre": "Mattias Svanberg",
+      "href_perfil": "/mattias-svanberg/profil/spieler/342405",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/1999 (27)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "715653",
+      "nombre": "Besfort Zeneli",
+      "href_perfil": "/besfort-zeneli/profil/spieler/715653",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/11/2002 (23)",
+      "club_actual": "Union Saint-Gilloise",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "744853",
+      "nombre": "Herman Johansson",
+      "href_perfil": "/herman-johansson/profil/spieler/744853",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "16/10/1997 (28)",
+      "club_actual": "FC Dallas",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "687622",
+      "nombre": "Elliot Stroud",
+      "href_perfil": "/elliot-stroud/profil/spieler/687622",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "22/06/2002 (24)",
+      "club_actual": "Mjällby AIF",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "475949",
+      "nombre": "Benjamin Nygren",
+      "href_perfil": "/benjamin-nygren/profil/spieler/475949",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/07/2001 (24)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "731771",
+      "nombre": "Taha Ali",
+      "href_perfil": "/taha-ali/profil/spieler/731771",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/07/1998 (27)",
+      "club_actual": "Malmö FF",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "583189",
+      "nombre": "Anthony Elanga",
+      "href_perfil": "/anthony-elanga/profil/spieler/583189",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/04/2002 (24)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "633454",
+      "nombre": "Alexander Bernhardsson",
+      "href_perfil": "/alexander-bernhardsson/profil/spieler/633454",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/09/1998 (27)",
+      "club_actual": "Holstein Kiel",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "349066",
+      "nombre": "Alexander Isak",
+      "href_perfil": "/alexander-isak/profil/spieler/349066",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/09/1999 (26)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€85.00m"
+    },
+    {
+      "player_id": "325443",
+      "nombre": "Viktor Gyökeres",
+      "href_perfil": "/viktor-gyokeres/profil/spieler/325443",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/06/1998 (28)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€65.00m"
+    },
+    {
+      "player_id": "320440",
+      "nombre": "Gustaf Nilsson",
+      "href_perfil": "/gustaf-nilsson/profil/spieler/320440",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/05/1997 (29)",
+      "club_actual": "Club Brugge KV",
+      "valor_mercado_raw": "€1.80m"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "pais": "Republic of Ireland",
+  "href_seleccion": "/irland/startseite/verein/3509",
+  "jugadores": [
+    {
+      "player_id": "340918",
+      "nombre": "Caoimhín Kelleher",
+      "href_perfil": "/caoimhin-kelleher/profil/spieler/340918",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/11/1998 (27)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "357658",
+      "nombre": "Mark Travers",
+      "href_perfil": "/mark-travers/profil/spieler/357658",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/05/1999 (27)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "478712",
+      "nombre": "Ed McGinty",
+      "href_perfil": "/ed-mcginty/profil/spieler/478712",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/08/1999 (26)",
+      "club_actual": "Shamrock Rovers",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1012142",
+      "nombre": "Conor Brann",
+      "href_perfil": "/conor-brann/profil/spieler/1012142",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/06/2003 (23)",
+      "club_actual": "Cork City FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "469050",
+      "nombre": "Nathan Collins",
+      "href_perfil": "/nathan-collins/profil/spieler/469050",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/2001 (25)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "401320",
+      "nombre": "Dara O'Shea",
+      "href_perfil": "/dara-oshea/profil/spieler/401320",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/03/1999 (27)",
+      "club_actual": "Ipswich Town",
+      "valor_mercado_raw": "€16.00m"
+    },
+    {
+      "player_id": "439497",
+      "nombre": "Liam Scales",
+      "href_perfil": "/liam-scales/profil/spieler/439497",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/08/1998 (27)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "648032",
+      "nombre": "James Abankwah",
+      "href_perfil": "/james-abankwah/profil/spieler/648032",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/01/2004 (22)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "900601",
+      "nombre": "Alex Murphy",
+      "href_perfil": "/alex-murphy/profil/spieler/900601",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/06/2004 (22)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "433329",
+      "nombre": "Corrie Ndaba",
+      "href_perfil": "/corrie-ndaba/profil/spieler/433329",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/12/1999 (26)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "711544",
+      "nombre": "Jake O'Brien",
+      "href_perfil": "/jake-obrien/profil/spieler/711544",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/05/2001 (25)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "68390",
+      "nombre": "Séamus Coleman",
+      "href_perfil": "/seamus-coleman/profil/spieler/68390",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/10/1988 (37)",
+      "club_actual": "Everton FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "419025",
+      "nombre": "Conor Coventry",
+      "href_perfil": "/conor-coventry/profil/spieler/419025",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/03/2000 (26)",
+      "club_actual": "Charlton Athletic",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "503975",
+      "nombre": "Joe Hodge",
+      "href_perfil": "/joe-hodge/profil/spieler/503975",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2002 (23)",
+      "club_actual": "CD Tondela",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "1334055",
+      "nombre": "Josh O'Dwyer",
+      "href_perfil": "/josh-odwyer/profil/spieler/1334055",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/03/2010 (16)",
+      "club_actual": "Shamrock Rovers Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "357656",
+      "nombre": "Jayson Molumby",
+      "href_perfil": "/jayson-molumby/profil/spieler/357656",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/08/1999 (26)",
+      "club_actual": "West Bromwich Albion",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "801420",
+      "nombre": "Killian Phillips",
+      "href_perfil": "/killian-phillips/profil/spieler/801420",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/03/2002 (24)",
+      "club_actual": "St. Mirren FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "586628",
+      "nombre": "Matthew Healy",
+      "href_perfil": "/matthew-healy/profil/spieler/586628",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/04/2002 (24)",
+      "club_actual": "Shamrock Rovers",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "683530",
+      "nombre": "Dawson Devoy",
+      "href_perfil": "/dawson-devoy/profil/spieler/683530",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/11/2001 (24)",
+      "club_actual": "Bohemian Football Club",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "344107",
+      "nombre": "Jamie McGrath",
+      "href_perfil": "/jamie-mcgrath/profil/spieler/344107",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/09/1996 (29)",
+      "club_actual": "Hibernian FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "728480",
+      "nombre": "Jack Moylan",
+      "href_perfil": "/jack-moylan/profil/spieler/728480",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/2001 (24)",
+      "club_actual": "Lincoln City",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "614554",
+      "nombre": "Kian Leavy",
+      "href_perfil": "/kian-leavy/profil/spieler/614554",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2002 (24)",
+      "club_actual": "St. Patrick's Athletic",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1259889",
+      "nombre": "Adam Brennan",
+      "href_perfil": "/adam-brennan/profil/spieler/1259889",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/05/2007 (19)",
+      "club_actual": "Shamrock Rovers",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1110448",
+      "nombre": "Jaden Umeh",
+      "href_perfil": "/jaden-umeh/profil/spieler/1110448",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/03/2008 (18)",
+      "club_actual": "SL Benfica U23",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "392591",
+      "nombre": "Chiedozie Ogbene",
+      "href_perfil": "/chiedozie-ogbene/profil/spieler/392591",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/05/1997 (29)",
+      "club_actual": "Ipswich Town",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "552655",
+      "nombre": "Troy Parrott",
+      "href_perfil": "/troy-parrott/profil/spieler/552655",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/02/2002 (24)",
+      "club_actual": "AZ Alkmaar",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "1005766",
+      "nombre": "Mason Melia",
+      "href_perfil": "/mason-melia/profil/spieler/1005766",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/09/2007 (18)",
+      "club_actual": "Tottenham Hotspur U21",
+      "valor_mercado_raw": "€1.00m"
+    }
+  ]
+}

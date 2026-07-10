@@ -1,0 +1,51 @@
+{
+  "nombre": "Luis Mejía",
+  "href_perfil": "/luis-mejia/profil/spieler/76715",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga AUF Apertura",
+      "partidos": "10",
+      "goles": "11",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "5",
+      "goles": "8",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "405'"
+    },
+    {
+      "competicion_raw": "Liga AUF Intermedio",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "20",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,605'"
+    }
+  ]
+}

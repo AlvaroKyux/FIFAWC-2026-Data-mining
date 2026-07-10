@@ -1,0 +1,51 @@
+{
+  "nombre": "Andrés Gómez",
+  "href_perfil": "/andres-gomez/profil/spieler/957461",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "16",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,324'"
+    },
+    {
+      "competicion_raw": "Campeonato Carioca",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "732'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "107'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "114'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,277'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Marco Pašalić",
+  "href_perfil": "/marco-pasalic/profil/spieler/395928",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "644'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "6'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "11",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "650'"
+    }
+  ]
+}

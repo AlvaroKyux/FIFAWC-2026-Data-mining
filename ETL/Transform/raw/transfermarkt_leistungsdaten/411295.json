@@ -1,0 +1,51 @@
+{
+  "nombre": "Raphinha",
+  "href_perfil": "/raphinha/profil/spieler/411295",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "22",
+      "goles": "13",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,389'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "544'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "113'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "21",
+      "asistencias": "8",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,194'"
+    }
+  ]
+}

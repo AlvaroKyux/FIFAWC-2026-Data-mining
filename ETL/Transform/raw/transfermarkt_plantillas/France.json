@@ -1,0 +1,240 @@
+{
+  "pais": "France",
+  "href_seleccion": "/frankreich/startseite/verein/3377",
+  "jugadores": [
+    {
+      "player_id": "743515",
+      "nombre": "Robin Risser",
+      "href_perfil": "/robin-risser/profil/spieler/743515",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/12/2004 (21)",
+      "club_actual": "RC Lens",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "182906",
+      "nombre": "Mike Maignan",
+      "href_perfil": "/mike-maignan/profil/spieler/182906",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/07/1995 (30)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "191056",
+      "nombre": "Brice Samba",
+      "href_perfil": "/brice-samba/profil/spieler/191056",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/04/1994 (32)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "495666",
+      "nombre": "William Saliba",
+      "href_perfil": "/william-saliba/profil/spieler/495666",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/03/2001 (25)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "344695",
+      "nombre": "Dayot Upamecano",
+      "href_perfil": "/dayot-upamecano/profil/spieler/344695",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/10/1998 (27)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "434224",
+      "nombre": "Maxence Lacroix",
+      "href_perfil": "/maxence-lacroix/profil/spieler/434224",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/04/2000 (26)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "357119",
+      "nombre": "Ibrahima Konaté",
+      "href_perfil": "/ibrahima-konate/profil/spieler/357119",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/05/1999 (27)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "339808",
+      "nombre": "Theo Hernández",
+      "href_perfil": "/theo-hernandez/profil/spieler/339808",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/10/1997 (28)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "281963",
+      "nombre": "Lucas Hernández",
+      "href_perfil": "/lucas-hernandez/profil/spieler/281963",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "14/02/1996 (30)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "126664",
+      "nombre": "Lucas Digne",
+      "href_perfil": "/lucas-digne/profil/spieler/126664",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/07/1993 (32)",
+      "club_actual": "Aston Villa",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "411975",
+      "nombre": "Jules Koundé",
+      "href_perfil": "/jules-kounde/profil/spieler/411975",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "12/11/1998 (27)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "620322",
+      "nombre": "Malo Gusto",
+      "href_perfil": "/malo-gusto/profil/spieler/620322",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "19/05/2003 (23)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "413112",
+      "nombre": "Aurélien Tchouaméni",
+      "href_perfil": "/aurelien-tchouameni/profil/spieler/413112",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/01/2000 (26)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "225083",
+      "nombre": "N'Golo Kanté",
+      "href_perfil": "/ngolo-kante/profil/spieler/225083",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/1991 (35)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "810092",
+      "nombre": "Warren Zaïre-Emery",
+      "href_perfil": "/warren-zaire-emery/profil/spieler/810092",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/03/2006 (20)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "624690",
+      "nombre": "Manu Koné",
+      "href_perfil": "/manu-kone/profil/spieler/624690",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/05/2001 (25)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "182913",
+      "nombre": "Adrien Rabiot",
+      "href_perfil": "/adrien-rabiot/profil/spieler/182913",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/04/1995 (31)",
+      "club_actual": "AC Milan",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "607223",
+      "nombre": "Rayan Cherki",
+      "href_perfil": "/rayan-cherki/profil/spieler/607223",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "17/08/2003 (22)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "708265",
+      "nombre": "Bradley Barcola",
+      "href_perfil": "/bradley-barcola/profil/spieler/708265",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/09/2002 (23)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "566723",
+      "nombre": "Michael Olise",
+      "href_perfil": "/michael-olise/profil/spieler/566723",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/12/2001 (24)",
+      "club_actual": "Bayern Munich",
+      "valor_mercado_raw": "€150.00m"
+    },
+    {
+      "player_id": "914562",
+      "nombre": "Désiré Doué",
+      "href_perfil": "/desire-doue/profil/spieler/914562",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/06/2005 (21)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€120.00m"
+    },
+    {
+      "player_id": "745200",
+      "nombre": "Maghnes Akliouche",
+      "href_perfil": "/maghnes-akliouche/profil/spieler/745200",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/02/2002 (24)",
+      "club_actual": "AS Monaco",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "342229",
+      "nombre": "Kylian Mbappé",
+      "href_perfil": "/kylian-mbappe/profil/spieler/342229",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/12/1998 (27)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€180.00m"
+    },
+    {
+      "player_id": "288230",
+      "nombre": "Ousmane Dembélé",
+      "href_perfil": "/ousmane-dembele/profil/spieler/288230",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/05/1997 (29)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "318528",
+      "nombre": "Marcus Thuram",
+      "href_perfil": "/marcus-thuram/profil/spieler/318528",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/08/1997 (28)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "420002",
+      "nombre": "Jean-Philippe Mateta",
+      "href_perfil": "/jean-philippe-mateta/profil/spieler/420002",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/06/1997 (29)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€30.00m"
+    }
+  ]
+}

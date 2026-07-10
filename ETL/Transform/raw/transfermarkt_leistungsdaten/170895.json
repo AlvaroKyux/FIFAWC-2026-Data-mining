@@ -1,0 +1,33 @@
+{
+  "nombre": "Garry Rodrigues",
+  "href_perfil": "/garry-rodrigues/profil/spieler/170895",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "31",
+      "goles": "6",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,907'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "385'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "6",
+      "asistencias": "8",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,292'"
+    }
+  ]
+}

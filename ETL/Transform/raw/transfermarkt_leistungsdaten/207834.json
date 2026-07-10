@@ -1,0 +1,42 @@
+{
+  "nombre": "Yassine Bounou",
+  "href_perfil": "/yassine-bounou/profil/spieler/207834",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "26",
+      "goles": "20",
+      "asistencias": "14",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,340'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "5",
+      "goles": "8",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "31",
+      "asistencias": "16",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "3,300'"
+    }
+  ]
+}

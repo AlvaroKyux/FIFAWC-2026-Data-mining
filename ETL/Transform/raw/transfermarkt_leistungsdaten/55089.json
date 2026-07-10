@@ -1,0 +1,33 @@
+{
+  "nombre": "Oliver Baumann",
+  "href_perfil": "/oliver-baumann/profil/spieler/55089",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "34",
+      "goles": "52",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,060'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "54",
+      "asistencias": "8",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,270'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Diego Moreira",
+  "href_perfil": "/diego-moreira/profil/spieler/655006",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "27",
+      "goles": "4",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,045'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "514'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "285'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "88'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "42",
+      "goles": "5",
+      "asistencias": "9",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,932'"
+    }
+  ]
+}

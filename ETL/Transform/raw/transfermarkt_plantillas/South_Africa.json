@@ -1,0 +1,240 @@
+{
+  "pais": "South Africa",
+  "href_seleccion": "/sudafrika/startseite/verein/3806",
+  "jugadores": [
+    {
+      "player_id": "453370",
+      "nombre": "Sipho Chaine",
+      "href_perfil": "/sipho-chaine/profil/spieler/453370",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/12/1996 (29)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "175577",
+      "nombre": "Ronwen Williams",
+      "href_perfil": "/ronwen-williams/profil/spieler/175577",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/01/1992 (34)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "258304",
+      "nombre": "Ricardo Goss",
+      "href_perfil": "/ricardo-goss/profil/spieler/258304",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/04/1994 (32)",
+      "club_actual": "Siwelele Football Club ",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1378320",
+      "nombre": "Mbekezeli Mbokazi",
+      "href_perfil": "/mbekezeli-mbokazi/profil/spieler/1378320",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/09/2005 (20)",
+      "club_actual": "Chicago Fire FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "1107265",
+      "nombre": "Ime Okon",
+      "href_perfil": "/ime-okon/profil/spieler/1107265",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/02/2004 (22)",
+      "club_actual": "Hannover 96",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "1069801",
+      "nombre": "Olwethu Makhanya",
+      "href_perfil": "/olwethu-makhanya/profil/spieler/1069801",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/2004 (22)",
+      "club_actual": "Philadelphia Union",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "399068",
+      "nombre": "Nkosinathi Sibisi",
+      "href_perfil": "/nkosinathi-sibisi/profil/spieler/399068",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/1995 (30)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€1.60m"
+    },
+    {
+      "player_id": "1283140",
+      "nombre": "Khulumani Ndamane",
+      "href_perfil": "/khulumani-ndamane/profil/spieler/1283140",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/02/2004 (22)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1175086",
+      "nombre": "Samukele Kabini",
+      "href_perfil": "/samukele-kabini/profil/spieler/1175086",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/03/2004 (22)",
+      "club_actual": "Molde FK",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "353432",
+      "nombre": "Aubrey Modiba",
+      "href_perfil": "/aubrey-modiba/profil/spieler/353432",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/07/1995 (30)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "555209",
+      "nombre": "Bradley Cross",
+      "href_perfil": "/bradley-cross/profil/spieler/555209",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/01/2001 (25)",
+      "club_actual": "Kaizer Chiefs",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1109254",
+      "nombre": "Thabang Matuludi",
+      "href_perfil": "/thabang-matuludi/profil/spieler/1109254",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/01/1999 (27)",
+      "club_actual": "Polokwane City FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "450806",
+      "nombre": "Khuliso Mudau",
+      "href_perfil": "/khuliso-mudau/profil/spieler/450806",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/04/1995 (31)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "994370",
+      "nombre": "Kamogelo Sebelebele",
+      "href_perfil": "/kamogelo-sebelebele/profil/spieler/994370",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "21/07/2002 (23)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "436372",
+      "nombre": "Teboho Mokoena",
+      "href_perfil": "/teboho-mokoena/profil/spieler/436372",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/01/1997 (29)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "735697",
+      "nombre": "Thalente Mbatha",
+      "href_perfil": "/thalente-mbatha/profil/spieler/735697",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/03/2000 (26)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "804472",
+      "nombre": "Jayden Adams",
+      "href_perfil": "/jayden-adams/profil/spieler/804472",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/05/2001 (25)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "401736",
+      "nombre": "Yaya Sithole",
+      "href_perfil": "/yaya-sithole/profil/spieler/401736",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/03/1999 (27)",
+      "club_actual": "CD Tondela",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "176578",
+      "nombre": "Themba Zwane",
+      "href_perfil": "/themba-zwane/profil/spieler/176578",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/08/1989 (36)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1125037",
+      "nombre": "Relebohile Mofokeng",
+      "href_perfil": "/relebohile-mofokeng/profil/spieler/1125037",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/10/2004 (21)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "673381",
+      "nombre": "Oswin Appollis",
+      "href_perfil": "/oswin-appollis/profil/spieler/673381",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/08/2001 (24)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "844485",
+      "nombre": "Tshepang Moremi",
+      "href_perfil": "/tshepang-moremi/profil/spieler/844485",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "02/10/2000 (25)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€1.40m"
+    },
+    {
+      "player_id": "983330",
+      "nombre": "Thapelo Maseko",
+      "href_perfil": "/thapelo-maseko/profil/spieler/983330",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "11/11/2003 (22)",
+      "club_actual": "AEL Limassol",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "467623",
+      "nombre": "Lyle Foster",
+      "href_perfil": "/lyle-foster/profil/spieler/467623",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/09/2000 (25)",
+      "club_actual": "Burnley FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "337884",
+      "nombre": "Iqraam Rayners",
+      "href_perfil": "/iqraam-rayners/profil/spieler/337884",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/12/1995 (30)",
+      "club_actual": "Mamelodi Sundowns FC",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "746781",
+      "nombre": "Evidence Makgopa",
+      "href_perfil": "/evidence-makgopa/profil/spieler/746781",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/06/2000 (26)",
+      "club_actual": "Orlando Pirates",
+      "valor_mercado_raw": "€1.40m"
+    }
+  ]
+}

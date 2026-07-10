@@ -1,0 +1,33 @@
+{
+  "nombre": "Ehsan Haddad",
+  "href_perfil": "/ehsan-haddad/profil/spieler/310943",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "262'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "75'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "337'"
+    }
+  ]
+}

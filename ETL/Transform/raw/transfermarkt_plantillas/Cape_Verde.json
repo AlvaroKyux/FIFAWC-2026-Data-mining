@@ -1,0 +1,240 @@
+{
+  "pais": "Cape Verde",
+  "href_seleccion": "/kap-verde/startseite/verein/4311",
+  "jugadores": [
+    {
+      "player_id": "532096",
+      "nombre": "CJ dos Santos",
+      "href_perfil": "/cj-dos-santos/profil/spieler/532096",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/08/2000 (25)",
+      "club_actual": "San Diego FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "398048",
+      "nombre": "Márcio Rosa",
+      "href_perfil": "/marcio-rosa/profil/spieler/398048",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/02/1997 (29)",
+      "club_actual": "Montana",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "242277",
+      "nombre": "Vozinha",
+      "href_perfil": "/vozinha/profil/spieler/242277",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/06/1986 (40)",
+      "club_actual": "GD Chaves",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "484988",
+      "nombre": "Logan Costa",
+      "href_perfil": "/logan-costa/profil/spieler/484988",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/04/2001 (25)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "349570",
+      "nombre": "Diney Borges",
+      "href_perfil": "/diney-borges/profil/spieler/349570",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/01/1995 (31)",
+      "club_actual": "Al-Bataeh CSC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "662119",
+      "nombre": "Kelvin Pires",
+      "href_perfil": "/kelvin-pires/profil/spieler/662119",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/06/2000 (26)",
+      "club_actual": "SJK Seinäjoki",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "166158",
+      "nombre": "Roberto Lopes",
+      "href_perfil": "/roberto-lopes/profil/spieler/166158",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/1992 (34)",
+      "club_actual": "Shamrock Rovers",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "80486",
+      "nombre": "Stopira",
+      "href_perfil": "/stopira/profil/spieler/80486",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/05/1988 (38)",
+      "club_actual": "SC União Torreense",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "611855",
+      "nombre": "Sidny Lopes Cabral",
+      "href_perfil": "/sidny-lopes-cabral/profil/spieler/611855",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/09/2002 (23)",
+      "club_actual": "SL Benfica",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "1072017",
+      "nombre": "Wagner Pina",
+      "href_perfil": "/wagner-pina/profil/spieler/1072017",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/11/2002 (23)",
+      "club_actual": "Trabzonspor",
+      "valor_mercado_raw": "€11.00m"
+    },
+    {
+      "player_id": "203517",
+      "nombre": "Steven Moreira",
+      "href_perfil": "/steven-moreira/profil/spieler/203517",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/08/1994 (31)",
+      "club_actual": "Columbus Crew",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "544586",
+      "nombre": "Kevin Pina",
+      "href_perfil": "/kevin-pina/profil/spieler/544586",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/01/1997 (29)",
+      "club_actual": "FC Krasnodar",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "258513",
+      "nombre": "Laros Duarte",
+      "href_perfil": "/laros-duarte/profil/spieler/258513",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/1997 (29)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "623965",
+      "nombre": "João Paulo",
+      "href_perfil": "/joao-paulo/profil/spieler/623965",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/05/1998 (28)",
+      "club_actual": "FCSB",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "432852",
+      "nombre": "Deroy Duarte",
+      "href_perfil": "/deroy-duarte/profil/spieler/432852",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/07/1999 (26)",
+      "club_actual": "Ludogorets Razgrad",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "272930",
+      "nombre": "Jamiro Monteiro",
+      "href_perfil": "/jamiro-monteiro/profil/spieler/272930",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/11/1993 (32)",
+      "club_actual": "PEC Zwolle",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "620307",
+      "nombre": "Yannick Semedo",
+      "href_perfil": "/yannick-semedo/profil/spieler/620307",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/1995 (30)",
+      "club_actual": "SC Farense",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "840836",
+      "nombre": "Hélio Varela",
+      "href_perfil": "/helio-varela/profil/spieler/840836",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/05/2002 (24)",
+      "club_actual": "Maccabi Tel Aviv",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "448466",
+      "nombre": "Jovane Cabral",
+      "href_perfil": "/jovane-cabral/profil/spieler/448466",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/06/1998 (28)",
+      "club_actual": "CF Estrela Amadora",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "531450",
+      "nombre": "Willy Semedo",
+      "href_perfil": "/willy-semedo/profil/spieler/531450",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/04/1994 (32)",
+      "club_actual": "Omonia Nicosia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "111627",
+      "nombre": "Ryan Mendes",
+      "href_perfil": "/ryan-mendes/profil/spieler/111627",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "08/01/1990 (36)",
+      "club_actual": "Igdir FK",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "791528",
+      "nombre": "Telmo Arcanjo",
+      "href_perfil": "/telmo-arcanjo/profil/spieler/791528",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/06/2001 (25)",
+      "club_actual": "Vitória Guimarães SC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "170895",
+      "nombre": "Garry Rodrigues",
+      "href_perfil": "/garry-rodrigues/profil/spieler/170895",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/11/1990 (35)",
+      "club_actual": "Apollon Limassol",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "820252",
+      "nombre": "Gilson Benchimol",
+      "href_perfil": "/gilson-benchimol/profil/spieler/820252",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/12/2001 (24)",
+      "club_actual": "Akron Tolyatti",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "676411",
+      "nombre": "Dailon Livramento",
+      "href_perfil": "/dailon-livramento/profil/spieler/676411",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/05/2001 (25)",
+      "club_actual": "Casa Pia AC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "306166",
+      "nombre": "Nuno da Costa",
+      "href_perfil": "/nuno-da-costa/profil/spieler/306166",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/02/1991 (35)",
+      "club_actual": "Basaksehir FK",
+      "valor_mercado_raw": "€400k"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Malo Gusto",
+  "href_perfil": "/malo-gusto/profil/spieler/620322",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,268'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "476'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "300'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "261'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "3,305'"
+    }
+  ]
+}

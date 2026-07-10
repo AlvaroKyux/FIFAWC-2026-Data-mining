@@ -1,0 +1,42 @@
+{
+  "nombre": "Ernest Nuamah",
+  "href_perfil": "/ernest-nuamah/profil/spieler/955070",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "32'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "32'"
+    }
+  ]
+}

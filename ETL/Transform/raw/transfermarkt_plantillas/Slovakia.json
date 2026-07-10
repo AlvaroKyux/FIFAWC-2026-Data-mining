@@ -1,0 +1,240 @@
+{
+  "pais": "Slovakia",
+  "href_seleccion": "/slowakei/startseite/verein/3503",
+  "jugadores": [
+    {
+      "player_id": "471164",
+      "nombre": "Dominik Takac",
+      "href_perfil": "/dominik-takac/profil/spieler/471164",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/01/1999 (27)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "546819",
+      "nombre": "Lubomir Belko",
+      "href_perfil": "/lubomir-belko/profil/spieler/546819",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/02/2002 (24)",
+      "club_actual": "Viking FK",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "610607",
+      "nombre": "Jakub Surovcik",
+      "href_perfil": "/jakub-surovcik/profil/spieler/610607",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/06/2002 (24)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "239962",
+      "nombre": "Denis Vavro",
+      "href_perfil": "/denis-vavro/profil/spieler/239962",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/04/1996 (30)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "277384",
+      "nombre": "Martin Valjent",
+      "href_perfil": "/martin-valjent/profil/spieler/277384",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/12/1995 (30)",
+      "club_actual": "RCD Mallorca",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "671499",
+      "nombre": "David Krcik",
+      "href_perfil": "/david-krcik/profil/spieler/671499",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/06/1999 (27)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€1.70m"
+    },
+    {
+      "player_id": "168408",
+      "nombre": "Lubomir Satka",
+      "href_perfil": "/lubomir-satka/profil/spieler/168408",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/12/1995 (30)",
+      "club_actual": "Samsunspor",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "568333",
+      "nombre": "Adam Obert",
+      "href_perfil": "/adam-obert/profil/spieler/568333",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/08/2002 (23)",
+      "club_actual": "Cagliari Calcio",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "570264",
+      "nombre": "Krisztian Bari",
+      "href_perfil": "/krisztian-bari/profil/spieler/570264",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "06/02/2001 (25)",
+      "club_actual": "MSK Zilina",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "726667",
+      "nombre": "Hugo Pavek",
+      "href_perfil": "/hugo-pavek/profil/spieler/726667",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/06/2005 (21)",
+      "club_actual": "AS Trencin",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "704979",
+      "nombre": "Peter Kovacik",
+      "href_perfil": "/peter-kovacik/profil/spieler/704979",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/12/2001 (24)",
+      "club_actual": "Zeleziarne Podbrezova",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "51100",
+      "nombre": "Peter Pekarík",
+      "href_perfil": "/peter-pekarik/profil/spieler/51100",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/10/1986 (39)",
+      "club_actual": "Hertha BSC II",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "490595",
+      "nombre": "Peter Pokorný",
+      "href_perfil": "/peter-pokorny/profil/spieler/490595",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "08/08/2001 (24)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "232418",
+      "nombre": "Ondrej Duda",
+      "href_perfil": "/ondrej-duda/profil/spieler/232418",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/12/1994 (31)",
+      "club_actual": "Al-Ettifaq FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "243188",
+      "nombre": "László Bénes",
+      "href_perfil": "/laszlo-benes/profil/spieler/243188",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/09/1997 (28)",
+      "club_actual": "Kayserispor",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "710885",
+      "nombre": "Mario Sauer",
+      "href_perfil": "/mario-sauer/profil/spieler/710885",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/05/2004 (22)",
+      "club_actual": "FC Toulouse",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "204047",
+      "nombre": "Matus Bero",
+      "href_perfil": "/matus-bero/profil/spieler/204047",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/09/1995 (30)",
+      "club_actual": "VfL Bochum",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "540333",
+      "nombre": "Tomas Suslov",
+      "href_perfil": "/tomas-suslov/profil/spieler/540333",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/2002 (24)",
+      "club_actual": "Hellas Verona",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "641657",
+      "nombre": "Artur Gajdos",
+      "href_perfil": "/artur-gajdos/profil/spieler/641657",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/01/2004 (22)",
+      "club_actual": "Slovan Bratislava",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "239941",
+      "nombre": "Lukas Haraslin",
+      "href_perfil": "/lukas-haraslin/profil/spieler/239941",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/05/1996 (30)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "178914",
+      "nombre": "Michal Fasko",
+      "href_perfil": "/michal-fasko/profil/spieler/178914",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "24/08/1994 (31)",
+      "club_actual": "MSK Zilina",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "546822",
+      "nombre": "Adrián Kaprálik",
+      "href_perfil": "/adrian-kapralik/profil/spieler/546822",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/06/2002 (24)",
+      "club_actual": "Holstein Kiel",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "627030",
+      "nombre": "Roland Galcik",
+      "href_perfil": "/roland-galcik/profil/spieler/627030",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/07/2001 (24)",
+      "club_actual": "Zeleziarne Podbrezova",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "482836",
+      "nombre": "David Strelec",
+      "href_perfil": "/david-strelec/profil/spieler/482836",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/04/2001 (25)",
+      "club_actual": "Middlesbrough FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "454576",
+      "nombre": "Róbert Boženík",
+      "href_perfil": "/robert-bozenik/profil/spieler/454576",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/11/1999 (26)",
+      "club_actual": "Stoke City",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "546879",
+      "nombre": "Roman Cerepkai",
+      "href_perfil": "/roman-cerepkai/profil/spieler/546879",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/04/2002 (24)",
+      "club_actual": "FC Kosice",
+      "valor_mercado_raw": "€500k"
+    }
+  ]
+}

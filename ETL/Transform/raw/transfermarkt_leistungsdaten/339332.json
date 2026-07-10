@@ -1,0 +1,69 @@
+{
+  "nombre": "Noa Lang",
+  "href_perfil": "/noa-lang/profil/spieler/339332",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "661'"
+    },
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "704'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "500'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "35'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "16'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "3",
+      "asistencias": "5",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,051'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Mohamed Alaa",
+  "href_perfil": "/mohamed-alaa/profil/spieler/1307898",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "19",
+      "goles": "15",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,710'"
+    },
+    {
+      "competicion_raw": "Relegation Playoff",
+      "partidos": "10",
+      "goles": "6",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Egyptian League Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "139'"
+    },
+    {
+      "competicion_raw": "Egypt Cup",
+      "partidos": "1",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "24",
+      "asistencias": "14",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,839'"
+    }
+  ]
+}

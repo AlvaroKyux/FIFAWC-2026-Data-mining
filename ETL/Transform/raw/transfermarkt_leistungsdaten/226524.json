@@ -1,0 +1,33 @@
+{
+  "nombre": "Morten Thorsby",
+  "href_perfil": "/morten-thorsby/profil/spieler/226524",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "24",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,374'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "24'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,398'"
+    }
+  ]
+}

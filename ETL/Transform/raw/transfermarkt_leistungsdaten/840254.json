@@ -1,0 +1,42 @@
+{
+  "nombre": "Nadhir Benbouali",
+  "href_perfil": "/nadhir-benbouali/profil/spieler/840254",
+  "competiciones": [
+    {
+      "competicion_raw": "NB I.",
+      "partidos": "32",
+      "goles": "15",
+      "asistencias": "6",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,562'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "518'"
+    },
+    {
+      "competicion_raw": "Magyar Kupa",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "162'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "41",
+      "goles": "19",
+      "asistencias": "6",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "3,242'"
+    }
+  ]
+}

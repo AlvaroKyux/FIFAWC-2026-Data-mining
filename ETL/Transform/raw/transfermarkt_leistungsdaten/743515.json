@@ -1,0 +1,33 @@
+{
+  "nombre": "Robin Risser",
+  "href_perfil": "/robin-risser/profil/spieler/743515",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "33",
+      "goles": "35",
+      "asistencias": "11",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,970'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "5",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "41",
+      "asistencias": "12",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "3,420'"
+    }
+  ]
+}

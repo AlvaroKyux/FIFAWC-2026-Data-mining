@@ -1,0 +1,240 @@
+{
+  "pais": "Czechia",
+  "href_seleccion": "/tschechien/startseite/verein/3445",
+  "jugadores": [
+    {
+      "player_id": "629773",
+      "nombre": "Lukas Hornicek",
+      "href_perfil": "/lukas-hornicek/profil/spieler/629773",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/07/2002 (23)",
+      "club_actual": "SC Braga",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "550829",
+      "nombre": "Matej Kovar",
+      "href_perfil": "/matej-kovar/profil/spieler/550829",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/05/2000 (26)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "242089",
+      "nombre": "Jindrich Stanek",
+      "href_perfil": "/jindrich-stanek/profil/spieler/242089",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "27/04/1996 (30)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "345911",
+      "nombre": "Ladislav Krejčí",
+      "href_perfil": "/ladislav-krejci/profil/spieler/345911",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/04/1999 (27)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "620217",
+      "nombre": "Robin Hranac",
+      "href_perfil": "/robin-hranac/profil/spieler/620217",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/01/2000 (26)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "944827",
+      "nombre": "Stepan Chaloupek",
+      "href_perfil": "/stepan-chaloupek/profil/spieler/944827",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/03/2003 (23)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "544149",
+      "nombre": "David Zima",
+      "href_perfil": "/david-zima/profil/spieler/544149",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/11/2000 (25)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "216278",
+      "nombre": "Tomas Holes",
+      "href_perfil": "/tomas-holes/profil/spieler/216278",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/03/1993 (33)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "142219",
+      "nombre": "Jaroslav Zelený",
+      "href_perfil": "/jaroslav-zeleny/profil/spieler/142219",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/08/1992 (33)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "500054",
+      "nombre": "David Jurásek",
+      "href_perfil": "/david-jurasek/profil/spieler/500054",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/08/2000 (25)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "157672",
+      "nombre": "Vladimír Coufal",
+      "href_perfil": "/vladimir-coufal/profil/spieler/157672",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/08/1992 (33)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "283628",
+      "nombre": "Tomáš Souček",
+      "href_perfil": "/tomas-soucek/profil/spieler/283628",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/02/1995 (31)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "321204",
+      "nombre": "Michal Sadílek",
+      "href_perfil": "/michal-sadilek/profil/spieler/321204",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "31/05/1999 (27)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "611049",
+      "nombre": "Lukas Cerv",
+      "href_perfil": "/lukas-cerv/profil/spieler/611049",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "10/04/2001 (25)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1206877",
+      "nombre": "Hugo Sochurek",
+      "href_perfil": "/hugo-sochurek/profil/spieler/1206877",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/2008 (18)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "826103",
+      "nombre": "Alexandr Sojka",
+      "href_perfil": "/alexandr-sojka/profil/spieler/826103",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/04/2003 (23)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€2.30m"
+    },
+    {
+      "player_id": "179643",
+      "nombre": "Vladimír Darida",
+      "href_perfil": "/vladimir-darida/profil/spieler/179643",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/08/1990 (35)",
+      "club_actual": "FC Hradec Kralove",
+      "valor_mercado_raw": "€375k"
+    },
+    {
+      "player_id": "493758",
+      "nombre": "David Doudera",
+      "href_perfil": "/david-doudera/profil/spieler/493758",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "31/05/1998 (28)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "500053",
+      "nombre": "Pavel Sulc",
+      "href_perfil": "/pavel-sulc/profil/spieler/500053",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/12/2000 (25)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "652060",
+      "nombre": "Denis Visinsky",
+      "href_perfil": "/denis-visinsky/profil/spieler/652060",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "21/03/2003 (23)",
+      "club_actual": "FC Viktoria Plzen",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "292779",
+      "nombre": "Lukas Provod",
+      "href_perfil": "/lukas-provod/profil/spieler/292779",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/10/1996 (29)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "242086",
+      "nombre": "Patrik Schick",
+      "href_perfil": "/patrik-schick/profil/spieler/242086",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/01/1996 (30)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "552057",
+      "nombre": "Adam Hlozek",
+      "href_perfil": "/adam-hlozek/profil/spieler/552057",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/07/2002 (23)",
+      "club_actual": "TSG 1899 Hoffenheim",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "405855",
+      "nombre": "Mojmír Chytil",
+      "href_perfil": "/mojmir-chytil/profil/spieler/405855",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/04/1999 (27)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "334802",
+      "nombre": "Jan Kuchta",
+      "href_perfil": "/jan-kuchta/profil/spieler/334802",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/01/1997 (29)",
+      "club_actual": "AC Sparta Prague",
+      "valor_mercado_raw": "€2.70m"
+    },
+    {
+      "player_id": "198614",
+      "nombre": "Tomas Chory",
+      "href_perfil": "/tomas-chory/profil/spieler/198614",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/01/1995 (31)",
+      "club_actual": "SK Slavia Prague",
+      "valor_mercado_raw": "€2.70m"
+    }
+  ]
+}

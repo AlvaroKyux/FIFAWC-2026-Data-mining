@@ -1,0 +1,33 @@
+{
+  "nombre": "Juriën Gaari",
+  "href_perfil": "/jurien-gaari/profil/spieler/328455",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi First Division League",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,790'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,910'"
+    }
+  ]
+}

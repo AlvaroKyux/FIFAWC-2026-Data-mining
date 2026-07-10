@@ -1,0 +1,42 @@
+{
+  "nombre": "Abdulaziz Hatim",
+  "href_perfil": "/abdulaziz-hatim/profil/spieler/113915",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "18",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "921'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "106'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "76'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,103'"
+    }
+  ]
+}

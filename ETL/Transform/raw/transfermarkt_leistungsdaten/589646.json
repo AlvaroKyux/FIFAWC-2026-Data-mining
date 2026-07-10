@@ -1,0 +1,42 @@
+{
+  "nombre": "Mohanad Ali",
+  "href_perfil": "/mohanad-ali/profil/spieler/589646",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "20",
+      "goles": "6",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,334'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "88'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "21",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,422'"
+    }
+  ]
+}

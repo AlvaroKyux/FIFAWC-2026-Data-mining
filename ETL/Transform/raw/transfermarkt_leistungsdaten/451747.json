@@ -1,0 +1,42 @@
+{
+  "nombre": "Brandon Thomas-Asante",
+  "href_perfil": "/brandon-thomas-asante/profil/spieler/451747",
+  "competiciones": [
+    {
+      "competicion_raw": "Championship",
+      "partidos": "32",
+      "goles": "13",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,865'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "105'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "13",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,970'"
+    }
+  ]
+}

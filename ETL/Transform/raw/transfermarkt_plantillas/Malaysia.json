@@ -1,0 +1,258 @@
+{
+  "pais": "Malaysia",
+  "href_seleccion": "/malaysia/startseite/verein/15738",
+  "jugadores": [
+    {
+      "player_id": "484748",
+      "nombre": "Syihan Hazmi",
+      "href_perfil": "/syihan-hazmi/profil/spieler/484748",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/02/1996 (30)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "480240",
+      "nombre": "Haziq Nadzli",
+      "href_perfil": "/haziq-nadzli/profil/spieler/480240",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/01/1998 (28)",
+      "club_actual": "Kuching City",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "631137",
+      "nombre": "Azri Ghani",
+      "href_perfil": "/azri-ghani/profil/spieler/631137",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/04/1999 (27)",
+      "club_actual": "Negeri Sembilan FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1273548",
+      "nombre": "Haziq Aiman",
+      "href_perfil": "/haziq-aiman/profil/spieler/1273548",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/01/2005 (21)",
+      "club_actual": "Melaka FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "541770",
+      "nombre": "Harith Haiqal",
+      "href_perfil": "/harith-haiqal/profil/spieler/541770",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/06/2002 (24)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "480242",
+      "nombre": "Dominic Tan",
+      "href_perfil": "/dominic-tan/profil/spieler/480242",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/03/1997 (29)",
+      "club_actual": "Sabah FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "975928",
+      "nombre": "Ubaidullah Shamsul",
+      "href_perfil": "/ubaidullah-shamsul/profil/spieler/975928",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/11/2003 (22)",
+      "club_actual": "Terengganu FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "631167",
+      "nombre": "Feroz Baharudin",
+      "href_perfil": "/feroz-baharudin/profil/spieler/631167",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2000 (26)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "315803",
+      "nombre": "Junior Eldstal",
+      "href_perfil": "/junior-eldstal/profil/spieler/315803",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/09/1991 (34)",
+      "club_actual": "Johor Darul Ta'zim II",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "576733",
+      "nombre": "Declan Lambert",
+      "href_perfil": "/declan-lambert/profil/spieler/576733",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/09/1998 (27)",
+      "club_actual": "Kuala Lumpur City FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "468513",
+      "nombre": "Daniel Ting",
+      "href_perfil": "/daniel-ting/profil/spieler/468513",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/01/1992 (34)",
+      "club_actual": "Ratchaburi FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "231425",
+      "nombre": "La'Vere Corbin-Ong",
+      "href_perfil": "/lavere-corbin-ong/profil/spieler/231425",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/04/1991 (35)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "316422",
+      "nombre": "Dion Cools",
+      "href_perfil": "/dion-cools/profil/spieler/316422",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/06/1996 (30)",
+      "club_actual": "Cerezo Osaka",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "264368",
+      "nombre": "Matthew Davies",
+      "href_perfil": "/matthew-davies/profil/spieler/264368",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/02/1995 (31)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "873953",
+      "nombre": "Quentin Cheng",
+      "href_perfil": "/quentin-cheng/profil/spieler/873953",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/11/1999 (26)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "541787",
+      "nombre": "Zikri Khalili",
+      "href_perfil": "/zikri-khalili/profil/spieler/541787",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "25/06/2002 (24)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "483678",
+      "nombre": "Syahmi Safari",
+      "href_perfil": "/syahmi-safari/profil/spieler/483678",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/02/1998 (28)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "579932",
+      "nombre": "Nooa Laine",
+      "href_perfil": "/nooa-laine/profil/spieler/579932",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/11/2002 (23)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "404585",
+      "nombre": "Stuart Wilkin",
+      "href_perfil": "/stuart-wilkin/profil/spieler/404585",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/03/1998 (28)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "561474",
+      "nombre": "Ryan Lambert",
+      "href_perfil": "/ryan-lambert/profil/spieler/561474",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/09/1998 (27)",
+      "club_actual": "Kuala Lumpur City FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "210753",
+      "nombre": "Nazmi Faiz",
+      "href_perfil": "/nazmi-faiz/profil/spieler/210753",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/08/1994 (31)",
+      "club_actual": "Johor Darul Ta'zim",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "452164",
+      "nombre": "Endrick",
+      "href_perfil": "/endrick/profil/spieler/452164",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/03/1995 (31)",
+      "club_actual": "Cong An Ho Chi Minh City FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "354081",
+      "nombre": "Sergio Aguero",
+      "href_perfil": "/sergio-aguero/profil/spieler/354081",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/04/1994 (32)",
+      "club_actual": "Kanchanaburi Power FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "480250",
+      "nombre": "Faisal Halim",
+      "href_perfil": "/faisal-halim/profil/spieler/480250",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/01/1998 (28)",
+      "club_actual": "Selangor FC",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "631136",
+      "nombre": "Ramadhan Saifullah",
+      "href_perfil": "/ramadhan-saifullah/profil/spieler/631136",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/12/2000 (25)",
+      "club_actual": "Kuching City",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "474220",
+      "nombre": "Safawi Rasid",
+      "href_perfil": "/safawi-rasid/profil/spieler/474220",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "05/03/1997 (29)",
+      "club_actual": "Kuala Lumpur City FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "541749",
+      "nombre": "Luqman Hakim",
+      "href_perfil": "/luqman-hakim/profil/spieler/541749",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/03/2002 (24)",
+      "club_actual": "Negeri Sembilan FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "377149",
+      "nombre": "Paulo Josué",
+      "href_perfil": "/paulo-josue/profil/spieler/377149",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/03/1989 (37)",
+      "club_actual": "Kuala Lumpur City FC",
+      "valor_mercado_raw": "€175k"
+    }
+  ]
+}

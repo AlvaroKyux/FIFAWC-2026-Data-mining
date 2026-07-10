@@ -1,0 +1,60 @@
+{
+  "nombre": "Guillermo Martínez",
+  "href_perfil": "/guillermo-martinez/profil/spieler/347932",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "15",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "493'"
+    },
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "11",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "849'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "43'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "9",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,385'"
+    }
+  ]
+}

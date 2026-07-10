@@ -1,0 +1,240 @@
+{
+  "pais": "Egypt",
+  "href_seleccion": "/agypten/startseite/verein/3672",
+  "jugadores": [
+    {
+      "player_id": "661455",
+      "nombre": "Oufa Shobeir",
+      "href_perfil": "/oufa-shobeir/profil/spieler/661455",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/05/2000 (26)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1307898",
+      "nombre": "Mohamed Alaa",
+      "href_perfil": "/mohamed-alaa/profil/spieler/1307898",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/09/1999 (26)",
+      "club_actual": "El Gouna FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "134573",
+      "nombre": "Mohamed El Shenawy",
+      "href_perfil": "/mohamed-el-shenawy/profil/spieler/134573",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/12/1988 (37)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "104951",
+      "nombre": "El Mahdi Soliman",
+      "href_perfil": "/el-mahdi-soliman/profil/spieler/104951",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/06/1987 (39)",
+      "club_actual": "Zamalek SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "566025",
+      "nombre": "Mohamed Abdelmonem",
+      "href_perfil": "/mohamed-abdelmonem/profil/spieler/566025",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/02/1999 (27)",
+      "club_actual": "OGC Nice",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "737524",
+      "nombre": "Hossam Abdelmaguid",
+      "href_perfil": "/hossam-abdelmaguid/profil/spieler/737524",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/04/2001 (25)",
+      "club_actual": "Zamalek SC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "172623",
+      "nombre": "Ramy Rabia",
+      "href_perfil": "/ramy-rabia/profil/spieler/172623",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/05/1993 (33)",
+      "club_actual": "Al-Ain FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "237425",
+      "nombre": "Yasser Ibrahim",
+      "href_perfil": "/yasser-ibrahim/profil/spieler/237425",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/02/1993 (33)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "465966",
+      "nombre": "Ahmed Fatouh",
+      "href_perfil": "/ahmed-fatouh/profil/spieler/465966",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/03/1998 (28)",
+      "club_actual": "Zamalek SC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "333004",
+      "nombre": "Karim Hafez",
+      "href_perfil": "/karim-hafez/profil/spieler/333004",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/03/1996 (30)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "343974",
+      "nombre": "Mohamed Hany",
+      "href_perfil": "/mohamed-hany/profil/spieler/343974",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/02/1996 (30)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1087789",
+      "nombre": "Tarek Alaa",
+      "href_perfil": "/tarek-alaa/profil/spieler/1087789",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/01/2002 (24)",
+      "club_actual": "Zed FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "734542",
+      "nombre": "Marwan Ateya",
+      "href_perfil": "/marwan-ateya/profil/spieler/734542",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/08/1998 (27)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "479682",
+      "nombre": "Mohanad Lasheen",
+      "href_perfil": "/mohanad-lasheen/profil/spieler/479682",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/05/1996 (30)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "340303",
+      "nombre": "Hamdy Fathy",
+      "href_perfil": "/hamdy-fathy/profil/spieler/340303",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/09/1994 (31)",
+      "club_actual": "Al-Wakrah SC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "479683",
+      "nombre": "Nabil Dunga",
+      "href_perfil": "/nabil-dunga/profil/spieler/479683",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "06/04/1996 (30)",
+      "club_actual": "Al-Najma SC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "604008",
+      "nombre": "Emam Ashour",
+      "href_perfil": "/emam-ashour/profil/spieler/604008",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/02/1998 (28)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "729390",
+      "nombre": "Mahmoud Saber",
+      "href_perfil": "/mahmoud-saber/profil/spieler/729390",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/07/2001 (24)",
+      "club_actual": "Zed FC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "234189",
+      "nombre": "Trezeguet",
+      "href_perfil": "/trezeguet/profil/spieler/234189",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/10/1994 (31)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "677278",
+      "nombre": "Ibrahim Adel",
+      "href_perfil": "/ibrahim-adel/profil/spieler/677278",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/04/2001 (25)",
+      "club_actual": "FC Nordsjaelland",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "896616",
+      "nombre": "Mostafa Ziko",
+      "href_perfil": "/mostafa-ziko/profil/spieler/896616",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/04/1997 (29)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "148455",
+      "nombre": "Mohamed Salah",
+      "href_perfil": "/mohamed-salah/profil/spieler/148455",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/06/1992 (34)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "620164",
+      "nombre": "Haissem Hassan",
+      "href_perfil": "/haissem-hassan/profil/spieler/620164",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/02/2002 (24)",
+      "club_actual": "Real Oviedo",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "320722",
+      "nombre": "Zizo",
+      "href_perfil": "/zizo/profil/spieler/320722",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/01/1996 (30)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "445939",
+      "nombre": "Omar Marmoush",
+      "href_perfil": "/omar-marmoush/profil/spieler/445939",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/02/1999 (27)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "1259085",
+      "nombre": "Hamza Abdelkarim",
+      "href_perfil": "/hamza-abdelkarim/profil/spieler/1259085",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2008 (18)",
+      "club_actual": "FC Barcelona U19",
+      "valor_mercado_raw": "€1.50m"
+    }
+  ]
+}

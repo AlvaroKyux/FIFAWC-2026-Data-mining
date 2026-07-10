@@ -1,0 +1,222 @@
+{
+  "pais": "Cameroon",
+  "href_seleccion": "/kamerun/startseite/verein/3434",
+  "jugadores": [
+    {
+      "player_id": "696600",
+      "nombre": "Simon Ngapandouetnbu",
+      "href_perfil": "/simon-ngapandouetnbu/profil/spieler/696600",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/04/2003 (23)",
+      "club_actual": "Montpellier HSC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "696892",
+      "nombre": "Blondy Nna Noukeu",
+      "href_perfil": "/blondy-nna-noukeu/profil/spieler/696892",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/2001 (25)",
+      "club_actual": "US Boulogne",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "170471",
+      "nombre": "Devis Epassy",
+      "href_perfil": "/devis-epassy/profil/spieler/170471",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/02/1993 (33)",
+      "club_actual": "FC Dinamo 1948",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "863900",
+      "nombre": "Samuel Kotto",
+      "href_perfil": "/samuel-kotto/profil/spieler/863900",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/09/2003 (22)",
+      "club_actual": "Stade Reims",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "855014",
+      "nombre": "Kévin Keben",
+      "href_perfil": "/kevin-keben/profil/spieler/855014",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/01/2004 (22)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "950788",
+      "nombre": "Che Malone",
+      "href_perfil": "/che-malone/profil/spieler/950788",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/05/1999 (27)",
+      "club_actual": "USM Alger",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "718032",
+      "nombre": "Stephane Keller",
+      "href_perfil": "/stephane-keller/profil/spieler/718032",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/08/2001 (24)",
+      "club_actual": "Al-Ittihad Club",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1300950",
+      "nombre": "Emmanuel Moungam",
+      "href_perfil": "/emmanuel-moungam/profil/spieler/1300950",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2006 (20)",
+      "club_actual": "Landskrona BoIS",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1176345",
+      "nombre": "Mahamadou Nagida",
+      "href_perfil": "/mahamadou-nagida/profil/spieler/1176345",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "28/06/2005 (21)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "717118",
+      "nombre": "Darlin Yongwa",
+      "href_perfil": "/darlin-yongwa/profil/spieler/717118",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2000 (25)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "848509",
+      "nombre": "Jackson Tchatchoua",
+      "href_perfil": "/jackson-tchatchoua/profil/spieler/848509",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/09/2001 (24)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "969154",
+      "nombre": "Oliver Kamdem",
+      "href_perfil": "/oliver-kamdem/profil/spieler/969154",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/10/2002 (23)",
+      "club_actual": "Levski Sofia",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "620832",
+      "nombre": "Ryan Fosso",
+      "href_perfil": "/ryan-fosso/profil/spieler/620832",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/2002 (24)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "863901",
+      "nombre": "Fidel Brice Ambina",
+      "href_perfil": "/fidel-brice-ambina/profil/spieler/863901",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/11/2001 (24)",
+      "club_actual": "Vålerenga Fotball Elite",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "978485",
+      "nombre": "Arnold Kamdem",
+      "href_perfil": "/arnold-kamdem/profil/spieler/978485",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/2000 (26)",
+      "club_actual": "CS Sinop",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1074628",
+      "nombre": "Arthur Avom",
+      "href_perfil": "/arthur-avom/profil/spieler/1074628",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "15/12/2004 (21)",
+      "club_actual": "FC Lorient",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "1531804",
+      "nombre": "Maël Fernandez Monyebe",
+      "href_perfil": "/mael-fernandez-monyebe/profil/spieler/1531804",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/2007 (19)",
+      "club_actual": "Gazelle FA de Garoua",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "392767",
+      "nombre": "Danny Namaso",
+      "href_perfil": "/danny-namaso/profil/spieler/392767",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "28/08/2000 (25)",
+      "club_actual": "AJ Auxerre",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "1531803",
+      "nombre": "Konrad Nfanseu Sinyam",
+      "href_perfil": "/konrad-nfanseu-sinyam/profil/spieler/1531803",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "26/01/2005 (21)",
+      "club_actual": "Panthère Sportive du Ndé",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "413039",
+      "nombre": "Bryan Mbeumo",
+      "href_perfil": "/bryan-mbeumo/profil/spieler/413039",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "07/08/1999 (26)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "666951",
+      "nombre": "Saidou Alioum",
+      "href_perfil": "/saidou-alioum/profil/spieler/666951",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/07/2003 (22)",
+      "club_actual": "IFK Göteborg",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "1364454",
+      "nombre": "Christian Kofane",
+      "href_perfil": "/christian-kofane/profil/spieler/1364454",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/07/2006 (19)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "1038950",
+      "nombre": "Karl Etta Eyong",
+      "href_perfil": "/karl-etta-eyong/profil/spieler/1038950",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/10/2003 (22)",
+      "club_actual": "Levante UD",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "1133928",
+      "nombre": "Angel Yondjo Matah",
+      "href_perfil": "/angel-yondjo-matah/profil/spieler/1133928",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/02/2007 (19)",
+      "club_actual": "LOSC Lille B",
+      "valor_mercado_raw": "€200k"
+    }
+  ]
+}

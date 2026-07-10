@@ -1,0 +1,222 @@
+{
+  "pais": "Eritrea",
+  "href_seleccion": "/eritrea/startseite/verein/13953",
+  "jugadores": [
+    {
+      "player_id": "702902",
+      "nombre": "Kibrom Solomun",
+      "href_perfil": "/kibrom-solomun/profil/spieler/702902",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/09/2000 (25)",
+      "club_actual": "Denden FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1373933",
+      "nombre": "Yonathan Sultan",
+      "href_perfil": "/yonathan-sultan/profil/spieler/1373933",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/01/2007 (19)",
+      "club_actual": "Western United U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531880",
+      "nombre": "Awet Meharena Teferi",
+      "href_perfil": "/awet-meharena-teferi/profil/spieler/1531880",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/10/1994 (31)",
+      "club_actual": "Red Sea FC Asmara",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "703850",
+      "nombre": "Nahom Awet",
+      "href_perfil": "/nahom-awet/profil/spieler/703850",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "10/09/2000 (25)",
+      "club_actual": "Denden FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531884",
+      "nombre": "Wedeb Fisehaye Tesfay",
+      "href_perfil": "/wedeb-fisehaye-tesfay/profil/spieler/1531884",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "27/04/1999 (27)",
+      "club_actual": "Al Tahrir",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531881",
+      "nombre": "Nahom Tadese Mekonen",
+      "href_perfil": "/nahom-tadese-mekonen/profil/spieler/1531881",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "08/05/2000 (26)",
+      "club_actual": "Denden FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "873829",
+      "nombre": "Jamal Ali",
+      "href_perfil": "/jamal-ali/profil/spieler/873829",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/09/1998 (27)",
+      "club_actual": "Preston Lions FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "381986",
+      "nombre": "Victor Fors",
+      "href_perfil": "/victor-fors/profil/spieler/381986",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/03/1999 (27)",
+      "club_actual": "Kongsvinger IL",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1046837",
+      "nombre": "Jonas Idris",
+      "href_perfil": "/jonas-idris/profil/spieler/1046837",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "17/04/2005 (21)",
+      "club_actual": "Hellerup IK",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "709271",
+      "nombre": "Namrud Embaye",
+      "href_perfil": "/namrud-embaye/profil/spieler/709271",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/01/2002 (24)",
+      "club_actual": "FV Illertissen",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "603802",
+      "nombre": "Aethan Yohannes",
+      "href_perfil": "/aethan-yohannes/profil/spieler/603802",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/03/2004 (22)",
+      "club_actual": "Almere City FC U23",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "702903",
+      "nombre": "Ablelom Teklezgi",
+      "href_perfil": "/ablelom-teklezgi/profil/spieler/702903",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/09/1996 (29)",
+      "club_actual": "Red Sea FC Asmara",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531907",
+      "nombre": "Romel Abdu Mahmud",
+      "href_perfil": "/romel-abdu-mahmud/profil/spieler/1531907",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "28/11/2001 (24)",
+      "club_actual": "Denden FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531906",
+      "nombre": "Yosief Tsegay Yemane",
+      "href_perfil": "/yosief-tsegay-yemane/profil/spieler/1531906",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "23/01/2001 (25)",
+      "club_actual": "Denden FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531883",
+      "nombre": "Medhanie Redae Niwayu",
+      "href_perfil": "/medhanie-redae-niwayu/profil/spieler/1531883",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/11/2002 (23)",
+      "club_actual": "Red Sea FC Asmara",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "283185",
+      "nombre": "Tesfaldet Tekie",
+      "href_perfil": "/tesfaldet-tekie/profil/spieler/283185",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/06/1997 (29)",
+      "club_actual": "Hammarby IF",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "255768",
+      "nombre": "Nahom Girmai Netabay",
+      "href_perfil": "/nahom-girmai-netabay/profil/spieler/255768",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/08/1994 (31)",
+      "club_actual": "Degerfors IF",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "453307",
+      "nombre": "Filimon Gerezgiher",
+      "href_perfil": "/filimon-gerezgiher/profil/spieler/453307",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/07/2000 (25)",
+      "club_actual": "FC Emmen",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1317247",
+      "nombre": "Fahmi Ibrahim",
+      "href_perfil": "/fahmi-ibrahim/profil/spieler/1317247",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "25/04/2000 (26)",
+      "club_actual": "Maharlika FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "944825",
+      "nombre": "Nobel Gebrezgi",
+      "href_perfil": "/nobel-gebrezgi/profil/spieler/944825",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/08/2003 (22)",
+      "club_actual": "Åtvidabergs FF",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "702910",
+      "nombre": "Ali Sulieman",
+      "href_perfil": "/ali-sulieman/profil/spieler/702910",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "Kahraba Ismailia",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "501062",
+      "nombre": "Oliver Hintsa",
+      "href_perfil": "/oliver-hintsa/profil/spieler/501062",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "Sogndal IL",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "987494",
+      "nombre": "Siem Eyob-Abraha",
+      "href_perfil": "/siem-eyob-abraha/profil/spieler/987494",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/03/2008 (18)",
+      "club_actual": "Sheffield United U18",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531882",
+      "nombre": "Benhur Amanuel Dagnew",
+      "href_perfil": "/benhur-amanuel-dagnew/profil/spieler/1531882",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "12/09/2000 (25)",
+      "club_actual": "Red Sea FC Asmara",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

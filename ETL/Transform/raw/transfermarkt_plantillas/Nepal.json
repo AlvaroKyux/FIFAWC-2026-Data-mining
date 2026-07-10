@@ -1,0 +1,213 @@
+{
+  "pais": "Nepal",
+  "href_seleccion": "/nepal/startseite/verein/15350",
+  "jugadores": [
+    {
+      "player_id": "191028",
+      "nombre": "Kiran Chemjong",
+      "href_perfil": "/kiran-chemjong/profil/spieler/191028",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/03/1990 (36)",
+      "club_actual": "Victory SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "771736",
+      "nombre": "Bishal Sunar",
+      "href_perfil": "/bishal-sunar/profil/spieler/771736",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/02/2002 (24)",
+      "club_actual": "New Road Team",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531637",
+      "nombre": "Yogesh Dhimal",
+      "href_perfil": "/yogesh-dhimal/profil/spieler/1531637",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Nayabasti Youth Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "348816",
+      "nombre": "Ananta Tamang",
+      "href_perfil": "/ananta-tamang/profil/spieler/348816",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/01/1998 (28)",
+      "club_actual": "Fortis FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "771634",
+      "nombre": "Abhishek Limbu",
+      "href_perfil": "/abhishek-limbu/profil/spieler/771634",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/08/1999 (26)",
+      "club_actual": "Rahmatganj MFS",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1387556",
+      "nombre": "Suman Shrestha",
+      "href_perfil": "/suman-shrestha/profil/spieler/1387556",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/09/1999 (26)",
+      "club_actual": "Armed Police Force Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "769311",
+      "nombre": "Yogesh Gurung",
+      "href_perfil": "/yogesh-gurung/profil/spieler/769311",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/03/2002 (24)",
+      "club_actual": "Friends Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "774905",
+      "nombre": "Bimal Pandey",
+      "href_perfil": "/bimal-pandey/profil/spieler/774905",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/01/1990 (36)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "771677",
+      "nombre": "Sanish Shrestha",
+      "href_perfil": "/sanish-shrestha/profil/spieler/771677",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/11/2000 (25)",
+      "club_actual": "Machhindra Football Club",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "191021",
+      "nombre": "Rohit Chand",
+      "href_perfil": "/rohit-chand/profil/spieler/191021",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "01/03/1992 (34)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "774875",
+      "nombre": "Mani Kumar Lama",
+      "href_perfil": "/mani-kumar-lama/profil/spieler/774875",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/03/1996 (30)",
+      "club_actual": "Armed Police Force Club",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1203163",
+      "nombre": "Rohan Karki",
+      "href_perfil": "/rohan-karki/profil/spieler/1203163",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/09/2002 (23)",
+      "club_actual": "Church Boys United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1207333",
+      "nombre": "Pemba Dorje Lama",
+      "href_perfil": "/pemba-dorje-lama/profil/spieler/1207333",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1059094",
+      "nombre": "Dipesh Gurung",
+      "href_perfil": "/dipesh-gurung/profil/spieler/1059094",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/10/2003 (22)",
+      "club_actual": "Church Boys United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1059085",
+      "nombre": "Sumit Shrestha",
+      "href_perfil": "/sumit-shrestha/profil/spieler/1059085",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "30/01/2004 (22)",
+      "club_actual": "Church Boys United",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1531636",
+      "nombre": "Roman Bhujel",
+      "href_perfil": "/roman-bhujel/profil/spieler/1531636",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Planning Boys United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1195357",
+      "nombre": "Aditya Shakya",
+      "href_perfil": "/aditya-shakya/profil/spieler/1195357",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/12/1999 (26)",
+      "club_actual": "New Road Team",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "771626",
+      "nombre": "Kritish Ratna Chhunju",
+      "href_perfil": "/kritish-ratna-chhunju/profil/spieler/771626",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/2003 (23)",
+      "club_actual": "Thimphu FC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "888934",
+      "nombre": "Ayush Ghalan",
+      "href_perfil": "/ayush-ghalan/profil/spieler/888934",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/02/2004 (22)",
+      "club_actual": "Bangladesh Police FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "888927",
+      "nombre": "Manish Dangi",
+      "href_perfil": "/manish-dangi/profil/spieler/888927",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/09/2001 (24)",
+      "club_actual": "New Road Team",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "990890",
+      "nombre": "Milan Rai",
+      "href_perfil": "/milan-rai/profil/spieler/990890",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/10/1997 (28)",
+      "club_actual": "Church Boys United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1190985",
+      "nombre": "Gillespye Jung Karki",
+      "href_perfil": "/gillespye-jung-karki/profil/spieler/1190985",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/11/1998 (27)",
+      "club_actual": "Tribhuvan Army Club",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "771717",
+      "nombre": "Yubraj Khadka",
+      "href_perfil": "/yubraj-khadka/profil/spieler/771717",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/06/1992 (34)",
+      "club_actual": "Armed Police Force Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

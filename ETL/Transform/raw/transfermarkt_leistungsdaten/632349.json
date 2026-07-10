@@ -1,0 +1,42 @@
+{
+  "nombre": "Jarell Quansah",
+  "href_perfil": "/jarell-quansah/profil/spieler/632349",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "2,302'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "990'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "414'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "5",
+      "asistencias": "-",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "3,706'"
+    }
+  ]
+}

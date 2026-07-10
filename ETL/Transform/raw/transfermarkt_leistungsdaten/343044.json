@@ -1,0 +1,42 @@
+{
+  "nombre": "Payam Niazmand",
+  "href_perfil": "/payam-niazmand/profil/spieler/343044",
+  "competiciones": [
+    {
+      "competicion_raw": "Persian Gulf League",
+      "partidos": "21",
+      "goles": "18",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,890'"
+    },
+    {
+      "competicion_raw": "Hazfi Cup",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "Champions League Two Play-off",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "19",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,010'"
+    }
+  ]
+}

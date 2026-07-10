@@ -1,0 +1,33 @@
+{
+  "nombre": "Gastón Olveira",
+  "href_perfil": "/gaston-olveira/profil/spieler/301722",
+  "competiciones": [
+    {
+      "competicion_raw": "Primera División Apertura",
+      "partidos": "18",
+      "goles": "11",
+      "asistencias": "10",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,620'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "7",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "17",
+      "asistencias": "13",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,250'"
+    }
+  ]
+}

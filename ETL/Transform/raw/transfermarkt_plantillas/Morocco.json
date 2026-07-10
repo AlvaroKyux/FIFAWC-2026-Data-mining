@@ -1,0 +1,240 @@
+{
+  "pais": "Morocco",
+  "href_seleccion": "/marokko/startseite/verein/3575",
+  "jugadores": [
+    {
+      "player_id": "207834",
+      "nombre": "Yassine Bounou",
+      "href_perfil": "/yassine-bounou/profil/spieler/207834",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/04/1991 (35)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "238997",
+      "nombre": "Ahmed Reda Tagnaouti",
+      "href_perfil": "/ahmed-reda-tagnaouti/profil/spieler/238997",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/04/1996 (30)",
+      "club_actual": "AS FAR Rabat",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "97925",
+      "nombre": "Munir El Kajoui",
+      "href_perfil": "/munir-el-kajoui/profil/spieler/97925",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/05/1989 (37)",
+      "club_actual": "Renaissance de Berkane",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "689637",
+      "nombre": "Chadi Riad",
+      "href_perfil": "/chadi-riad/profil/spieler/689637",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/2003 (23)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "272622",
+      "nombre": "Issa Diop",
+      "href_perfil": "/issa-diop/profil/spieler/272622",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/01/1997 (29)",
+      "club_actual": "Fulham FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "913660",
+      "nombre": "Redouane Halhal",
+      "href_perfil": "/redouane-halhal/profil/spieler/913660",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/03/2003 (23)",
+      "club_actual": "KV Mechelen",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "210009",
+      "nombre": "Marwane Saadane",
+      "href_perfil": "/marwane-saadane/profil/spieler/210009",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/01/1992 (34)",
+      "club_actual": "Al-Fateh SC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "485584",
+      "nombre": "Anass Salah-Eddine",
+      "href_perfil": "/anass-salah-eddine/profil/spieler/485584",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/01/2002 (24)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "518804",
+      "nombre": "Youssef Belammari",
+      "href_perfil": "/youssef-belammari/profil/spieler/518804",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/09/1998 (27)",
+      "club_actual": "Al Ahly FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "398073",
+      "nombre": "Achraf Hakimi",
+      "href_perfil": "/achraf-hakimi/profil/spieler/398073",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/11/1998 (27)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "340456",
+      "nombre": "Noussair Mazraoui",
+      "href_perfil": "/noussair-mazraoui/profil/spieler/340456",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/11/1997 (28)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "820474",
+      "nombre": "Zakaria El Ouahdi",
+      "href_perfil": "/zakaria-el-ouahdi/profil/spieler/820474",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/12/2001 (24)",
+      "club_actual": "KRC Genk",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "287579",
+      "nombre": "Sofyan Amrabat",
+      "href_perfil": "/sofyan-amrabat/profil/spieler/287579",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/1996 (29)",
+      "club_actual": "Real Betis Balompié",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "1097139",
+      "nombre": "Ayyoub Bouaddi",
+      "href_perfil": "/ayyoub-bouaddi/profil/spieler/1097139",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/10/2007 (18)",
+      "club_actual": "LOSC Lille",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "901019",
+      "nombre": "Neil El Aynaoui",
+      "href_perfil": "/neil-el-aynaoui/profil/spieler/901019",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/07/2001 (24)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€23.00m"
+    },
+    {
+      "player_id": "1130514",
+      "nombre": "Samir El Mourabet",
+      "href_perfil": "/samir-el-mourabet/profil/spieler/1130514",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "06/10/2005 (20)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "593482",
+      "nombre": "Azzedine Ounahi",
+      "href_perfil": "/azzedine-ounahi/profil/spieler/593482",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "19/04/2000 (26)",
+      "club_actual": "Girona FC",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "702869",
+      "nombre": "Ismael Saibari",
+      "href_perfil": "/ismael-saibari/profil/spieler/702869",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "28/01/2001 (25)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "654982",
+      "nombre": "Bilal El Khannouss",
+      "href_perfil": "/bilal-el-khannouss/profil/spieler/654982",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/2004 (22)",
+      "club_actual": "VfB Stuttgart",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "851220",
+      "nombre": "Amine Sbaï",
+      "href_perfil": "/amine-sbai/profil/spieler/851220",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/11/2000 (25)",
+      "club_actual": "Angers SCO",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "314678",
+      "nombre": "Brahim Díaz",
+      "href_perfil": "/brahim-diaz/profil/spieler/314678",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/08/1999 (26)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "743384",
+      "nombre": "Chemsdine Talbi",
+      "href_perfil": "/chemsdine-talbi/profil/spieler/743384",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/05/2005 (21)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "1151929",
+      "nombre": "Gessime Yassine",
+      "href_perfil": "/gessime-yassine/profil/spieler/1151929",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "22/11/2005 (20)",
+      "club_actual": "RC Strasbourg Alsace",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "799993",
+      "nombre": "Ayoube Amaimouni-Echghouyab",
+      "href_perfil": "/ayoube-amaimouni-echghouyab/profil/spieler/799993",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/11/2004 (21)",
+      "club_actual": "Eintracht Frankfurt",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "598506",
+      "nombre": "Soufiane Rahimi",
+      "href_perfil": "/soufiane-rahimi/profil/spieler/598506",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/06/1996 (30)",
+      "club_actual": "Al-Ain FC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "521127",
+      "nombre": "Ayoub El Kaabi",
+      "href_perfil": "/ayoub-el-kaabi/profil/spieler/521127",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/06/1993 (33)",
+      "club_actual": "Olympiacos Piraeus",
+      "valor_mercado_raw": "€4.50m"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "pais": "Hungary",
+  "href_seleccion": "/ungarn/startseite/verein/3468",
+  "jugadores": [
+    {
+      "player_id": "938145",
+      "nombre": "Áron Yaakobishvili",
+      "href_perfil": "/aron-yaakobishvili/profil/spieler/938145",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/03/2006 (20)",
+      "club_actual": "FC Andorra",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "400044",
+      "nombre": "Balázs Tóth",
+      "href_perfil": "/balazs-toth/profil/spieler/400044",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/09/1997 (28)",
+      "club_actual": "Blackburn Rovers",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "933215",
+      "nombre": "Ármin Pécsi",
+      "href_perfil": "/armin-pecsi/profil/spieler/933215",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "24/02/2005 (21)",
+      "club_actual": "Liverpool FC U21",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "168074",
+      "nombre": "Péter Szappanos",
+      "href_perfil": "/peter-szappanos/profil/spieler/168074",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/11/1990 (35)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "93740",
+      "nombre": "Willi Orbán",
+      "href_perfil": "/willi-orban/profil/spieler/93740",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/11/1992 (33)",
+      "club_actual": "RB Leipzig",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "432281",
+      "nombre": "Márton Dárdai",
+      "href_perfil": "/marton-dardai/profil/spieler/432281",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/02/2002 (24)",
+      "club_actual": "Hertha BSC",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "705121",
+      "nombre": "Márk Csinger",
+      "href_perfil": "/mark-csinger/profil/spieler/705121",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/05/2003 (23)",
+      "club_actual": "ETO FC",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "566155",
+      "nombre": "Kornél Szűcs",
+      "href_perfil": "/kornel-szucs/profil/spieler/566155",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/09/2001 (24)",
+      "club_actual": "FK Vojvodina Novi Sad",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "730861",
+      "nombre": "Milos Kerkez",
+      "href_perfil": "/milos-kerkez/profil/spieler/730861",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/11/2003 (22)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "435062",
+      "nombre": "Callum Styles",
+      "href_perfil": "/callum-styles/profil/spieler/435062",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "27/03/2000 (26)",
+      "club_actual": "West Bromwich Albion",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "260051",
+      "nombre": "Zsolt Nagy",
+      "href_perfil": "/zsolt-nagy/profil/spieler/260051",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/05/1993 (33)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "1123192",
+      "nombre": "Ákos Markgráf",
+      "href_perfil": "/akos-markgraf/profil/spieler/1123192",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/06/2005 (20)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "332798",
+      "nombre": "Roland Sallai",
+      "href_perfil": "/roland-sallai/profil/spieler/332798",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/05/1997 (29)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "439351",
+      "nombre": "Bendegúz Bolla",
+      "href_perfil": "/bendeguz-bolla/profil/spieler/439351",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/11/1999 (26)",
+      "club_actual": "Rapid Vienna",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "216902",
+      "nombre": "Attila Osváth",
+      "href_perfil": "/attila-osvath/profil/spieler/216902",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "10/12/1995 (30)",
+      "club_actual": "Ferencvárosi TC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "616948",
+      "nombre": "Péter Baráth",
+      "href_perfil": "/peter-barath/profil/spieler/616948",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/2002 (24)",
+      "club_actual": "SK Sigma Olomouc",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1138547",
+      "nombre": "Rajmund Tóth",
+      "href_perfil": "/rajmund-toth/profil/spieler/1138547",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/04/2004 (22)",
+      "club_actual": "ETO FC",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "998101",
+      "nombre": "Alex Tóth",
+      "href_perfil": "/alex-toth/profil/spieler/998101",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/2005 (20)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "454863",
+      "nombre": "András Schäfer",
+      "href_perfil": "/andras-schafer/profil/spieler/454863",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/1999 (27)",
+      "club_actual": "1.FC Union Berlin",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "640994",
+      "nombre": "Milán Vitális",
+      "href_perfil": "/milan-vitalis/profil/spieler/640994",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/01/2002 (24)",
+      "club_actual": "ETO FC",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "933240",
+      "nombre": "Tamás Szűcs",
+      "href_perfil": "/tamas-szucs/profil/spieler/933240",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/01/2005 (21)",
+      "club_actual": "Debreceni VSC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "496999",
+      "nombre": "Norbert Szendrei",
+      "href_perfil": "/norbert-szendrei/profil/spieler/496999",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "27/03/2000 (26)",
+      "club_actual": "Zalaegerszegi TE FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "451276",
+      "nombre": "Dominik Szoboszlai",
+      "href_perfil": "/dominik-szoboszlai/profil/spieler/451276",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/10/2000 (25)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€100.00m"
+    },
+    {
+      "player_id": "451281",
+      "nombre": "Szabolcs Schön",
+      "href_perfil": "/szabolcs-schon/profil/spieler/451281",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/09/2000 (25)",
+      "club_actual": "ETO FC",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "715956",
+      "nombre": "Damir Redzic",
+      "href_perfil": "/damir-redzic/profil/spieler/715956",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "23/03/2003 (23)",
+      "club_actual": "Red Bull Salzburg",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "328573",
+      "nombre": "Barnabás Varga",
+      "href_perfil": "/barnabas-varga/profil/spieler/328573",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/10/1994 (31)",
+      "club_actual": "AEK Athens",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "648895",
+      "nombre": "Zsombor Gruber",
+      "href_perfil": "/zsombor-gruber/profil/spieler/648895",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/09/2004 (21)",
+      "club_actual": "Ferencvárosi TC",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1129402",
+      "nombre": "Bendegúz Kovács",
+      "href_perfil": "/bendeguz-kovacs/profil/spieler/1129402",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/03/2007 (19)",
+      "club_actual": "AZ Alkmaar U21",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "410170",
+      "nombre": "Dániel Lukács",
+      "href_perfil": "/daniel-lukacs/profil/spieler/410170",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/04/1996 (30)",
+      "club_actual": "Puskás Akadémia FC",
+      "valor_mercado_raw": "€800k"
+    }
+  ]
+}

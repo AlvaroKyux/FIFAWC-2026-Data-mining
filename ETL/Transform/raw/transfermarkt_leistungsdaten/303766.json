@@ -1,0 +1,33 @@
+{
+  "nombre": "Amir Al-Ammari",
+  "href_perfil": "/amir-al-ammari/profil/spieler/303766",
+  "competiciones": [
+    {
+      "competicion_raw": "Ekstraklasa",
+      "partidos": "33",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,507'"
+    },
+    {
+      "competicion_raw": "STS Polish Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,597'"
+    }
+  ]
+}

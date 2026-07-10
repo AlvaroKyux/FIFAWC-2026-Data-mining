@@ -1,0 +1,60 @@
+{
+  "nombre": "Orbelín Pineda",
+  "href_perfil": "/orbelin-pineda/profil/spieler/334042",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "25",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,982'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "883'"
+    },
+    {
+      "competicion_raw": "Super League Play-off",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "498'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "375'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "139'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "5",
+      "asistencias": "5",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,877'"
+    }
+  ]
+}

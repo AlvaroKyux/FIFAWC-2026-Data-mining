@@ -1,0 +1,42 @@
+{
+  "nombre": "Crysencio Summerville",
+  "href_perfil": "/crysencio-summerville/profil/spieler/474701",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "31",
+      "goles": "5",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,484'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "231'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,715'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Cucho Hernández",
+  "href_perfil": "/cucho-hernandez/profil/spieler/459463",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "32",
+      "goles": "11",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,595'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "448'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "87'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "15",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,130'"
+    }
+  ]
+}

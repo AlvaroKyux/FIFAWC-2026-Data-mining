@@ -1,0 +1,51 @@
+{
+  "nombre": "Marcus Thuram",
+  "href_perfil": "/marcus-thuram/profil/spieler/318528",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "29",
+      "goles": "13",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,913'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "577'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "320'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "71'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "18",
+      "asistencias": "9",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,881'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Alexander Schlager",
+  "href_perfil": "/alexander-schlager/profil/spieler/186374",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "31",
+      "goles": "40",
+      "asistencias": "5",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "2,790'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "7",
+      "goles": "15",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "ÖFB-Cup",
+      "partidos": "5",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "480'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "4",
+      "goles": "6",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "64",
+      "asistencias": "7",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "4,260'"
+    }
+  ]
+}

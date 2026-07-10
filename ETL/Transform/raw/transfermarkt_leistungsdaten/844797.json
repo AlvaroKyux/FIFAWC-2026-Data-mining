@@ -1,0 +1,51 @@
+{
+  "nombre": "Flaco López",
+  "href_perfil": "/flaco-lopez/profil/spieler/844797",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "17",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,314'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "11",
+      "goles": "6",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "846'"
+    },
+    {
+      "competicion_raw": "Libertadores",
+      "partidos": "6",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "519'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "22'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "35",
+      "goles": "14",
+      "asistencias": "10",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,701'"
+    }
+  ]
+}

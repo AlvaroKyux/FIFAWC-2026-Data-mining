@@ -1,0 +1,240 @@
+{
+  "pais": "Uruguay",
+  "href_seleccion": "/uruguay/startseite/verein/3449",
+  "jugadores": [
+    {
+      "player_id": "320739",
+      "nombre": "Santiago Mele",
+      "href_perfil": "/santiago-mele/profil/spieler/320739",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/09/1997 (28)",
+      "club_actual": "CF Monterrey",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "264014",
+      "nombre": "Sergio Rochet",
+      "href_perfil": "/sergio-rochet/profil/spieler/264014",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "23/03/1993 (33)",
+      "club_actual": "Sport Club Internacional",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "58088",
+      "nombre": "Fernando Muslera",
+      "href_perfil": "/fernando-muslera/profil/spieler/58088",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/06/1986 (40)",
+      "club_actual": "Club Estudiantes de La Plata",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "480267",
+      "nombre": "Ronald Araujo",
+      "href_perfil": "/ronald-araujo/profil/spieler/480267",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/03/1999 (27)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "438001",
+      "nombre": "Santiago Bueno",
+      "href_perfil": "/santiago-bueno/profil/spieler/438001",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/11/1998 (27)",
+      "club_actual": "Wolverhampton Wanderers",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "250845",
+      "nombre": "José María Giménez",
+      "href_perfil": "/jose-maria-gimenez/profil/spieler/250845",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/01/1995 (31)",
+      "club_actual": "Atlético de Madrid",
+      "valor_mercado_raw": "€9.00m"
+    },
+    {
+      "player_id": "532389",
+      "nombre": "Sebastián Cáceres",
+      "href_perfil": "/sebastian-caceres/profil/spieler/532389",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/08/1999 (26)",
+      "club_actual": "CF América",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "572675",
+      "nombre": "Maxi Araújo",
+      "href_perfil": "/maxi-araujo/profil/spieler/572675",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/02/2000 (26)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "376514",
+      "nombre": "Mathías Olivera",
+      "href_perfil": "/mathias-olivera/profil/spieler/376514",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "31/10/1997 (28)",
+      "club_actual": "SSC Napoli",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "496268",
+      "nombre": "Joaquín Piquerez",
+      "href_perfil": "/joaquin-piquerez/profil/spieler/496268",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/08/1998 (27)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "446106",
+      "nombre": "Juan Manuel Sanabria",
+      "href_perfil": "/juan-manuel-sanabria/profil/spieler/446106",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "29/03/2000 (26)",
+      "club_actual": "Real Salt Lake City",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "439072",
+      "nombre": "Matías Viña",
+      "href_perfil": "/matias-vina/profil/spieler/439072",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/11/1997 (28)",
+      "club_actual": "CA River Plate",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "188862",
+      "nombre": "Guillermo Varela",
+      "href_perfil": "/guillermo-varela/profil/spieler/188862",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/03/1993 (33)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "476701",
+      "nombre": "Manuel Ugarte",
+      "href_perfil": "/manuel-ugarte/profil/spieler/476701",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "11/04/2001 (25)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "354362",
+      "nombre": "Rodrigo Bentancur",
+      "href_perfil": "/rodrigo-bentancur/profil/spieler/354362",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "25/06/1997 (29)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "707447",
+      "nombre": "Emiliano Martínez",
+      "href_perfil": "/emiliano-martinez/profil/spieler/707447",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "17/08/1999 (26)",
+      "club_actual": "Sociedade Esportiva Palmeiras",
+      "valor_mercado_raw": "€6.50m"
+    },
+    {
+      "player_id": "369081",
+      "nombre": "Federico Valverde",
+      "href_perfil": "/federico-valverde/profil/spieler/369081",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/07/1998 (27)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€90.00m"
+    },
+    {
+      "player_id": "397458",
+      "nombre": "Nicolás de la Cruz",
+      "href_perfil": "/nicolas-de-la-cruz/profil/spieler/397458",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/06/1997 (29)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "606752",
+      "nombre": "Rodrigo Zalazar",
+      "href_perfil": "/rodrigo-zalazar/profil/spieler/606752",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/08/1999 (26)",
+      "club_actual": "SC Braga",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "248410",
+      "nombre": "Giorgian de Arrascaeta",
+      "href_perfil": "/giorgian-de-arrascaeta/profil/spieler/248410",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/06/1994 (32)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "465818",
+      "nombre": "Brian Rodríguez",
+      "href_perfil": "/brian-rodriguez/profil/spieler/465818",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/05/2000 (26)",
+      "club_actual": "CF América",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "457533",
+      "nombre": "Agustín Canobbio",
+      "href_perfil": "/agustin-canobbio/profil/spieler/457533",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/10/1998 (27)",
+      "club_actual": "Fluminense Football Club",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "676318",
+      "nombre": "Facundo Pellistri",
+      "href_perfil": "/facundo-pellistri/profil/spieler/676318",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "20/12/2001 (24)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "546543",
+      "nombre": "Darwin Núñez",
+      "href_perfil": "/darwin-nunez/profil/spieler/546543",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "24/06/1999 (27)",
+      "club_actual": "Al-Hilal SFC",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "578419",
+      "nombre": "Federico Viñas",
+      "href_perfil": "/federico-vinas/profil/spieler/578419",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/06/1998 (27)",
+      "club_actual": "Real Oviedo",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "189410",
+      "nombre": "Rodrigo Aguirre",
+      "href_perfil": "/rodrigo-aguirre/profil/spieler/189410",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/10/1994 (31)",
+      "club_actual": "Tigres UANL",
+      "valor_mercado_raw": "€2.30m"
+    }
+  ]
+}

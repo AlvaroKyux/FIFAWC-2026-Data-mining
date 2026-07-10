@@ -1,0 +1,51 @@
+{
+  "nombre": "Alexandr Sojka",
+  "href_perfil": "/alexandr-sojka/profil/spieler/826103",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,611'"
+    },
+    {
+      "competicion_raw": "Chance Liga Champion Gr.",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "374'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "255'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "52'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,292'"
+    }
+  ]
+}

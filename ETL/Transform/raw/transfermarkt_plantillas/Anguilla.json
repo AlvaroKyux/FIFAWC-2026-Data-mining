@@ -1,0 +1,213 @@
+{
+  "pais": "Anguilla",
+  "href_seleccion": "/anguilla/startseite/verein/17748",
+  "jugadores": [
+    {
+      "player_id": "999290",
+      "nombre": "Jelanie Lawrence",
+      "href_perfil": "/jelanie-lawrence/profil/spieler/999290",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/08/1983 (42)",
+      "club_actual": "Doc's United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1204745",
+      "nombre": "Shemor Browne",
+      "href_perfil": "/shemor-browne/profil/spieler/1204745",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/07/2008 (17)",
+      "club_actual": "FC Spartans International",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "715199",
+      "nombre": "Antoine Fleming",
+      "href_perfil": "/antoine-fleming/profil/spieler/715199",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "07/10/2000 (25)",
+      "club_actual": "Uprising FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312550",
+      "nombre": "Nathaniel Owen",
+      "href_perfil": "/nathaniel-owen/profil/spieler/1312550",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "25/01/2008 (18)",
+      "club_actual": "Eastleigh FC U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1180800",
+      "nombre": "Keante Brooks",
+      "href_perfil": "/keante-brooks/profil/spieler/1180800",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "26/02/2007 (19)",
+      "club_actual": "Roaring Lions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "703364",
+      "nombre": "Luke Paris",
+      "href_perfil": "/luke-paris/profil/spieler/703364",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/11/1994 (31)",
+      "club_actual": "Uxbridge FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953274",
+      "nombre": "Alexander Fleming",
+      "href_perfil": "/alexander-fleming/profil/spieler/953274",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/04/2005 (21)",
+      "club_actual": "Doc's United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "303222",
+      "nombre": "Germain Hughes",
+      "href_perfil": "/germain-hughes/profil/spieler/303222",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/11/1996 (29)",
+      "club_actual": "Roaring Lions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312551",
+      "nombre": "Nicholas Loblack",
+      "href_perfil": "/nicholas-loblack/profil/spieler/1312551",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/02/1988 (38)",
+      "club_actual": "SWA Sharks FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "247283",
+      "nombre": "Kion Lee",
+      "href_perfil": "/kion-lee/profil/spieler/247283",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/09/1993 (32)",
+      "club_actual": "Attackers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764770",
+      "nombre": "Kieron Lake-Bryan",
+      "href_perfil": "/kieron-lake-bryan/profil/spieler/764770",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "01/08/2003 (22)",
+      "club_actual": "Northwood FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615012",
+      "nombre": "Marley Ipinson-Fabien",
+      "href_perfil": "/marley-ipinson-fabien/profil/spieler/615012",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "26/07/2000 (25)",
+      "club_actual": "FC Hillingdon Borough",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953258",
+      "nombre": "Javis Jones",
+      "href_perfil": "/javis-jones/profil/spieler/953258",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "24/08/2005 (20)",
+      "club_actual": "Uprising FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "763209",
+      "nombre": "Varian Carty",
+      "href_perfil": "/varian-carty/profil/spieler/763209",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/06/2003 (23)",
+      "club_actual": "Lymers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122645",
+      "nombre": "Malachi Gumbs",
+      "href_perfil": "/malachi-gumbs/profil/spieler/1122645",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/06/2006 (20)",
+      "club_actual": "FC Diamond",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953261",
+      "nombre": "Jared Smeins",
+      "href_perfil": "/jared-smeins/profil/spieler/953261",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/10/2006 (19)",
+      "club_actual": "FC Diamond",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "877484",
+      "nombre": "Aedan Scipio",
+      "href_perfil": "/aedan-scipio/profil/spieler/877484",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/09/1990 (35)",
+      "club_actual": "Roaring Lions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022781",
+      "nombre": "Jordan Deans",
+      "href_perfil": "/jordan-deans/profil/spieler/1022781",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "30/10/1995 (30)",
+      "club_actual": "Uprising FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1240623",
+      "nombre": "Tjivari Leveret-Francisca",
+      "href_perfil": "/tjivari-leveret-francisca/profil/spieler/1240623",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "15/09/2009 (16)",
+      "club_actual": "Roaring Lions",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "898231",
+      "nombre": "Lamar Carpenter",
+      "href_perfil": "/lamar-carpenter/profil/spieler/898231",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "23/01/2004 (22)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414477",
+      "nombre": "Antonio Fleming",
+      "href_perfil": "/antonio-fleming/profil/spieler/1414477",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "19/08/1996 (29)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764768",
+      "nombre": "Jauron Gayle",
+      "href_perfil": "/jauron-gayle/profil/spieler/764768",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "04/03/2004 (22)",
+      "club_actual": "Doc's United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1373111",
+      "nombre": "Tarique Jackson",
+      "href_perfil": "/tarique-jackson/profil/spieler/1373111",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "03/07/2009 (16)",
+      "club_actual": "Roaring Lions",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

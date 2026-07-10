@@ -1,0 +1,33 @@
+{
+  "nombre": "Jonathan Osorio",
+  "href_perfil": "/jonathan-osorio/profil/spieler/260807",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    },
+    {
+      "competicion_raw": "Canadian Championship",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,305'"
+    }
+  ]
+}

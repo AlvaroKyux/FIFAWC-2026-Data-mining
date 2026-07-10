@@ -1,0 +1,33 @@
+{
+  "nombre": "Douglas Santos",
+  "href_perfil": "/douglas-santos/profil/spieler/220793",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier Liga",
+      "partidos": "23",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "1,922'"
+    },
+    {
+      "competicion_raw": "Russian Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "154'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "2,076'"
+    }
+  ]
+}

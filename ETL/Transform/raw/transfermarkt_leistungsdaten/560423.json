@@ -1,0 +1,51 @@
+{
+  "nombre": "Meshaal Barsham",
+  "href_perfil": "/meshaal-barsham/profil/spieler/560423",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "20",
+      "goles": "26",
+      "asistencias": "6",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "10",
+      "goles": "22",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "960'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "3",
+      "goles": "9",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "57",
+      "asistencias": "7",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "3,030'"
+    }
+  ]
+}

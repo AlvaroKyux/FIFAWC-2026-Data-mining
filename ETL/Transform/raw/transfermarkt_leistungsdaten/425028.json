@@ -1,0 +1,42 @@
+{
+  "nombre": "José Luis Rodríguez",
+  "href_perfil": "/jose-luis-rodriguez/profil/spieler/425028",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,288'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "16",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,336'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "309'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "4",
+      "asistencias": "9",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,933'"
+    }
+  ]
+}

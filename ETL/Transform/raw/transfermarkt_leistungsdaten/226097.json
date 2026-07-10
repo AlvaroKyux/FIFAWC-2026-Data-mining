@@ -1,0 +1,60 @@
+{
+  "nombre": "Ivan Šunjić",
+  "href_perfil": "/ivan-sunjic/profil/spieler/226097",
+  "competiciones": [
+    {
+      "competicion_raw": "Cyprus League",
+      "partidos": "29",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,451'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "Kypello Kyprou",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "315'"
+    },
+    {
+      "competicion_raw": "Cypriot Super Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "46",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "14",
+      "rojas": "-",
+      "minutos_raw": "3,936'"
+    }
+  ]
+}

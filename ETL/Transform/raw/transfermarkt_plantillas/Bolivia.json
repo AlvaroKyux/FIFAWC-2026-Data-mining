@@ -1,0 +1,249 @@
+{
+  "pais": "Bolivia",
+  "href_seleccion": "/bolivien/startseite/verein/5233",
+  "jugadores": [
+    {
+      "player_id": "258964",
+      "nombre": "Guillermo Viscarra",
+      "href_perfil": "/guillermo-viscarra/profil/spieler/258964",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "07/02/1993 (33)",
+      "club_actual": "Club Alianza Lima",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "102569",
+      "nombre": "Carlos Lampe",
+      "href_perfil": "/carlos-lampe/profil/spieler/102569",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/03/1987 (39)",
+      "club_actual": "Bolívar La Paz",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1422704",
+      "nombre": "Gerónimo Govea",
+      "href_perfil": "/geronimo-govea/profil/spieler/1422704",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/04/2008 (18)",
+      "club_actual": "Montevideo Wanderers U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "746832",
+      "nombre": "Efraín Morales",
+      "href_perfil": "/efrain-morales/profil/spieler/746832",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/03/2004 (22)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1098098",
+      "nombre": "Diego Arroyo",
+      "href_perfil": "/diego-arroyo/profil/spieler/1098098",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/04/2005 (21)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "481192",
+      "nombre": "Luis Haquín",
+      "href_perfil": "/luis-haquin/profil/spieler/481192",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/11/1997 (28)",
+      "club_actual": "Al-Tai FC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "661852",
+      "nombre": "Leonardo Zabala",
+      "href_perfil": "/leonardo-zabala/profil/spieler/661852",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/05/2002 (24)",
+      "club_actual": "Cancún FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1124521",
+      "nombre": "Marcelo Torrez",
+      "href_perfil": "/marcelo-torrez/profil/spieler/1124521",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/07/2006 (19)",
+      "club_actual": "Santos FC U20",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "598101",
+      "nombre": "Roberto Fernández",
+      "href_perfil": "/roberto-fernandez/profil/spieler/598101",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/07/1999 (26)",
+      "club_actual": "Akron Tolyatti",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1105681",
+      "nombre": "Dieguito Rodriguez",
+      "href_perfil": "/dieguito-rodriguez/profil/spieler/1105681",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/09/2003 (22)",
+      "club_actual": "Club Always Ready",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "871790",
+      "nombre": "Diego Medina",
+      "href_perfil": "/diego-medina/profil/spieler/871790",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/01/2002 (24)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "1367729",
+      "nombre": "Lucas Macazaga",
+      "href_perfil": "/lucas-macazaga/profil/spieler/1367729",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "17/08/2006 (19)",
+      "club_actual": "CD Leganés B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1010446",
+      "nombre": "Héctor Cuellar",
+      "href_perfil": "/hector-cuellar/profil/spieler/1010446",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/08/2000 (25)",
+      "club_actual": "Club Always Ready",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "1098096",
+      "nombre": "Ervin Vaca",
+      "href_perfil": "/ervin-vaca/profil/spieler/1098096",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/2004 (22)",
+      "club_actual": "Bolívar La Paz",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "844176",
+      "nombre": "Gabriel Villamíl",
+      "href_perfil": "/gabriel-villamil/profil/spieler/844176",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/06/2001 (25)",
+      "club_actual": "LDU Quito",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "661856",
+      "nombre": "Robson Matheus",
+      "href_perfil": "/robson-matheus/profil/spieler/661856",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/05/2002 (24)",
+      "club_actual": "Bolívar La Paz",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "431863",
+      "nombre": "Moisés Villarroel",
+      "href_perfil": "/moises-villarroel/profil/spieler/431863",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/09/1998 (27)",
+      "club_actual": "Blooming Santa Cruz",
+      "valor_mercado_raw": "€650k"
+    },
+    {
+      "player_id": "1343439",
+      "nombre": "Óscar López",
+      "href_perfil": "/oscar-lopez/profil/spieler/1343439",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/08/2006 (19)",
+      "club_actual": "RCD Mallorca B",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1063811",
+      "nombre": "Miguelito",
+      "href_perfil": "/miguelito/profil/spieler/1063811",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/2004 (22)",
+      "club_actual": "Santos FC",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "481198",
+      "nombre": "Ramiro Vaca",
+      "href_perfil": "/ramiro-vaca/profil/spieler/481198",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/07/1999 (26)",
+      "club_actual": "Wydad Casablanca",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1339333",
+      "nombre": "Jesús Maraude",
+      "href_perfil": "/jesus-maraude/profil/spieler/1339333",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "02/02/2008 (18)",
+      "club_actual": "Club Always Ready",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "454652",
+      "nombre": "Carlos Melgar",
+      "href_perfil": "/carlos-melgar/profil/spieler/454652",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/11/1994 (31)",
+      "club_actual": "Bolívar La Paz",
+      "valor_mercado_raw": "€375k"
+    },
+    {
+      "player_id": "1072321",
+      "nombre": "Moises Paniagua",
+      "href_perfil": "/moises-paniagua/profil/spieler/1072321",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/08/2007 (18)",
+      "club_actual": "Wydad Casablanca",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "1124541",
+      "nombre": "Leonardo Viviani",
+      "href_perfil": "/leonardo-viviani/profil/spieler/1124541",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "21/09/2007 (18)",
+      "club_actual": "Club Aurora",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "981962",
+      "nombre": "Guilmar Centella",
+      "href_perfil": "/guilmar-centella/profil/spieler/981962",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/03/2005 (21)",
+      "club_actual": "Blooming Santa Cruz",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1384300",
+      "nombre": "Nabil Nacif",
+      "href_perfil": "/nabil-nacif/profil/spieler/1384300",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/09/2009 (16)",
+      "club_actual": "Club Deportivo Oriente Petrolero",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1081640",
+      "nombre": "Daniel Ribera",
+      "href_perfil": "/daniel-ribera/profil/spieler/1081640",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "18/02/2005 (21)",
+      "club_actual": "CA Talleres II",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

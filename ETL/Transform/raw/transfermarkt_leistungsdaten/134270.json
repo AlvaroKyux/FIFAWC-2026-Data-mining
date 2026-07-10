@@ -1,0 +1,51 @@
+{
+  "nombre": "Dan Burn",
+  "href_perfil": "/dan-burn/profil/spieler/134270",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "9",
+      "rojas": "1",
+      "minutos_raw": "2,199'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "11",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "965'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "117'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "44",
+      "goles": "2",
+      "asistencias": "6",
+      "amarillas": "11",
+      "rojas": "1",
+      "minutos_raw": "3,461'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Jonathan Tah",
+  "href_perfil": "/jonathan-tah/profil/spieler/196357",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,019'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "14",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,120'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "DFL-Supercup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "3,769'"
+    }
+  ]
+}

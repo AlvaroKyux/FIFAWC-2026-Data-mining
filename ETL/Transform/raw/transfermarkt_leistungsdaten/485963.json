@@ -1,0 +1,42 @@
+{
+  "nombre": "Pape Gueye",
+  "href_perfil": "/pape-gueye/profil/spieler/485963",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,143'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "526'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "165'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "5",
+      "asistencias": "2",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "2,834'"
+    }
+  ]
+}

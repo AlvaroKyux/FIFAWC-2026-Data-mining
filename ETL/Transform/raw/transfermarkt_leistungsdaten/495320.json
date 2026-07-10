@@ -1,0 +1,60 @@
+{
+  "nombre": "Martin Zlomislic",
+  "href_perfil": "/martin-zlomislic/profil/spieler/495320",
+  "competiciones": [
+    {
+      "competicion_raw": "SuperSport HNL",
+      "partidos": "33",
+      "goles": "36",
+      "asistencias": "11",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "2,970'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "6",
+      "asistencias": "5",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "900'"
+    },
+    {
+      "competicion_raw": "Hrvatski nogometni kup",
+      "partidos": "4",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "329'"
+    },
+    {
+      "competicion_raw": "Europa League Qualifying",
+      "partidos": "4",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "53",
+      "goles": "58",
+      "asistencias": "19",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "4,769'"
+    }
+  ]
+}

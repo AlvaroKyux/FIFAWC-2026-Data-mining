@@ -1,0 +1,24 @@
+{
+  "nombre": "Yuto Nagatomo",
+  "href_perfil": "/yuto-nagatomo/profil/spieler/79522",
+  "competiciones": [
+    {
+      "competicion_raw": "J1 Special Season",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "501'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "8",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "501'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Nico O'Reilly",
+  "href_perfil": "/nico-oreilly/profil/spieler/743413",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "34",
+      "goles": "5",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,649'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "671'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "364'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "53",
+      "goles": "9",
+      "asistencias": "6",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "4,044'"
+    }
+  ]
+}

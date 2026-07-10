@@ -1,0 +1,42 @@
+{
+  "nombre": "Santiago Gimenez",
+  "href_perfil": "/santiago-gimenez/profil/spieler/552955",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "896'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "141'"
+    },
+    {
+      "competicion_raw": "Supercoppa Italiana",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,037'"
+    }
+  ]
+}

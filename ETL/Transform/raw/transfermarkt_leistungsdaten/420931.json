@@ -1,0 +1,69 @@
+{
+  "nombre": "Daizen Maeda",
+  "href_perfil": "/daizen-maeda/profil/spieler/420931",
+  "competiciones": [
+    {
+      "competicion_raw": "Premiership",
+      "partidos": "31",
+      "goles": "7",
+      "asistencias": "5",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,386'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "612'"
+    },
+    {
+      "competicion_raw": "Scottish Premiership Top Six Split",
+      "partidos": "5",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "League Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "294'"
+    },
+    {
+      "competicion_raw": "SFA Cup",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "289'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "210'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "54",
+      "goles": "17",
+      "asistencias": "10",
+      "amarillas": "9",
+      "rojas": "-",
+      "minutos_raw": "4,241'"
+    }
+  ]
+}

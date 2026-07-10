@@ -1,0 +1,51 @@
+{
+  "nombre": "Iñaki Williams",
+  "href_perfil": "/inaki-williams/profil/spieler/255508",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,168'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "313'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "173'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "54'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "4",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,708'"
+    }
+  ]
+}

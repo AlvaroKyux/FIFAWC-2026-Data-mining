@@ -1,0 +1,33 @@
+{
+  "nombre": "Koki Ogawa",
+  "href_perfil": "/koki-ogawa/profil/spieler/351567",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "26",
+      "goles": "8",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,274'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "101'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "9",
+      "asistencias": "4",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,375'"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "pais": "Comoros",
+  "href_seleccion": "/komoren/startseite/verein/16430",
+  "jugadores": [
+    {
+      "player_id": "804829",
+      "nombre": "Yannick Pandor",
+      "href_perfil": "/yannick-pandor/profil/spieler/804829",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/05/2001 (25)",
+      "club_actual": "Francs Borains",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "817935",
+      "nombre": "Adel Anzimati-Aboudou",
+      "href_perfil": "/adel-anzimati-aboudou/profil/spieler/817935",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/11/2001 (24)",
+      "club_actual": "FC Ararat Yerevan",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "966575",
+      "nombre": "Naime Said Mchindra",
+      "href_perfil": "/naime-said-mchindra/profil/spieler/966575",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/05/2005 (21)",
+      "club_actual": "Toulouse FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "711996",
+      "nombre": "Warmed Omari",
+      "href_perfil": "/warmed-omari/profil/spieler/711996",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/04/2000 (26)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "891786",
+      "nombre": "Kenan Toibibou",
+      "href_perfil": "/kenan-toibibou/profil/spieler/891786",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/12/2004 (21)",
+      "club_actual": "NK Bravo",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1086466",
+      "nombre": "Idris Mohamed",
+      "href_perfil": "/idris-mohamed/profil/spieler/1086466",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/11/2003 (22)",
+      "club_actual": "Le Puy-en-Velay FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "896283",
+      "nombre": "Yannis Kari",
+      "href_perfil": "/yannis-kari/profil/spieler/896283",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/11/2000 (25)",
+      "club_actual": "Francs Borains",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "922488",
+      "nombre": "Yakine Said M'Madi",
+      "href_perfil": "/yakine-said-mmadi/profil/spieler/922488",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/03/2004 (22)",
+      "club_actual": "Valenciennes FC B",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "954112",
+      "nombre": "Assad Maoulida",
+      "href_perfil": "/assad-maoulida/profil/spieler/954112",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/04/2003 (23)",
+      "club_actual": "Grand Ouest Association Lyonnaise FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1057165",
+      "nombre": "Falahidine Said-Ahamada",
+      "href_perfil": "/falahidine-said-ahamada/profil/spieler/1057165",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/05/2005 (21)",
+      "club_actual": "Pau FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "483460",
+      "nombre": "Akim Abdallah",
+      "href_perfil": "/akim-abdallah/profil/spieler/483460",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "18/08/1997 (28)",
+      "club_actual": "EA Guingamp",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "805835",
+      "nombre": "Rémy Vita",
+      "href_perfil": "/remy-vita/profil/spieler/805835",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/04/2001 (25)",
+      "club_actual": "CD Tondela",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "1091902",
+      "nombre": "Mousslim Youssouf",
+      "href_perfil": "/mousslim-youssouf/profil/spieler/1091902",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/01/2006 (20)",
+      "club_actual": "OGC Nice Espoir",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "517372",
+      "nombre": "Mohamed Abdallah",
+      "href_perfil": "/mohamed-abdallah/profil/spieler/517372",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/04/1999 (27)",
+      "club_actual": "SC Aubagne Air Bel",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "942083",
+      "nombre": "Karim Mohamed",
+      "href_perfil": "/karim-mohamed/profil/spieler/942083",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/04/2001 (25)",
+      "club_actual": "FC Borgo",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "916438",
+      "nombre": "Mohafidh Ahamada",
+      "href_perfil": "/mohafidh-ahamada/profil/spieler/916438",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/03/2004 (22)",
+      "club_actual": "Red Star FC B",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "525131",
+      "nombre": "Yacine Bourhane",
+      "href_perfil": "/yacine-bourhane/profil/spieler/525131",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "30/09/1998 (27)",
+      "club_actual": "Aris Limassol",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "805065",
+      "nombre": "Iyad Mohamed",
+      "href_perfil": "/iyad-mohamed/profil/spieler/805065",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/03/2001 (25)",
+      "club_actual": "Casa Pia AC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "815676",
+      "nombre": "Yassine Saindou",
+      "href_perfil": "/yassine-saindou/profil/spieler/815676",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/02/2001 (25)",
+      "club_actual": "Al-Shabab SC (Oman)",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "471582",
+      "nombre": "Zaydou Youssouf",
+      "href_perfil": "/zaydou-youssouf/profil/spieler/471582",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/07/1999 (26)",
+      "club_actual": "Al-Fateh SC",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "394329",
+      "nombre": "Raouf Mroivili",
+      "href_perfil": "/raouf-mroivili/profil/spieler/394329",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/01/1999 (27)",
+      "club_actual": "FC Villefranche-Beaujolais",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "918157",
+      "nombre": "Aymeric Ahmed",
+      "href_perfil": "/aymeric-ahmed/profil/spieler/918157",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/2003 (22)",
+      "club_actual": "LB Châteauroux",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "780147",
+      "nombre": "Rafiki Saïd",
+      "href_perfil": "/rafiki-said/profil/spieler/780147",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/03/2000 (26)",
+      "club_actual": "Standard Liège",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "730573",
+      "nombre": "Faiz Mattoir",
+      "href_perfil": "/faiz-mattoir/profil/spieler/730573",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2000 (25)",
+      "club_actual": "Septemvri Sofia",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1119906",
+      "nombre": "Abdelmajid Djae",
+      "href_perfil": "/abdelmajid-djae/profil/spieler/1119906",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/06/2005 (21)",
+      "club_actual": "FC Limonest",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "855027",
+      "nombre": "Zaïd Amir",
+      "href_perfil": "/zaid-amir/profil/spieler/855027",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "11/05/2002 (24)",
+      "club_actual": "Istres Football Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "952436",
+      "nombre": "Adel Mahamoud",
+      "href_perfil": "/adel-mahamoud/profil/spieler/952436",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/02/2003 (23)",
+      "club_actual": "SAS Epinal",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "517379",
+      "nombre": "Housseine Zakouani",
+      "href_perfil": "/housseine-zakouani/profil/spieler/517379",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "30/04/1998 (28)",
+      "club_actual": "Al-Zulfi SFC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1010855",
+      "nombre": "Aboubacar Ali",
+      "href_perfil": "/aboubacar-ali/profil/spieler/1010855",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/04/2006 (20)",
+      "club_actual": "Francs Borains",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1203049",
+      "nombre": "Enzo Ibrahim Rivière",
+      "href_perfil": "/enzo-ibrahim-riviere/profil/spieler/1203049",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/03/2007 (19)",
+      "club_actual": "FCO Dijon U19",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

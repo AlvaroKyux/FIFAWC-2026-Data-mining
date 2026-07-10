@@ -1,0 +1,33 @@
+{
+  "nombre": "Livano Comenencia",
+  "href_perfil": "/livano-comenencia/profil/spieler/626764",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "24",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,523'"
+    },
+    {
+      "competicion_raw": "Swiss Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "120'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "1,643'"
+    }
+  ]
+}

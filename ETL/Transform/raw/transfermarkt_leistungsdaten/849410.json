@@ -1,0 +1,51 @@
+{
+  "nombre": "Valentín Barco",
+  "href_perfil": "/valentin-barco/profil/spieler/849410",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "27",
+      "goles": "2",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,171'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "10",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "666'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "344'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "178'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "3",
+      "asistencias": "9",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "3,359'"
+    }
+  ]
+}

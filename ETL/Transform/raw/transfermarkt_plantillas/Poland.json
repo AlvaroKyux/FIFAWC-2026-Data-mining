@@ -1,0 +1,240 @@
+{
+  "pais": "Poland",
+  "href_seleccion": "/polen/startseite/verein/3442",
+  "jugadores": [
+    {
+      "player_id": "346551",
+      "nombre": "Kamil Grabara",
+      "href_perfil": "/kamil-grabara/profil/spieler/346551",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/01/1999 (27)",
+      "club_actual": "VfL Wolfsburg",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "465955",
+      "nombre": "Marcin Bulka",
+      "href_perfil": "/marcin-bulka/profil/spieler/465955",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/10/1999 (26)",
+      "club_actual": "NEOM SC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "404055",
+      "nombre": "Mateusz Kochalski",
+      "href_perfil": "/mateusz-kochalski/profil/spieler/404055",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/07/2000 (25)",
+      "club_actual": "Qarabağ FK",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "425918",
+      "nombre": "Jakub Kiwior",
+      "href_perfil": "/jakub-kiwior/profil/spieler/425918",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/02/2000 (26)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "1073748",
+      "nombre": "Kacper Potulski",
+      "href_perfil": "/kacper-potulski/profil/spieler/1073748",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/10/2007 (18)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "243028",
+      "nombre": "Jan Bednarek",
+      "href_perfil": "/jan-bednarek/profil/spieler/243028",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/04/1996 (30)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€11.00m"
+    },
+    {
+      "player_id": "821350",
+      "nombre": "Oskar Wójcik",
+      "href_perfil": "/oskar-wojcik/profil/spieler/821350",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/07/2003 (22)",
+      "club_actual": "Cracovia",
+      "valor_mercado_raw": "€5.00m"
+    },
+    {
+      "player_id": "386967",
+      "nombre": "Przemysław Wiśniewski",
+      "href_perfil": "/przemyslaw-wisniewski/profil/spieler/386967",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/07/1998 (27)",
+      "club_actual": "Widzew Lodz",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "181118",
+      "nombre": "Tomasz Kedziora",
+      "href_perfil": "/tomasz-kedziora/profil/spieler/181118",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/06/1994 (32)",
+      "club_actual": "PAOK Thessaloniki",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "599733",
+      "nombre": "Arkadiusz Pyrka",
+      "href_perfil": "/arkadiusz-pyrka/profil/spieler/599733",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "20/09/2002 (23)",
+      "club_actual": "FC St. Pauli",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "607435",
+      "nombre": "Norbert Wojtuszek",
+      "href_perfil": "/norbert-wojtuszek/profil/spieler/607435",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/10/2001 (24)",
+      "club_actual": "Jagiellonia Bialystok",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "382429",
+      "nombre": "Bartosz Slisz",
+      "href_perfil": "/bartosz-slisz/profil/spieler/382429",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/1999 (27)",
+      "club_actual": "Bröndby IF",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "181136",
+      "nombre": "Piotr Zielinski",
+      "href_perfil": "/piotr-zielinski/profil/spieler/181136",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/05/1994 (32)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "377243",
+      "nombre": "Jakub Piotrowski",
+      "href_perfil": "/jakub-piotrowski/profil/spieler/377243",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/10/1997 (28)",
+      "club_actual": "Udinese Calcio",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "550108",
+      "nombre": "Nicola Zalewski",
+      "href_perfil": "/nicola-zalewski/profil/spieler/550108",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "23/01/2002 (24)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "320748",
+      "nombre": "Sebastian Szymanski",
+      "href_perfil": "/sebastian-szymanski/profil/spieler/320748",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "10/05/1999 (27)",
+      "club_actual": "Stade Rennais FC",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "554284",
+      "nombre": "Kacper Kozlowski",
+      "href_perfil": "/kacper-kozlowski/profil/spieler/554284",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/10/2003 (22)",
+      "club_actual": "Gaziantep FK",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "974365",
+      "nombre": "Filip Rózga",
+      "href_perfil": "/filip-rozga/profil/spieler/974365",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "07/08/2006 (19)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€2.80m"
+    },
+    {
+      "player_id": "246579",
+      "nombre": "Bartosz Kapustka",
+      "href_perfil": "/bartosz-kapustka/profil/spieler/246579",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "23/12/1996 (29)",
+      "club_actual": "Legia Warszawa",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1162012",
+      "nombre": "Oskar Pietuszewski",
+      "href_perfil": "/oskar-pietuszewski/profil/spieler/1162012",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/05/2008 (18)",
+      "club_actual": "FC Porto",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "407098",
+      "nombre": "Jakub Kaminski",
+      "href_perfil": "/jakub-kaminski/profil/spieler/407098",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/06/2002 (24)",
+      "club_actual": "1.FC Köln",
+      "valor_mercado_raw": "€17.00m"
+    },
+    {
+      "player_id": "393565",
+      "nombre": "Michal Skoras",
+      "href_perfil": "/michal-skoras/profil/spieler/393565",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/02/2000 (26)",
+      "club_actual": "KAA Gent",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "38253",
+      "nombre": "Robert Lewandowski",
+      "href_perfil": "/robert-lewandowski/profil/spieler/38253",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/08/1988 (37)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "470375",
+      "nombre": "Mateusz Zukowski",
+      "href_perfil": "/mateusz-zukowski/profil/spieler/470375",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/11/2001 (24)",
+      "club_actual": "1.FC Magdeburg",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "330126",
+      "nombre": "Karol Świderski",
+      "href_perfil": "/karol-swiderski/profil/spieler/330126",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/01/1997 (29)",
+      "club_actual": "Panathinaikos",
+      "valor_mercado_raw": "€4.50m"
+    },
+    {
+      "player_id": "622871",
+      "nombre": "Karol Czubak",
+      "href_perfil": "/karol-czubak/profil/spieler/622871",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/01/2000 (26)",
+      "club_actual": "Motor Lublin",
+      "valor_mercado_raw": "€2.50m"
+    }
+  ]
+}

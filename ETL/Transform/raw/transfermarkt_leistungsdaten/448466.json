@@ -1,0 +1,33 @@
+{
+  "nombre": "Jovane Cabral",
+  "href_perfil": "/jovane-cabral/profil/spieler/448466",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "27",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,679'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "7",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,679'"
+    }
+  ]
+}

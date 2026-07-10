@@ -1,0 +1,33 @@
+{
+  "nombre": "Ghislain Konan",
+  "href_perfil": "/ghislain-konan/profil/spieler/422850",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,661'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "31",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,706'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Caleb Yirenkyi",
+  "href_perfil": "/caleb-yirenkyi/profil/spieler/1240763",
+  "competiciones": [
+    {
+      "competicion_raw": "Superliga",
+      "partidos": "21",
+      "goles": "2",
+      "asistencias": "5",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,804'"
+    },
+    {
+      "competicion_raw": "Superliga Championship round",
+      "partidos": "9",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "810'"
+    },
+    {
+      "competicion_raw": "Oddset Pokalen",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "385'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "2",
+      "asistencias": "6",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,999'"
+    }
+  ]
+}

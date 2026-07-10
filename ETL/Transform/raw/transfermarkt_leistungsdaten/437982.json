@@ -1,0 +1,51 @@
+{
+  "nombre": "Oussama Benbout",
+  "href_perfil": "/oussama-benbout/profil/spieler/437982",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "14",
+      "goles": "10",
+      "asistencias": "5",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    },
+    {
+      "competicion_raw": "CAF Confederation Cup",
+      "partidos": "13",
+      "goles": "7",
+      "asistencias": "8",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,170'"
+    },
+    {
+      "competicion_raw": "Coupe d'Algerie",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "390'"
+    },
+    {
+      "competicion_raw": "Supercoupe d'Algérie",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "20",
+      "asistencias": "15",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "2,910'"
+    }
+  ]
+}

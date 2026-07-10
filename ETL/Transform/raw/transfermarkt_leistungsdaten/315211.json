@@ -1,0 +1,33 @@
+{
+  "nombre": "Sherel Floranus",
+  "href_perfil": "/sherel-floranus/profil/spieler/315211",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,801'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,981'"
+    }
+  ]
+}

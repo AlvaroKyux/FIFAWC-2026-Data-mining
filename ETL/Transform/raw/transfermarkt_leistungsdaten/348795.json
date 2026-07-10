@@ -1,0 +1,42 @@
+{
+  "nombre": "Giovani Lo Celso",
+  "href_perfil": "/giovani-lo-celso/profil/spieler/348795",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "24",
+      "goles": "2",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,397'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "321'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "59'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "3",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,777'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Cédric Bakambu",
+  "href_perfil": "/cedric-bakambu/profil/spieler/127048",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "18",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "562'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "6",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "420'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "193'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "4",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,175'"
+    }
+  ]
+}

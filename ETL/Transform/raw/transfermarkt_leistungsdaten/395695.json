@@ -1,0 +1,33 @@
+{
+  "nombre": "Elisha Owusu",
+  "href_perfil": "/elisha-owusu/profil/spieler/395695",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,349'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,349'"
+    }
+  ]
+}

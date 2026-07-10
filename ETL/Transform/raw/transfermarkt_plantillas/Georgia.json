@@ -1,0 +1,249 @@
+{
+  "pais": "Georgia",
+  "href_seleccion": "/georgien/startseite/verein/3669",
+  "jugadores": [
+    {
+      "player_id": "502676",
+      "nombre": "Giorgi Mamardashvili",
+      "href_perfil": "/giorgi-mamardashvili/profil/spieler/502676",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/09/2000 (25)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "407491",
+      "nombre": "Luka Gugeshashvili",
+      "href_perfil": "/luka-gugeshashvili/profil/spieler/407491",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "29/04/1999 (27)",
+      "club_actual": "Atromitos Athens",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "411612",
+      "nombre": "Davit Kereselidze",
+      "href_perfil": "/davit-kereselidze/profil/spieler/411612",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/08/1999 (26)",
+      "club_actual": "FC Dila Gori",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "906160",
+      "nombre": "Saba Goglichidze",
+      "href_perfil": "/saba-goglichidze/profil/spieler/906160",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "25/06/2004 (22)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "345189",
+      "nombre": "Luka Lochoshvili",
+      "href_perfil": "/luka-lochoshvili/profil/spieler/345189",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/05/1998 (28)",
+      "club_actual": "1.FC Nuremberg",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "431453",
+      "nombre": "Luka Gadrani",
+      "href_perfil": "/luka-gadrani/profil/spieler/431453",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/04/1997 (29)",
+      "club_actual": "Beitar Jerusalem",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "222332",
+      "nombre": "Lasha Dvali",
+      "href_perfil": "/lasha-dvali/profil/spieler/222332",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/05/1995 (31)",
+      "club_actual": "CSKA 1948",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "660869",
+      "nombre": "Ilia Beriashvili",
+      "href_perfil": "/ilia-beriashvili/profil/spieler/660869",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/07/1998 (27)",
+      "club_actual": "MTK Budapest",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "530696",
+      "nombre": "Irakli Azarovi",
+      "href_perfil": "/irakli-azarovi/profil/spieler/530696",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/02/2002 (24)",
+      "club_actual": "Shakhtar Donetsk",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "1193794",
+      "nombre": "Saba Kharebashvili",
+      "href_perfil": "/saba-kharebashvili/profil/spieler/1193794",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/09/2008 (17)",
+      "club_actual": "Dinamo Tbilisi",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "540056",
+      "nombre": "Giorgi Gocholeishvili",
+      "href_perfil": "/giorgi-gocholeishvili/profil/spieler/540056",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/02/2001 (25)",
+      "club_actual": "Hamburger SV",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "214250",
+      "nombre": "Otar Kakabadze",
+      "href_perfil": "/otar-kakabadze/profil/spieler/214250",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "27/06/1995 (31)",
+      "club_actual": "Cracovia",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "502671",
+      "nombre": "Anzor Mekvabishvili",
+      "href_perfil": "/anzor-mekvabishvili/profil/spieler/502671",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/06/2001 (25)",
+      "club_actual": "Universitatea Craiova",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "405564",
+      "nombre": "Giorgi Kochorashvili",
+      "href_perfil": "/giorgi-kochorashvili/profil/spieler/405564",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/06/1999 (27)",
+      "club_actual": "Sporting CP",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "658060",
+      "nombre": "Nika Gagnidze",
+      "href_perfil": "/nika-gagnidze/profil/spieler/658060",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/03/2001 (25)",
+      "club_actual": "Kolos Kovalivka",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "352596",
+      "nombre": "Otar Kiteishvili",
+      "href_perfil": "/otar-kiteishvili/profil/spieler/352596",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "26/03/1996 (30)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€5.50m"
+    },
+    {
+      "player_id": "412616",
+      "nombre": "Giorgi Chakvetadze",
+      "href_perfil": "/giorgi-chakvetadze/profil/spieler/412616",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "29/08/1999 (26)",
+      "club_actual": "Watford FC",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "806245",
+      "nombre": "Irakli Yegoian",
+      "href_perfil": "/irakli-yegoian/profil/spieler/806245",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "19/03/2004 (22)",
+      "club_actual": "Excelsior Rotterdam",
+      "valor_mercado_raw": "€1.80m"
+    },
+    {
+      "player_id": "724965",
+      "nombre": "Gizo Mamageishvili",
+      "href_perfil": "/gizo-mamageishvili/profil/spieler/724965",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "15/01/2003 (23)",
+      "club_actual": "SK Sturm Graz",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "502670",
+      "nombre": "Khvicha Kvaratskhelia",
+      "href_perfil": "/khvicha-kvaratskhelia/profil/spieler/502670",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/02/2001 (25)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€140.00m"
+    },
+    {
+      "player_id": "427572",
+      "nombre": "Zuriko Davitashvili",
+      "href_perfil": "/zuriko-davitashvili/profil/spieler/427572",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/02/2001 (25)",
+      "club_actual": "AS Saint-Étienne",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "412758",
+      "nombre": "Giorgi Kvernadze",
+      "href_perfil": "/giorgi-kvernadze/profil/spieler/412758",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/02/2003 (23)",
+      "club_actual": "Frosinone Calcio",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "419067",
+      "nombre": "Giorgi Tsitaishvili",
+      "href_perfil": "/giorgi-tsitaishvili/profil/spieler/419067",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/11/2000 (25)",
+      "club_actual": "FC Metz",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "251029",
+      "nombre": "Saba Lobjanidze",
+      "href_perfil": "/saba-lobjanidze/profil/spieler/251029",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/12/1994 (31)",
+      "club_actual": "Atlanta United FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "729814",
+      "nombre": "Georges Mikautadze",
+      "href_perfil": "/georges-mikautadze/profil/spieler/729814",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "31/10/2000 (25)",
+      "club_actual": "Villarreal CF",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "502682",
+      "nombre": "Giorgi Guliashvili",
+      "href_perfil": "/giorgi-guliashvili/profil/spieler/502682",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/09/2001 (24)",
+      "club_actual": "Racing Santander",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "187097",
+      "nombre": "Budu Zivzivadze",
+      "href_perfil": "/budu-zivzivadze/profil/spieler/187097",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/03/1994 (32)",
+      "club_actual": "1.FC Heidenheim 1846",
+      "valor_mercado_raw": "€1.20m"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nombre": "Nathan Ngoy",
+  "href_perfil": "/nathan-ngoy/profil/spieler/548254",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "2,404'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "610'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "38",
+      "goles": "3",
+      "asistencias": "2",
+      "amarillas": "12",
+      "rojas": "-",
+      "minutos_raw": "3,104'"
+    }
+  ]
+}

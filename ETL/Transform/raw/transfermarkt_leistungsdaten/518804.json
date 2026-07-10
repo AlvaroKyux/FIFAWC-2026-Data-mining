@@ -1,0 +1,51 @@
+{
+  "nombre": "Youssef Belammari",
+  "href_perfil": "/youssef-belammari/profil/spieler/518804",
+  "competiciones": [
+    {
+      "competicion_raw": "Botola Pro Inwi",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "471'"
+    },
+    {
+      "competicion_raw": "Championship Playoff",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "245'"
+    },
+    {
+      "competicion_raw": "CAF-Champions League",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "195'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,541'"
+    }
+  ]
+}

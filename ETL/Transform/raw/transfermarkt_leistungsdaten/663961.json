@@ -1,0 +1,33 @@
+{
+  "nombre": "Tyrick Bodak",
+  "href_perfil": "/tyrick-bodak/profil/spieler/663961",
+  "competiciones": [
+    {
+      "competicion_raw": "Eredivisie",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    }
+  ]
+}

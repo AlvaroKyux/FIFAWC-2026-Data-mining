@@ -1,0 +1,51 @@
+{
+  "nombre": "Jérémy Doku",
+  "href_perfil": "/jeremy-doku/profil/spieler/486049",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "30",
+      "goles": "5",
+      "asistencias": "7",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,786'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "9",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "289'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "257'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "8",
+      "asistencias": "14",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,962'"
+    }
+  ]
+}

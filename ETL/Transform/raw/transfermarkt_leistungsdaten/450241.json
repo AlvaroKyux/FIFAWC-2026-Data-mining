@@ -1,0 +1,87 @@
+{
+  "nombre": "Angelo Preciado",
+  "href_perfil": "/angelo-preciado/profil/spieler/450241",
+  "competiciones": [
+    {
+      "competicion_raw": "Chance Liga",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "964'"
+    },
+    {
+      "competicion_raw": "Série A",
+      "partidos": "7",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "376'"
+    },
+    {
+      "competicion_raw": "Campeonato Mineiro",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "287'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "337'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "284'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "148'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "MOL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "39",
+      "goles": "1",
+      "asistencias": "7",
+      "amarillas": "8",
+      "rojas": "1",
+      "minutos_raw": "2,486'"
+    }
+  ]
+}

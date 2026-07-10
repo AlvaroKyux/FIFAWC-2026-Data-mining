@@ -1,0 +1,1675 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+<script type="text/javascript" data-description="sourcepoint stub code">
+    !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+</script>
+<script data-description="sourcepoint configuration">
+window._sp_ = {
+    config: {"accountId":1254,"propertyId":7426,"gdpr":{"consentLanguage":"en","targetingParams":{"acps":"false"}},"baseEndpoint":"https://cdn.privacy-mgmt.com","isSPA":true,"cpPropertyId":"32280c37"}}
+</script>
+<script src="https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js" async></script>
+<script type="text/javascript" data-description="contentpass integration">
+    (function() {
+        var cpBaseUrl = 'https://cp.transfermarkt.co.uk';
+        var cpController = cpBaseUrl + '/now.js';
+        var cpPropertyId = '32280c37';
+
+        !function(C,o,n,t,P,a,s){C['CPObject']=n;C[n]||(C[n]=function(){
+        (C[n].q=C[n].q||[]).push(arguments)});C[n].l=+new Date;a=o.createElement(t);
+        s=o.getElementsByTagName(t)[0];a.src=P;s.parentNode.insertBefore(a,s)}
+        (window,document,'cp','script',cpController);
+
+        !function(C,o,n,t,P){if(!C[n].patched){cp('extension','authenticate');P=C[n].q.push;
+        C[n].q.push=function(a){if(a[0]==='authenticate'){if((o['cookie']||'').indexOf('_cpauthhint=')===-1&&
+        !(C['localStorage']||{})['_cpuser']&&C.location.href.toLowerCase().indexOf('cpauthenticated')===-1){
+        t={isLoggedIn:function(){return false;},hasValidSubscription:function(){return false;}};
+        (typeof a[1]==='function'&&a[1](null,t));C[n].afp=true;P.apply(C[n].q,[['authenticate',null]]);
+        return t;}}P.apply(C[n].q,[a]);}}}
+        (window,document,'cp',false);
+
+        cp('create', cpPropertyId, {
+        baseUrl: cpBaseUrl
+        });
+
+        cp('render', {
+        onFullConsent: function() {
+            console.log('[DEMO] onFullConsent');
+        }
+        })
+    })()
+</script>
+
+<script type="text/javascript" data-description="contentpass sourcepoint fast path">
+(function () {
+    cp('authenticate', function(err, user) {
+        if (err || (!user.isLoggedIn() && !user.hasValidSubscription())) {
+        // console.log('[SPCP] Taking fast path');
+        (function spExecMsg() {
+            if (window._sp_ && window._sp_.executeMessaging) {
+            if (!window._sp_.config.isSPA) {
+                // console.warn('[SPCP] Sourcepoint not in SPA mode!');
+            } else if (window._sp_.version) {
+                // console.log('[SPCP] Sourcepoint already running');
+            } else {
+                // console.log('[SPCP] Starting Sourcepoint');
+                window._sp_.executeMessaging();
+            }
+            } else {
+            // console.log('[SPCP] Sourcepoint not loaded yet. Retrying.');
+            setTimeout(spExecMsg, 10);
+            }
+        })();
+        }
+    });
+    })();
+</script>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" sizes="192x192" href="/android-chrome-192x192.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+<meta name="description" content="This overview ranks all national teams of the FIFA world ranking in ascending order. " />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="FIFA world rankings list" />
+<meta property="twitter:title" content="FIFA world rankings list" />
+<meta property="og:url" content="https://www.transfermarkt.co.uk/statistik/weltrangliste" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/statistik/weltrangliste" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/statistik/weltrangliste" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/statistik/weltrangliste" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/statistik/weltrangliste" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/statistik/weltrangliste" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/statistik/weltrangliste" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/statistik/weltrangliste" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/statistik/weltrangliste" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/statistik/weltrangliste" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/statistik/weltrangliste" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/statistik/weltrangliste" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/statistik/weltrangliste" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/statistik/weltrangliste" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.world/statistik/weltrangliste" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/statistik/weltrangliste" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/statistik/weltrangliste" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/statistik/weltrangliste" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/statistik/weltrangliste" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/statistik/weltrangliste" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/statistik/weltrangliste" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/statistik/weltrangliste" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/statistik/weltrangliste" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/statistik/weltrangliste" />
+<link hreflang="ro" rel="alternate" href="https://www.transfermarkt.ro/statistik/weltrangliste" />
+<link hreflang="el-GR" rel="alternate" href="https://www.transfermarkt.gr/statistik/weltrangliste" />
+<link hreflang="ko-KR" rel="alternate" href="https://www.transfermarkt.co.kr/statistik/weltrangliste" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/statistik/weltrangliste" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/statistik/weltrangliste" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/statistik/weltrangliste" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.pe/statistik/weltrangliste" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/statistik/weltrangliste" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/statistik/weltrangliste" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/statistik/weltrangliste" />
+<link rel="next" href="https://www.transfermarkt.co.uk/statistik/weltrangliste?page=2" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-main.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1782474364" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-discover.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-button-list.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-link-list.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-print.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-statistics.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-chosen.min.css?lm=1782474366" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1782474364" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1782474364" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1782474364"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1782474364"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1782474364"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/consent/bundle.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+console.info("%c [TM-ADs] Initialize Ads on domain .uk (statistik/weltrangliste)", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Render slot skyscraper (/div-gpt-ad-skyscraper) for footballco", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Render slot billboard (/div-gpt-ad-top_banner) for footballco", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Render slot fullsize_contentad (/div-gpt-ad-bottom_banner) for footballco", "background: #282828; color: #bada55")
+    var oddsServe = function(placement,competition,match,node) {
+        if (!node){
+            var s=document.readyState==='loading'?document.getElementsByTagName('script'):[];
+            node=s.length?s[s.length-1].parentNode:null;
+        }
+        oddsServe.queue.push({contentUnitId:placement,competition:competition,match:match,node:node});
+    }
+    
+    oddsServe.onInit=function(callbacks){
+        if (typeof window.__tcfapi === 'function') {
+            __tcfapi('addEventListener', 2, function(tcdata, success) {
+                let tcf20compatibleString;
+                if(success) {
+                    if (tcdata.eventStatus === 'useractioncomplete') {
+                        tcf20compatibleString = tcdata.tcString;
+                    } else if (tcdata.eventStatus === 'tcloaded') {
+                        tcf20compatibleString = tcdata.tcString;
+                    }
+                    callbacks.setGdprOptions({
+                        gdpr:1,
+                        gdpr_pd:1,
+                        gdpr_consent:tcf20compatibleString,
+                    });
+                }
+            });
+        } else {
+            console.warn('E2: __tcfapi not found');
+        }
+    };
+    oddsServe.options={gdpr_wait:true};
+    oddsServe.queue=[];
+console.info("%c [TM-ADs] Add adslot configuration for 3 ad slots skyscraper | billboard | fullsize_contentad", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Adslots without configuration: fireplace | skyscraper-left-bound | skyscraperbtf | richmedia | 1by1px", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Register slots with JS vendor lib", "background: #282828; color: #bada55")
+window.addEventListener('load', () => {
+  const offset = window.matchMedia('(max-width: 768px)').matches ? 80 : 120;
+  document.querySelectorAll('[data-sticky]').forEach(node => {
+    const parent = node.parentElement;
+    const observer = new IntersectionObserver(([entry]) => {
+      if (!entry.isIntersecting) {
+        parent.style.position = 'sticky';
+        parent.style.top = `${offset}px`;
+        parent.style.zIndex = 12000000;
+        setTimeout(() => {
+          parent.style.removeProperty('position');
+          parent.style.removeProperty('top');
+          parent.style.removeProperty('z-index');
+        }, parseInt(node.dataset?.sticky) || 3000);
+        observer.unobserve(parent);
+      }
+    }, { rootMargin: `-${offset}px 0px 0px 0px`, threshold: 1 });
+    observer.observe(parent);
+  });
+});
+
+console.info("%c [TM-ADs] Render ad slots js for footballco", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Skipped external script https://lngtd.com/transfermarkt_homepage.js for footballco on wettbewerbe_statistiken", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Added external ad script https://lngtd.com/transfermarkt_ros.js for footballco on wettbewerbe_statistiken", "background: #282828; color: #bada55")
+/*]]>*/
+</script>
+<title>FIFA world rankings list | Transfermarkt</title>
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
+    
+<script type="text/javascript">
+   tmData = {
+       loggedIn : "0",
+       tmTraffic: "0",
+   };
+</script>
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    let utmVars = {
+        eVar1: urlParams.get('utm_campaign'),
+        eVar6: urlParams.get('utm_source'),
+        eVar24: urlParams.get('utm_medium')
+    };
+    Object.keys(utmVars).forEach((k) => utmVars[k] == null && delete utmVars[k]);
+
+    window.tmAnalyticsDataLayer = window.tmAnalyticsDataLayer || [];
+    window.tmAnalytics = {
+        dimensions: {
+            eVar10: '',
+			...utmVars,
+            evar19: window.location.href,
+            eVar35 : '',
+			eVar37 : '',
+    },
+    properties: {
+        prop2: 'statistik',
+		prop3: 'global',
+		prop4: 'weltrangliste',
+		prop5: '',
+		prop14: 'statistik_global_weltrangliste_',
+		prop9: window.location.hostname,
+        prop10: window.location.href,
+        prop1 : 'false',
+    },
+    pageDetails: {
+        pageViews: {
+            value: 1
+        },
+        isErrorPage: 'false',
+            isHomepage: 'false',
+            name: 'FIFA world rankings list | Transfermarkt',
+            URL: window.location.href,
+            server: 'prod-tm-web-server-11125'
+    },
+    };
+
+function tmEventForLink(category, aTag, label) {
+    const url = new URL(aTag.href);
+    const link = url.pathname + url.search;
+    tmEvent(category, link, label);
+}
+
+function tmEvent(category, action, label, detail = '') {
+    if (typeof gtag === 'function') {
+        gtag('event',
+            action,
+            {
+                'event_category': category,
+                'event_label': label
+            }
+        );
+    }
+
+    const ev = {
+        event: 'tmEvent',
+        tmEvent: {
+            customDimensions: {
+                eVars: {
+                    ...tmAnalytics.dimensions
+                },
+                props: {
+                    prop6: category,
+                    prop7: action,
+                    prop8: label,
+                    prop17: detail,
+                    ...tmAnalytics.properties
+                }
+            },
+            event1to100: {
+                event7: {
+                    value: 1
+                },
+                event8: null,
+            },
+            session: {
+                web: {
+                    webInteraction: {
+                        linkClicks: {
+                            value: 1
+                        }
+                    },
+                    webPageDetails: {
+                        ...tmAnalytics.pageDetails,
+                        ...{
+                            pageViews: {
+                                value: null
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    };
+
+     if (!window._satellite) {
+        once = false;
+        window._satellite = { _monitors: [{
+            ruleTriggered: (e) => {
+                if (once) {
+                    return;
+                }
+                once = true;
+                setTimeout(() => {
+                    tmAnalyticsDataLayer.push(ev);
+                    tmAnalyticsDataLayer.push(function (dl) {
+                        const state = dl.getState();
+                    });
+                }, 1);
+            }
+        }] };
+    } else {
+        tmAnalyticsDataLayer.push(ev);
+        tmAnalyticsDataLayer.push(function (dl) {
+            const state = dl.getState();
+        });
+    }
+}
+function tmTrackingAndAds() {
+    if (typeof gtag === 'function') {
+        gtag("event", "page_view", {
+            page_path: "/jsContent" + window.location.pathname
+        });
+    }
+
+    tmAnalyticsDataLayer.push({
+        event: 'tmTrackingAndAds',
+        tmTrackingAndAds: {
+            customDimensions: {
+                eVars: tmAnalytics.dimensions,
+                props: tmAnalytics.properties
+            },
+            event1to100: {
+                event7: null,
+                event8: {
+                    value: 1
+                }
+            },
+            session: {
+                web: {
+                    webInteraction: {
+                        linkClicks: {
+                            value: null
+                        }
+                    },
+                    webPageDetails: {
+                        ...tmAnalytics.pageDetails,
+                        ...{
+                            pageViews: {
+                                value: 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    });
+    tmAnalyticsDataLayer.push(function (dl) {
+        const state = dl.getState();
+    });
+}
+function tmTiming(value, name, event_category, event_label) {
+    console.log('tmTiming', value, name, event_category, event_label);
+}
+
+        !function(e,a,n,t){var i=e.head;if(i){
+            if (a) return;
+            var o=e.createElement("style");
+            o.id="alloy-prehiding",o.innerText=n,i.appendChild(o),setTimeout(function(){o.parentNode&&o.parentNode.removeChild(o)},t)}}
+        (document, document.location.href.indexOf("adobe_authoring_enabled") !== -1, ".personalization-container { opacity: 0 !important }", 3000);
+
+            !function(n,o){o.forEach(function(o){n[o]||((n.__alloyNS=n.__alloyNS||
+                []).push(o),n[o]=function(){var u=arguments;return new Promise(
+                function(i,l){n[o].q.push([i,l,u])})},n[o].q=[])})}
+            (window,["alloy"]);
+</script>
+<tm-consent
+    type="adobe"
+    no-checkbox
+    embed="PHNjcmlwdCBhc3luYyBzcmM9Imh0dHBzOi8vYXNzZXRzLmFkb2JlZHRtLmNvbS83Y2FkY2E5NWRkOWEvY2Q0YWI4ODRkMjMxL2xhdW5jaC0wMTI3MmI0MDBjNjUubWluLmpzIj48L3NjcmlwdD4=">
+</tm-consent>
+
+    <script type="text/javascript" src="https://tmssl.akamaized.net//ads/ads.js"></script>
+    <script type="text/javascript">
+        window.tmGaId = "UA-3816204-13";
+
+        function sendIvwData() {}
+    </script>
+    </head>
+
+<body class="desktop " itemscope itemtype="http://schema.org/WebPage" data-tm-tld="uk" data-cmp-layer-id="910149" data-db-name="uk-der-zauberzwerg" >
+    
+                <tm-domain-note></tm-domain-note>
+        <div id="main">
+                    <button id="back-to-top" title="Nach oben">
+                <svg xmlns="http://www.w3.org/2000/svg" width="17.795" height="10.009" viewBox="0 0 17.795 10.009">
+                    <path id="angle-up" d="M20.683,17.01a1.112,1.112,0,0,1-.786-.326l-7-7-7,7a1.112,1.112,0,1,1-1.573-1.573l7.785-7.785a1.112,1.112,0,0,1,1.573,0l7.785,7.785a1.112,1.112,0,0,1-.786,1.9Z" transform="translate(-4 -7)" fill="#fff"/>
+                </svg>
+            </button>
+            <div class="werbung-skyscraper-left-bound-container">
+                            </div>
+            <div class="werbung-skyscraper-container">
+                <div class="werbung ad-placement-note werbung-skyscraper" data-ad-placement-note="Advertisement">
+  <div id="div-gpt-ad-skyscraper" style="min-width: 160px; min-height: 600px;"></div>
+</div>
+            </div>
+
+            <div class="werbung-skyscraperbtf-container">
+                            </div>
+        
+        <div id="tm-overlay"></div>
+
+                    <div class="tm-header__box">
+                <!-- logo  -->
+                <a href="/" class="tm-header__logo" onclick="tmEvent('hauptnavi', '/', 'TM-Logo');">
+                    <img src="https://tmsi.akamaized.net/head/tm_logo_rebrush.svg"
+                         height="62"
+                         width="156"
+                         title="Transfermarkt"
+                         alt="Transfermarkt"
+                    >
+                </a>
+
+                <!-- domainswitcher  -->
+                <div class="domin-swicher">
+                    <tm-domain-switcher
+                        tld="co.uk"
+                        translations='{&quot;chooseYourDomain&quot;:&quot;Choose your domain&quot;}'></tm-domain-switcher>
+                </div>
+
+                <!-- live -->
+                <tm-live-match-count
+                    class="tm-header__live"
+                    auto-request                    content='{&quot;liveMatches&quot;:&quot;Live matches&quot;,&quot;liveMatch&quot;:&quot;Live maches&quot;,&quot;live&quot;:&quot;Live&quot;}'></tm-live-match-count>
+
+                <!-- Search -->
+                                    <div class="tm-header__search " id="schnellsuche-platz">
+                        <form name="schnellsuche" id="schnellsuche" class="tm-header__form" action="/schnellsuche/ergebnis/schnellsuche">
+                            <input type="text" name="query" class="tm-header__input--search-field" onClick="" placeholder="Enter your search term" autocorrect="off" spellcheck="false" value="" />
+                            <button type="submit" value="" class="tm-header__input--search-send" alt="Search">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+                                    <path d="M17.825,16.847 L14.28,13.303 C17.072,9.987 16.756,5.061 13.563,2.13 C10.37,-0.8 5.435,-0.695 2.37,2.37 C-0.695,5.435 -0.8,10.37 2.13,13.563 C5.061,16.756 9.987,17.072 13.303,14.28 L16.847,17.825 C17.121,18.069 17.538,18.057 17.797,17.797 C18.057,17.538 18.069,17.121 17.825,16.847 z M1.418,8.108 C1.417,4.413 4.412,1.417 8.107,1.416 C11.802,1.415 14.798,4.411 14.799,8.106 C14.799,11.801 11.804,14.797 8.108,14.797 C4.414,14.797 1.419,11.803 1.418,8.108 z" fill="#000" />
+                                </svg>
+                            </button>
+                        </form>
+                        <a href="/detailsuche/spielerdetail/suche" title="to detailed player search" id="detailsuche-head" class="tm-header__search-detail">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0, 0, 18, 18">
+                                <path d="M3.138,3.558 C3.137,1.593 4.727,0 6.69,0 C8.652,-0 10.243,1.592 10.243,3.556 C10.243,5.521 8.653,7.113 6.69,7.113 C4.729,7.113 3.138,5.522 3.138,3.558 z M8.233,13.187 C8.261,11.778 8.861,10.442 9.893,9.486 C9.967,9.418 9.997,9.315 9.971,9.219 C9.946,9.119 9.863,9.044 9.76,9.03 C9.331,8.938 8.893,8.893 8.454,8.895 L4.906,8.895 C3.583,8.808 2.286,9.298 1.35,10.239 C0.414,11.179 -0.07,12.479 0.021,13.804 C-0.085,14.656 0.209,15.509 0.817,16.114 C1.425,16.72 2.279,17.009 3.13,16.897 L9.266,16.897 C9.372,16.895 9.467,16.831 9.508,16.732 C9.549,16.634 9.527,16.521 9.453,16.444 C8.665,15.544 8.232,14.387 8.236,13.191 z M17.805,17.804 C17.68,17.93 17.511,18 17.334,18 C17.158,18 16.989,17.93 16.864,17.804 L15.237,16.177 C13.686,17.242 11.58,16.949 10.378,15.501 C9.176,14.052 9.274,11.926 10.604,10.594 C11.934,9.263 14.058,9.165 15.505,10.368 C16.952,11.571 17.244,13.68 16.181,15.233 L17.805,16.866 C18.065,17.126 18.065,17.548 17.805,17.808 z M15.484,13.182 C15.484,11.911 14.455,10.881 13.186,10.881 C11.917,10.881 10.888,11.911 10.888,13.182 C10.888,14.452 11.917,15.482 13.186,15.482 C14.455,15.482 15.484,14.452 15.484,13.182 z" fill="#000" />
+                            </svg>
+                        </a>
+                    </div>
+                
+                <!-- login button -->
+                <div class="tm-header__login">
+                    <tm-userbox translations='{&quot;addFavorite&quot;:&quot;Add favourite&quot;,&quot;adminArea&quot;:&quot;Admin area&quot;,&quot;adminTools&quot;:&quot;Admin tools&quot;,&quot;allFavoriteLinkText&quot;:&quot;Go to all my favourite links&quot;,&quot;applyAsModOrDatascout&quot;:&quot;Apply as a moderator or datascout&quot;,&quot;checkAllNews&quot;:&quot;Check all news&quot;,&quot;checkAllRumours&quot;:&quot;Check all rumours&quot;,&quot;chooseYourDomain&quot;:&quot;Choose your domain&quot;,&quot;clickAgain&quot;:&quot;Click again to copy shortlink to your clipboard&quot;,&quot;clubBoard&quot;:&quot;Club forum&quot;,&quot;confirm&quot;:&quot;Alright&quot;,&quot;copied&quot;:&quot;Copied to your clipboard&quot;,&quot;copyLink&quot;:&quot;copy link&quot;,&quot;createAccount&quot;:&quot;Create your account&quot;,&quot;createNewMessage&quot;:&quot;Create a new message&quot;,&quot;createShortlink&quot;:&quot;create a shortlink&quot;,&quot;createShortNews&quot;:&quot;Create memo&quot;,&quot;dashboard&quot;:&quot;Overview&quot;,&quot;dataAdministration&quot;:&quot;Data administration&quot;,&quot;debug&quot;:&quot;Debug&quot;,&quot;deleteAll&quot;:&quot;Delete all&quot;,&quot;deleteConfirm&quot;:&quot;Yes, delete all&quot;,&quot;editText&quot;:&quot;Edit&quot;,&quot;forgotPassword&quot;:&quot;Forgot password?&quot;,&quot;forgotUsername&quot;:&quot;Forgot username?&quot;,&quot;forgotLoginDetails&quot;:&quot;Forgot your login details?&quot;,&quot;forum&quot;:&quot;forum&quot;,&quot;groundhoppingTool&quot;:&quot;Groundhopping Tool&quot;,&quot;lastMatch&quot;:&quot;last match&quot;,&quot;signin&quot;:&quot;Log in&quot;,&quot;login&quot;:&quot;Login&quot;,&quot;logOut&quot;:&quot;Log out&quot;,&quot;manageFavorites&quot;:&quot;Manage favourites&quot;,&quot;marketValue&quot;:&quot;market value&quot;,&quot;matchplan&quot;:&quot;Schedule&quot;,&quot;messages&quot;:&quot;Private messages&quot;,&quot;myClub&quot;:&quot;My club&quot;,&quot;myClubText&quot;:&quot;With a Transfermarkt account you can register your favourite club and find all important information about your club (matches, news, quick links). &quot;,&quot;myDreamTeam&quot;:&quot;My dream team&quot;,&quot;myFavorites&quot;:&quot;My favourites&quot;,&quot;myFavoritesText&quot;:&quot;With a Transfermarkt account, you can save any page as a favourite and then access it with one click.&quot;,&quot;myProfile&quot;:&quot;My profile&quot;,&quot;news&quot;:&quot;News&quot;,&quot;newsAdministration&quot;:&quot;News administration&quot;,&quot;nextMatch&quot;:&quot;next match&quot;,&quot;noNewNotifications&quot;:&quot;No new notifications&quot;,&quot;notifications&quot;:&quot;Notifications&quot;,&quot;notificationsDeletedAutomatically&quot;:&quot;Note: Notifications are automatically deleted after 30 days.&quot;,&quot;notifyDeleteMessage&quot;:&quot;Private messages older than 45 days will be deleted from time to time (except for data scouts and moderators)&quot;,&quot;or&quot;:&quot;or&quot;,&quot;other&quot;:&quot;Miscellaneous&quot;,&quot;overview&quot;:&quot;overview&quot;,&quot;password&quot;:&quot;Password&quot;,&quot;playerRatings&quot;:&quot;Player ratings&quot;,&quot;playerWatchlist&quot;:&quot;Players Watchlist&quot;,&quot;postponed&quot;:&quot;postponed&quot;,&quot;profile&quot;:&quot;Profile&quot;,&quot;progDebug&quot;:&quot;Prog. depanare&quot;,&quot;progProfile&quot;:&quot;Prog. profile&quot;,&quot;registerNow&quot;:&quot;Sign up now&quot;,&quot;rememberMe&quot;:&quot;Remember me&quot;,&quot;removeFavorite&quot;:&quot;Delete favourite&quot;,&quot;rumors&quot;:&quot;Rumours&quot;,&quot;schedule&quot;:&quot;Schedule&quot;,&quot;sessionExpired&quot;:&quot;Your session on Transfermarkt has expired. Please log in again.&quot;,&quot;sessionExpiredTitle&quot;:&quot;Session Expired&quot;,&quot;setting&quot;:&quot;Settings&quot;,&quot;shortlink&quot;:&quot;Shortlink&quot;,&quot;shortLinkCreationError&quot;:&quot;An Error occured creating the shortlink.&quot;,&quot;shortLinkHasBeenCreated&quot;:&quot;Shortlink has been created an was copied to your clipboard&quot;,&quot;shortLinkIsBeingCreated&quot;:&quot;Creating shortlink ...&quot;,&quot;showAllMessages&quot;:&quot;Show all messages&quot;,&quot;totalMarketValue&quot;:&quot;Total market value&quot;,&quot;translation&quot;:&quot;Translation&quot;,&quot;username&quot;:&quot;Username&quot;,&quot;whyRegister&quot;:&quot;Why register?&quot;,&quot;Bitte korrigieren Sie die markierten Felder&quot;:&quot;Please correct the highlighted fields&quot;,&quot;mindestensDreiZeichen&quot;:&quot;At least three characters&quot;,&quot;mindestensAchtZeichen&quot;:&quot;At least eight characters&quot;,&quot;pleaseCorrectFields&quot;:&quot;profil&quot;,&quot;minThreeCharacters&quot;:&quot;At least three characters&quot;,&quot;minEightCharacters&quot;:&quot;At least eight characters&quot;,&quot;noAtCharacter&quot;:&quot;The @ character is not allowed in the username&quot;,&quot;agentProfile&quot;:&quot;My Agency Profile&quot;}' page-title="FIFA world rankings list | Transfermarkt" tld="uk" agent-profile=""  />
+                </div>
+            </div>
+        
+        
+                        <!-- mobile end -->
+            <nav class="main-navbar">
+                                    <a href="/" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/', 'DISCOVER')">
+                        DISCOVER                    </a>
+                                    <a href="/weltmeisterschaft/startseite/pokalwettbewerb/FIWC" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/weltmeisterschaft/startseite/pokalwettbewerb/FIWC', 'World Cup 2026')">
+                        World Cup 2026                    </a>
+                                    <a href="/navigation/transfersundgeruechte" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/transfersundgeruechte', 'Transfers & Rumours')">
+                        Transfers & Rumours                    </a>
+                                    <a href="/navigation/marktwerte" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/marktwerte', 'Market Values')">
+                        Market Values                    </a>
+                                    <a href="/navigation/wettbewerbe" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/wettbewerbe', 'Competitions')">
+                        Competitions                    </a>
+                                    <a href="/navigation/statistiken" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/statistiken', 'Statistics')">
+                        Statistics                    </a>
+                                    <a href="/navigation/community" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/community', 'FORUM')">
+                        FORUM                    </a>
+                                    <a href="/navigation/gaming" class="main-navbar__lp-link " onclick="tmEvent('hauptnavi', '/navigation/gaming', 'Gaming')">
+                        Gaming                    </a>
+                                <div class="main-navbar__details">
+                    <div class="hamburger">
+                        <em></em>
+                    </div>
+                    <div class="dropdown-layer"></div>
+                    <div class="main-navbar__dropdown">
+                                                            <div class="recommendation">
+        
+    
+                            <div class="tm-discover__hero-container tm-discover__hero-container-grid tm-discover-container-grid">
+                    
+                                    <section class="tm-button-list__wrapper tm-button-list__wrapper--two-thirds  "><span class="tm-discover__h2">Recommendations</span><ul class="tm-button-list"><li><a
+                        href="/world-cup/startseite/wettbewerb/FIWC"
+                        title="World Cup"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/world-cup/startseite/wettbewerb/FIWC' , '1_1', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/fiwc.png?lm=1747989919"
+                            alt="World Cup"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li><li><a
+                        href="/premier-league/startseite/wettbewerb/GB1"
+                        title="Premier League"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/premier-league/startseite/wettbewerb/GB1' , '1_2', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/gb1.png?lm=1521104656"
+                            alt="Premier League"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li><li><a
+                        href="/championship/startseite/wettbewerb/GB2"
+                        title="Championship"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/championship/startseite/wettbewerb/GB2' , '1_3', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/gb2.png?lm=1692214857"
+                            alt="Championship"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li><li><a
+                        href="/laliga/startseite/wettbewerb/ES1"
+                        title="LaLiga"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/laliga/startseite/wettbewerb/ES1' , '1_4', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/es1.png?lm=1725974302"
+                            alt="LaLiga"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li><li><a
+                        href="/bundesliga/startseite/wettbewerb/L1"
+                        title="Bundesliga"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/bundesliga/startseite/wettbewerb/L1' , '1_5', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/l1.png?lm=1525905518"
+                            alt="Bundesliga"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li><li><a
+                        href="/serie-a/startseite/wettbewerb/IT1"
+                        title="Serie A"
+                        target=""
+                        class="tm-button-list__list-item tm-button-list__list-item--big "
+                        onclick="tmEvent('recommendations_recommendation', '/serie-a/startseite/wettbewerb/IT1' , '1_6', 'buttonList');"
+                    ><img
+                            src="https://tmssl.akamaized.net//images/logo/homepageWappen150x150/it1.png?lm=1656073460"
+                            alt="Serie A"
+                            class="tm-button-list__image tm-button-list__image--big 1"
+                            width="54"
+                            height="36"
+                        ></a></li></ul></section>
+                                                                                
+        
+    
+                
+                                    <section class="tm-button-list__wrapper tm-button-list__wrapper--one-third  tm-button-list__desktop"><span class="tm-discover__h2">Player agents</span><ul class="tm-button-list"><li><a
+                        href="/agent-support/beraterIndex/berater"
+                        title="Agent support"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/agent-support/beraterIndex/berater' , '2_1', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/agent-support.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Agent<br>support</a></li><li><a
+                        href="/berater/beraterfirmenuebersicht/berater"
+                        title="Agent statistics"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/berater/beraterfirmenuebersicht/berater' , '2_2', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/agent-statistic.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Agent<br>statistics</a></li><li><a
+                        href="/premium-service/berater"
+                        title="Premium service"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/premium-service/berater' , '2_3', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/premium-service.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Premium<br>service</a></li></ul></section>
+                                                                                
+        
+    
+                
+                                            
+<section class="tm-link-list-container tm-link-list--full ">
+        <div
+        class="tm-link-list-element"
+        role="navigation"
+        aria-label=""
+    >
+                    
+                        
+                                            <ul
+    class="tm-link-list-unordered   recommendation__links"
+>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/statistik/neuestetransfers"
+                    title="Latest transfers"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/statistik/neuestetransfers' , '3_1','linkList');"
+                >
+                    Latest transfers
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/rumour-mill/detail/forum/154"
+                    title="Rumour Mill"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/rumour-mill/detail/forum/154' , '3_2','linkList');"
+                >
+                    Rumour Mill
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/aktuell/newsarchiv"
+                    title="All news"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/aktuell/newsarchiv' , '3_3','linkList');"
+                >
+                    All news
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/whatsMyValue"
+                    title="What's my value?"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/whatsMyValue' , '3_4','linkList');"
+                >
+                    What's my value?
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/spieler-statistik/wertvollstespieler/marktwertetop"
+                    title="Most valuable players in the world"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/spieler-statistik/wertvollstespieler/marktwertetop' , '3_5','linkList');"
+                >
+                    Most valuable players in the world
+                </a>
+                    </li>
+    </ul>
+                                            <ul
+    class="tm-link-list-unordered   recommendation__links"
+>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/premier-league/marktwerte/wettbewerb/GB1"
+                    title="Most valuable players Premier League"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/premier-league/marktwerte/wettbewerb/GB1' , '3_6','linkList');"
+                >
+                    Most valuable players Premier League
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/market-value-analysis/detail/forum/67"
+                    title="Market value discussion"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/market-value-analysis/detail/forum/67' , '3_7','linkList');"
+                >
+                    Market value discussion
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/statistik/vertragslosespieler"
+                    title="Free agents"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/statistik/vertragslosespieler' , '3_8','linkList');"
+                >
+                    Free agents
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/statistik/endendevertraege"
+                    title="Contracts ending"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/statistik/endendevertraege' , '3_9','linkList');"
+                >
+                    Contracts ending
+                </a>
+                    </li>
+            <li
+            class="tm-link-list-item"
+        >
+                            <a
+                    class="tm-link__arrow  "
+                    href="/betting/"
+                    title="Betting"
+                    target="_self"
+                    onclick="tmEvent('recommendations_recommendation', '/betting/' , '3_10','linkList');"
+                >
+                    Betting
+                </a>
+                    </li>
+    </ul>
+                        </div>
+
+    </section>
+                                                                        
+        
+    
+                
+                                    <section class="tm-button-list__wrapper tm-button-list__wrapper--full  tm-button-list__mobile"><span class="tm-discover__h2">Player agents</span><ul class="tm-button-list"><li><a
+                        href="/agent-support/beraterIndex/berater"
+                        title="Agent support"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/agent-support/beraterIndex/berater' , '4_1', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/agent-support.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Agent<br>support</a></li><li><a
+                        href="/berater/beraterfirmenuebersicht/berater"
+                        title="Agent statistics"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/berater/beraterfirmenuebersicht/berater' , '4_2', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/agent-statistic.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Agent<br>statistics</a></li><li><a
+                        href="/premium-service/berater"
+                        title="Premium service"
+                        target="_self"
+                        class="tm-button-list__list-item tm-button-list__list-item--big tm-button-list__agent"
+                        onclick="tmEvent('recommendations_recommendation', '/premium-service/berater' , '4_3', 'buttonList');"
+                    ><img
+                            src="https://tmsi.akamaized.net/rebrush/navigation/premium-service.webp"
+                            alt=""
+                            class="tm-button-list__image tm-button-list__image--big tm-button-list__image--country tm-button-list__image--border"
+                            width="54"
+                            height="36"
+                        >Premium<br>service</a></li></ul></section>
+                                                                                
+                    </div>
+        
+    </div>
+                                                </div>
+                </div>
+            </nav>
+
+            <div class="quick-select-wrapper">
+    
+    <tm-quick-select defaultCountry="189" defaultCompetition="" defaultClub="" defaultPlayer="" dropdown-visible="" translations='{"home":"Home","country":"Country","competition":"Competition","club":"Club","player":"Player","attack":"Striker","midfield":"Midfielder","defense":"Defender","goalkeeper":"Goalkeeper"}'>
+    </tm-quick-select>
+</div>
+
+            
+        
+        <div class="werbung ad-placement-note werbung-billboard" data-ad-placement-note="Advertisement">
+  <div id="div-gpt-ad-top_banner" style="min-width: 728px; min-height: 90px;"></div>
+</div>
+
+
+        
+        <main id="tm-main">
+            <div class="row">
+    <div class="large-8 columns">
+        <div class="box">
+            <h1 class="content-box-headline">
+                FIFA world rankings list            </h1>
+            <div id="statistik-infoblock">
+                <p class="info-content">
+                    These are the most recent FIFA world rankings. The FIFA world rankings were published for the first time in August 1993 and are updated on a monthly basis. They are intended to allow the performance of international teams to be assessed and compared. Teams who participated in the Fifa World Cup 2018 are highlighted in green.                </p>
+            </div>
+            <div class="content">
+                <form action="/statistik/weltrangliste/statistik/stat/plus/0/galerie/0" method="get">                <div class="row">
+                    <div class="large-12 columns">
+                        <table class="auflistung">
+                            <tbody>
+                                <tr>
+                                    <td>FIFA World rankings as of:</td>
+                                    <td>
+                                        <div class="inline-select">
+                                            <select name="datum" data-placeholder="Select date" class="chzn-select" tabindex="0">
+                                                                                                    <option  value="1992-12-31">31/12/1992</option>
+                                                                                                    <option  value="1993-08-08">08/08/1993</option>
+                                                                                                    <option  value="1993-09-23">23/09/1993</option>
+                                                                                                    <option  value="1993-10-22">22/10/1993</option>
+                                                                                                    <option  value="1993-11-19">19/11/1993</option>
+                                                                                                    <option  value="1993-12-23">23/12/1993</option>
+                                                                                                    <option  value="1994-02-15">15/02/1994</option>
+                                                                                                    <option  value="1994-03-15">15/03/1994</option>
+                                                                                                    <option  value="1994-04-19">19/04/1994</option>
+                                                                                                    <option  value="1994-05-17">17/05/1994</option>
+                                                                                                    <option  value="1994-06-14">14/06/1994</option>
+                                                                                                    <option  value="1994-07-21">21/07/1994</option>
+                                                                                                    <option  value="1994-09-13">13/09/1994</option>
+                                                                                                    <option  value="1994-10-25">25/10/1994</option>
+                                                                                                    <option  value="1994-11-22">22/11/1994</option>
+                                                                                                    <option  value="1994-12-20">20/12/1994</option>
+                                                                                                    <option  value="1995-02-20">20/02/1995</option>
+                                                                                                    <option  value="1995-04-19">19/04/1995</option>
+                                                                                                    <option  value="1995-05-16">16/05/1995</option>
+                                                                                                    <option  value="1995-06-13">13/06/1995</option>
+                                                                                                    <option  value="1995-07-25">25/07/1995</option>
+                                                                                                    <option  value="1995-08-22">22/08/1995</option>
+                                                                                                    <option  value="1995-09-19">19/09/1995</option>
+                                                                                                    <option  value="1995-10-17">17/10/1995</option>
+                                                                                                    <option  value="1995-11-21">21/11/1995</option>
+                                                                                                    <option  value="1995-12-19">19/12/1995</option>
+                                                                                                    <option  value="1996-01-24">24/01/1996</option>
+                                                                                                    <option  value="1996-02-21">21/02/1996</option>
+                                                                                                    <option  value="1996-04-24">24/04/1996</option>
+                                                                                                    <option  value="1996-05-22">22/05/1996</option>
+                                                                                                    <option  value="1996-07-03">03/07/1996</option>
+                                                                                                    <option  value="1996-08-28">28/08/1996</option>
+                                                                                                    <option  value="1996-09-25">25/09/1996</option>
+                                                                                                    <option  value="1996-10-23">23/10/1996</option>
+                                                                                                    <option  value="1996-11-20">20/11/1996</option>
+                                                                                                    <option  value="1996-12-18">18/12/1996</option>
+                                                                                                    <option  value="1997-02-27">27/02/1997</option>
+                                                                                                    <option  value="1997-04-09">09/04/1997</option>
+                                                                                                    <option  value="1997-05-14">14/05/1997</option>
+                                                                                                    <option  value="1997-06-18">18/06/1997</option>
+                                                                                                    <option  value="1997-07-16">16/07/1997</option>
+                                                                                                    <option  value="1997-08-20">20/08/1997</option>
+                                                                                                    <option  value="1997-09-17">17/09/1997</option>
+                                                                                                    <option  value="1997-10-17">17/10/1997</option>
+                                                                                                    <option  value="1997-11-19">19/11/1997</option>
+                                                                                                    <option  value="1997-12-23">23/12/1997</option>
+                                                                                                    <option  value="1998-02-18">18/02/1998</option>
+                                                                                                    <option  value="1998-03-18">18/03/1998</option>
+                                                                                                    <option  value="1998-04-22">22/04/1998</option>
+                                                                                                    <option  value="1998-05-20">20/05/1998</option>
+                                                                                                    <option  value="1998-07-15">15/07/1998</option>
+                                                                                                    <option  value="1998-08-19">19/08/1998</option>
+                                                                                                    <option  value="1998-09-16">16/09/1998</option>
+                                                                                                    <option  value="1998-10-21">21/10/1998</option>
+                                                                                                    <option  value="1998-11-18">18/11/1998</option>
+                                                                                                    <option  value="1998-12-23">23/12/1998</option>
+                                                                                                    <option  value="1999-01-27">27/01/1999</option>
+                                                                                                    <option  value="1999-02-24">24/02/1999</option>
+                                                                                                    <option  value="1999-03-24">24/03/1999</option>
+                                                                                                    <option  value="1999-04-21">21/04/1999</option>
+                                                                                                    <option  value="1999-05-19">19/05/1999</option>
+                                                                                                    <option  value="1999-06-16">16/06/1999</option>
+                                                                                                    <option  value="1999-07-21">21/07/1999</option>
+                                                                                                    <option  value="1999-08-18">18/08/1999</option>
+                                                                                                    <option  value="1999-09-15">15/09/1999</option>
+                                                                                                    <option  value="1999-10-13">13/10/1999</option>
+                                                                                                    <option  value="1999-11-17">17/11/1999</option>
+                                                                                                    <option  value="1999-12-22">22/12/1999</option>
+                                                                                                    <option  value="2000-01-19">19/01/2000</option>
+                                                                                                    <option  value="2000-02-16">16/02/2000</option>
+                                                                                                    <option  value="2000-03-15">15/03/2000</option>
+                                                                                                    <option  value="2000-04-12">12/04/2000</option>
+                                                                                                    <option  value="2000-05-10">10/05/2000</option>
+                                                                                                    <option  value="2000-06-07">07/06/2000</option>
+                                                                                                    <option  value="2000-07-05">05/07/2000</option>
+                                                                                                    <option  value="2000-08-09">09/08/2000</option>
+                                                                                                    <option  value="2000-09-06">06/09/2000</option>
+                                                                                                    <option  value="2000-10-11">11/10/2000</option>
+                                                                                                    <option  value="2000-11-15">15/11/2000</option>
+                                                                                                    <option  value="2000-12-20">20/12/2000</option>
+                                                                                                    <option  value="2001-01-17">17/01/2001</option>
+                                                                                                    <option  value="2001-02-14">14/02/2001</option>
+                                                                                                    <option  value="2001-03-14">14/03/2001</option>
+                                                                                                    <option  value="2001-04-11">11/04/2001</option>
+                                                                                                    <option  value="2001-05-16">16/05/2001</option>
+                                                                                                    <option  value="2001-06-20">20/06/2001</option>
+                                                                                                    <option  value="2001-07-18">18/07/2001</option>
+                                                                                                    <option  value="2001-08-22">22/08/2001</option>
+                                                                                                    <option  value="2001-09-19">19/09/2001</option>
+                                                                                                    <option  value="2001-10-17">17/10/2001</option>
+                                                                                                    <option  value="2001-11-21">21/11/2001</option>
+                                                                                                    <option  value="2001-12-19">19/12/2001</option>
+                                                                                                    <option  value="2002-01-16">16/01/2002</option>
+                                                                                                    <option  value="2002-02-13">13/02/2002</option>
+                                                                                                    <option  value="2002-03-20">20/03/2002</option>
+                                                                                                    <option  value="2002-04-17">17/04/2002</option>
+                                                                                                    <option  value="2002-05-15">15/05/2002</option>
+                                                                                                    <option  value="2002-07-03">03/07/2002</option>
+                                                                                                    <option  value="2002-08-14">14/08/2002</option>
+                                                                                                    <option  value="2002-09-18">18/09/2002</option>
+                                                                                                    <option  value="2002-10-23">23/10/2002</option>
+                                                                                                    <option  value="2002-11-20">20/11/2002</option>
+                                                                                                    <option  value="2002-12-18">18/12/2002</option>
+                                                                                                    <option  value="2003-01-15">15/01/2003</option>
+                                                                                                    <option  value="2003-02-19">19/02/2003</option>
+                                                                                                    <option  value="2003-03-26">26/03/2003</option>
+                                                                                                    <option  value="2003-04-23">23/04/2003</option>
+                                                                                                    <option  value="2003-05-21">21/05/2003</option>
+                                                                                                    <option  value="2003-06-25">25/06/2003</option>
+                                                                                                    <option  value="2003-07-30">30/07/2003</option>
+                                                                                                    <option  value="2003-08-27">27/08/2003</option>
+                                                                                                    <option  value="2003-09-24">24/09/2003</option>
+                                                                                                    <option  value="2003-10-22">22/10/2003</option>
+                                                                                                    <option  value="2003-11-19">19/11/2003</option>
+                                                                                                    <option  value="2003-12-15">15/12/2003</option>
+                                                                                                    <option  value="2004-01-14">14/01/2004</option>
+                                                                                                    <option  value="2004-02-18">18/02/2004</option>
+                                                                                                    <option  value="2004-03-17">17/03/2004</option>
+                                                                                                    <option  value="2004-04-14">14/04/2004</option>
+                                                                                                    <option  value="2004-05-12">12/05/2004</option>
+                                                                                                    <option  value="2004-06-09">09/06/2004</option>
+                                                                                                    <option  value="2004-07-07">07/07/2004</option>
+                                                                                                    <option  value="2004-08-04">04/08/2004</option>
+                                                                                                    <option  value="2004-09-01">01/09/2004</option>
+                                                                                                    <option  value="2004-10-06">06/10/2004</option>
+                                                                                                    <option  value="2004-11-10">10/11/2004</option>
+                                                                                                    <option  value="2004-12-20">20/12/2004</option>
+                                                                                                    <option  value="2005-01-19">19/01/2005</option>
+                                                                                                    <option  value="2005-02-16">16/02/2005</option>
+                                                                                                    <option  value="2005-03-23">23/03/2005</option>
+                                                                                                    <option  value="2005-04-20">20/04/2005</option>
+                                                                                                    <option  value="2005-05-18">18/05/2005</option>
+                                                                                                    <option  value="2005-06-15">15/06/2005</option>
+                                                                                                    <option  value="2005-07-20">20/07/2005</option>
+                                                                                                    <option  value="2005-08-17">17/08/2005</option>
+                                                                                                    <option  value="2005-09-12">12/09/2005</option>
+                                                                                                    <option  value="2005-10-17">17/10/2005</option>
+                                                                                                    <option  value="2005-11-21">21/11/2005</option>
+                                                                                                    <option  value="2005-12-16">16/12/2005</option>
+                                                                                                    <option  value="2006-01-18">18/01/2006</option>
+                                                                                                    <option  value="2006-02-15">15/02/2006</option>
+                                                                                                    <option  value="2006-03-15">15/03/2006</option>
+                                                                                                    <option  value="2006-04-19">19/04/2006</option>
+                                                                                                    <option  value="2006-05-17">17/05/2006</option>
+                                                                                                    <option  value="2006-07-12">12/07/2006</option>
+                                                                                                    <option  value="2006-08-16">16/08/2006</option>
+                                                                                                    <option  value="2006-09-13">13/09/2006</option>
+                                                                                                    <option  value="2006-10-18">18/10/2006</option>
+                                                                                                    <option  value="2006-11-22">22/11/2006</option>
+                                                                                                    <option  value="2006-12-18">18/12/2006</option>
+                                                                                                    <option  value="2007-01-17">17/01/2007</option>
+                                                                                                    <option  value="2007-02-14">14/02/2007</option>
+                                                                                                    <option  value="2007-03-14">14/03/2007</option>
+                                                                                                    <option  value="2007-04-18">18/04/2007</option>
+                                                                                                    <option  value="2007-05-16">16/05/2007</option>
+                                                                                                    <option  value="2007-06-13">13/06/2007</option>
+                                                                                                    <option  value="2007-07-18">18/07/2007</option>
+                                                                                                    <option  value="2007-08-22">22/08/2007</option>
+                                                                                                    <option  value="2007-09-19">19/09/2007</option>
+                                                                                                    <option  value="2007-10-24">24/10/2007</option>
+                                                                                                    <option  value="2007-11-22">22/11/2007</option>
+                                                                                                    <option  value="2007-12-17">17/12/2007</option>
+                                                                                                    <option  value="2008-01-16">16/01/2008</option>
+                                                                                                    <option  value="2008-02-13">13/02/2008</option>
+                                                                                                    <option  value="2008-03-12">12/03/2008</option>
+                                                                                                    <option  value="2008-04-09">09/04/2008</option>
+                                                                                                    <option  value="2008-05-07">07/05/2008</option>
+                                                                                                    <option  value="2008-06-04">04/06/2008</option>
+                                                                                                    <option  value="2008-07-02">02/07/2008</option>
+                                                                                                    <option  value="2008-08-06">06/08/2008</option>
+                                                                                                    <option  value="2008-09-03">03/09/2008</option>
+                                                                                                    <option  value="2008-10-08">08/10/2008</option>
+                                                                                                    <option  value="2008-11-12">12/11/2008</option>
+                                                                                                    <option  value="2008-12-17">17/12/2008</option>
+                                                                                                    <option  value="2009-01-14">14/01/2009</option>
+                                                                                                    <option  value="2009-02-11">11/02/2009</option>
+                                                                                                    <option  value="2009-03-11">11/03/2009</option>
+                                                                                                    <option  value="2009-04-08">08/04/2009</option>
+                                                                                                    <option  value="2009-05-06">06/05/2009</option>
+                                                                                                    <option  value="2009-06-03">03/06/2009</option>
+                                                                                                    <option  value="2009-07-01">01/07/2009</option>
+                                                                                                    <option  value="2009-08-05">05/08/2009</option>
+                                                                                                    <option  value="2009-09-02">02/09/2009</option>
+                                                                                                    <option  value="2009-10-16">16/10/2009</option>
+                                                                                                    <option  value="2009-11-20">20/11/2009</option>
+                                                                                                    <option  value="2009-12-16">16/12/2009</option>
+                                                                                                    <option  value="2010-02-03">03/02/2010</option>
+                                                                                                    <option  value="2010-03-03">03/03/2010</option>
+                                                                                                    <option  value="2010-03-31">31/03/2010</option>
+                                                                                                    <option  value="2010-04-28">28/04/2010</option>
+                                                                                                    <option  value="2010-05-26">26/05/2010</option>
+                                                                                                    <option  value="2010-07-14">14/07/2010</option>
+                                                                                                    <option  value="2010-08-11">11/08/2010</option>
+                                                                                                    <option  value="2010-09-15">15/09/2010</option>
+                                                                                                    <option  value="2010-09-24">24/09/2010</option>
+                                                                                                    <option  value="2010-10-20">20/10/2010</option>
+                                                                                                    <option  value="2010-11-17">17/11/2010</option>
+                                                                                                    <option  value="2010-12-15">15/12/2010</option>
+                                                                                                    <option  value="2011-01-12">12/01/2011</option>
+                                                                                                    <option  value="2011-02-02">02/02/2011</option>
+                                                                                                    <option  value="2011-03-09">09/03/2011</option>
+                                                                                                    <option  value="2011-04-13">13/04/2011</option>
+                                                                                                    <option  value="2011-05-18">18/05/2011</option>
+                                                                                                    <option  value="2011-06-29">29/06/2011</option>
+                                                                                                    <option  value="2011-07-27">27/07/2011</option>
+                                                                                                    <option  value="2011-08-24">24/08/2011</option>
+                                                                                                    <option  value="2011-09-21">21/09/2011</option>
+                                                                                                    <option  value="2011-10-19">19/10/2011</option>
+                                                                                                    <option  value="2011-11-23">23/11/2011</option>
+                                                                                                    <option  value="2011-12-21">21/12/2011</option>
+                                                                                                    <option  value="2012-01-18">18/01/2012</option>
+                                                                                                    <option  value="2012-02-15">15/02/2012</option>
+                                                                                                    <option  value="2012-03-07">07/03/2012</option>
+                                                                                                    <option  value="2012-04-11">11/04/2012</option>
+                                                                                                    <option  value="2012-05-09">09/05/2012</option>
+                                                                                                    <option  value="2012-06-06">06/06/2012</option>
+                                                                                                    <option  value="2012-07-04">04/07/2012</option>
+                                                                                                    <option  value="2012-08-08">08/08/2012</option>
+                                                                                                    <option  value="2012-09-05">05/09/2012</option>
+                                                                                                    <option  value="2012-10-03">03/10/2012</option>
+                                                                                                    <option  value="2012-11-07">07/11/2012</option>
+                                                                                                    <option  value="2012-12-19">19/12/2012</option>
+                                                                                                    <option  value="2013-01-17">17/01/2013</option>
+                                                                                                    <option  value="2013-02-14">14/02/2013</option>
+                                                                                                    <option  value="2013-03-14">14/03/2013</option>
+                                                                                                    <option  value="2013-04-11">11/04/2013</option>
+                                                                                                    <option  value="2013-05-09">09/05/2013</option>
+                                                                                                    <option  value="2013-06-06">06/06/2013</option>
+                                                                                                    <option  value="2013-07-04">04/07/2013</option>
+                                                                                                    <option  value="2013-08-08">08/08/2013</option>
+                                                                                                    <option  value="2013-09-12">12/09/2013</option>
+                                                                                                    <option  value="2013-10-17">17/10/2013</option>
+                                                                                                    <option  value="2013-11-28">28/11/2013</option>
+                                                                                                    <option  value="2013-12-19">19/12/2013</option>
+                                                                                                    <option  value="2014-01-16">16/01/2014</option>
+                                                                                                    <option  value="2014-02-13">13/02/2014</option>
+                                                                                                    <option  value="2014-03-13">13/03/2014</option>
+                                                                                                    <option  value="2014-04-10">10/04/2014</option>
+                                                                                                    <option  value="2014-05-08">08/05/2014</option>
+                                                                                                    <option  value="2014-06-05">05/06/2014</option>
+                                                                                                    <option  value="2014-07-17">17/07/2014</option>
+                                                                                                    <option  value="2014-08-14">14/08/2014</option>
+                                                                                                    <option  value="2014-09-18">18/09/2014</option>
+                                                                                                    <option  value="2014-10-23">23/10/2014</option>
+                                                                                                    <option  value="2014-11-27">27/11/2014</option>
+                                                                                                    <option  value="2014-12-18">18/12/2014</option>
+                                                                                                    <option  value="2015-01-08">08/01/2015</option>
+                                                                                                    <option  value="2015-02-12">12/02/2015</option>
+                                                                                                    <option  value="2015-03-12">12/03/2015</option>
+                                                                                                    <option  value="2015-04-09">09/04/2015</option>
+                                                                                                    <option  value="2015-05-07">07/05/2015</option>
+                                                                                                    <option  value="2015-06-04">04/06/2015</option>
+                                                                                                    <option  value="2015-07-09">09/07/2015</option>
+                                                                                                    <option  value="2015-08-06">06/08/2015</option>
+                                                                                                    <option  value="2015-09-03">03/09/2015</option>
+                                                                                                    <option  value="2015-10-01">01/10/2015</option>
+                                                                                                    <option  value="2015-11-05">05/11/2015</option>
+                                                                                                    <option  value="2015-12-03">03/12/2015</option>
+                                                                                                    <option  value="2016-01-07">07/01/2016</option>
+                                                                                                    <option  value="2016-02-04">04/02/2016</option>
+                                                                                                    <option  value="2016-03-03">03/03/2016</option>
+                                                                                                    <option  value="2016-04-07">07/04/2016</option>
+                                                                                                    <option  value="2016-05-05">05/05/2016</option>
+                                                                                                    <option  value="2016-05-20">20/05/2016</option>
+                                                                                                    <option  value="2016-06-02">02/06/2016</option>
+                                                                                                    <option  value="2016-07-14">14/07/2016</option>
+                                                                                                    <option  value="2016-08-11">11/08/2016</option>
+                                                                                                    <option  value="2016-09-15">15/09/2016</option>
+                                                                                                    <option  value="2016-10-20">20/10/2016</option>
+                                                                                                    <option  value="2016-11-24">24/11/2016</option>
+                                                                                                    <option  value="2016-12-22">22/12/2016</option>
+                                                                                                    <option  value="2017-01-12">12/01/2017</option>
+                                                                                                    <option  value="2017-02-09">09/02/2017</option>
+                                                                                                    <option  value="2017-03-09">09/03/2017</option>
+                                                                                                    <option  value="2017-04-06">06/04/2017</option>
+                                                                                                    <option  value="2017-05-04">04/05/2017</option>
+                                                                                                    <option  value="2017-06-01">01/06/2017</option>
+                                                                                                    <option  value="2017-07-06">06/07/2017</option>
+                                                                                                    <option  value="2017-08-10">10/08/2017</option>
+                                                                                                    <option  value="2017-09-14">14/09/2017</option>
+                                                                                                    <option  value="2017-10-16">16/10/2017</option>
+                                                                                                    <option  value="2017-11-23">23/11/2017</option>
+                                                                                                    <option  value="2017-12-21">21/12/2017</option>
+                                                                                                    <option  value="2018-01-18">18/01/2018</option>
+                                                                                                    <option  value="2018-02-15">15/02/2018</option>
+                                                                                                    <option  value="2018-03-15">15/03/2018</option>
+                                                                                                    <option  value="2018-04-12">12/04/2018</option>
+                                                                                                    <option  value="2018-05-17">17/05/2018</option>
+                                                                                                    <option  value="2018-06-07">07/06/2018</option>
+                                                                                                    <option  value="2018-07-01">01/07/2018</option>
+                                                                                                    <option  value="2018-08-16">16/08/2018</option>
+                                                                                                    <option  value="2018-09-20">20/09/2018</option>
+                                                                                                    <option  value="2018-10-25">25/10/2018</option>
+                                                                                                    <option  value="2018-11-29">29/11/2018</option>
+                                                                                                    <option  value="2018-12-20">20/12/2018</option>
+                                                                                                    <option  value="2019-02-07">07/02/2019</option>
+                                                                                                    <option  value="2019-02-08">08/02/2019</option>
+                                                                                                    <option  value="2019-04-04">04/04/2019</option>
+                                                                                                    <option  value="2019-06-14">14/06/2019</option>
+                                                                                                    <option  value="2019-06-20">20/06/2019</option>
+                                                                                                    <option  value="2019-07-25">25/07/2019</option>
+                                                                                                    <option  value="2019-09-10">10/09/2019</option>
+                                                                                                    <option  value="2019-09-11">11/09/2019</option>
+                                                                                                    <option  value="2019-09-19">19/09/2019</option>
+                                                                                                    <option  value="2019-10-24">24/10/2019</option>
+                                                                                                    <option  value="2019-11-28">28/11/2019</option>
+                                                                                                    <option  value="2019-12-19">19/12/2019</option>
+                                                                                                    <option  value="2020-02-20">20/02/2020</option>
+                                                                                                    <option  value="2020-03-24">24/03/2020</option>
+                                                                                                    <option  value="2020-04-09">09/04/2020</option>
+                                                                                                    <option  value="2020-06-11">11/06/2020</option>
+                                                                                                    <option  value="2020-07-16">16/07/2020</option>
+                                                                                                    <option  value="2020-07-23">23/07/2020</option>
+                                                                                                    <option  value="2020-09-17">17/09/2020</option>
+                                                                                                    <option  value="2020-10-22">22/10/2020</option>
+                                                                                                    <option  value="2020-11-26">26/11/2020</option>
+                                                                                                    <option  value="2020-11-27">27/11/2020</option>
+                                                                                                    <option  value="2020-12-10">10/12/2020</option>
+                                                                                                    <option  value="2021-02-03">03/02/2021</option>
+                                                                                                    <option  value="2021-02-18">18/02/2021</option>
+                                                                                                    <option  value="2021-04-07">07/04/2021</option>
+                                                                                                    <option  value="2021-05-27">27/05/2021</option>
+                                                                                                    <option  value="2021-06-15">15/06/2021</option>
+                                                                                                    <option  value="2021-08-12">12/08/2021</option>
+                                                                                                    <option  value="2021-09-16">16/09/2021</option>
+                                                                                                    <option  value="2021-10-20">20/10/2021</option>
+                                                                                                    <option  value="2021-10-21">21/10/2021</option>
+                                                                                                    <option  value="2021-11-19">19/11/2021</option>
+                                                                                                    <option  value="2021-12-23">23/12/2021</option>
+                                                                                                    <option  value="2022-02-10">10/02/2022</option>
+                                                                                                    <option  value="2022-03-31">31/03/2022</option>
+                                                                                                    <option  value="2022-06-06">06/06/2022</option>
+                                                                                                    <option  value="2022-06-23">23/06/2022</option>
+                                                                                                    <option  value="2022-08-25">25/08/2022</option>
+                                                                                                    <option  value="2022-09-20">20/09/2022</option>
+                                                                                                    <option  value="2022-10-06">06/10/2022</option>
+                                                                                                    <option  value="2022-12-22">22/12/2022</option>
+                                                                                                    <option  value="2023-01-09">09/01/2023</option>
+                                                                                                    <option  value="2023-04-06">06/04/2023</option>
+                                                                                                    <option  value="2023-06-29">29/06/2023</option>
+                                                                                                    <option  value="2023-07-20">20/07/2023</option>
+                                                                                                    <option  value="2023-09-21">21/09/2023</option>
+                                                                                                    <option  value="2023-10-26">26/10/2023</option>
+                                                                                                    <option  value="2023-10-27">27/10/2023</option>
+                                                                                                    <option  value="2023-11-30">30/11/2023</option>
+                                                                                                    <option  value="2023-12-21">21/12/2023</option>
+                                                                                                    <option  value="2024-02-15">15/02/2024</option>
+                                                                                                    <option  value="2024-03-01">01/03/2024</option>
+                                                                                                    <option  value="2024-04-04">04/04/2024</option>
+                                                                                                    <option  value="2024-06-20">20/06/2024</option>
+                                                                                                    <option  value="2024-07-18">18/07/2024</option>
+                                                                                                    <option  value="2024-09-19">19/09/2024</option>
+                                                                                                    <option  value="2024-10-24">24/10/2024</option>
+                                                                                                    <option  value="2024-11-28">28/11/2024</option>
+                                                                                                    <option  value="2024-12-19">19/12/2024</option>
+                                                                                                    <option  value="2025-01-20">20/01/2025</option>
+                                                                                                    <option  value="2025-04-03">03/04/2025</option>
+                                                                                                    <option  value="2025-07-10">10/07/2025</option>
+                                                                                                    <option  value="2025-09-18">18/09/2025</option>
+                                                                                                    <option  value="2025-10-17">17/10/2025</option>
+                                                                                                    <option  value="2025-11-19">19/11/2025</option>
+                                                                                                    <option  value="2025-12-22">22/12/2025</option>
+                                                                                                    <option  value="2026-01-19">19/01/2026</option>
+                                                                                                    <option  value="2026-03-18">18/03/2026</option>
+                                                                                                    <option  value="2026-04-01">01/04/2026</option>
+                                                                                                    <option  value="2026-06-11">11/06/2026</option>
+                                                                                                    <option selected="selected" value="2026-06-12">12/06/2026</option>
+                                                                                            </select>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <input type="submit" class="right small button" value="Show">
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                </form>            </div>
+            <div class="responsive-table">
+                
+<div class="tm-tabs">
+    <a class="tm-tab tm-tab__active--parent" href="/statistik/weltrangliste/statistik?datum=2026-06-12"><div class=" tm-tab__active"><span>Compact</span></div></a><a class="tm-tab" href="/statistik/weltrangliste/statistik?datum=2026-06-12&amp;galerie=1"><div class=""><span>Gallery</span></div></a></div>
+<div id="yw1" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0">#</th><th class="" id="yw1_c1">Nation</th><th class="zentriert" id="yw1_c2">Squad size</th><th class="zentriert" id="yw1_c3"><a class="sort-link" href="/statistik/weltrangliste?sort=alter_durchschnitt">Avg. age</a></th><th class="rechts" id="yw1_c4"><a class="sort-link" href="/statistik/weltrangliste?sort=marktwert_gesamt.desc">Total value</a></th><th class="zentriert" id="yw1_c5"><a class="sort-link" href="/statistik/weltrangliste?sort=kontinent_id">Confederation</a></th><th class="zentriert" id="yw1_c6"><a class="sort-link" href="/statistik/weltrangliste?sort=pkte.desc">Points</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="zentriert cp">1 <span title="Previous position: 3" class="icons_sprite green-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Argentina" href="/argentinien/startseite/verein/3437"><img src="https://tmssl.akamaized.net//images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></a> <a title="Argentina" href="/argentinien/startseite/verein/3437">Argentina</a></td><td class="zentriert">26</td><td class="zentriert">29.2</td><td class="rechts">€807.50m</td><td class="zentriert">CONMEBOL</td><td class="zentriert hauptlink">1877</td></tr>
+<tr class="even">
+<td class="zentriert cp">2 <span title="Previous position: 2" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Spain" href="/spanien/startseite/verein/3375"><img src="https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen" /></a> <a title="Spain" href="/spanien/startseite/verein/3375">Spain</a></td><td class="zentriert">26</td><td class="zentriert">26.8</td><td class="rechts">€1.22bn</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1875</td></tr>
+<tr class="odd">
+<td class="zentriert cp">3 <span title="Previous position: 1" class="icons_sprite red-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="France" href="/frankreich/startseite/verein/3377"><img src="https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569" title="France" alt="France" class="flaggenrahmen" /></a> <a title="France" href="/frankreich/startseite/verein/3377">France</a></td><td class="zentriert">26</td><td class="zentriert">27.1</td><td class="rechts">€1.52bn</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1871</td></tr>
+<tr class="even">
+<td class="zentriert cp">4 <span title="Previous position: 4" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="England" href="/england/startseite/verein/3299"><img src="https://tmssl.akamaized.net//images/flagge/tiny/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen" /></a> <a title="England" href="/england/startseite/verein/3299">England</a></td><td class="zentriert">26</td><td class="zentriert">27.3</td><td class="rechts">€1.36bn</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1828</td></tr>
+<tr class="odd">
+<td class="zentriert cp">5 <span title="Previous position: 5" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Portugal" href="/portugal/startseite/verein/3300"><img src="https://tmssl.akamaized.net//images/flagge/tiny/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></a> <a title="Portugal" href="/portugal/startseite/verein/3300">Portugal</a></td><td class="zentriert">26</td><td class="zentriert">28.1</td><td class="rechts">€1.01bn</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1768</td></tr>
+<tr class="even">
+<td class="zentriert cp">6 <span title="Previous position: 6" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Brazil" href="/brasilien/startseite/verein/3439"><img src="https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569" title="Brazil" alt="Brazil" class="flaggenrahmen" /></a> <a title="Brazil" href="/brasilien/startseite/verein/3439">Brazil</a></td><td class="zentriert">26</td><td class="zentriert">29.4</td><td class="rechts">€928.20m</td><td class="zentriert">CONMEBOL</td><td class="zentriert hauptlink">1766</td></tr>
+<tr class="odd">
+<td class="zentriert cp">7 <span title="Previous position: 8" class="icons_sprite green-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Morocco" href="/marokko/startseite/verein/3575"><img src="https://tmssl.akamaized.net//images/flagge/tiny/107.png?lm=1520611569" title="Morocco" alt="Morocco" class="flaggenrahmen" /></a> <a title="Morocco" href="/marokko/startseite/verein/3575">Morocco</a></td><td class="zentriert">26</td><td class="zentriert">26.7</td><td class="rechts">€447.70m</td><td class="zentriert">CAF</td><td class="zentriert hauptlink">1755</td></tr>
+<tr class="even">
+<td class="zentriert cp">8 <span title="Previous position: 7" class="icons_sprite red-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Netherlands" href="/niederlande/startseite/verein/3379"><img src="https://tmssl.akamaized.net//images/flagge/tiny/122.png?lm=1520611569" title="Netherlands" alt="Netherlands" class="flaggenrahmen" /></a> <a title="Netherlands" href="/niederlande/startseite/verein/3379">Netherlands</a></td><td class="zentriert">26</td><td class="zentriert">27.8</td><td class="rechts">€754.20m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1754</td></tr>
+<tr class="odd">
+<td class="zentriert cp">9 <span title="Previous position: 9" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Belgium" href="/belgien/startseite/verein/3382"><img src="https://tmssl.akamaized.net//images/flagge/tiny/19.png?lm=1520611569" title="Belgium" alt="Belgium" class="flaggenrahmen" /></a> <a title="Belgium" href="/belgien/startseite/verein/3382">Belgium</a></td><td class="zentriert">26</td><td class="zentriert">27.7</td><td class="rechts">€547.50m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1742</td></tr>
+<tr class="even">
+<td class="zentriert cp">10 <span title="Previous position: 10" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Germany" href="/deutschland/startseite/verein/3262"><img src="https://tmssl.akamaized.net//images/flagge/tiny/40.png?lm=1520612525" title="Germany" alt="Germany" class="flaggenrahmen" /></a> <a title="Germany" href="/deutschland/startseite/verein/3262">Germany</a></td><td class="zentriert">26</td><td class="zentriert">28.1</td><td class="rechts">€947.00m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1736</td></tr>
+<tr class="odd">
+<td class="zentriert cp">11 <span title="Previous position: 11" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Croatia" href="/kroatien/startseite/verein/3556"><img src="https://tmssl.akamaized.net//images/flagge/tiny/37.png?lm=1520611569" title="Croatia" alt="Croatia" class="flaggenrahmen" /></a> <a title="Croatia" href="/kroatien/startseite/verein/3556">Croatia</a></td><td class="zentriert">26</td><td class="zentriert">28.4</td><td class="rechts">€387.30m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1715</td></tr>
+<tr class="even">
+<td class="zentriert cp">12 <span title="Previous position: 12" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Italy" href="/italien/startseite/verein/3376"><img src="https://tmssl.akamaized.net//images/flagge/tiny/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></a> <a title="Italy" href="/italien/startseite/verein/3376">Italy</a></td><td class="zentriert">23</td><td class="zentriert">21.0</td><td class="rechts">€319.00m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1705</td></tr>
+<tr class="odd">
+<td class="zentriert cp">13 <span title="Previous position: 13" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Colombia" href="/kolumbien/startseite/verein/3816"><img src="https://tmssl.akamaized.net//images/flagge/tiny/83.png?lm=1520611569" title="Colombia" alt="Colombia" class="flaggenrahmen" /></a> <a title="Colombia" href="/kolumbien/startseite/verein/3816">Colombia</a></td><td class="zentriert">26</td><td class="zentriert">30.2</td><td class="rechts">€302.35m</td><td class="zentriert">CONMEBOL</td><td class="zentriert hauptlink">1698</td></tr>
+<tr class="even">
+<td class="zentriert cp">14 <span title="Previous position: 15" class="icons_sprite green-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Mexico" href="/mexiko/startseite/verein/6303"><img src="https://tmssl.akamaized.net//images/flagge/tiny/110.png?lm=1520611569" title="Mexico" alt="Mexico" class="flaggenrahmen" /></a> <a title="Mexico" href="/mexiko/startseite/verein/6303">Mexico</a></td><td class="zentriert">26</td><td class="zentriert">28.0</td><td class="rechts">€191.85m</td><td class="zentriert">CONCACAF</td><td class="zentriert hauptlink">1687</td></tr>
+<tr class="odd">
+<td class="zentriert cp">15 <span title="Previous position: 14" class="icons_sprite red-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Senegal" href="/senegal/startseite/verein/3499"><img src="https://tmssl.akamaized.net//images/flagge/tiny/149.png?lm=1520611569" title="Senegal" alt="Senegal" class="flaggenrahmen" /></a> <a title="Senegal" href="/senegal/startseite/verein/3499">Senegal</a></td><td class="zentriert">26</td><td class="zentriert">27.2</td><td class="rechts">€478.10m</td><td class="zentriert">CAF</td><td class="zentriert hauptlink">1684</td></tr>
+<tr class="even">
+<td class="zentriert cp">16 <span title="Previous position: 17" class="icons_sprite green-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Uruguay" href="/uruguay/startseite/verein/3449"><img src="https://tmssl.akamaized.net//images/flagge/tiny/179.png?lm=1520611569" title="Uruguay" alt="Uruguay" class="flaggenrahmen" /></a> <a title="Uruguay" href="/uruguay/startseite/verein/3449">Uruguay</a></td><td class="zentriert">26</td><td class="zentriert">28.8</td><td class="rechts">€359.30m</td><td class="zentriert">CONMEBOL</td><td class="zentriert hauptlink">1673</td></tr>
+<tr class="odd">
+<td class="zentriert cp">17 <span title="Previous position: 16" class="icons_sprite red-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="United States" href="/vereinigte-staaten/startseite/verein/3505"><img src="https://tmssl.akamaized.net//images/flagge/tiny/184.png?lm=1520611569" title="United States" alt="United States" class="flaggenrahmen" /></a> <a title="United States" href="/vereinigte-staaten/startseite/verein/3505">USA</a></td><td class="zentriert">26</td><td class="zentriert">27.0</td><td class="rechts">€385.65m</td><td class="zentriert">CONCACAF</td><td class="zentriert hauptlink">1671</td></tr>
+<tr class="even">
+<td class="zentriert cp">18 <span title="Previous position: 18" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Japan" href="/japan/startseite/verein/3435"><img src="https://tmssl.akamaized.net//images/flagge/tiny/77.png?lm=1520611569" title="Japan" alt="Japan" class="flaggenrahmen" /></a> <a title="Japan" href="/japan/startseite/verein/3435">Japan</a></td><td class="zentriert">26</td><td class="zentriert">27.6</td><td class="rechts">€270.85m</td><td class="zentriert">AFC</td><td class="zentriert hauptlink">1662</td></tr>
+<tr class="odd">
+<td class="zentriert cp">19 <span title="Previous position: 19" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Switzerland" href="/schweiz/startseite/verein/3384"><img src="https://tmssl.akamaized.net//images/flagge/tiny/148.png?lm=1520611569" title="Switzerland" alt="Switzerland" class="flaggenrahmen" /></a> <a title="Switzerland" href="/schweiz/startseite/verein/3384">Switzerland</a></td><td class="zentriert">26</td><td class="zentriert">28.4</td><td class="rechts">€332.50m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1650</td></tr>
+<tr class="even">
+<td class="zentriert cp">20 <span title="Previous position: 21" class="icons_sprite green-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Iran" href="/iran/startseite/verein/3582"><img src="https://tmssl.akamaized.net//images/flagge/tiny/71.png?lm=1520611569" title="Iran" alt="Iran" class="flaggenrahmen" /></a> <a title="Iran" href="/iran/startseite/verein/3582">Iran</a></td><td class="zentriert">26</td><td class="zentriert">30.4</td><td class="rechts">€32.05m</td><td class="zentriert">AFC</td><td class="zentriert hauptlink">1620</td></tr>
+<tr class="odd">
+<td class="zentriert cp">21 <span title="Previous position: 20" class="icons_sprite red-arrow-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Denmark" href="/danemark/startseite/verein/3436"><img src="https://tmssl.akamaized.net//images/flagge/tiny/39.png?lm=1520611569" title="Denmark" alt="Denmark" class="flaggenrahmen" /></a> <a title="Denmark" href="/danemark/startseite/verein/3436">Denmark</a></td><td class="zentriert">23</td><td class="zentriert">25.6</td><td class="rechts">€365.00m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1619</td></tr>
+<tr class="even">
+<td class="zentriert cp">22 <span title="Previous position: 22" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Turkiye" href="/turkei/startseite/verein/3381"><img src="https://tmssl.akamaized.net//images/flagge/tiny/174.png?lm=1520611569" title="Turkiye" alt="Turkiye" class="flaggenrahmen" /></a> <a title="Turkiye" href="/turkei/startseite/verein/3381">Turkiye</a></td><td class="zentriert">26</td><td class="zentriert">27.7</td><td class="rechts">€473.70m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1606</td></tr>
+<tr class="odd">
+<td class="zentriert cp">23 <span title="Previous position: 23" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Ecuador" href="/ecuador/startseite/verein/5750"><img src="https://tmssl.akamaized.net//images/flagge/tiny/44.png?lm=1520611569" title="Ecuador" alt="Ecuador" class="flaggenrahmen" /></a> <a title="Ecuador" href="/ecuador/startseite/verein/5750">Ecuador</a></td><td class="zentriert">26</td><td class="zentriert">26.1</td><td class="rechts">€368.70m</td><td class="zentriert">CONMEBOL</td><td class="zentriert hauptlink">1599</td></tr>
+<tr class="even">
+<td class="zentriert cp">24 <span title="Previous position: 24" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="Austria" href="/osterreich/startseite/verein/3383"><img src="https://tmssl.akamaized.net//images/flagge/tiny/127.png?lm=1520611569" title="Austria" alt="Austria" class="flaggenrahmen" /></a> <a title="Austria" href="/osterreich/startseite/verein/3383">Austria</a></td><td class="zentriert">26</td><td class="zentriert">28.7</td><td class="rechts">€245.20m</td><td class="zentriert">UEFA</td><td class="zentriert hauptlink">1597</td></tr>
+<tr class="odd">
+<td class="zentriert cp">25 <span title="Previous position: 25" class="icons_sprite grey-block-ten cp">&nbsp;</span></td><td class="hauptlink"><a title="South Korea" href="/sudkorea/startseite/verein/3589"><img src="https://tmssl.akamaized.net//images/flagge/tiny/87.png?lm=1520611569" title="South Korea" alt="South Korea" class="flaggenrahmen" /></a> <a title="South Korea" href="/sudkorea/startseite/verein/3589">South Korea</a></td><td class="zentriert">26</td><td class="zentriert">28.1</td><td class="rechts">€139.05m</td><td class="zentriert">AFC</td><td class="zentriert hauptlink">1592</td></tr>
+</tbody>
+</table>
+<div class="pager"><ul class="tm-pagination">
+
+<li class="tm-pagination__list-item tm-pagination__list-item--active"><a href="/statistik/weltrangliste" title="Page 1" class="tm-pagination__link">1</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=2" title="Page 2" class="tm-pagination__link">2</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=3" title="Page 3" class="tm-pagination__link">3</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=4" title="Page 4" class="tm-pagination__link">4</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=5" title="Page 5" class="tm-pagination__link">5</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=6" title="Page 6" class="tm-pagination__link">6</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=7" title="Page 7" class="tm-pagination__link">7</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=8" title="Page 8" class="tm-pagination__link">8</a></li>
+<li class="tm-pagination__list-item"><a href="/statistik/weltrangliste?page=9" title="Page 9" class="tm-pagination__link">9</a></li>
+<li class="tm-pagination__list-item tm-pagination__list-item--icon-next-page"><a href="/statistik/weltrangliste?page=2" title="Go to the next page" class="tm-pagination__link">&nbsp;&nbsp;</a></li>
+<li class="tm-pagination__list-item tm-pagination__list-item--icon-last-page"><a href="/statistik/weltrangliste?page=9" title="Go to the last page (page 9)" class="tm-pagination__link">&nbsp;&nbsp;</a></li></ul></div><div class="keys" style="display:none" title="/statistik/weltrangliste"><span>9</span><span>157</span><span>50</span><span>189</span><span>136</span><span>26</span><span>107</span><span>122</span><span>19</span><span>40</span><span>37</span><span>75</span><span>83</span><span>110</span><span>149</span><span>179</span><span>184</span><span>77</span><span>148</span><span>71</span><span>39</span><span>174</span><span>44</span><span>127</span><span>87</span></div>
+</div>            </div>
+        </div>
+    </div>
+            <div class="large-4 columns">
+            
+                <div class="box">
+                    <h2 class="content-box-headline">
+                        Explanation of the FIFA world rankings list                    </h2>
+                    <div class="content">
+                         <p class="ms-text-hl">Calculation of points for a single match</p>
+                         <span class="ms-text-blue">P = M x I x T x C</span>
+                        <br /><br />
+                        <span class="ms-text-blue">M: Points for the result</span>
+                         <p>For a win, teams receive three points, for a draw, one point, for a loss, zero points, for a win in a penalty shootout, two points, and for a loss in a penalty shootout, one point.</p>
+                        <span class="ms-text-blue"> I: Status of the match</span>
+                         <p>Friendly match (including minor tournaments): I = 1.0                         <br />Group stage of the FIFA World Cup™ and continental qualification: I = 2.5                        <br />Continental finals and FIFA Confederations Cup: I = 3.0                        <br />Finals of the FIFA World Cup™: I = 4.0</p>
+                         <span class="ms-text-blue">T: Opponent's Strength</span>
+                        <p>The strength of the opponent is based on the following formula: 200 minus the opponent's ranking position.                      <br />The team in 1st place is always rated with a value of 200. From position 150 onwards, teams are assigned a minimum value of 50. The ranking position used is the rank of the opposing team in the most recently published ranking.                       </p>
+
+                        <span class="ms-text-blue">C: Confederation Strength</span>
+                        <br />
+                            <p>For the calculation of games between teams from different confederations, the average value of the confederations of the two teams involved is used. The strength of the confederation is calculated based on the number of wins by confederation in the last three FIFA World Cup™ finals and is as follows:                            <br />UEFA/CONMEBOL 1,00                            <br />CONCACAF 0,88                            <br />AFC/CAF 0,86                            <br />OFC 0,85                        </p>
+                    </div>
+                    <div class="footer">
+                        <a target="_blank" href="https://inside.fifa.com/fifa-world-ranking/procedure-men">To the FIFA website</a>                    </div>
+                </div>
+            
+        </div>
+    </div>
+
+<script async src="/js/custom/tm-track-links.min.js" type="module"></script>
+<div class="werbung ad-placement-note werbung-fullsize_contentad" data-ad-placement-note="Advertisement">
+  <div id="div-gpt-ad-bottom_banner" style="min-width: 970px; min-height: 250px;"></div>
+</div>
+        </main>
+        <footer class="tm-footer">
+               <section class="tm-footer__section-quick-links">
+        <strong class="tm-footer__headline tm-footer__headline--large">
+            Quick Links        </strong>
+        <div class="tm-footer__link-wrapper">
+            <a href="/spieler-statistik/wertvollstespieler/marktwertetop"
+               onclick="tmEvent('footer', 'quick_links', '/spieler-statistik/wertvollstespieler')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                Most valuable players in the world            </a>
+            <a href="/statistik/neuestetransfers"
+                onclick="tmEvent('footer', 'quick_links', '/statistik/neuestetransfers')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                Latest transfers            </a>
+            <a href="/geruechte/aktuellegeruechte/statistik"
+                onclick="tmEvent('footer', 'quick_links', '/statistik/aktuellegeruechte')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                Latest rumours            </a>
+            <a href="/spieler-statistik/marktwertaenderungen/marktwertetop"
+                onclick="tmEvent('footer', 'quick_links', '/spieler-statistik/marktwertaenderungen/marktwertetop')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                Latest market value updates            </a>
+            <a href="/statistik/weltrangliste"
+                onclick="tmEvent('footer', 'quick_links', '/statistik/weltrangliste')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                FIFA World ranking            </a>
+                        <a href="/betting/sites/"
+                onclick="tmEvent('footer', 'quick_links', '/betting/sites/')"
+               class="tm-footer__link tm-footer__link--arrow"
+            >
+                Best betting sites            </a>
+                    </div>
+    </section>
+                <section class="tm-footer__section-involved">
+            <strong class="tm-footer__headline tm-footer__headline--large">
+                Be Involved            </strong>
+            <div class="tm-footer__link-wrapper">
+                <a href="/intern/paten"
+                    onclick="tmEvent('footer', 'be_involved', 'mods_data_scouts')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    Mods & Data Scouts                </a>
+                <a href="/profil/bewerbung"
+                    onclick="tmEvent('footer', 'be_involved', 'apply_mod_datascout')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    Apply as Mod or Datascout                </a>
+                <a href="/intern/elfGebote"
+                    onclick="tmEvent('footer', 'be_involved', '11_commandments')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    11 commandments                </a>
+                <a href="/intern/fehlermelden"
+                    onclick="tmEvent('footer', 'be_involved', 'found_mistake')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    Found a mistake?                </a>
+            </div>
+        </section>
+        <section class="tm-footer__section-career">
+            <strong class="tm-footer__headline tm-footer__headline--large">
+                Career            </strong>
+            <div class="tm-footer__link-wrapper">
+                                <a href="/intern/tmteam"
+                   class="tm-footer__link tm-footer__link--arrow"
+                   onclick="tmEvent('footer', 'career', 'contact')"
+                >
+                    Contact                </a>
+            </div>
+        </section>
+        <section class="tm-footer__section-about">
+            <strong class="tm-footer__headline tm-footer__headline--large">
+                About Us            </strong>
+            <div class="tm-footer__link-wrapper">
+                <a href="/intern/tmteam"
+                   onclick="tmEvent('footer', 'about_us', 'tm_team')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    TM-Team                </a>
+                <a href="/intern/faq"
+                   onclick="tmEvent('footer', 'about_us', 'faq')"
+                   class="tm-footer__link tm-footer__link--arrow"
+                >
+                    FAQ                </a>
+            </div>
+        </section>
+            <section class="tm-footer__section-social">
+        <strong class="tm-footer__headline
+            ">
+            Social media        </strong>
+        <div class="tm-footer__social-wrapper">
+                        <a href="https://www.instagram.com/transfermarkt.co.uk"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'instagram')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/instaRebrush.svg"
+                         alt="instagram"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.facebook.com/transfermarkt.co.uk"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'facebook')">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/fbRebrush.svg"
+                         alt="facebook"
+                         width="25"
+                         height="25"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.whatsapp.com/channel/0029Va6Kevx47XeF0gE99J35"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'whatsapp')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/whatsappRebrush.svg"
+                         alt="whatsapp"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://twitter.com/TMuk_news"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'x')">
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/twitter_rebrush.svg"
+                         alt="x"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.threads.net/@transfermarkt.co.uk"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'threads')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/threadsRebrush.svg"
+                         alt="threads"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.tiktok.com/@transfermarkt"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'tiktok')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/tiktokRebrush.svg"
+                         alt="tiktok"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.youtube.com/@TransfermarktEnglish"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'youtube')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/RebrushYoutube.svg"
+                         alt="youtube"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.transfermarkt.co.uk/intern/rssguide"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'rss')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/RebrushRss.svg"
+                         alt="rss"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                <a href="https://www.linkedin.com/company/transfermarkt-gmbh-&-co-kg"
+                   target="_blank"
+                   class="tm-footer__link-social"
+                   onclick="tmEvent('footer', 'social_media', 'linkedIn')"
+                >
+                    <img src="https://tmsi.akamaized.net/icons/socialMedia/linkedInRebrush.svg"
+                         alt="linkedIn"
+                         width="28"
+                         height="28"
+                         class="tm-footer__icon-social"
+                    >
+                </a>
+                        </div>
+    </section>
+                </footer>
+                <div id="menue_overlay"></div>
+    </div>
+    <section class="tm-footer__mobile tm-footer__transfermarkt-info">
+        <section class="tm-footer__section-desktop-width">
+                            <section class="tm-footer__section-company-links">
+                    <span class="tm-footer__headline tm-footer__headline--medium">
+                        Transfermarkt Company Projects                    </span>
+                    <div class="tm-footer__project-wrapper">
+                        <a href="/wahretabelle"
+                           onclick="tmEvent('footer', 'projects', 'wahretabelle')"
+                           class="tm-footer__link"
+                        >
+                            Wahretabelle                        </a>
+                        <a href="https://www.soccerdonna.de/"
+                           onclick="tmEvent('footer', 'projects', 'soccerdonna')"
+                           class="tm-footer__link"
+                        >
+                            Soccerdonna.de                        </a>
+                        <a href="https://scoutastic.com/de/"
+                           onclick="tmEvent('footer', 'projects', 'scoutastic')"
+                           class="tm-footer__link"
+                        >
+                            Scoutastic.com                        </a>
+                    </div>
+                </section>
+                        <section class="tm-footer__section-company-infos">
+                <span class="tm-footer__headline tm-footer__headline--medium">&copy; Transfermarkt <span id="currentYear">2026</span></span>
+                <div class="tm-footer__company-wrapper">
+                    <a
+                    href="/intern/impressum"
+                    class="tm-footer__link tm-footer__link--blue"
+                    onclick="tmEvent('footer', 'officials', 'impressum')"
+                    >
+                        Legal notice                    </a>
+                    <a
+                        href="/intern/web/datenschutz"
+                        class="tm-footer__link tm-footer__link--blue"
+                        onclick="tmEvent('footer', 'officials', 'data_protection')"
+                        >
+                        Data protection                    </a>
+                    <a
+                        href="javascript:void(0)"
+                        class="cmp-link tm-footer__link tm-footer__link--blue"
+                        onclick="tmEvent('footer', 'officials', 'privacy')"
+                    >
+                        Privacy                    </a>
+                    <a
+                        href="javascript:void(0)"
+                        class="revoke-tracking tm-footer__link tm-footer__link--blue"
+                        onclick="tmEvent('footer', 'officials', 'tracking_revocation')"
+                    >
+                        Revoke Tracking                    </a>
+                    <a
+                        href="/intern/anb"
+                        class="tm-footer__link tm-footer__link--blue"
+                        onclick="tmEvent('footer', 'officials', 'general_conduct_of_use')"
+                        >
+                        Site policy                    </a>
+                                    </div>
+            </section>
+        </section>
+    </section>
+    <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script>
+
+            <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var cnt = document.querySelectorAll('div.large-4.columns').length;
+                if (cnt == 1) {
+                    var sidebarDiv = document.querySelector('div.large-4.columns');
+                    if (sidebarDiv !== null) {
+                        var sidebar = document.getElementById('werbung_recommender_sidebar_wrapper');
+                        sidebarDiv.appendChild(sidebar);
+                        sidebar.style.display = 'block';
+                    }
+                }
+            });
+        </script>
+        <div id="werbung_recommender_sidebar_wrapper" style="display: none;">
+                    </div>
+    <tm-consent type="adition" no-checkbox embed="PHNjcmlwdCBzcmM9Imh0dHBzOi8vY3JlYXRpdmUtY2RuLm9kZHNzZXJ2ZS5jb20vbG9hZGVyLmpzP3B1Ymxpc2hlcj10bSIgYXN5bmM9ImFzeW5jIj48L3NjcmlwdD4="></tm-consent><tm-consent type='adrenalead' no-checkbox embed='PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgogICAgICAgICAgICB3aW5kb3cuX25BZHpxPXdpbmRvdy5fbkFkenF8fFtdOyhmdW5jdGlvbigpewogICAgICAgICAgICB3aW5kb3cuX25BZHpxLnB1c2goWydzZXRJZHMnLCdkOTBlZWM3NWU4OTlkMzZlJ10pOwogICAgICAgICAgICB2YXIgZT0naHR0cHM6Ly9ub3RpZnB1c2guY29tL3NjcmlwdHMvJzsKICAgICAgICAgICAgdmFyIHQ9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgICAgIHQudHlwZT0ndGV4dC9qYXZhc2NyaXB0JzsKICAgICAgICAgICAgdC5kZWZlcj10cnVlOwogICAgICAgICAgICB0LmFzeW5jPXRydWU7CiAgICAgICAgICAgIHQuc3JjPWUrJ25hZHotc2RrLmpzJzsKICAgICAgICAgICAgdmFyIHM9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwogICAgICAgICAgICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9KSgpOwogICAgICAgIDwvc2NyaXB0Pg=='></tm-consent>    
+        <tm-modal id="tm-modal-revoke-tracking" additionalClose="Close">
+        <div class="tm-modal__headline">Revoke Tracking</div>
+        <p class="tm-modal__text">Sie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.</p>
+    </tm-modal>
+
+<tm-consent type="footballco" no-checkbox embed="PHNjcmlwdCAgc3JjPSJodHRwczovL2xuZ3RkLmNvbS90cmFuc2Zlcm1hcmt0X3Jvcy5qcyIgYXN5bmM9ImFzeW5jIj48L3NjcmlwdD4="></tm-consent>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1782474364"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1782474365"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/domain-switcher/bundle.js"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/quick-select-bar/bundle.js"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/userbox/bundle.js"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/live-match-count/bundle.js"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/domain-note/bundle.js"></script>
+<script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/modal/bundle.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	var loginUrl='/profil/login';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+jQuery(function($) {
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'page','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); trackLinks(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+});
+/*]]>*/
+</script>
+</body>
+
+</html>

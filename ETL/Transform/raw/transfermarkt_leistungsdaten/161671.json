@@ -1,0 +1,33 @@
+{
+  "nombre": "Aníbal Godoy",
+  "href_perfil": "/anibal-godoy/profil/spieler/161671",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "14",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "797'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "239'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,036'"
+    }
+  ]
+}

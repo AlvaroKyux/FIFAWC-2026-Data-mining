@@ -1,0 +1,60 @@
+{
+  "nombre": "Samed Bazdar",
+  "href_perfil": "/samed-bazdar/profil/spieler/710969",
+  "competiciones": [
+    {
+      "competicion_raw": "Ekstraklasa",
+      "partidos": "15",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "397'"
+    },
+    {
+      "competicion_raw": "LaLiga2",
+      "partidos": "8",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "222'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "143'"
+    },
+    {
+      "competicion_raw": "Betclic 3 Liga - Group I",
+      "partidos": "1",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "68'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "45'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "27",
+      "goles": "6",
+      "asistencias": "2",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "875'"
+    }
+  ]
+}

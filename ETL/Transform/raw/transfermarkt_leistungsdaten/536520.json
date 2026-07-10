@@ -1,0 +1,42 @@
+{
+  "nombre": "Ruben Providence",
+  "href_perfil": "/ruben-providence/profil/spieler/536520",
+  "competiciones": [
+    {
+      "competicion_raw": "Keuken Kampioen Divisie",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,028'"
+    },
+    {
+      "competicion_raw": "Keuken Kampioen Play-Offs",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "27'"
+    },
+    {
+      "competicion_raw": "KNVB Beker",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "63'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,118'"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Nico Paz",
+  "href_perfil": "/nico-paz/profil/spieler/948294",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "35",
+      "goles": "12",
+      "asistencias": "7",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "2,886'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "5",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "405'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "40",
+      "goles": "13",
+      "asistencias": "8",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "3,291'"
+    }
+  ]
+}

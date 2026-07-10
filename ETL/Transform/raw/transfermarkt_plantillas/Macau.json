@@ -1,0 +1,222 @@
+{
+  "pais": "Macau",
+  "href_seleccion": "/macau/startseite/verein/16432",
+  "jugadores": [
+    {
+      "player_id": "191128",
+      "nombre": "Man-Fai Ho",
+      "href_perfil": "/man-fai-ho/profil/spieler/191128",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/06/1993 (33)",
+      "club_actual": "Tai Po",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "866429",
+      "nombre": "Wa-Si Vaselie Lei",
+      "href_perfil": "/wa-si-vaselie-lei/profil/spieler/866429",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/08/2000 (25)",
+      "club_actual": "Shao Jiang SA",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1528096",
+      "nombre": "Chi-Lam Choi",
+      "href_perfil": "/chi-lam-choi/profil/spieler/1528096",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/04/2008 (18)",
+      "club_actual": "GD Artilheiros",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1492049",
+      "nombre": "Chia-Yen Chen",
+      "href_perfil": "/chia-yen-chen/profil/spieler/1492049",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/07/2008 (17)",
+      "club_actual": "Hong Lok",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "497841",
+      "nombre": "Amancio",
+      "href_perfil": "/amancio/profil/spieler/497841",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/03/1990 (36)",
+      "club_actual": "Benfica de Macau",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1179952",
+      "nombre": "Weng-Kin Lam",
+      "href_perfil": "/weng-kin-lam/profil/spieler/1179952",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/04/2006 (20)",
+      "club_actual": "Ching Fung",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1315500",
+      "nombre": "Cho-Fong Huang",
+      "href_perfil": "/cho-fong-huang/profil/spieler/1315500",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "21/04/2007 (19)",
+      "club_actual": "Shao Jiang SA",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1392297",
+      "nombre": "Chi-Ioi Chio",
+      "href_perfil": "/chi-ioi-chio/profil/spieler/1392297",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/04/2007 (19)",
+      "club_actual": "MUST IPO",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1528095",
+      "nombre": "Wang-Hou Ko",
+      "href_perfil": "/wang-hou-ko/profil/spieler/1528095",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/05/2002 (24)",
+      "club_actual": "University of Macau",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "850786",
+      "nombre": "Marcos Cheong",
+      "href_perfil": "/marcos-cheong/profil/spieler/850786",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "25/08/2002 (23)",
+      "club_actual": "Gala",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "850754",
+      "nombre": "Hei-Long Wong",
+      "href_perfil": "/hei-long-wong/profil/spieler/850754",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/08/2000 (25)",
+      "club_actual": "Ching Fung",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "871154",
+      "nombre": "Hou-In Lei",
+      "href_perfil": "/hou-in-lei/profil/spieler/871154",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/06/1999 (27)",
+      "club_actual": "Ching Fung",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "954771",
+      "nombre": "Nuno Pereira",
+      "href_perfil": "/nuno-pereira/profil/spieler/954771",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/11/1997 (28)",
+      "club_actual": "Portimonense SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "497840",
+      "nombre": "Hoi-San Cheong",
+      "href_perfil": "/hoi-san-cheong/profil/spieler/497840",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/06/1998 (28)",
+      "club_actual": "Shao Jiang SA",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1122135",
+      "nombre": "Wai-Hin Leong",
+      "href_perfil": "/wai-hin-leong/profil/spieler/1122135",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/03/2006 (20)",
+      "club_actual": "Gala",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1483619",
+      "nombre": "Ka-Long Cheong",
+      "href_perfil": "/ka-long-cheong/profil/spieler/1483619",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "13/08/2009 (16)",
+      "club_actual": "Macau Chiba FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "850778",
+      "nombre": "Dion Carlos Choi",
+      "href_perfil": "/dion-carlos-choi/profil/spieler/850778",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "06/02/1999 (27)",
+      "club_actual": "MUST IPO",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "850756",
+      "nombre": "Chi-Seng Leung",
+      "href_perfil": "/chi-seng-leung/profil/spieler/850756",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "03/06/2000 (26)",
+      "club_actual": "Shao Jiang SA",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "870536",
+      "nombre": "Hou-In Si",
+      "href_perfil": "/hou-in-si/profil/spieler/870536",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "21/10/2004 (21)",
+      "club_actual": "Eastern District",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1179998",
+      "nombre": "Pak-San Kou",
+      "href_perfil": "/pak-san-kou/profil/spieler/1179998",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "28/03/2006 (20)",
+      "club_actual": "Gorilla Universe",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "191122",
+      "nombre": "Ka-Hang Leong",
+      "href_perfil": "/ka-hang-leong/profil/spieler/191122",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/11/1992 (33)",
+      "club_actual": "MUST IPO",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "850788",
+      "nombre": "Hou-In Leong",
+      "href_perfil": "/hou-in-leong/profil/spieler/850788",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/06/1997 (29)",
+      "club_actual": "Benfica de Macau",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "870580",
+      "nombre": "Jorge Vitorino",
+      "href_perfil": "/jorge-vitorino/profil/spieler/870580",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/10/1999 (26)",
+      "club_actual": "Ching Fung",
+      "valor_mercado_raw": "€10k"
+    },
+    {
+      "player_id": "1392298",
+      "nombre": "Si-Kit Pan",
+      "href_perfil": "/si-kit-pan/profil/spieler/1392298",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/02/2004 (22)",
+      "club_actual": "University of Macau",
+      "valor_mercado_raw": "€10k"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "pais": "Maldives",
+  "href_seleccion": "/malediven/startseite/verein/15456",
+  "jugadores": [
+    {
+      "player_id": "560744",
+      "nombre": "Hussain Shareef",
+      "href_perfil": "/hussain-shareef/profil/spieler/560744",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/09/1998 (27)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "723859",
+      "nombre": "Mohamed Shafeeu",
+      "href_perfil": "/mohamed-shafeeu/profil/spieler/723859",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/07/1988 (37)",
+      "club_actual": "Odi SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "208966",
+      "nombre": "Mohamed Faisal",
+      "href_perfil": "/mohamed-faisal/profil/spieler/208966",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "04/08/1988 (37)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1415962",
+      "nombre": "Ahmed Aiham",
+      "href_perfil": "/ahmed-aiham/profil/spieler/1415962",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "23/03/1998 (28)",
+      "club_actual": "Odi SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1528706",
+      "nombre": "Nashiu Ahmed Shiham",
+      "href_perfil": "/nashiu-ahmed-shiham/profil/spieler/1528706",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "325365",
+      "nombre": "Amdhan Ali",
+      "href_perfil": "/amdhan-ali/profil/spieler/325365",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/09/1992 (33)",
+      "club_actual": "Victory SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "949615",
+      "nombre": "Hassan Eenaaz",
+      "href_perfil": "/hassan-eenaaz/profil/spieler/949615",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2000 (26)",
+      "club_actual": "TC Sports Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "703432",
+      "nombre": "Haisham Hassan",
+      "href_perfil": "/haisham-hassan/profil/spieler/703432",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "21/07/1999 (26)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1483370",
+      "nombre": "Thoif Gasim",
+      "href_perfil": "/thoif-gasim/profil/spieler/1483370",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/08/2001 (24)",
+      "club_actual": "Buru SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "576851",
+      "nombre": "Hussain Sifaau",
+      "href_perfil": "/hussain-sifaau/profil/spieler/576851",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/02/1996 (30)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "703433",
+      "nombre": "Ibrahim Aisham",
+      "href_perfil": "/ibrahim-aisham/profil/spieler/703433",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/05/1997 (29)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "560741",
+      "nombre": "Ibrahim Waheed Hassan",
+      "href_perfil": "/ibrahim-waheed-hassan/profil/spieler/560741",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "15/11/1995 (30)",
+      "club_actual": "Odi SC",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "1322244",
+      "nombre": "Ahzam Rasheed",
+      "href_perfil": "/ahzam-rasheed/profil/spieler/1322244",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "18/09/2007 (18)",
+      "club_actual": "Odi SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "565538",
+      "nombre": "Ahmed Aiham",
+      "href_perfil": "/ahmed-aiham/profil/spieler/565538",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2003 (23)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1528623",
+      "nombre": "Nassah Ibrahim Nasir",
+      "href_perfil": "/nassah-ibrahim-nasir/profil/spieler/1528623",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "560745",
+      "nombre": "Ibrahim Mahudhee",
+      "href_perfil": "/ibrahim-mahudhee/profil/spieler/560745",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/08/1993 (32)",
+      "club_actual": "Club Eagles",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "208967",
+      "nombre": "Ali Fasir",
+      "href_perfil": "/ali-fasir/profil/spieler/208967",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "04/09/1988 (37)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1322238",
+      "nombre": "Abdulla Looth",
+      "href_perfil": "/abdulla-looth/profil/spieler/1322238",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "08/02/2005 (21)",
+      "club_actual": "Odi SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "393177",
+      "nombre": "Hamza Mohamed",
+      "href_perfil": "/hamza-mohamed/profil/spieler/393177",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/02/1995 (31)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "393178",
+      "nombre": "Hassan Naiz",
+      "href_perfil": "/hassan-naiz/profil/spieler/393178",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/05/1996 (30)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "68492",
+      "nombre": "Ali Ashfaq",
+      "href_perfil": "/ali-ashfaq/profil/spieler/68492",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "06/09/1985 (40)",
+      "club_actual": "New Radiant SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1441275",
+      "nombre": "Mohamed Ilan",
+      "href_perfil": "/mohamed-ilan/profil/spieler/1441275",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "17/01/2009 (17)",
+      "club_actual": "Maziya S&RC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

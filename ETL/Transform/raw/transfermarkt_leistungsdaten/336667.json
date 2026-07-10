@@ -1,0 +1,42 @@
+{
+  "nombre": "Assim Madibo",
+  "href_perfil": "/assim-madibo/profil/spieler/336667",
+  "competiciones": [
+    {
+      "competicion_raw": "Stars League",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "1,089'"
+    },
+    {
+      "competicion_raw": "Amir Cup",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "171'"
+    },
+    {
+      "competicion_raw": "QSL Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "10",
+      "rojas": "-",
+      "minutos_raw": "1,260'"
+    }
+  ]
+}

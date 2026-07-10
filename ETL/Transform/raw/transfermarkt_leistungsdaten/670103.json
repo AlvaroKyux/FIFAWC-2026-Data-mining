@@ -1,0 +1,69 @@
+{
+  "nombre": "Andreas Schjelderup",
+  "href_perfil": "/andreas-schjelderup/profil/spieler/670103",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga Portugal",
+      "partidos": "28",
+      "goles": "7",
+      "asistencias": "6",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,733'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "7",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "422'"
+    },
+    {
+      "competicion_raw": "Taça de Portugal",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "188'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "143'"
+    },
+    {
+      "competicion_raw": "Allianz Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "64'"
+    },
+    {
+      "competicion_raw": "Portuguese Supercup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "43",
+      "goles": "10",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,550'"
+    }
+  ]
+}

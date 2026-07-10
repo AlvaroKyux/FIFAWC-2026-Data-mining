@@ -1,0 +1,33 @@
+{
+  "nombre": "Marcus Pedersen",
+  "href_perfil": "/marcus-pedersen/profil/spieler/583404",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "29",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,135'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "203'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "32",
+      "goles": "1",
+      "asistencias": "4",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,338'"
+    }
+  ]
+}

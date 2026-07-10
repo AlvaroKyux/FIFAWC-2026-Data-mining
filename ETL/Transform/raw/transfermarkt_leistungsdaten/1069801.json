@@ -1,0 +1,33 @@
+{
+  "nombre": "Olwethu Makhanya",
+  "href_perfil": "/olwethu-makhanya/profil/spieler/1069801",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "1",
+      "minutos_raw": "1,170'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "4",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "298'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "17",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "5",
+      "rojas": "1",
+      "minutos_raw": "1,468'"
+    }
+  ]
+}

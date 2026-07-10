@@ -1,0 +1,51 @@
+{
+  "nombre": "Jules Koundé",
+  "href_perfil": "/jules-kounde/profil/spieler/411975",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "30",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,261'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "868'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "220'"
+    },
+    {
+      "competicion_raw": "Supercopa",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "3",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,529'"
+    }
+  ]
+}

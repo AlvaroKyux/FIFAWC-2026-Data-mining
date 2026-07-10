@@ -1,0 +1,366 @@
+{
+  "pais": "Grenada",
+  "href_seleccion": "/grenada/startseite/verein/14175",
+  "jugadores": [
+    {
+      "player_id": "900013",
+      "nombre": "Trishawn Thomas",
+      "href_perfil": "/trishawn-thomas/profil/spieler/900013",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "25/01/2003 (23)",
+      "club_actual": "Royal Grenada Police Force FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "902245",
+      "nombre": "Shaquille Charles",
+      "href_perfil": "/shaquille-charles/profil/spieler/902245",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "16/04/2004 (22)",
+      "club_actual": "St. John's Sports Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628781",
+      "nombre": "Chad Phillip",
+      "href_perfil": "/chad-phillip/profil/spieler/628781",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/08/2000 (25)",
+      "club_actual": "FC Camerhogne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414447",
+      "nombre": "Johnathan Williams",
+      "href_perfil": "/johnathan-williams/profil/spieler/1414447",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "30/12/1994 (31)",
+      "club_actual": "FC Camerhogne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "799418",
+      "nombre": "Kayden Harrack",
+      "href_perfil": "/kayden-harrack/profil/spieler/799418",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/11/2003 (22)",
+      "club_actual": "Dagenham & Redbridge FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "628792",
+      "nombre": "Josh Gabriel",
+      "href_perfil": "/josh-gabriel/profil/spieler/628792",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "30/11/1999 (26)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "450978",
+      "nombre": "Kimron Marshall",
+      "href_perfil": "/kimron-marshall/profil/spieler/450978",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/02/1993 (33)",
+      "club_actual": "FC Camerhogne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "267811",
+      "nombre": "Jason Belfon",
+      "href_perfil": "/jason-belfon/profil/spieler/267811",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/07/1990 (35)",
+      "club_actual": "Paradise FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "866654",
+      "nombre": "Josh Lett",
+      "href_perfil": "/josh-lett/profil/spieler/866654",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "09/09/2004 (21)",
+      "club_actual": "Sunderland AFC U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "350232",
+      "nombre": "Kane Vincent-Young",
+      "href_perfil": "/kane-vincent-young/profil/spieler/350232",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/03/1996 (30)",
+      "club_actual": "Colchester United",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1091047",
+      "nombre": "Greg Sandiford",
+      "href_perfil": "/greg-sandiford/profil/spieler/1091047",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "07/05/2005 (21)",
+      "club_actual": "Coventry City U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "873987",
+      "nombre": "Roman Charles-Cook",
+      "href_perfil": "/roman-charles-cook/profil/spieler/873987",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/12/2003 (22)",
+      "club_actual": "Dover Athletic",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1507329",
+      "nombre": "Jabari De Coteau",
+      "href_perfil": "/jabari-de-coteau/profil/spieler/1507329",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "22/03/2005 (21)",
+      "club_actual": "Colorado Rapids 2",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "874499",
+      "nombre": "Trevon Williams",
+      "href_perfil": "/trevon-williams/profil/spieler/874499",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "11/12/1994 (31)",
+      "club_actual": "Queen's Park Rangers (Grenada)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414449",
+      "nombre": "Parish Muirhead",
+      "href_perfil": "/parish-muirhead/profil/spieler/1414449",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/12/2000 (25)",
+      "club_actual": "Lewes FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628783",
+      "nombre": "Dorrel Pierre",
+      "href_perfil": "/dorrel-pierre/profil/spieler/628783",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/05/1999 (27)",
+      "club_actual": "All Saints United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "950703",
+      "nombre": "Ethan Telesford",
+      "href_perfil": "/ethan-telesford/profil/spieler/950703",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "13/11/2003 (22)",
+      "club_actual": "FC Camerhogne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764747",
+      "nombre": "Brady Charles",
+      "href_perfil": "/brady-charles/profil/spieler/764747",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/11/2001 (24)",
+      "club_actual": "Lincoln University",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1386666",
+      "nombre": "Keston Williams",
+      "href_perfil": "/keston-williams/profil/spieler/1386666",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "22/02/2004 (22)",
+      "club_actual": "Paradise FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "902265",
+      "nombre": "Keishon Clarke",
+      "href_perfil": "/keishon-clarke/profil/spieler/902265",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/07/2004 (21)",
+      "club_actual": "WVU Golden Bears (WVU Tech)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239223",
+      "nombre": "E-Jay George",
+      "href_perfil": "/e-jay-george/profil/spieler/1239223",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "23/02/2007 (19)",
+      "club_actual": "Queen's Park Rangers (Grenada)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239224",
+      "nombre": "Zade Douglas",
+      "href_perfil": "/zade-douglas/profil/spieler/1239224",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "28/07/2006 (19)",
+      "club_actual": "Dodge City Conquistadors (DCCC)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1216180",
+      "nombre": "Corey Edwards",
+      "href_perfil": "/corey-edwards/profil/spieler/1216180",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "09/07/2007 (18)",
+      "club_actual": "Rochdale AFC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "427228",
+      "nombre": "Shavon John-Brown",
+      "href_perfil": "/shavon-john-brown/profil/spieler/427228",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "13/04/1995 (31)",
+      "club_actual": "Spokane Velocity FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "763226",
+      "nombre": "Benjamin Ettienne",
+      "href_perfil": "/benjamin-ettienne/profil/spieler/763226",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "13/03/2003 (23)",
+      "club_actual": "Queen's Park Rangers (Grenada)",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "375873",
+      "nombre": "Romar Frank",
+      "href_perfil": "/romar-frank/profil/spieler/375873",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "28/09/1996 (29)",
+      "club_actual": "FC Camerhogne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "329849",
+      "nombre": "Myles Hippolyte",
+      "href_perfil": "/myles-hippolyte/profil/spieler/329849",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "09/11/1994 (31)",
+      "club_actual": "AFC Wimbledon",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "385635",
+      "nombre": "Regan Charles-Cook",
+      "href_perfil": "/regan-charles-cook/profil/spieler/385635",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/02/1997 (29)",
+      "club_actual": "Motherwell FC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "672100",
+      "nombre": "Darius Johnson",
+      "href_perfil": "/darius-johnson/profil/spieler/672100",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/03/2000 (26)",
+      "club_actual": "San Jose Earthquakes",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "502062",
+      "nombre": "D'Margio Wright-Phillips",
+      "href_perfil": "/dmargio-wright-phillips/profil/spieler/502062",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/09/2001 (24)",
+      "club_actual": "Beerschot VA",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "1518883",
+      "nombre": "Narshon Sylvester",
+      "href_perfil": "/narshon-sylvester/profil/spieler/1518883",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/01/2007 (19)",
+      "club_actual": "Hurricanes SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1171100",
+      "nombre": "Jermaine Francis",
+      "href_perfil": "/jermaine-francis/profil/spieler/1171100",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "15/03/2002 (24)",
+      "club_actual": "Sutton United",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "63199",
+      "nombre": "Lucas Akins",
+      "href_perfil": "/lucas-akins/profil/spieler/63199",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "25/02/1989 (37)",
+      "club_actual": "Mansfield Town",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "506871",
+      "nombre": "Saydrel Lewis",
+      "href_perfil": "/saydrel-lewis/profil/spieler/506871",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/11/1997 (28)",
+      "club_actual": "SAB Spartans SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1089347",
+      "nombre": "Ellis Lehane",
+      "href_perfil": "/ellis-lehane/profil/spieler/1089347",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/10/2006 (19)",
+      "club_actual": "Tottenham Hotspur U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628785",
+      "nombre": "Joshua Isaac",
+      "href_perfil": "/joshua-isaac/profil/spieler/628785",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/10/2000 (25)",
+      "club_actual": "Paradise FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1414448",
+      "nombre": "Keishean Francois",
+      "href_perfil": "/keishean-francois/profil/spieler/1414448",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "17/08/2003 (22)",
+      "club_actual": "Douglas College Royals",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239221",
+      "nombre": "Vijay Valcin",
+      "href_perfil": "/vijay-valcin/profil/spieler/1239221",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "20/07/2005 (20)",
+      "club_actual": "St. John's Sports Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1374404",
+      "nombre": "Raheem Raeburn",
+      "href_perfil": "/raheem-raeburn/profil/spieler/1374404",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/02/2008 (18)",
+      "club_actual": "North Stars FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953357",
+      "nombre": "Deanroy Phillip",
+      "href_perfil": "/deanroy-phillip/profil/spieler/953357",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/02/2003 (23)",
+      "club_actual": "Otero College",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

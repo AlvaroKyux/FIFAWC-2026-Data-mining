@@ -1,0 +1,42 @@
+{
+  "nombre": "Moisés Ramírez",
+  "href_perfil": "/moises-ramirez/profil/spieler/450233",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League 1",
+      "partidos": "20",
+      "goles": "31",
+      "asistencias": "4",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,800'"
+    },
+    {
+      "competicion_raw": "Super League Play-out",
+      "partidos": "8",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "720'"
+    },
+    {
+      "competicion_raw": "Kypello Elladas",
+      "partidos": "2",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "40",
+      "asistencias": "8",
+      "amarillas": "8",
+      "rojas": "-",
+      "minutos_raw": "2,700'"
+    }
+  ]
+}

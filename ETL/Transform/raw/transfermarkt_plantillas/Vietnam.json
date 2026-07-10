@@ -1,0 +1,258 @@
+{
+  "pais": "Vietnam",
+  "href_seleccion": "/vietnam/startseite/verein/8778",
+  "jugadores": [
+    {
+      "player_id": "989632",
+      "nombre": "Trung Kien Tran",
+      "href_perfil": "/trung-kien-tran/profil/spieler/989632",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/02/2003 (23)",
+      "club_actual": "Hoang Anh Gia Lai FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "474755",
+      "nombre": "Van Lam Dang",
+      "href_perfil": "/van-lam-dang/profil/spieler/474755",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/08/1993 (32)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "166239",
+      "nombre": "Patrik Le Giang",
+      "href_perfil": "/patrik-le-giang/profil/spieler/166239",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/09/1992 (33)",
+      "club_actual": "Cong An Ho Chi Minh City FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "734168",
+      "nombre": "Hoang Viet Anh Bui",
+      "href_perfil": "/hoang-viet-anh-bui/profil/spieler/734168",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/01/1999 (27)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "354784",
+      "nombre": "Duy Manh Do",
+      "href_perfil": "/duy-manh-do/profil/spieler/354784",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/09/1996 (29)",
+      "club_actual": "Ha Noi FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "419389",
+      "nombre": "Thanh Chung Nguyen",
+      "href_perfil": "/thanh-chung-nguyen/profil/spieler/419389",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/09/1997 (28)",
+      "club_actual": "Ha Noi FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "992121",
+      "nombre": "Nhat Minh Nguyen",
+      "href_perfil": "/nhat-minh-nguyen/profil/spieler/992121",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/07/2003 (22)",
+      "club_actual": "Hai Phong FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1146318",
+      "nombre": "Quang Kiet Dinh",
+      "href_perfil": "/quang-kiet-dinh/profil/spieler/1146318",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/07/2007 (18)",
+      "club_actual": "Hoang Anh Gia Lai FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "573685",
+      "nombre": "Ngoc Bao Le",
+      "href_perfil": "/ngoc-bao-le/profil/spieler/573685",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/03/1998 (28)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "989898",
+      "nombre": "Tuan Tai Phan",
+      "href_perfil": "/tuan-tai-phan/profil/spieler/989898",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/01/2001 (25)",
+      "club_actual": "The Cong - Viettel FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "734446",
+      "nombre": "Van Vi Nguyen",
+      "href_perfil": "/van-vi-nguyen/profil/spieler/734446",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/02/1998 (28)",
+      "club_actual": "Thep Xanh Nam Dinh FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "484362",
+      "nombre": "Van Hau Doan",
+      "href_perfil": "/van-hau-doan/profil/spieler/484362",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/04/1999 (27)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "560917",
+      "nombre": "Xuan Manh Pham",
+      "href_perfil": "/xuan-manh-pham/profil/spieler/560917",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "09/02/1996 (30)",
+      "club_actual": "Ha Noi FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "573883",
+      "nombre": "Pham Thanh Long Le",
+      "href_perfil": "/pham-thanh-long-le/profil/spieler/573883",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/06/1996 (30)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "508248",
+      "nombre": "Hoang Duc Nguyen",
+      "href_perfil": "/hoang-duc-nguyen/profil/spieler/508248",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/01/1998 (28)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "743966",
+      "nombre": "Hai Long Nguyen",
+      "href_perfil": "/hai-long-nguyen/profil/spieler/743966",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "27/08/2000 (25)",
+      "club_actual": "Ha Noi FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "669657",
+      "nombre": "Tien Anh Truong",
+      "href_perfil": "/tien-anh-truong/profil/spieler/669657",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/1999 (27)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "855738",
+      "nombre": "Van Do Le",
+      "href_perfil": "/van-do-le/profil/spieler/855738",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "07/08/2001 (24)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "879321",
+      "nombre": "Van Khang Khuat",
+      "href_perfil": "/van-khang-khuat/profil/spieler/879321",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2003 (23)",
+      "club_actual": "The Cong - Viettel FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "419387",
+      "nombre": "Quang Hai Nguyen",
+      "href_perfil": "/quang-hai-nguyen/profil/spieler/419387",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "12/04/1997 (29)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "364742",
+      "nombre": "Hêndrio",
+      "href_perfil": "/hendrio/profil/spieler/364742",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/1994 (32)",
+      "club_actual": "Ha Noi FC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "725849",
+      "nombre": "Geovane Magno",
+      "href_perfil": "/geovane-magno/profil/spieler/725849",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "14/04/1994 (32)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1032711",
+      "nombre": "Dinh Bac Nguyen",
+      "href_perfil": "/dinh-bac-nguyen/profil/spieler/1032711",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "19/08/2004 (21)",
+      "club_actual": "Cong An Ha Noi FC",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "559975",
+      "nombre": "Tran Viet Cuong Nguyen",
+      "href_perfil": "/tran-viet-cuong-nguyen/profil/spieler/559975",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "27/12/2000 (25)",
+      "club_actual": "Becamex Ho Chi Minh City FC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1255623",
+      "nombre": "Khoa Ngo",
+      "href_perfil": "/khoa-ngo/profil/spieler/1255623",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/06/2006 (19)",
+      "club_actual": "Cong An Ho Chi Minh City FC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1047418",
+      "nombre": "Ngoc My Nguyen",
+      "href_perfil": "/ngoc-my-nguyen/profil/spieler/1047418",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "20/02/2004 (22)",
+      "club_actual": "Dong A Thanh Hoa FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "393339",
+      "nombre": "Rafaelson",
+      "href_perfil": "/rafaelson/profil/spieler/393339",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "30/03/1997 (29)",
+      "club_actual": "Thep Xanh Nam Dinh FC",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "989886",
+      "nombre": "Gia Hung Pham",
+      "href_perfil": "/gia-hung-pham/profil/spieler/989886",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/04/2000 (26)",
+      "club_actual": "Ninh Binh FC",
+      "valor_mercado_raw": "€125k"
+    }
+  ]
+}

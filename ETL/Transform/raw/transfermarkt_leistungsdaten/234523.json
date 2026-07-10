@@ -1,0 +1,33 @@
+{
+  "nombre": "Antonio Sanabria",
+  "href_perfil": "/antonio-sanabria/profil/spieler/234523",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "940'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "25",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "940'"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "pais": "Cayman Islands",
+  "href_seleccion": "/cayman-inseln/startseite/verein/17751",
+  "jugadores": [
+    {
+      "player_id": "1180768",
+      "nombre": "Lachlin Lambert",
+      "href_perfil": "/lachlin-lambert/profil/spieler/1180768",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "14/06/2006 (20)",
+      "club_actual": "NK Dugopolje U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1123385",
+      "nombre": "Deshawn Whittaker",
+      "href_perfil": "/deshawn-whittaker/profil/spieler/1123385",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/2006 (20)",
+      "club_actual": "Scholars International",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "217367",
+      "nombre": "Ramon Sealy",
+      "href_perfil": "/ramon-sealy/profil/spieler/217367",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/04/1991 (35)",
+      "club_actual": "Bodden Town FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1272589",
+      "nombre": "Jahiem Campbell",
+      "href_perfil": "/jahiem-campbell/profil/spieler/1272589",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "14/07/2004 (21)",
+      "club_actual": "Florida Atlantic Owls (Florida Atlantic Uni.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953567",
+      "nombre": "Joshwa Campbell",
+      "href_perfil": "/joshwa-campbell/profil/spieler/953567",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "15/02/2006 (20)",
+      "club_actual": "UAB Blazers (Univ. of Alabama at Birmingham)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "876525",
+      "nombre": "Cameron Gray",
+      "href_perfil": "/cameron-gray/profil/spieler/876525",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/10/1998 (27)",
+      "club_actual": "Academy SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "346502",
+      "nombre": "Wesley Robinson",
+      "href_perfil": "/wesley-robinson/profil/spieler/346502",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/09/1993 (32)",
+      "club_actual": "Elite SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628724",
+      "nombre": "Jabari Campbell",
+      "href_perfil": "/jabari-campbell/profil/spieler/628724",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/06/2000 (26)",
+      "club_actual": "Academy SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "217368",
+      "nombre": "Matthew Suberan",
+      "href_perfil": "/matthew-suberan/profil/spieler/217368",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "03/02/1995 (31)",
+      "club_actual": "Scholars International",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "907207",
+      "nombre": "Dimetri Douglas",
+      "href_perfil": "/dimetri-douglas/profil/spieler/907207",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/02/2000 (26)",
+      "club_actual": "345 FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629100",
+      "nombre": "Jah Dain Alexander",
+      "href_perfil": "/jah-dain-alexander/profil/spieler/629100",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "08/12/1999 (26)",
+      "club_actual": "Elite SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629102",
+      "nombre": "D'Andre Rowe",
+      "href_perfil": "/dandre-rowe/profil/spieler/629102",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/01/2001 (25)",
+      "club_actual": "Scholars International",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022793",
+      "nombre": "Shakurn Silburn",
+      "href_perfil": "/shakurn-silburn/profil/spieler/1022793",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "12/08/1999 (26)",
+      "club_actual": "Elite SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531383",
+      "nombre": "Gonzalo McLaughlin",
+      "href_perfil": "/gonzalo-mclaughlin/profil/spieler/1531383",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "15/06/2000 (26)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239255",
+      "nombre": "Jahziah Johnson",
+      "href_perfil": "/jahziah-johnson/profil/spieler/1239255",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "03/02/2005 (21)",
+      "club_actual": "UDA Soccer Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "907052",
+      "nombre": "Jordan Bonilla",
+      "href_perfil": "/jordan-bonilla/profil/spieler/907052",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/1997 (29)",
+      "club_actual": "Scholars International",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022782",
+      "nombre": "Zachary Scott",
+      "href_perfil": "/zachary-scott/profil/spieler/1022782",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "02/04/1998 (28)",
+      "club_actual": "Academy SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "484875",
+      "nombre": "Elijah Seymour",
+      "href_perfil": "/elijah-seymour/profil/spieler/484875",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/11/1998 (27)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628723",
+      "nombre": "Trey Ebanks",
+      "href_perfil": "/trey-ebanks/profil/spieler/628723",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "05/06/2000 (26)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629127",
+      "nombre": "Kareem Foster",
+      "href_perfil": "/kareem-foster/profil/spieler/629127",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/09/2000 (25)",
+      "club_actual": "Sheerwater FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1123387",
+      "nombre": "Jacobbi Tugman",
+      "href_perfil": "/jacobbi-tugman/profil/spieler/1123387",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/10/2004 (21)",
+      "club_actual": "SV Hemelingen",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1180769",
+      "nombre": "Sebastián Martínez",
+      "href_perfil": "/sebastian-martinez/profil/spieler/1180769",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "25/10/1998 (27)",
+      "club_actual": "345 FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1239259",
+      "nombre": "Tyler Beckford",
+      "href_perfil": "/tyler-beckford/profil/spieler/1239259",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/08/2006 (19)",
+      "club_actual": "Johnson County CC Athletics",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615910",
+      "nombre": "Christopher Reeves",
+      "href_perfil": "/christopher-reeves/profil/spieler/615910",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/02/1997 (29)",
+      "club_actual": "Elite SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629331",
+      "nombre": "Mason Duval",
+      "href_perfil": "/mason-duval/profil/spieler/629331",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "24/08/2001 (24)",
+      "club_actual": "Academy SC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Tarik Muharemović",
+  "href_perfil": "/tarik-muharemovic/profil/spieler/679423",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "32",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,835'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "33",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,925'"
+    }
+  ]
+}

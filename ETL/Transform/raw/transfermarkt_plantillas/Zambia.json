@@ -1,0 +1,213 @@
+{
+  "pais": "Zambia",
+  "href_seleccion": "/sambia/startseite/verein/3703",
+  "jugadores": [
+    {
+      "player_id": "1171976",
+      "nombre": "Willard Mwanza",
+      "href_perfil": "/willard-mwanza/profil/spieler/1171976",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/06/1997 (29)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "365166",
+      "nombre": "Mangani Banda",
+      "href_perfil": "/mangani-banda/profil/spieler/365166",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/07/1997 (28)",
+      "club_actual": "Kabwe Warriors FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1146928",
+      "nombre": "Victor Chabu",
+      "href_perfil": "/victor-chabu/profil/spieler/1146928",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "22/02/1994 (32)",
+      "club_actual": "Nchanga Rangers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "774938",
+      "nombre": "Dominic Chanda",
+      "href_perfil": "/dominic-chanda/profil/spieler/774938",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/02/1996 (30)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1059808",
+      "nombre": "Brian Chilimina",
+      "href_perfil": "/brian-chilimina/profil/spieler/1059808",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/06/1997 (29)",
+      "club_actual": "Red Arrows FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1482615",
+      "nombre": "Owen Mwamba",
+      "href_perfil": "/owen-mwamba/profil/spieler/1482615",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/07/1998 (27)",
+      "club_actual": "Mufulira Wanderers FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1532087",
+      "nombre": "Tinklar Sinkala",
+      "href_perfil": "/tinklar-sinkala/profil/spieler/1532087",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/02/2001 (25)",
+      "club_actual": "Kabwe Warriors FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "836356",
+      "nombre": "Kondwani Chiboni",
+      "href_perfil": "/kondwani-chiboni/profil/spieler/836356",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "14/09/1996 (29)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1532086",
+      "nombre": "Frederick Mwimanzi",
+      "href_perfil": "/frederick-mwimanzi/profil/spieler/1532086",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "05/10/1996 (29)",
+      "club_actual": "Zanaco FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "956604",
+      "nombre": "Miguel Chaiwa",
+      "href_perfil": "/miguel-chaiwa/profil/spieler/956604",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/06/2004 (22)",
+      "club_actual": "Hibernian FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "1305949",
+      "nombre": "David Simukonda",
+      "href_perfil": "/david-simukonda/profil/spieler/1305949",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/08/2005 (20)",
+      "club_actual": "Cleopatra FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1171969",
+      "nombre": "Owen Tembo",
+      "href_perfil": "/owen-tembo/profil/spieler/1171969",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/1995 (31)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1388841",
+      "nombre": "Wilson Chisala",
+      "href_perfil": "/wilson-chisala/profil/spieler/1388841",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/05/2002 (24)",
+      "club_actual": "Zanaco FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "938534",
+      "nombre": "Obino Chisala",
+      "href_perfil": "/obino-chisala/profil/spieler/938534",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/1999 (26)",
+      "club_actual": "Al-Merrikh SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1494974",
+      "nombre": "Kelvin Mwanza",
+      "href_perfil": "/kelvin-mwanza/profil/spieler/1494974",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/06/2003 (23)",
+      "club_actual": "Maestro United FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1481575",
+      "nombre": "Given Kalusa",
+      "href_perfil": "/given-kalusa/profil/spieler/1481575",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "08/11/2008 (17)",
+      "club_actual": "Maestro United FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "485729",
+      "nombre": "Fashion Sakala",
+      "href_perfil": "/fashion-sakala/profil/spieler/485729",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/03/1997 (29)",
+      "club_actual": "Al-Fayha FC",
+      "valor_mercado_raw": "€3.80m"
+    },
+    {
+      "player_id": "995624",
+      "nombre": "Albert Kangwanda",
+      "href_perfil": "/albert-kangwanda/profil/spieler/995624",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/04/1999 (27)",
+      "club_actual": "Red Arrows FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1401080",
+      "nombre": "Pascal Phiri",
+      "href_perfil": "/pascal-phiri/profil/spieler/1401080",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/07/2005 (20)",
+      "club_actual": "Pyramids FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1148272",
+      "nombre": "Frederick Mulambia",
+      "href_perfil": "/frederick-mulambia/profil/spieler/1148272",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/07/2002 (23)",
+      "club_actual": "Power Dynamos FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1111663",
+      "nombre": "Kingstone Mutandwa",
+      "href_perfil": "/kingstone-mutandwa/profil/spieler/1111663",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/01/2003 (23)",
+      "club_actual": "SV Ried",
+      "valor_mercado_raw": "€3.50m"
+    },
+    {
+      "player_id": "365172",
+      "nombre": "Patson Daka",
+      "href_perfil": "/patson-daka/profil/spieler/365172",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/10/1998 (27)",
+      "club_actual": "Leicester City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "568063",
+      "nombre": "Chanka Zimba",
+      "href_perfil": "/chanka-zimba/profil/spieler/568063",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "29/12/2001 (24)",
+      "club_actual": "Inverness Caledonian Thistle FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

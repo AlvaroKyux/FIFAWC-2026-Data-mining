@@ -1,0 +1,51 @@
+{
+  "nombre": "Kenji Gorré",
+  "href_perfil": "/kenji-gorre/profil/spieler/374889",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligat ha'Al",
+      "partidos": "24",
+      "goles": "4",
+      "asistencias": "7",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,515'"
+    },
+    {
+      "competicion_raw": "Gvia haMedina",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "265'"
+    },
+    {
+      "competicion_raw": "UECL Qualifying",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "26'"
+    },
+    {
+      "competicion_raw": "Ligat ha'Al -  Championship round",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "29",
+      "goles": "5",
+      "asistencias": "11",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,896'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Arjan Malic",
+  "href_perfil": "/arjan-malic/profil/spieler/805534",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "18",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "1,041'"
+    },
+    {
+      "competicion_raw": "Europa League",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "370'"
+    },
+    {
+      "competicion_raw": "ÖFB-Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "119'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "95'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,625'"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nombre": "Kosta Barbarouses",
+  "href_perfil": "/kosta-barbarouses/profil/spieler/50200",
+  "competiciones": [
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "22",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,334'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "1,334'"
+    }
+  ]
+}

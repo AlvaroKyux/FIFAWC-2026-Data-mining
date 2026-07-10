@@ -1,0 +1,213 @@
+{
+  "pais": "Guatemala",
+  "href_seleccion": "/guatemala/startseite/verein/13342",
+  "jugadores": [
+    {
+      "player_id": "690420",
+      "nombre": "Luis Morán",
+      "href_perfil": "/luis-moran/profil/spieler/690420",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "31/05/1996 (30)",
+      "club_actual": "Antigua GFC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "354667",
+      "nombre": "Nicholas Hagen",
+      "href_perfil": "/nicholas-hagen/profil/spieler/354667",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/08/1996 (29)",
+      "club_actual": "Columbus Crew",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "354671",
+      "nombre": "Nicolás Samayoa",
+      "href_perfil": "/nicolas-samayoa/profil/spieler/354671",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/08/1995 (30)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "628820",
+      "nombre": "José Ardón",
+      "href_perfil": "/jose-ardon/profil/spieler/628820",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/01/2000 (26)",
+      "club_actual": "Antigua GFC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "336225",
+      "nombre": "José Carlos Pinto",
+      "href_perfil": "/jose-carlos-pinto/profil/spieler/336225",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "16/06/1993 (33)",
+      "club_actual": "Comunicaciones FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1226117",
+      "nombre": "Marcelo Hernández",
+      "href_perfil": "/marcelo-hernandez/profil/spieler/1226117",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/11/2005 (20)",
+      "club_actual": "CS Cartaginés",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "993583",
+      "nombre": "Arian Recinos",
+      "href_perfil": "/arian-recinos/profil/spieler/993583",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/02/2005 (21)",
+      "club_actual": "UNH Wildcats (University of New Hampshire)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "354673",
+      "nombre": "José Morales",
+      "href_perfil": "/jose-morales/profil/spieler/354673",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "03/12/1996 (29)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "401362",
+      "nombre": "Aarón Herrera",
+      "href_perfil": "/aaron-herrera/profil/spieler/401362",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/06/1997 (29)",
+      "club_actual": "D.C. United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "830046",
+      "nombre": "Jonathan Franco",
+      "href_perfil": "/jonathan-franco/profil/spieler/830046",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "26/07/2003 (22)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "628825",
+      "nombre": "Óscar Castellanos",
+      "href_perfil": "/oscar-castellanos/profil/spieler/628825",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/2000 (26)",
+      "club_actual": "Antigua GFC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "454611",
+      "nombre": "José Rosales",
+      "href_perfil": "/jose-rosales/profil/spieler/454611",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "24/06/1993 (33)",
+      "club_actual": "Antigua GFC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "786554",
+      "nombre": "Kevin Ramírez",
+      "href_perfil": "/kevin-ramirez/profil/spieler/786554",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "01/08/2002 (23)",
+      "club_actual": "CD Malacateco",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1039953",
+      "nombre": "Olger Escobar",
+      "href_perfil": "/olger-escobar/profil/spieler/1039953",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/09/2006 (19)",
+      "club_actual": "CF Montréal",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "454999",
+      "nombre": "Jhon Méndez",
+      "href_perfil": "/jhon-mendez/profil/spieler/454999",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "24/06/1999 (27)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1085546",
+      "nombre": "Matt Evans",
+      "href_perfil": "/matt-evans/profil/spieler/1085546",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/05/2006 (20)",
+      "club_actual": "Los Angeles FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "956393",
+      "nombre": "Rudy Muñoz",
+      "href_perfil": "/rudy-munoz/profil/spieler/956393",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/02/2005 (21)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "629273",
+      "nombre": "Óscar Santis",
+      "href_perfil": "/oscar-santis/profil/spieler/629273",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/03/1999 (27)",
+      "club_actual": "Antigua GFC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "780917",
+      "nombre": "William Fajardo",
+      "href_perfil": "/william-fajardo/profil/spieler/780917",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/01/2001 (25)",
+      "club_actual": "Atlético Mictlán",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "747770",
+      "nombre": "Darwin Lom",
+      "href_perfil": "/darwin-lom/profil/spieler/747770",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "14/07/1997 (28)",
+      "club_actual": "The Strongest La Paz",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "905609",
+      "nombre": "Arquímides Ordóñez",
+      "href_perfil": "/arquimides-ordonez/profil/spieler/905609",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "05/08/2003 (22)",
+      "club_actual": "Loudoun United FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "976009",
+      "nombre": "Jefry Bantes",
+      "href_perfil": "/jefry-bantes/profil/spieler/976009",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "08/03/2004 (22)",
+      "club_actual": "CSD Municipal",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1205882",
+      "nombre": "Daniel Méndez",
+      "href_perfil": "/daniel-mendez/profil/spieler/1205882",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "16/08/2005 (20)",
+      "club_actual": "CF Pachuca U21",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

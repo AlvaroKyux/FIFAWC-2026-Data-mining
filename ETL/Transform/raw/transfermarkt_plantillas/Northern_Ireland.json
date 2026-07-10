@@ -1,0 +1,213 @@
+{
+  "pais": "Northern Ireland",
+  "href_seleccion": "/nordirland/startseite/verein/5674",
+  "jugadores": [
+    {
+      "player_id": "861600",
+      "nombre": "Pierce Charles",
+      "href_perfil": "/pierce-charles/profil/spieler/861600",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "21/07/2005 (20)",
+      "club_actual": "Sheffield Wednesday",
+      "valor_mercado_raw": "€900k"
+    },
+    {
+      "player_id": "398063",
+      "nombre": "Luke Southwood",
+      "href_perfil": "/luke-southwood/profil/spieler/398063",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/12/1997 (28)",
+      "club_actual": "Bristol Rovers",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "590410",
+      "nombre": "Josh Clarke",
+      "href_perfil": "/josh-clarke/profil/spieler/590410",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "28/07/2004 (21)",
+      "club_actual": "Celtic FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "701021",
+      "nombre": "Ruairi McConville",
+      "href_perfil": "/ruairi-mcconville/profil/spieler/701021",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/05/2005 (21)",
+      "club_actual": "Norwich City",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "611845",
+      "nombre": "Ciaron Brown",
+      "href_perfil": "/ciaron-brown/profil/spieler/611845",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/01/1998 (28)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "1087362",
+      "nombre": "Tom Atcheson",
+      "href_perfil": "/tom-atcheson/profil/spieler/1087362",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "22/09/2006 (19)",
+      "club_actual": "Blackburn Rovers",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "515544",
+      "nombre": "Trai Hume",
+      "href_perfil": "/trai-hume/profil/spieler/515544",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/03/2002 (24)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "701011",
+      "nombre": "Brodie Spencer",
+      "href_perfil": "/brodie-spencer/profil/spieler/701011",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/05/2004 (22)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "747951",
+      "nombre": "Shea Charles",
+      "href_perfil": "/shea-charles/profil/spieler/747951",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "05/11/2003 (22)",
+      "club_actual": "Southampton FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "694901",
+      "nombre": "Jamie McDonnell",
+      "href_perfil": "/jamie-mcdonnell/profil/spieler/694901",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/02/2004 (22)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "896526",
+      "nombre": "Patrick Kelly",
+      "href_perfil": "/patrick-kelly/profil/spieler/896526",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "02/10/2004 (21)",
+      "club_actual": "Barnsley FC",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "612749",
+      "nombre": "Isaac Price",
+      "href_perfil": "/isaac-price/profil/spieler/612749",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/09/2003 (22)",
+      "club_actual": "West Bromwich Albion",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "433991",
+      "nombre": "Ethan Galbraith",
+      "href_perfil": "/ethan-galbraith/profil/spieler/433991",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "11/05/2001 (25)",
+      "club_actual": "Swansea City",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "450714",
+      "nombre": "Ali McCann",
+      "href_perfil": "/ali-mccann/profil/spieler/450714",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "04/12/1999 (26)",
+      "club_actual": "Preston North End",
+      "valor_mercado_raw": "€2.20m"
+    },
+    {
+      "player_id": "747009",
+      "nombre": "Justin Devenny",
+      "href_perfil": "/justin-devenny/profil/spieler/747009",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "11/10/2003 (22)",
+      "club_actual": "Crystal Palace",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "796305",
+      "nombre": "Jamie Donley",
+      "href_perfil": "/jamie-donley/profil/spieler/796305",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/01/2005 (21)",
+      "club_actual": "Oxford United",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "408872",
+      "nombre": "Paul Smyth",
+      "href_perfil": "/paul-smyth/profil/spieler/408872",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/09/1997 (28)",
+      "club_actual": "Queens Park Rangers",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1055345",
+      "nombre": "Kieran Morrison",
+      "href_perfil": "/kieran-morrison/profil/spieler/1055345",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "09/11/2006 (19)",
+      "club_actual": "Liverpool FC U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953135",
+      "nombre": "Callum Marshall",
+      "href_perfil": "/callum-marshall/profil/spieler/953135",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "28/11/2004 (21)",
+      "club_actual": "VfL Bochum",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "250840",
+      "nombre": "Jamie Reid",
+      "href_perfil": "/jamie-reid/profil/spieler/250840",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/07/1994 (31)",
+      "club_actual": "Stevenage FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1122712",
+      "nombre": "Braiden Graham",
+      "href_perfil": "/braiden-graham/profil/spieler/1122712",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/11/2007 (18)",
+      "club_actual": "Everton FC U21",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "63223",
+      "nombre": "Josh Magennis",
+      "href_perfil": "/josh-magennis/profil/spieler/63223",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/08/1990 (35)",
+      "club_actual": "Exeter City",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1180733",
+      "nombre": "Ceadach O'Neill",
+      "href_perfil": "/ceadach-oneill/profil/spieler/1180733",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/04/2008 (18)",
+      "club_actual": "Arsenal FC U18",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nombre": "Kristijan Jakic",
+  "href_perfil": "/kristijan-jakic/profil/spieler/374954",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "26",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "1,654'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "2",
+      "asistencias": "1",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,834'"
+    }
+  ]
+}

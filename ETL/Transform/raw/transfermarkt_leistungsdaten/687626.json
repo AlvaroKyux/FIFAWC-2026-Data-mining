@@ -1,0 +1,51 @@
+{
+  "nombre": "Moisés Caicedo",
+  "href_perfil": "/moises-caicedo/profil/spieler/687626",
+  "competiciones": [
+    {
+      "competicion_raw": "Premier League",
+      "partidos": "33",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "11",
+      "rojas": "-",
+      "minutos_raw": "2,802'"
+    },
+    {
+      "competicion_raw": "UEFA Champions League",
+      "partidos": "10",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "851'"
+    },
+    {
+      "competicion_raw": "FA Cup",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "331'"
+    },
+    {
+      "competicion_raw": "EFL Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "185'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "50",
+      "goles": "5",
+      "asistencias": "1",
+      "amarillas": "16",
+      "rojas": "-",
+      "minutos_raw": "4,169'"
+    }
+  ]
+}

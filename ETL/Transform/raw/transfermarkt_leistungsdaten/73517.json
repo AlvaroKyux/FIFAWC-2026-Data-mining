@@ -1,0 +1,33 @@
+{
+  "nombre": "Ørjan Nyland",
+  "href_perfil": "/orjan-nyland/profil/spieler/73517",
+  "competiciones": [
+    {
+      "competicion_raw": "LaLiga",
+      "partidos": "5",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "450'"
+    },
+    {
+      "competicion_raw": "Copa del Rey",
+      "partidos": "2",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "7",
+      "goles": "10",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "630'"
+    }
+  ]
+}

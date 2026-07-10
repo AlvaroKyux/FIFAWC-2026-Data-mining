@@ -1,0 +1,51 @@
+{
+  "nombre": "João Félix",
+  "href_perfil": "/joao-felix/profil/spieler/462250",
+  "competiciones": [
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "33",
+      "goles": "20",
+      "asistencias": "14",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,912'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "10",
+      "goles": "4",
+      "asistencias": "4",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "595'"
+    },
+    {
+      "competicion_raw": "King's Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "94'"
+    },
+    {
+      "competicion_raw": "Saudi Super Cup",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "47",
+      "goles": "26",
+      "asistencias": "19",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "3,781'"
+    }
+  ]
+}

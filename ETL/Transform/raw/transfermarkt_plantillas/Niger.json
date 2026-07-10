@@ -1,0 +1,231 @@
+{
+  "pais": "Niger",
+  "href_seleccion": "/niger/startseite/verein/14163",
+  "jugadores": [
+    {
+      "player_id": "1021787",
+      "nombre": "Djibrilla Kassali",
+      "href_perfil": "/djibrilla-kassali/profil/spieler/1021787",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "05/07/1996 (29)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1060792",
+      "nombre": "Issiaka Boukari Kanta",
+      "href_perfil": "/issiaka-boukari-kanta/profil/spieler/1060792",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/07/1999 (26)",
+      "club_actual": "ASN Nigelec",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1101320",
+      "nombre": "Younoussa Abiboulaye",
+      "href_perfil": "/younoussa-abiboulaye/profil/spieler/1101320",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "03/09/2004 (21)",
+      "club_actual": "US Gendarmerie nationale (Niger)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "640692",
+      "nombre": "Oumar Sako",
+      "href_perfil": "/oumar-sako/profil/spieler/640692",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "04/05/1996 (30)",
+      "club_actual": "FC Rostov",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "461511",
+      "nombre": "Yac Diori",
+      "href_perfil": "/yac-diori/profil/spieler/461511",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/09/1997 (28)",
+      "club_actual": "Al-Karkh SC",
+      "valor_mercado_raw": "€275k"
+    },
+    {
+      "player_id": "1331844",
+      "nombre": "Mohamed Abdouramane",
+      "href_perfil": "/mohamed-abdouramane/profil/spieler/1331844",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/03/2002 (24)",
+      "club_actual": "Renaissance Zemamra",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1287413",
+      "nombre": "Samba O'Neil",
+      "href_perfil": "/samba-oneil/profil/spieler/1287413",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "02/02/2000 (26)",
+      "club_actual": "Asante Kotoko SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "929899",
+      "nombre": "Rahim Alhassane",
+      "href_perfil": "/rahim-alhassane/profil/spieler/929899",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "01/01/2002 (24)",
+      "club_actual": "Real Oviedo",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "776841",
+      "nombre": "Adamou Ibrahim Djibo",
+      "href_perfil": "/adamou-ibrahim-djibo/profil/spieler/776841",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/08/1998 (27)",
+      "club_actual": "TP Mazembe",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1029440",
+      "nombre": "Alhabib Hassane Abdou",
+      "href_perfil": "/alhabib-hassane-abdou/profil/spieler/1029440",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/08/2003 (22)",
+      "club_actual": "Stade Marocain",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "933796",
+      "nombre": "Aboubacar Camara",
+      "href_perfil": "/aboubacar-camara/profil/spieler/933796",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "04/01/2002 (24)",
+      "club_actual": "FK Bylis",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1306484",
+      "nombre": "Mohamed Moctar M'Baye",
+      "href_perfil": "/mohamed-moctar-mbaye/profil/spieler/1306484",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/09/2004 (21)",
+      "club_actual": "AS FAN",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "339006",
+      "nombre": "Ali Mohamed",
+      "href_perfil": "/ali-mohamed/profil/spieler/339006",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "07/10/1995 (30)",
+      "club_actual": "Maccabi Haifa",
+      "valor_mercado_raw": "€1.30m"
+    },
+    {
+      "player_id": "847999",
+      "nombre": "Mamane Amadou Sabo",
+      "href_perfil": "/mamane-amadou-sabo/profil/spieler/847999",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/09/2004 (21)",
+      "club_actual": "FK Javor-Matis Ivanjica",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "1306481",
+      "nombre": "Hassane Harouna Moussa",
+      "href_perfil": "/hassane-harouna-moussa/profil/spieler/1306481",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "01/01/2005 (21)",
+      "club_actual": "AS FAN",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "343276",
+      "nombre": "Youssouf Oumarou",
+      "href_perfil": "/youssouf-oumarou/profil/spieler/343276",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/02/1993 (33)",
+      "club_actual": "Al-Hazem SC",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "748037",
+      "nombre": "Hassane Adamou",
+      "href_perfil": "/hassane-adamou/profil/spieler/748037",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "26/06/2000 (26)",
+      "club_actual": "St Joseph's FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "398238",
+      "nombre": "Latif Blessing",
+      "href_perfil": "/latif-blessing/profil/spieler/398238",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "30/12/1996 (29)",
+      "club_actual": "Lexington SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1149243",
+      "nombre": "Abdoul-Latif Djibril Goumey",
+      "href_perfil": "/abdoul-latif-djibril-goumey/profil/spieler/1149243",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "23/07/2005 (20)",
+      "club_actual": "FC Saint-Éloi Lupopo",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "649490",
+      "nombre": "Konan N’Dri",
+      "href_perfil": "/konan-ndri/profil/spieler/649490",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/10/2000 (25)",
+      "club_actual": "US Lecce",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "543493",
+      "nombre": "Najeeb Yakubu",
+      "href_perfil": "/najeeb-yakubu/profil/spieler/543493",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/05/2000 (26)",
+      "club_actual": "Persijap Jepara",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "213035",
+      "nombre": "Amadou Moutari",
+      "href_perfil": "/amadou-moutari/profil/spieler/213035",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "19/01/1994 (32)",
+      "club_actual": "Al-Naft SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "401523",
+      "nombre": "Victorien Adebayor",
+      "href_perfil": "/victorien-adebayor/profil/spieler/401523",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "12/11/1996 (29)",
+      "club_actual": "US Gendarmerie nationale (Niger)",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "649325",
+      "nombre": "Boubacar Djibrill Goumey",
+      "href_perfil": "/boubacar-djibrill-goumey/profil/spieler/649325",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/07/2000 (25)",
+      "club_actual": "Al-Nasiriyah FC",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "909138",
+      "nombre": "Daniel Sosah",
+      "href_perfil": "/daniel-sosah/profil/spieler/909138",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/09/1998 (27)",
+      "club_actual": "FC Aktobe",
+      "valor_mercado_raw": "€800k"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nombre": "Cherif Ndiaye",
+  "href_perfil": "/cherif-ndiaye/profil/spieler/480705",
+  "competiciones": [
+    {
+      "competicion_raw": "Süper Lig",
+      "partidos": "23",
+      "goles": "7",
+      "asistencias": "3",
+      "amarillas": "2",
+      "rojas": "1",
+      "minutos_raw": "1,422'"
+    },
+    {
+      "competicion_raw": "Champions League Qu.",
+      "partidos": "5",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "370'"
+    },
+    {
+      "competicion_raw": "Conference League",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "245'"
+    },
+    {
+      "competicion_raw": "Super liga Srbije",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "111'"
+    },
+    {
+      "competicion_raw": "Türkiye Kupasi",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "1",
+      "minutos_raw": "136'"
+    },
+    {
+      "competicion_raw": "TFF Süper Kupa",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "13",
+      "asistencias": "5",
+      "amarillas": "2",
+      "rojas": "2",
+      "minutos_raw": "2,284'"
+    }
+  ]
+}

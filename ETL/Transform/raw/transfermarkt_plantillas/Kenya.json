@@ -1,0 +1,231 @@
+{
+  "pais": "Kenya",
+  "href_seleccion": "/kenia/startseite/verein/8987",
+  "jugadores": [
+    {
+      "player_id": "576051",
+      "nombre": "Farouk Shikalo",
+      "href_perfil": "/farouk-shikalo/profil/spieler/576051",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "12/10/1996 (29)",
+      "club_actual": "Kidus Giorgis SA",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "989995",
+      "nombre": "Caleb Kramer",
+      "href_perfil": "/caleb-kramer/profil/spieler/989995",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/08/2006 (19)",
+      "club_actual": "ADO Den Haag",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1122803",
+      "nombre": "Bryne Odhiambo",
+      "href_perfil": "/bryne-odhiambo/profil/spieler/1122803",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "11/01/1997 (29)",
+      "club_actual": "Gor Mahia Nairobi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1102459",
+      "nombre": "Alphonce Omija",
+      "href_perfil": "/alphonce-omija/profil/spieler/1102459",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "09/10/2002 (23)",
+      "club_actual": "Etoile Sportive du Sahel",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "930890",
+      "nombre": "Frank Odhiambo",
+      "href_perfil": "/frank-odhiambo/profil/spieler/930890",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "29/10/2002 (23)",
+      "club_actual": "Gor Mahia Nairobi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "842566",
+      "nombre": "Deon Woodman",
+      "href_perfil": "/deon-woodman/profil/spieler/842566",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/12/2002 (23)",
+      "club_actual": "Wealdstone FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1047463",
+      "nombre": "Sydney Agina",
+      "href_perfil": "/sydney-agina/profil/spieler/1047463",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "31/08/2007 (18)",
+      "club_actual": "Stoke City",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1202418",
+      "nombre": "Ronney Onyango",
+      "href_perfil": "/ronney-onyango/profil/spieler/1202418",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "08/08/2001 (24)",
+      "club_actual": "Sogndal IL",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "1301212",
+      "nombre": "Sylvester Owino",
+      "href_perfil": "/sylvester-owino/profil/spieler/1301212",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "06/05/2001 (25)",
+      "club_actual": "Gor Mahia Nairobi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1311107",
+      "nombre": "Stanley Wilson Omondi",
+      "href_perfil": "/stanley-wilson-omondi/profil/spieler/1311107",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/2006 (19)",
+      "club_actual": "AIK",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "520511",
+      "nombre": "Amos Nondi",
+      "href_perfil": "/amos-nondi/profil/spieler/520511",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "10/02/1999 (27)",
+      "club_actual": "FK Partizani",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "675238",
+      "nombre": "Richard Odada",
+      "href_perfil": "/richard-odada/profil/spieler/675238",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/11/2000 (25)",
+      "club_actual": "UTA Arad",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "529747",
+      "nombre": "Clarke Oduor",
+      "href_perfil": "/clarke-oduor/profil/spieler/529747",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/06/1999 (27)",
+      "club_actual": "Grimsby Town",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "917154",
+      "nombre": "Zech Obiero",
+      "href_perfil": "/zech-obiero/profil/spieler/917154",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/01/2005 (21)",
+      "club_actual": "Leyton Orient",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "893355",
+      "nombre": "Will Wilson",
+      "href_perfil": "/will-wilson/profil/spieler/893355",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "23/12/2001 (24)",
+      "club_actual": "Vaasan Palloseura",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1245211",
+      "nombre": "Chris Erambo",
+      "href_perfil": "/chris-erambo/profil/spieler/1245211",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/10/2004 (21)",
+      "club_actual": "Tusker FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "442118",
+      "nombre": "Erick Otieno",
+      "href_perfil": "/erick-otieno/profil/spieler/442118",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "27/09/1996 (29)",
+      "club_actual": "Raków Częstochowa",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "1267079",
+      "nombre": "Austin Odhiambo",
+      "href_perfil": "/austin-odhiambo/profil/spieler/1267079",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "16/12/1999 (26)",
+      "club_actual": "Nejmeh SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1384393",
+      "nombre": "Mohammed Bajaber",
+      "href_perfil": "/mohammed-bajaber/profil/spieler/1384393",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "15/03/2003 (23)",
+      "club_actual": "Simba SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1105810",
+      "nombre": "Job Ochieng",
+      "href_perfil": "/job-ochieng/profil/spieler/1105810",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "17/01/2003 (23)",
+      "club_actual": "Real Sociedad B",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "1384391",
+      "nombre": "Ben Stanley Omondi",
+      "href_perfil": "/ben-stanley-omondi/profil/spieler/1384391",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/04/2004 (22)",
+      "club_actual": "Gor Mahia Nairobi",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1384394",
+      "nombre": "Ryan Ogam",
+      "href_perfil": "/ryan-ogam/profil/spieler/1384394",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/12/2004 (21)",
+      "club_actual": "Wolfsberger AC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "1401330",
+      "nombre": "Lawrence Ouma",
+      "href_perfil": "/lawrence-ouma/profil/spieler/1401330",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/07/2005 (20)",
+      "club_actual": "SJK Seinäjoki II",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "795638",
+      "nombre": "Micah Obiero",
+      "href_perfil": "/micah-obiero/profil/spieler/795638",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/02/2001 (25)",
+      "club_actual": "Wealdstone FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1265779",
+      "nombre": "Sammy Henia-Kamau",
+      "href_perfil": "/sammy-henia-kamau/profil/spieler/1265779",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/02/2006 (20)",
+      "club_actual": "Hull City U21",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

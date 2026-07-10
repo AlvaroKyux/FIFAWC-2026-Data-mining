@@ -1,0 +1,240 @@
+{
+  "pais": "Netherlands",
+  "href_seleccion": "/niederlande/startseite/verein/3379",
+  "jugadores": [
+    {
+      "player_id": "565093",
+      "nombre": "Bart Verbruggen",
+      "href_perfil": "/bart-verbruggen/profil/spieler/565093",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/08/2002 (23)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "646991",
+      "nombre": "Robin Roefs",
+      "href_perfil": "/robin-roefs/profil/spieler/646991",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/01/2003 (23)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "125714",
+      "nombre": "Mark Flekken",
+      "href_perfil": "/mark-flekken/profil/spieler/125714",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/06/1993 (33)",
+      "club_actual": "Bayer 04 Leverkusen",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "557459",
+      "nombre": "Micky van de Ven",
+      "href_perfil": "/micky-van-de-ven/profil/spieler/557459",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/04/2001 (25)",
+      "club_actual": "Tottenham Hotspur",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "576314",
+      "nombre": "Jan Paul van Hecke",
+      "href_perfil": "/jan-paul-van-hecke/profil/spieler/576314",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/06/2000 (26)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "139208",
+      "nombre": "Virgil van Dijk",
+      "href_perfil": "/virgil-van-dijk/profil/spieler/139208",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "08/07/1991 (34)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "177476",
+      "nombre": "Nathan Aké",
+      "href_perfil": "/nathan-ake/profil/spieler/177476",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/02/1995 (31)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "904802",
+      "nombre": "Jorrel Hato",
+      "href_perfil": "/jorrel-hato/profil/spieler/904802",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "07/03/2006 (20)",
+      "club_actual": "Chelsea FC",
+      "valor_mercado_raw": "€40.00m"
+    },
+    {
+      "player_id": "415381",
+      "nombre": "Mats Wieffer",
+      "href_perfil": "/mats-wieffer/profil/spieler/415381",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/11/1999 (26)",
+      "club_actual": "Brighton & Hove Albion",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "321528",
+      "nombre": "Denzel Dumfries",
+      "href_perfil": "/denzel-dumfries/profil/spieler/321528",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/04/1996 (30)",
+      "club_actual": "Inter Milan",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "420210",
+      "nombre": "Lutsharel Geertruida",
+      "href_perfil": "/lutsharel-geertruida/profil/spieler/420210",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/07/2000 (25)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€20.00m"
+    },
+    {
+      "player_id": "478573",
+      "nombre": "Ryan Gravenberch",
+      "href_perfil": "/ryan-gravenberch/profil/spieler/478573",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2002 (24)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€80.00m"
+    },
+    {
+      "player_id": "360518",
+      "nombre": "Teun Koopmeiners",
+      "href_perfil": "/teun-koopmeiners/profil/spieler/360518",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/02/1998 (28)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€14.00m"
+    },
+    {
+      "player_id": "133179",
+      "nombre": "Marten de Roon",
+      "href_perfil": "/marten-de-roon/profil/spieler/133179",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/1991 (35)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€3.20m"
+    },
+    {
+      "player_id": "460939",
+      "nombre": "Tijjani Reijnders",
+      "href_perfil": "/tijjani-reijnders/profil/spieler/460939",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/07/1998 (27)",
+      "club_actual": "Manchester City",
+      "valor_mercado_raw": "€50.00m"
+    },
+    {
+      "player_id": "326330",
+      "nombre": "Frenkie de Jong",
+      "href_perfil": "/frenkie-de-jong/profil/spieler/326330",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "12/05/1997 (29)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "420213",
+      "nombre": "Quinten Timber",
+      "href_perfil": "/quinten-timber/profil/spieler/420213",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "17/06/2001 (25)",
+      "club_actual": "Olympique Marseille",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "330659",
+      "nombre": "Justin Kluivert",
+      "href_perfil": "/justin-kluivert/profil/spieler/330659",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/05/1999 (27)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€25.00m"
+    },
+    {
+      "player_id": "372267",
+      "nombre": "Guus Til",
+      "href_perfil": "/guus-til/profil/spieler/372267",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/12/1997 (28)",
+      "club_actual": "PSV Eindhoven",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "434675",
+      "nombre": "Cody Gakpo",
+      "href_perfil": "/cody-gakpo/profil/spieler/434675",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "07/05/1999 (27)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "474701",
+      "nombre": "Crysencio Summerville",
+      "href_perfil": "/crysencio-summerville/profil/spieler/474701",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "30/10/2001 (24)",
+      "club_actual": "West Ham United",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "339332",
+      "nombre": "Noa Lang",
+      "href_perfil": "/noa-lang/profil/spieler/339332",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/06/1999 (27)",
+      "club_actual": "Galatasaray",
+      "valor_mercado_raw": "€22.00m"
+    },
+    {
+      "player_id": "326029",
+      "nombre": "Donyell Malen",
+      "href_perfil": "/donyell-malen/profil/spieler/326029",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/01/1999 (27)",
+      "club_actual": "AS Roma",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "473169",
+      "nombre": "Brian Brobbey",
+      "href_perfil": "/brian-brobbey/profil/spieler/473169",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/02/2002 (24)",
+      "club_actual": "Sunderland AFC",
+      "valor_mercado_raw": "€30.00m"
+    },
+    {
+      "player_id": "167850",
+      "nombre": "Memphis Depay",
+      "href_perfil": "/memphis-depay/profil/spieler/167850",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/02/1994 (32)",
+      "club_actual": "Sport Club Corinthians Paulista",
+      "valor_mercado_raw": "€7.00m"
+    },
+    {
+      "player_id": "228645",
+      "nombre": "Wout Weghorst",
+      "href_perfil": "/wout-weghorst/profil/spieler/228645",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/08/1992 (33)",
+      "club_actual": "Ajax Amsterdam",
+      "valor_mercado_raw": "€2.00m"
+    }
+  ]
+}

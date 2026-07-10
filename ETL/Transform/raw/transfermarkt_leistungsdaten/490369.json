@@ -1,0 +1,33 @@
+{
+  "nombre": "Josué Duverger",
+  "href_perfil": "/josue-duverger/profil/spieler/490369",
+  "competiciones": [
+    {
+      "competicion_raw": "OL RP/Saar",
+      "partidos": "22",
+      "goles": "38",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,980'"
+    },
+    {
+      "competicion_raw": "Rheinlandpokal",
+      "partidos": "1",
+      "goles": "4",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "23",
+      "goles": "42",
+      "asistencias": "3",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "2,070'"
+    }
+  ]
+}

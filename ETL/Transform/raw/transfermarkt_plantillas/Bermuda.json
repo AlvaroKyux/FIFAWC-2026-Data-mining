@@ -1,0 +1,258 @@
+{
+  "pais": "Bermuda",
+  "href_seleccion": "/bermuda/startseite/verein/15735",
+  "jugadores": [
+    {
+      "player_id": "216992",
+      "nombre": "Dale Eve",
+      "href_perfil": "/dale-eve/profil/spieler/216992",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "09/02/1995 (31)",
+      "club_actual": "Bromsgrove Sporting",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "363544",
+      "nombre": "Detre Bell",
+      "href_perfil": "/detre-bell/profil/spieler/363544",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/03/1997 (29)",
+      "club_actual": "North Village Rams",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "752574",
+      "nombre": "Coleridge Fubler",
+      "href_perfil": "/coleridge-fubler/profil/spieler/752574",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "30/10/2003 (22)",
+      "club_actual": "Binfield FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1022268",
+      "nombre": "Reece Jones",
+      "href_perfil": "/reece-jones/profil/spieler/1022268",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "07/12/2000 (25)",
+      "club_actual": "Binfield FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "365639",
+      "nombre": "Dante Leverock",
+      "href_perfil": "/dante-leverock/profil/spieler/365639",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "11/04/1992 (34)",
+      "club_actual": "Dandy Town Hornets FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "220573",
+      "nombre": "Roger Lee",
+      "href_perfil": "/roger-lee/profil/spieler/220573",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/07/1991 (34)",
+      "club_actual": "Quorn FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1344084",
+      "nombre": "Julian Carpenter",
+      "href_perfil": "/julian-carpenter/profil/spieler/1344084",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "06/12/1995 (30)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1387555",
+      "nombre": "Kieron Richardson",
+      "href_perfil": "/kieron-richardson/profil/spieler/1387555",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "28/01/2005 (21)",
+      "club_actual": "Flatirons FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1123041",
+      "nombre": "Harry Twite",
+      "href_perfil": "/harry-twite/profil/spieler/1123041",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "17/06/2005 (21)",
+      "club_actual": "Loughborough University",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "821758",
+      "nombre": "J’Nai Butterfield-Steede",
+      "href_perfil": "/jnai-butterfield-steede/profil/spieler/821758",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "19/03/1998 (28)",
+      "club_actual": "FC Droylsden",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953644",
+      "nombre": "Deniche Hill",
+      "href_perfil": "/deniche-hill/profil/spieler/953644",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "11/03/2004 (22)",
+      "club_actual": "Buxton FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "674590",
+      "nombre": "Tokia Russell",
+      "href_perfil": "/tokia-russell/profil/spieler/674590",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "05/02/2000 (26)",
+      "club_actual": "Pembroke Hamilton Club Zebras",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "574806",
+      "nombre": "Kane Crichlow",
+      "href_perfil": "/kane-crichlow/profil/spieler/574806",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/08/2000 (25)",
+      "club_actual": "Sutton United",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "441204",
+      "nombre": "Willie Clemons",
+      "href_perfil": "/willie-clemons/profil/spieler/441204",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "24/09/1994 (31)",
+      "club_actual": "Leiston FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "766067",
+      "nombre": "Ne-Jai Tucker",
+      "href_perfil": "/ne-jai-tucker/profil/spieler/766067",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/2002 (23)",
+      "club_actual": "Southport FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1181238",
+      "nombre": "Aundè Todd",
+      "href_perfil": "/aunde-todd/profil/spieler/1181238",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/05/2005 (21)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "918979",
+      "nombre": "Keziah Martin",
+      "href_perfil": "/keziah-martin/profil/spieler/918979",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/05/2000 (26)",
+      "club_actual": "Hereford FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "62115",
+      "nombre": "Reggie Lambe",
+      "href_perfil": "/reggie-lambe/profil/spieler/62115",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "04/02/1991 (35)",
+      "club_actual": "Needham Market FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "303330",
+      "nombre": "Lejaun Simmons",
+      "href_perfil": "/lejaun-simmons/profil/spieler/303330",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "07/04/1993 (33)",
+      "club_actual": "Devonshire Cougars",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "220574",
+      "nombre": "Zeiko Lewis",
+      "href_perfil": "/zeiko-lewis/profil/spieler/220574",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/06/1994 (32)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€25k"
+    },
+    {
+      "player_id": "514783",
+      "nombre": "Rahzir Jones",
+      "href_perfil": "/rahzir-jones/profil/spieler/514783",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "01/11/2000 (25)",
+      "club_actual": "Binfield FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "345961",
+      "nombre": "Djair Parfitt",
+      "href_perfil": "/djair-parfitt/profil/spieler/345961",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "01/10/1996 (29)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "365633",
+      "nombre": "Justin Donawa",
+      "href_perfil": "/justin-donawa/profil/spieler/365633",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "27/06/1996 (30)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "173483",
+      "nombre": "Nahki Wells",
+      "href_perfil": "/nahki-wells/profil/spieler/173483",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "01/06/1990 (36)",
+      "club_actual": "Luton Town",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1106344",
+      "nombre": "Jutorre Burgess",
+      "href_perfil": "/jutorre-burgess/profil/spieler/1106344",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "10/08/2006 (19)",
+      "club_actual": "Harborough Town",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1481282",
+      "nombre": "Donovan Thompson",
+      "href_perfil": "/donovan-thompson/profil/spieler/1481282",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "21/10/1994 (31)",
+      "club_actual": "X-Roads Warriors FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1481283",
+      "nombre": "Jace Donawa",
+      "href_perfil": "/jace-donawa/profil/spieler/1481283",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "01/08/2007 (18)",
+      "club_actual": "Black Rock FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1373928",
+      "nombre": "Logan Jiménez",
+      "href_perfil": "/logan-jimenez/profil/spieler/1373928",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "15/05/2008 (18)",
+      "club_actual": "Hibernian FC U18",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

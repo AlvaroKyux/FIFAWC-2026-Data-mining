@@ -1,0 +1,240 @@
+{
+  "pais": "Brazil",
+  "href_seleccion": "/brasilien/startseite/verein/3439",
+  "jugadores": [
+    {
+      "player_id": "105470",
+      "nombre": "Alisson",
+      "href_perfil": "/alisson/profil/spieler/105470",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/10/1992 (33)",
+      "club_actual": "Liverpool FC",
+      "valor_mercado_raw": "€15.00m"
+    },
+    {
+      "player_id": "238223",
+      "nombre": "Ederson",
+      "href_perfil": "/ederson/profil/spieler/238223",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "17/08/1993 (32)",
+      "club_actual": "Fenerbahce",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "69400",
+      "nombre": "Weverton",
+      "href_perfil": "/weverton/profil/spieler/69400",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/12/1987 (38)",
+      "club_actual": "Grêmio Foot-Ball Porto Alegrense",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "435338",
+      "nombre": "Gabriel",
+      "href_perfil": "/gabriel/profil/spieler/435338",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/12/1997 (28)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "516716",
+      "nombre": "Bremer",
+      "href_perfil": "/bremer/profil/spieler/516716",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/03/1997 (29)",
+      "club_actual": "Juventus FC",
+      "valor_mercado_raw": "€35.00m"
+    },
+    {
+      "player_id": "181767",
+      "nombre": "Marquinhos",
+      "href_perfil": "/marquinhos/profil/spieler/181767",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "14/05/1994 (32)",
+      "club_actual": "Paris Saint-Germain",
+      "valor_mercado_raw": "€28.00m"
+    },
+    {
+      "player_id": "524481",
+      "nombre": "Roger Ibañez",
+      "href_perfil": "/roger-ibanez/profil/spieler/524481",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/11/1998 (27)",
+      "club_actual": "Al-Ahli SFC",
+      "valor_mercado_raw": "€18.00m"
+    },
+    {
+      "player_id": "288431",
+      "nombre": "Léo Pereira",
+      "href_perfil": "/leo-pereira/profil/spieler/288431",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "31/01/1996 (30)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "145707",
+      "nombre": "Danilo",
+      "href_perfil": "/danilo/profil/spieler/145707",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "15/07/1991 (34)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "220793",
+      "nombre": "Douglas Santos",
+      "href_perfil": "/douglas-santos/profil/spieler/220793",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "22/03/1994 (32)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€7.50m"
+    },
+    {
+      "player_id": "79960",
+      "nombre": "Alex Sandro",
+      "href_perfil": "/alex-sandro/profil/spieler/79960",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "26/01/1991 (35)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "225693",
+      "nombre": "Fabinho",
+      "href_perfil": "/fabinho/profil/spieler/225693",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/10/1993 (32)",
+      "club_actual": "Al-Ittihad Club",
+      "valor_mercado_raw": "€12.00m"
+    },
+    {
+      "player_id": "16306",
+      "nombre": "Casemiro",
+      "href_perfil": "/casemiro/profil/spieler/16306",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "23/02/1992 (34)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€6.00m"
+    },
+    {
+      "player_id": "520624",
+      "nombre": "Bruno Guimarães",
+      "href_perfil": "/bruno-guimaraes/profil/spieler/520624",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "16/11/1997 (28)",
+      "club_actual": "Newcastle United",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "607854",
+      "nombre": "Éderson",
+      "href_perfil": "/ederson/profil/spieler/607854",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "07/07/1999 (26)",
+      "club_actual": "Atalanta BC",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "808509",
+      "nombre": "Danilo",
+      "href_perfil": "/danilo/profil/spieler/808509",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "29/04/2001 (25)",
+      "club_actual": "Botafogo de Futebol e Regatas",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "444523",
+      "nombre": "Lucas Paquetá",
+      "href_perfil": "/lucas-paqueta/profil/spieler/444523",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "27/08/1997 (28)",
+      "club_actual": "CR Flamengo",
+      "valor_mercado_raw": "€32.00m"
+    },
+    {
+      "player_id": "68290",
+      "nombre": "Neymar",
+      "href_perfil": "/neymar/profil/spieler/68290",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "05/02/1992 (34)",
+      "club_actual": "Santos FC",
+      "valor_mercado_raw": "€8.00m"
+    },
+    {
+      "player_id": "371998",
+      "nombre": "Vinicius Junior",
+      "href_perfil": "/vinicius-junior/profil/spieler/371998",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/07/2000 (25)",
+      "club_actual": "Real Madrid",
+      "valor_mercado_raw": "€140.00m"
+    },
+    {
+      "player_id": "411295",
+      "nombre": "Raphinha",
+      "href_perfil": "/raphinha/profil/spieler/411295",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "14/12/1996 (29)",
+      "club_actual": "FC Barcelona",
+      "valor_mercado_raw": "€70.00m"
+    },
+    {
+      "player_id": "655488",
+      "nombre": "Gabriel Martinelli",
+      "href_perfil": "/gabriel-martinelli/profil/spieler/655488",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/06/2001 (25)",
+      "club_actual": "Arsenal FC",
+      "valor_mercado_raw": "€45.00m"
+    },
+    {
+      "player_id": "1012564",
+      "nombre": "Rayan",
+      "href_perfil": "/rayan/profil/spieler/1012564",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "03/08/2006 (19)",
+      "club_actual": "AFC Bournemouth",
+      "valor_mercado_raw": "€60.00m"
+    },
+    {
+      "player_id": "800175",
+      "nombre": "Luiz Henrique",
+      "href_perfil": "/luiz-henrique/profil/spieler/800175",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/01/2001 (25)",
+      "club_actual": "Zenit St. Petersburg",
+      "valor_mercado_raw": "€24.00m"
+    },
+    {
+      "player_id": "517894",
+      "nombre": "Matheus Cunha",
+      "href_perfil": "/matheus-cunha/profil/spieler/517894",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/05/1999 (27)",
+      "club_actual": "Manchester United",
+      "valor_mercado_raw": "€75.00m"
+    },
+    {
+      "player_id": "739443",
+      "nombre": "Igor Thiago",
+      "href_perfil": "/igor-thiago/profil/spieler/739443",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "26/06/2001 (25)",
+      "club_actual": "Brentford FC",
+      "valor_mercado_raw": "€65.00m"
+    },
+    {
+      "player_id": "971570",
+      "nombre": "Endrick",
+      "href_perfil": "/endrick/profil/spieler/971570",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "21/07/2006 (19)",
+      "club_actual": "Olympique Lyon",
+      "valor_mercado_raw": "€40.00m"
+    }
+  ]
+}

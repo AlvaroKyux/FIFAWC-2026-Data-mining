@@ -1,0 +1,33 @@
+{
+  "nombre": "Ismaël Koné",
+  "href_perfil": "/ismael-kone/profil/spieler/921655",
+  "competiciones": [
+    {
+      "competicion_raw": "Serie A",
+      "partidos": "35",
+      "goles": "6",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,757'"
+    },
+    {
+      "competicion_raw": "Italy Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "84'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "6",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "1",
+      "minutos_raw": "2,841'"
+    }
+  ]
+}

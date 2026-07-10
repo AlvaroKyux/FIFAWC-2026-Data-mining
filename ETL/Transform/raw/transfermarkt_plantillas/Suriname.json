@@ -1,0 +1,240 @@
+{
+  "pais": "Suriname",
+  "href_seleccion": "/suriname/startseite/verein/15359",
+  "jugadores": [
+    {
+      "player_id": "387197",
+      "nombre": "Etienne Vaessen",
+      "href_perfil": "/etienne-vaessen/profil/spieler/387197",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/07/1995 (30)",
+      "club_actual": "FC Groningen",
+      "valor_mercado_raw": "€2.50m"
+    },
+    {
+      "player_id": "111180",
+      "nombre": "Warner Hahn",
+      "href_perfil": "/warner-hahn/profil/spieler/111180",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "15/06/1992 (34)",
+      "club_actual": "Hammarby IF",
+      "valor_mercado_raw": "€450k"
+    },
+    {
+      "player_id": "1047424",
+      "nombre": "Jahnilo Wiegel",
+      "href_perfil": "/jahnilo-wiegel/profil/spieler/1047424",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "13/03/2005 (21)",
+      "club_actual": "KFC Houtvenne",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "446248",
+      "nombre": "Shaquille Pinas",
+      "href_perfil": "/shaquille-pinas/profil/spieler/446248",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/03/1998 (28)",
+      "club_actual": "Al-Kholood Club",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "428302",
+      "nombre": "Anfernee Dijksteel",
+      "href_perfil": "/anfernee-dijksteel/profil/spieler/428302",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "27/10/1996 (29)",
+      "club_actual": "Kocaelispor",
+      "valor_mercado_raw": "€1.20m"
+    },
+    {
+      "player_id": "182923",
+      "nombre": "Stefano Denswil",
+      "href_perfil": "/stefano-denswil/profil/spieler/182923",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "07/05/1993 (33)",
+      "club_actual": "Kayserispor",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "254003",
+      "nombre": "Myenty Abena",
+      "href_perfil": "/myenty-abena/profil/spieler/254003",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "12/12/1994 (31)",
+      "club_actual": "Gaziantep FK",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "458405",
+      "nombre": "Radinio Balker",
+      "href_perfil": "/radinio-balker/profil/spieler/458405",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/09/1998 (27)",
+      "club_actual": "Huddersfield Town",
+      "valor_mercado_raw": "€550k"
+    },
+    {
+      "player_id": "412933",
+      "nombre": "Liam van Gelderen",
+      "href_perfil": "/liam-van-gelderen/profil/spieler/412933",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/03/2001 (25)",
+      "club_actual": "RKC Waalwijk",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "84405",
+      "nombre": "Dion Malone",
+      "href_perfil": "/dion-malone/profil/spieler/84405",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/02/1989 (37)",
+      "club_actual": "SC Telstar",
+      "valor_mercado_raw": "€75k"
+    },
+    {
+      "player_id": "247596",
+      "nombre": "Kenneth Paal",
+      "href_perfil": "/kenneth-paal/profil/spieler/247596",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "24/06/1997 (29)",
+      "club_actual": "Antalyaspor",
+      "valor_mercado_raw": "€2.00m"
+    },
+    {
+      "player_id": "541020",
+      "nombre": "Yannick Leliendal",
+      "href_perfil": "/yannick-leliendal/profil/spieler/541020",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "23/04/2002 (24)",
+      "club_actual": "FC Volendam",
+      "valor_mercado_raw": "€1.00m"
+    },
+    {
+      "player_id": "228444",
+      "nombre": "Ridgeciano Haps",
+      "href_perfil": "/ridgeciano-haps/profil/spieler/228444",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "12/06/1993 (33)",
+      "club_actual": "Venezia FC",
+      "valor_mercado_raw": "€700k"
+    },
+    {
+      "player_id": "596148",
+      "nombre": "Djevencio van der Kust",
+      "href_perfil": "/djevencio-van-der-kust/profil/spieler/596148",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "30/04/2001 (25)",
+      "club_actual": "Heracles Almelo",
+      "valor_mercado_raw": "€350k"
+    },
+    {
+      "player_id": "476915",
+      "nombre": "Melayro Bogarde",
+      "href_perfil": "/melayro-bogarde/profil/spieler/476915",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "28/05/2002 (24)",
+      "club_actual": "LASK",
+      "valor_mercado_raw": "€4.00m"
+    },
+    {
+      "player_id": "215089",
+      "nombre": "Djavan Anderson",
+      "href_perfil": "/djavan-anderson/profil/spieler/215089",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "21/04/1995 (31)",
+      "club_actual": "Al-Ittifaq FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "412935",
+      "nombre": "Immanuel Pherai",
+      "href_perfil": "/immanuel-pherai/profil/spieler/412935",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/2001 (25)",
+      "club_actual": "SV 07 Elversberg",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "76326",
+      "nombre": "Tjaronn Chery",
+      "href_perfil": "/tjaronn-chery/profil/spieler/76326",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/06/1988 (38)",
+      "club_actual": "NEC Nijmegen",
+      "valor_mercado_raw": "€400k"
+    },
+    {
+      "player_id": "182574",
+      "nombre": "Jean-Paul Boëtius",
+      "href_perfil": "/jean-paul-boetius/profil/spieler/182574",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "22/03/1994 (32)",
+      "club_actual": "RKC Waalwijk",
+      "valor_mercado_raw": "€325k"
+    },
+    {
+      "player_id": "188888",
+      "nombre": "Sheraldo Becker",
+      "href_perfil": "/sheraldo-becker/profil/spieler/188888",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "09/02/1995 (31)",
+      "club_actual": "1.FSV Mainz 05",
+      "valor_mercado_raw": "€1.50m"
+    },
+    {
+      "player_id": "268112",
+      "nombre": "Gyrano Kerk",
+      "href_perfil": "/gyrano-kerk/profil/spieler/268112",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "02/12/1995 (30)",
+      "club_actual": "Royal Antwerp FC",
+      "valor_mercado_raw": "€3.00m"
+    },
+    {
+      "player_id": "502893",
+      "nombre": "Denzel Jubitana",
+      "href_perfil": "/denzel-jubitana/profil/spieler/502893",
+      "posicion": "Second Striker",
+      "fecha_nacimiento_edad_raw": "06/05/1999 (27)",
+      "club_actual": "Atromitos Athens",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "369962",
+      "nombre": "Joël Piroe",
+      "href_perfil": "/joel-piroe/profil/spieler/369962",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/08/1999 (26)",
+      "club_actual": "Leeds United",
+      "valor_mercado_raw": "€10.00m"
+    },
+    {
+      "player_id": "360517",
+      "nombre": "Jay-Roy Grot",
+      "href_perfil": "/jay-roy-grot/profil/spieler/360517",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "13/03/1998 (28)",
+      "club_actual": "Odense Boldklub",
+      "valor_mercado_raw": "€750k"
+    },
+    {
+      "player_id": "465326",
+      "nombre": "Richonell Margaret",
+      "href_perfil": "/richonell-margaret/profil/spieler/465326",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "07/09/2000 (25)",
+      "club_actual": "Go Ahead Eagles",
+      "valor_mercado_raw": "€600k"
+    },
+    {
+      "player_id": "372818",
+      "nombre": "Gleofilo Vlijter",
+      "href_perfil": "/gleofilo-vlijter/profil/spieler/372818",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "17/09/1999 (26)",
+      "club_actual": "Újpest FC",
+      "valor_mercado_raw": "€600k"
+    }
+  ]
+}

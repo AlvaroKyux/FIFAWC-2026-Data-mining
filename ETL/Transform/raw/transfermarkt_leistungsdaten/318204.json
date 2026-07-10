@@ -1,0 +1,33 @@
+{
+  "nombre": "David Raum",
+  "href_perfil": "/david-raum/profil/spieler/318204",
+  "competiciones": [
+    {
+      "competicion_raw": "Bundesliga",
+      "partidos": "30",
+      "goles": "3",
+      "asistencias": "7",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,556'"
+    },
+    {
+      "competicion_raw": "DFB-Pokal",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "34",
+      "goles": "3",
+      "asistencias": "9",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,916'"
+    }
+  ]
+}

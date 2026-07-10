@@ -1,0 +1,51 @@
+{
+  "nombre": "Kai Trewin",
+  "href_perfil": "/kai-trewin/profil/spieler/691326",
+  "competiciones": [
+    {
+      "competicion_raw": "MLS",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,256'"
+    },
+    {
+      "competicion_raw": "A-League Men",
+      "partidos": "13",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "1,104'"
+    },
+    {
+      "competicion_raw": "AFC Champions League",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "US Open Cup",
+      "partidos": "3",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "267'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "37",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "3,167'"
+    }
+  ]
+}

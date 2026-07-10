@@ -1,0 +1,69 @@
+{
+  "nombre": "Willer Ditta",
+  "href_perfil": "/willer-ditta/profil/spieler/609255",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "17",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,463'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "16",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "1,440'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "6",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "540'"
+    },
+    {
+      "competicion_raw": "CONCACAF Champions Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "2",
+      "rojas": "-",
+      "minutos_raw": "405'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "4",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "360'"
+    },
+    {
+      "competicion_raw": "FIFA Intercontinental Cup",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "49",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "13",
+      "rojas": "-",
+      "minutos_raw": "4,298'"
+    }
+  ]
+}

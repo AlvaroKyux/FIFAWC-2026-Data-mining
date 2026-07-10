@@ -1,0 +1,42 @@
+{
+  "nombre": "Frans Putros",
+  "href_perfil": "/frans-putros/profil/spieler/166460",
+  "competiciones": [
+    {
+      "competicion_raw": "Super League",
+      "partidos": "28",
+      "goles": "1",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,128'"
+    },
+    {
+      "competicion_raw": "AFC Champions League Two",
+      "partidos": "7",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "604'"
+    },
+    {
+      "competicion_raw": "AFC CL Two Qualif.",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "90'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "36",
+      "goles": "2",
+      "asistencias": "2",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "2,822'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nombre": "Enner Valencia",
+  "href_perfil": "/enner-valencia/profil/spieler/139503",
+  "competiciones": [
+    {
+      "competicion_raw": "Liga MX Apertura",
+      "partidos": "9",
+      "goles": "3",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "692'"
+    },
+    {
+      "competicion_raw": "Liga MX Clausura",
+      "partidos": "8",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "298'"
+    },
+    {
+      "competicion_raw": "Liguilla Clausura",
+      "partidos": "4",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "319'"
+    },
+    {
+      "competicion_raw": "Liguilla Apertura",
+      "partidos": "1",
+      "goles": "1",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "56'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "22",
+      "goles": "8",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "1,365'"
+    }
+  ]
+}

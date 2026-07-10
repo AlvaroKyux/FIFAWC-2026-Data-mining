@@ -1,0 +1,240 @@
+{
+  "pais": "Aruba",
+  "href_seleccion": "/aruba/startseite/verein/17749",
+  "jugadores": [
+    {
+      "player_id": "1299058",
+      "nombre": "Joey Zwaan",
+      "href_perfil": "/joey-zwaan/profil/spieler/1299058",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "02/08/2005 (20)",
+      "club_actual": "AC Reggiana 1919",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "159034",
+      "nombre": "Matthew Lentink",
+      "href_perfil": "/matthew-lentink/profil/spieler/159034",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/08/1993 (32)",
+      "club_actual": "VV GOES",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "975615",
+      "nombre": "Jahmani Eisden",
+      "href_perfil": "/jahmani-eisden/profil/spieler/975615",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "19/07/2005 (20)",
+      "club_actual": "Sportlust '46 Woerden",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1222034",
+      "nombre": "Shafeeq Toussaint",
+      "href_perfil": "/shafeeq-toussaint/profil/spieler/1222034",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/03/2007 (19)",
+      "club_actual": "FC Den Bosch U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "422585",
+      "nombre": "Diederick Luydens",
+      "href_perfil": "/diederick-luydens/profil/spieler/422585",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "18/02/1999 (27)",
+      "club_actual": "SV Dakota",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "410728",
+      "nombre": "Darryl Bäly",
+      "href_perfil": "/darryl-baly/profil/spieler/410728",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "19/01/1998 (28)",
+      "club_actual": "FC Lisse",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "321538",
+      "nombre": "Nickenson Paul",
+      "href_perfil": "/nickenson-paul/profil/spieler/321538",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "24/08/1997 (28)",
+      "club_actual": "SV Dakota",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "962541",
+      "nombre": "Quinlan Poulina",
+      "href_perfil": "/quinlan-poulina/profil/spieler/962541",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "20/02/2003 (23)",
+      "club_actual": "FC Lisse",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "416390",
+      "nombre": "Bradley Martis",
+      "href_perfil": "/bradley-martis/profil/spieler/416390",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "13/07/1998 (27)",
+      "club_actual": "VV IJsselmeervogels",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "943600",
+      "nombre": "Kymani Nedd",
+      "href_perfil": "/kymani-nedd/profil/spieler/943600",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "10/06/2004 (22)",
+      "club_actual": "VV Zwaluwen Vlaardingen",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "738517",
+      "nombre": "Rainey Breinburg",
+      "href_perfil": "/rainey-breinburg/profil/spieler/738517",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "05/08/2005 (20)",
+      "club_actual": "Excelsior Rotterdam U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "779750",
+      "nombre": "Gladwin Curiel",
+      "href_perfil": "/gladwin-curiel/profil/spieler/779750",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "24/03/2002 (24)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1174486",
+      "nombre": "Raylion Wilkerson",
+      "href_perfil": "/raylion-wilkerson/profil/spieler/1174486",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "15/02/2007 (19)",
+      "club_actual": "FC Groningen U19",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1031958",
+      "nombre": "Rovien Ostiana",
+      "href_perfil": "/rovien-ostiana/profil/spieler/1031958",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "14/02/2002 (24)",
+      "club_actual": "SV La Fama",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "354635",
+      "nombre": "Walter Bennett",
+      "href_perfil": "/walter-bennett/profil/spieler/354635",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "18/03/1997 (29)",
+      "club_actual": "SC Feyenoord Rotterdam",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "578415",
+      "nombre": "Gianni Vandepitte",
+      "href_perfil": "/gianni-vandepitte/profil/spieler/578415",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "03/07/2000 (25)",
+      "club_actual": "VV Kloetinge",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1020539",
+      "nombre": "Jaybriën Romano",
+      "href_perfil": "/jaybrien-romano/profil/spieler/1020539",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "13/12/2004 (21)",
+      "club_actual": "RKSV Halsteren",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1333501",
+      "nombre": "Dimaggio Senchi",
+      "href_perfil": "/dimaggio-senchi/profil/spieler/1333501",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "03/05/1995 (31)",
+      "club_actual": "AFC '34 Alkmaar",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "594224",
+      "nombre": "Arenchelo Leito",
+      "href_perfil": "/arenchelo-leito/profil/spieler/594224",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "12/11/2002 (23)",
+      "club_actual": "RKAV Volendam",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1020030",
+      "nombre": "Mishawn Molina",
+      "href_perfil": "/mishawn-molina/profil/spieler/1020030",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "16/01/2005 (21)",
+      "club_actual": "Willem II Tilburg U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1460995",
+      "nombre": "Gello Robertha",
+      "href_perfil": "/gello-robertha/profil/spieler/1460995",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "06/09/2004 (21)",
+      "club_actual": "VV IJsselmeervogels U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1197634",
+      "nombre": "Jayden Kruydenhof",
+      "href_perfil": "/jayden-kruydenhof/profil/spieler/1197634",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "18/12/2006 (19)",
+      "club_actual": "SC Cambuur-Leeuwarden U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "990015",
+      "nombre": "Conner van Kilsdonk",
+      "href_perfil": "/conner-van-kilsdonk/profil/spieler/990015",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/09/2006 (19)",
+      "club_actual": "NEC Nijmegen U21",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "533176",
+      "nombre": "Carlito Fermina",
+      "href_perfil": "/carlito-fermina/profil/spieler/533176",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/01/2000 (26)",
+      "club_actual": "Kozakken Boys Werkendam",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "795137",
+      "nombre": "Georni Elvilia",
+      "href_perfil": "/georni-elvilia/profil/spieler/795137",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "19/01/2002 (24)",
+      "club_actual": "SVV Scheveningen",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "628975",
+      "nombre": "Javier Jiménez",
+      "href_perfil": "/javier-jimenez/profil/spieler/628975",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "27/05/2000 (26)",
+      "club_actual": "BSV Schwarz-Weiß Rehden",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

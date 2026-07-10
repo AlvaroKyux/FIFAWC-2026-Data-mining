@@ -1,0 +1,42 @@
+{
+  "nombre": "Juan Portilla",
+  "href_perfil": "/juan-portilla/profil/spieler/585747",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "799'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "112'"
+    },
+    {
+      "competicion_raw": "Campeonato Paranaense",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "110'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "19",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "4",
+      "rojas": "-",
+      "minutos_raw": "1,021'"
+    }
+  ]
+}

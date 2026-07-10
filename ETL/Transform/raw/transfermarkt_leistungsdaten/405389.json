@@ -1,0 +1,33 @@
+{
+  "nombre": "Ayumu Seko",
+  "href_perfil": "/ayumu-seko/profil/spieler/405389",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,625'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "-",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "-"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "6",
+      "rojas": "-",
+      "minutos_raw": "2,625'"
+    }
+  ]
+}

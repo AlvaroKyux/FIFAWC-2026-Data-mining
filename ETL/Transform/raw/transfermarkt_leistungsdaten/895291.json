@@ -1,0 +1,24 @@
+{
+  "nombre": "Husam Abu Dahab",
+  "href_perfil": "/husam-abu-dahab/profil/spieler/895291",
+  "competiciones": [
+    {
+      "competicion_raw": "Jordanian Pro League",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,209'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,209'"
+    }
+  ]
+}

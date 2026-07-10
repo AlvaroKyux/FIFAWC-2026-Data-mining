@@ -1,0 +1,213 @@
+{
+  "pais": "Kuwait",
+  "href_seleccion": "/kuwait/startseite/verein/3432",
+  "jugadores": [
+    {
+      "player_id": "297076",
+      "nombre": "Sulaiman Abdulghafoor",
+      "href_perfil": "/sulaiman-abdulghafoor/profil/spieler/297076",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/02/1991 (35)",
+      "club_actual": "Al-Arabi SC (Kuwait)",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1014248",
+      "nombre": "Saud Al-Hoshan",
+      "href_perfil": "/saud-al-hoshan/profil/spieler/1014248",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "18/03/2000 (26)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€175k"
+    },
+    {
+      "player_id": "107615",
+      "nombre": "Khaled Al-Rashidi",
+      "href_perfil": "/khaled-al-rashidi/profil/spieler/107615",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/04/1987 (39)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "297079",
+      "nombre": "Fahad Al-Hajeri",
+      "href_perfil": "/fahad-al-hajeri/profil/spieler/297079",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "10/11/1991 (34)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1087411",
+      "nombre": "Hassan Al-Enezi",
+      "href_perfil": "/hassan-al-enezi/profil/spieler/1087411",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "01/09/2000 (25)",
+      "club_actual": "Al-Ahli (Amman)",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "896853",
+      "nombre": "Khaled Al-Fadhli",
+      "href_perfil": "/khaled-al-fadhli/profil/spieler/896853",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "23/02/2002 (24)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "674232",
+      "nombre": "Moaath Al-Dhafiri",
+      "href_perfil": "/moaath-al-dhafiri/profil/spieler/674232",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "20/05/1997 (29)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "896851",
+      "nombre": "Rashed Al-Dosary",
+      "href_perfil": "/rashed-al-dosary/profil/spieler/896851",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "18/07/2000 (25)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "1338506",
+      "nombre": "Abdulwahab Al-Awadhi",
+      "href_perfil": "/abdulwahab-al-awadhi/profil/spieler/1338506",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "02/06/2002 (24)",
+      "club_actual": "Al-Arabi SC (Kuwait)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1455829",
+      "nombre": "Mohammed Al-Sharifi",
+      "href_perfil": "/mohammed-al-sharifi/profil/spieler/1455829",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "28/06/2004 (22)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "663967",
+      "nombre": "Redha Hani",
+      "href_perfil": "/redha-hani/profil/spieler/663967",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "27/10/1996 (29)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "310447",
+      "nombre": "Sultan Al-Enezi",
+      "href_perfil": "/sultan-al-enezi/profil/spieler/310447",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "29/03/1992 (34)",
+      "club_actual": "Kazma SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "857477",
+      "nombre": "Fawaz Ayedh",
+      "href_perfil": "/fawaz-ayedh/profil/spieler/857477",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/02/1997 (29)",
+      "club_actual": "Al-Salmiya SC",
+      "valor_mercado_raw": "€250k"
+    },
+    {
+      "player_id": "297078",
+      "nombre": "Ahmad Al-Dhefiri",
+      "href_perfil": "/ahmad-al-dhefiri/profil/spieler/297078",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "08/01/1992 (34)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "858683",
+      "nombre": "Nasser Falah",
+      "href_perfil": "/nasser-falah/profil/spieler/858683",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "04/12/1999 (26)",
+      "club_actual": "Kazma SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "898966",
+      "nombre": "Mohammad Daham",
+      "href_perfil": "/mohammad-daham/profil/spieler/898966",
+      "posicion": "Left Winger",
+      "fecha_nacimiento_edad_raw": "17/02/2000 (26)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "728554",
+      "nombre": "Eid Al-Rasheedi",
+      "href_perfil": "/eid-al-rasheedi/profil/spieler/728554",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "25/05/1999 (27)",
+      "club_actual": "Al-Quwa Al-Jawiya",
+      "valor_mercado_raw": "€300k"
+    },
+    {
+      "player_id": "1066503",
+      "nombre": "Moath Al-Enezi",
+      "href_perfil": "/moath-al-enezi/profil/spieler/1066503",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "16/07/2003 (22)",
+      "club_actual": "Al-Salmiya SC",
+      "valor_mercado_raw": "€225k"
+    },
+    {
+      "player_id": "1115543",
+      "nombre": "Yousef Majed",
+      "href_perfil": "/yousef-majed/profil/spieler/1115543",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/01/2005 (21)",
+      "club_actual": "Al-Arabi SC (Kuwait)",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1147772",
+      "nombre": "Athbi Shehab",
+      "href_perfil": "/athbi-shehab/profil/spieler/1147772",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "14/10/1993 (32)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "171519",
+      "nombre": "Yousef Nasser",
+      "href_perfil": "/yousef-nasser/profil/spieler/171519",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "09/10/1990 (35)",
+      "club_actual": "Kuwait SC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "723855",
+      "nombre": "Shabaib Al-Khaldi",
+      "href_perfil": "/shabaib-al-khaldi/profil/spieler/723855",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "11/08/1998 (27)",
+      "club_actual": "Kazma SC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1115550",
+      "nombre": "Abdullah Al-Awadhi",
+      "href_perfil": "/abdullah-al-awadhi/profil/spieler/1115550",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "20/03/2003 (23)",
+      "club_actual": "Qadsia SC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "pais": "Namibia",
+  "href_seleccion": "/namibia/startseite/verein/3573",
+  "jugadores": [
+    {
+      "player_id": "877878",
+      "nombre": "Kamaijanda Ndisiro",
+      "href_perfil": "/kamaijanda-ndisiro/profil/spieler/877878",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "01/12/1999 (26)",
+      "club_actual": "Highbury FC",
+      "valor_mercado_raw": "€150k"
+    },
+    {
+      "player_id": "1147147",
+      "nombre": "Jonas Mateus",
+      "href_perfil": "/jonas-mateus/profil/spieler/1147147",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "10/02/1996 (30)",
+      "club_actual": "Ongos Valley FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1301333",
+      "nombre": "Mervin Kasetura",
+      "href_perfil": "/mervin-kasetura/profil/spieler/1301333",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "26/12/1997 (28)",
+      "club_actual": "African Stars Windhoek",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "589888",
+      "nombre": "Charles Hambira",
+      "href_perfil": "/charles-hambira/profil/spieler/589888",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "03/06/1990 (36)",
+      "club_actual": "African Stars Windhoek",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "1529271",
+      "nombre": "Deacon Kakuenje",
+      "href_perfil": "/deacon-kakuenje/profil/spieler/1529271",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "13/10/2003 (22)",
+      "club_actual": "Young African Gobabis",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "864142",
+      "nombre": "Tuhafeni Ananias David",
+      "href_perfil": "/tuhafeni-ananias-david/profil/spieler/864142",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "05/02/2001 (25)",
+      "club_actual": "Blue Waters Walvis Bay",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "514203",
+      "nombre": "Riaan Hanamub",
+      "href_perfil": "/riaan-hanamub/profil/spieler/514203",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "08/02/1995 (31)",
+      "club_actual": "AmaZulu FC",
+      "valor_mercado_raw": "€800k"
+    },
+    {
+      "player_id": "1341972",
+      "nombre": "Sergio Damaseb",
+      "href_perfil": "/sergio-damaseb/profil/spieler/1341972",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "13/02/2000 (26)",
+      "club_actual": "Mighty Gunners FC",
+      "valor_mercado_raw": "€50k"
+    },
+    {
+      "player_id": "577140",
+      "nombre": "Aprocius Petrus",
+      "href_perfil": "/aprocius-petrus/profil/spieler/577140",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "09/10/1999 (26)",
+      "club_actual": "Al-Hilal Club (Omdurman)",
+      "valor_mercado_raw": "€500k"
+    },
+    {
+      "player_id": "864154",
+      "nombre": "Tjipe Karuuombe",
+      "href_perfil": "/tjipe-karuuombe/profil/spieler/864154",
+      "posicion": "Defensive Midfield",
+      "fecha_nacimiento_edad_raw": "21/09/2001 (24)",
+      "club_actual": "FC Gonio",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "864161",
+      "nombre": "Ngero Katua",
+      "href_perfil": "/ngero-katua/profil/spieler/864161",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "25/07/2001 (24)",
+      "club_actual": "Highbury FC",
+      "valor_mercado_raw": "€200k"
+    },
+    {
+      "player_id": "1146231",
+      "nombre": "Paulus Amutenya",
+      "href_perfil": "/paulus-amutenya/profil/spieler/1146231",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "22/07/2002 (23)",
+      "club_actual": "University of Namibia FC",
+      "valor_mercado_raw": "€100k"
+    },
+    {
+      "player_id": "577142",
+      "nombre": "Romeo Kasume",
+      "href_perfil": "/romeo-kasume/profil/spieler/577142",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "21/10/1997 (28)",
+      "club_actual": "FC Liria",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529268",
+      "nombre": "Dwain Kinda",
+      "href_perfil": "/dwain-kinda/profil/spieler/1529268",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/2000 (25)",
+      "club_actual": "Ongos Valley FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529272",
+      "nombre": "Okeri Nguarambuka",
+      "href_perfil": "/okeri-nguarambuka/profil/spieler/1529272",
+      "posicion": "Central Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/2004 (22)",
+      "club_actual": "African Stars Windhoek",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1512493",
+      "nombre": "Barnard Horaseb",
+      "href_perfil": "/barnard-horaseb/profil/spieler/1512493",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "01/01/1994 (32)",
+      "club_actual": "Mighty Gunners FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1271116",
+      "nombre": "Ben Richard Namib",
+      "href_perfil": "/ben-richard-namib/profil/spieler/1271116",
+      "posicion": "Attacking Midfield",
+      "fecha_nacimiento_edad_raw": "20/08/1999 (26)",
+      "club_actual": "Khomas Nampol FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "589402",
+      "nombre": "Uetuuru Kambato",
+      "href_perfil": "/uetuuru-kambato/profil/spieler/589402",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "24/01/1998 (28)",
+      "club_actual": "FC Liria",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "702899",
+      "nombre": "Wendell Rudath",
+      "href_perfil": "/wendell-rudath/profil/spieler/702899",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "10/07/1995 (30)",
+      "club_actual": "African Stars Windhoek",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529269",
+      "nombre": "Nestor Iyambo",
+      "href_perfil": "/nestor-iyambo/profil/spieler/1529269",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "01/01/2001 (25)",
+      "club_actual": "University of Namibia FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1040039",
+      "nombre": "Bethuel Muzeu",
+      "href_perfil": "/bethuel-muzeu/profil/spieler/1040039",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "22/02/2000 (26)",
+      "club_actual": "Black Leopards FC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "1301336",
+      "nombre": "Mbakondja Tjahikika",
+      "href_perfil": "/mbakondja-tjahikika/profil/spieler/1301336",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "02/08/2000 (25)",
+      "club_actual": "FC Platinum",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1529270",
+      "nombre": "Mashiku Muyeka",
+      "href_perfil": "/mashiku-muyeka/profil/spieler/1529270",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": null,
+      "club_actual": "Mighty Gunners FC",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}

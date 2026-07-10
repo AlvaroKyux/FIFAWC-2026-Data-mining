@@ -1,0 +1,51 @@
+{
+  "nombre": "Neymar",
+  "href_perfil": "/neymar/profil/spieler/68290",
+  "competiciones": [
+    {
+      "competicion_raw": "Série A",
+      "partidos": "8",
+      "goles": "4",
+      "asistencias": "2",
+      "amarillas": "5",
+      "rojas": "-",
+      "minutos_raw": "686'"
+    },
+    {
+      "competicion_raw": "Copa Sudamericana",
+      "partidos": "3",
+      "goles": "2",
+      "asistencias": "-",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "270'"
+    },
+    {
+      "competicion_raw": "Copa do Brasil",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "-",
+      "minutos_raw": "174'"
+    },
+    {
+      "competicion_raw": "Campeonato Paulista",
+      "partidos": "2",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "135'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "15",
+      "goles": "6",
+      "asistencias": "4",
+      "amarillas": "7",
+      "rojas": "-",
+      "minutos_raw": "1,265'"
+    }
+  ]
+}

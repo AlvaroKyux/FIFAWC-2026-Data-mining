@@ -1,0 +1,42 @@
+{
+  "nombre": "Amine Sbaï",
+  "href_perfil": "/amine-sbai/profil/spieler/851220",
+  "competiciones": [
+    {
+      "competicion_raw": "Ligue 1",
+      "partidos": "25",
+      "goles": "3",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "1,834'"
+    },
+    {
+      "competicion_raw": "Coupe de France",
+      "partidos": "2",
+      "goles": "1",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "Saudi Pro League",
+      "partidos": "1",
+      "goles": "-",
+      "asistencias": "-",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "21'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "28",
+      "goles": "4",
+      "asistencias": "1",
+      "amarillas": "1",
+      "rojas": "1",
+      "minutos_raw": "2,035'"
+    }
+  ]
+}

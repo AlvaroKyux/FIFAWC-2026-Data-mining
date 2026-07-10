@@ -1,0 +1,42 @@
+{
+  "nombre": "Kaku",
+  "href_perfil": "/kaku/profil/spieler/355817",
+  "competiciones": [
+    {
+      "competicion_raw": "UAE Pro League",
+      "partidos": "22",
+      "goles": "4",
+      "asistencias": "7",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "1,836'"
+    },
+    {
+      "competicion_raw": "UAE League Cup",
+      "partidos": "5",
+      "goles": "-",
+      "asistencias": "1",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "434'"
+    },
+    {
+      "competicion_raw": "UAE President's Cup",
+      "partidos": "3",
+      "goles": "-",
+      "asistencias": "2",
+      "amarillas": "-",
+      "rojas": "-",
+      "minutos_raw": "180'"
+    },
+    {
+      "competicion_raw": "TOTAL",
+      "partidos": "30",
+      "goles": "4",
+      "asistencias": "10",
+      "amarillas": "3",
+      "rojas": "-",
+      "minutos_raw": "2,450'"
+    }
+  ]
+}

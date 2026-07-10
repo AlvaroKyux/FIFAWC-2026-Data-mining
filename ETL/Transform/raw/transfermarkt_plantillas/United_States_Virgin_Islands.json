@@ -1,0 +1,213 @@
+{
+  "pais": "United States Virgin Islands",
+  "href_seleccion": "/amerikanische-jungferninseln/startseite/verein/17747",
+  "jugadores": [
+    {
+      "player_id": "898340",
+      "nombre": "Dylan Ramos",
+      "href_perfil": "/dylan-ramos/profil/spieler/898340",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "06/08/2001 (24)",
+      "club_actual": "Kamphaengphet FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764502",
+      "nombre": "Whelan Joseph",
+      "href_perfil": "/whelan-joseph/profil/spieler/764502",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "20/12/2002 (23)",
+      "club_actual": "Treasure Beach FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "327014",
+      "nombre": "Terrence Jones Jr.",
+      "href_perfil": "/terrence-jones-jr-/profil/spieler/327014",
+      "posicion": "Goalkeeper",
+      "fecha_nacimiento_edad_raw": "08/10/1991 (34)",
+      "club_actual": "Rovers Soccer Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "78696",
+      "nombre": "Carmelo Rodríguez",
+      "href_perfil": "/carmelo-rodriguez/profil/spieler/78696",
+      "posicion": "Defender",
+      "fecha_nacimiento_edad_raw": "19/12/1992 (33)",
+      "club_actual": "Rovers Soccer Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629144",
+      "nombre": "Quinn Farrell",
+      "href_perfil": "/quinn-farrell/profil/spieler/629144",
+      "posicion": "Centre-Back",
+      "fecha_nacimiento_edad_raw": "26/09/2002 (23)",
+      "club_actual": "Beaverton FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531035",
+      "nombre": "Quinn Scott",
+      "href_perfil": "/quinn-scott/profil/spieler/1531035",
+      "posicion": "Left-Back",
+      "fecha_nacimiento_edad_raw": "15/07/2006 (19)",
+      "club_actual": "Northwood Timberwolves (Northwood University)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "625148",
+      "nombre": "Jett Blaschka",
+      "href_perfil": "/jett-blaschka/profil/spieler/625148",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "16/09/1999 (26)",
+      "club_actual": "Without Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531038",
+      "nombre": "Brad Robinson",
+      "href_perfil": "/brad-robinson/profil/spieler/1531038",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "30/08/2004 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531037",
+      "nombre": "Ismail Nieves",
+      "href_perfil": "/ismail-nieves/profil/spieler/1531037",
+      "posicion": "Right-Back",
+      "fecha_nacimiento_edad_raw": "03/06/2005 (21)",
+      "club_actual": "Loyola Marymount Lions (Loyola Marymount Uni.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1204431",
+      "nombre": "Andrew Shaffer",
+      "href_perfil": "/andrew-shaffer/profil/spieler/1204431",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "09/03/2004 (22)",
+      "club_actual": "Bowling Green Falcons (Bowling Green State Uni.)",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953775",
+      "nombre": "Matthew Roth",
+      "href_perfil": "/matthew-roth/profil/spieler/953775",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "14/08/2004 (21)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1531036",
+      "nombre": "Devien Bell",
+      "href_perfil": "/devien-bell/profil/spieler/1531036",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "26/03/2004 (22)",
+      "club_actual": "Unknown",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312647",
+      "nombre": "Aubin Atemazem",
+      "href_perfil": "/aubin-atemazem/profil/spieler/1312647",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/06/1996 (30)",
+      "club_actual": "New Vibes",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764504",
+      "nombre": "Jair Whyte",
+      "href_perfil": "/jair-whyte/profil/spieler/764504",
+      "posicion": "Midfielder",
+      "fecha_nacimiento_edad_raw": "04/06/2004 (22)",
+      "club_actual": "UMass Boston Beacons",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "724398",
+      "nombre": "Joshua Ramos",
+      "href_perfil": "/joshua-ramos/profil/spieler/724398",
+      "posicion": "Right Midfield",
+      "fecha_nacimiento_edad_raw": "25/04/2000 (26)",
+      "club_actual": "Chattanooga Red Wolves SC",
+      "valor_mercado_raw": "€125k"
+    },
+    {
+      "player_id": "629153",
+      "nombre": "Jimson St. Louis",
+      "href_perfil": "/jimson-st-louis/profil/spieler/629153",
+      "posicion": "Left Midfield",
+      "fecha_nacimiento_edad_raw": "02/12/2002 (23)",
+      "club_actual": "Lionsbridge FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "610603",
+      "nombre": "Jannick Liburd",
+      "href_perfil": "/jannick-liburd/profil/spieler/610603",
+      "posicion": "Right Winger",
+      "fecha_nacimiento_edad_raw": "26/09/2001 (24)",
+      "club_actual": "Rovers Soccer Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1312657",
+      "nombre": "Gabriel Catone-Highfield",
+      "href_perfil": "/gabriel-catone-highfield/profil/spieler/1312657",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "15/12/2000 (25)",
+      "club_actual": "Rovers Soccer Club",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "1374549",
+      "nombre": "Toryn Penders",
+      "href_perfil": "/toryn-penders/profil/spieler/1374549",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "03/03/2008 (18)",
+      "club_actual": "Orlando City Academy",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "615768",
+      "nombre": "Rakeem Joseph",
+      "href_perfil": "/rakeem-joseph/profil/spieler/615768",
+      "posicion": "Centre-Forward",
+      "fecha_nacimiento_edad_raw": "23/05/2000 (26)",
+      "club_actual": "Empire FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "764492",
+      "nombre": "Axel Bartsch",
+      "href_perfil": "/axel-bartsch/profil/spieler/764492",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "16/05/2002 (24)",
+      "club_actual": "La Raza FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "953784",
+      "nombre": "Naqwan Henry",
+      "href_perfil": "/naqwan-henry/profil/spieler/953784",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "16/11/2004 (21)",
+      "club_actual": "Treasure Beach FC",
+      "valor_mercado_raw": "-"
+    },
+    {
+      "player_id": "629146",
+      "nombre": "Alfred Harris",
+      "href_perfil": "/alfred-harris/profil/spieler/629146",
+      "posicion": "Striker",
+      "fecha_nacimiento_edad_raw": "23/01/1999 (27)",
+      "club_actual": "Rovers Soccer Club",
+      "valor_mercado_raw": "-"
+    }
+  ]
+}
