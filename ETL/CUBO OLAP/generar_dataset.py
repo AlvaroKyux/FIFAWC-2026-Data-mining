@@ -29,7 +29,9 @@ from datetime import date, timedelta
 parser = argparse.ArgumentParser(description="Generador de Data Warehouse sintetico")
 parser.add_argument("--seed", type=int, default=4587, help="Semilla del generador aleatorio")
 parser.add_argument("--registros", type=int, default=3000, help="Numero de registros en la tabla de hechos")
-parser.add_argument("--out", type=str, default="../data", help="Carpeta de salida de los CSV")
+from pathlib import Path
+SCRIPT_DIR = Path(__file__).resolve().parent
+parser.add_argument("--out", type=str, default=str(SCRIPT_DIR / "datos_csv"), help="Carpeta de salida de los CSV")
 args = parser.parse_args()
 
 rng = np.random.default_rng(args.seed)

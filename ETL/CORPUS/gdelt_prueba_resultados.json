@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Mundial 2026 - Ingles",
+    "exito": false,
+    "error": "HTTP 429"
+  },
+  {
+    "nombre": "Mundial 2026 - Espanol",
+    "exito": true,
+    "total_articulos": 0,
+    "articulos_muestra": []
+  },
+  {
+    "nombre": "FIFA World Cup 2026 (termino alterno EN)",
+    "exito": false,
+    "error": "HTTP 429"
+  }
+]

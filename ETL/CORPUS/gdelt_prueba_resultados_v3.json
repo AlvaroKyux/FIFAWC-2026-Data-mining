@@ -1,0 +1,28 @@
+[
+  {
+    "nombre": "DOMINIO - marca.com (Mundial, sin filtro idioma)",
+    "query": "Mundial domainis:marca.com",
+    "exito": false,
+    "error": "HTTP 429"
+  },
+  {
+    "nombre": "DOMINIO - marca.com + sourcelang:spa",
+    "query": "Mundial domainis:marca.com sourcelang:spa",
+    "exito": true,
+    "total_articulos": 0,
+    "articulos_muestra": []
+  },
+  {
+    "nombre": "DOMINIO - as.com (Mundial, sin filtro idioma)",
+    "query": "Mundial domainis:as.com",
+    "exito": false,
+    "error": "HTTP 429"
+  },
+  {
+    "nombre": "GENERAL - Mundial Espana campeon (sin filtros)",
+    "query": "Mundial Espana campeon",
+    "exito": true,
+    "total_articulos": 0,
+    "articulos_muestra": []
+  }
+]

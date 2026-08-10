@@ -1,0 +1,150 @@
+[
+  {
+    "nombre": "EN - World Cup 2026 (frase exacta)",
+    "query": "\"World Cup 2026\" sourcelang:eng",
+    "exito": true,
+    "total_articulos": 50,
+    "articulos_muestra": [
+      {
+        "url": "https://www.click2houston.com/news/local/2026/07/27/by-the-numbers-everything-it-took-to-put-on-fifa-world-cup-2026/",
+        "url_mobile": "",
+        "title": "By the numbers : Everything it took to put on FIFA World Cup 2026",
+        "seendate": "20260727T223000Z",
+        "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C4RWJGTSMVG6VMOHAYWQKMEDBM.jpg?_a=DATAg1kSZAA0",
+        "domain": "click2houston.com",
+        "language": "English",
+        "sourcecountry": "United States"
+      },
+      {
+        "url": "https://www.moneycontrol.com/entertainment/urvashi-rautela-shares-special-moment-with-lamine-yamal-s-mother-at-fifa-world-cup-2026-article-13990383.html",
+        "url_mobile": "https://www.moneycontrol.com/entertainment/urvashi-rautela-shares-special-moment-with-lamine-yamal-s-mother-at-fifa-world-cup-2026-article-13990383.html/amp",
+        "title": "Urvashi Rautela shares special moment with Lamine Yamal mother at FIFA World Cup 2026",
+        "seendate": "20260731T123000Z",
+        "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260731115046_tree.jpg",
+        "domain": "moneycontrol.com",
+        "language": "English",
+        "sourcecountry": "India"
+      },
+      {
+        "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/articleshow/132474504.cms",
+        "url_mobile": "https://m.economictimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/amp_articleshow/132474504.cms",
+        "title": "FIFA World Cup 2026 Final Live : Spain vs Argentina date , time , venue , India match time and where to watch",
+        "seendate": "20260718T074500Z",
+        "socialimage": "https://img.etimg.com/thumb/msid-132474768,width-1200,height-630,imgsize-1163217,overlay-economictimes/articleshow.jpg",
+        "domain": "economictimes.indiatimes.com",
+        "language": "English",
+        "sourcecountry": "India"
+      },
+      {
+        "url": "https://timesofindia.indiatimes.com/education/news/kerala-declares-holiday-for-schools-and-colleges-after-fifa-world-cup-2026-final/articleshow/132493311.cms",
+        "url_mobile": "https://timesofindia.indiatimes.com/education/news/kerala-declares-holiday-for-schools-and-colleges-after-fifa-world-cup-2026-final/amp_articleshow/132493311.cms",
+        "title": "Kerala declares holiday for schools and colleges after FIFA World Cup 2026 final",
+        "seendate": "20260719T114500Z",
+        "socialimage": "https://static.toiimg.com/thumb/msid-132493295,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "domain": "timesofindia.indiatimes.com",
+        "language": "English",
+        "sourcecountry": "India"
+      },
+      {
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-apple-ceo-tim-cook-congratulate-spain-on-fifa-world-cup-2026-win/articleshow/132505368.cms",
+        "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-apple-ceo-tim-cook-congratulate-spain-on-fifa-world-cup-2026-win/amp_articleshow/132505368.cms",
+        "title": "Google CEO Sundar Pichai , Apple CEO Tim Cook congratulate Spain on FIFA World Cup 2026 win",
+        "seendate": "20260720T041500Z",
+        "socialimage": "https://static.toiimg.com/thumb/msid-132505362,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "domain": "timesofindia.indiatimes.com",
+        "language": "English",
+        "sourcecountry": "India"
+      }
+    ]
+  },
+  {
+    "nombre": "EN - FIFA World Cup 2026 (frase exacta)",
+    "query": "\"FIFA World Cup 2026\" sourcelang:eng",
+    "exito": false,
+    "error": "HTTP 429"
+  },
+  {
+    "nombre": "ES - Mundial 2026 (frase exacta)",
+    "query": "\"Mundial 2026\" sourcelang:spa",
+    "exito": true,
+    "total_articulos": 0,
+    "articulos_muestra": []
+  },
+  {
+    "nombre": "ES - Copa del Mundo 2026 (frase exacta)",
+    "query": "\"Copa del Mundo 2026\" sourcelang:spa",
+    "exito": true,
+    "total_articulos": 0,
+    "articulos_muestra": []
+  },
+  {
+    "nombre": "ES - Mundial futbol 2026 (terminos sueltos, no frase)",
+    "query": "Mundial futbol 2026 sourcelang:spa",
+    "exito": false,
+    "error": "HTTP 429"
+  },
+  {
+    "nombre": "CONTROL - Mundial 2026 SIN filtro de idioma",
+    "query": "\"Mundial 2026\"",
+    "exito": true,
+    "total_articulos": 7,
+    "articulos_muestra": [
+      {
+        "url": "https://www.el-balad.com/17032709",
+        "url_mobile": "",
+        "title": "Sergio Agüero warns Gilberto Mora to stay focused after his World Cup breakthrough",
+        "seendate": "20260715T203000Z",
+        "socialimage": "https://www.el-balad.com/uploads/2026/07/16/sergio-aguero-d167c977_1200w.webp",
+        "domain": "el-balad.com",
+        "language": "English",
+        "sourcecountry": "Egypt"
+      },
+      {
+        "url": "https://www.el-balad.com/17031847",
+        "url_mobile": "",
+        "title": "Pedro Gallese return to Matute steals the spotlight in Alianza Lima Vs Deportivo Cali friendly",
+        "seendate": "20260712T214500Z",
+        "socialimage": "https://www.el-balad.com/uploads/2026/07/13/alianza-lima-vs-deportivo-cali-18d668a6_1200w.webp",
+        "domain": "el-balad.com",
+        "language": "English",
+        "sourcecountry": "Egypt"
+      },
+      {
+        "url": "https://www.el-balad.com/17033548",
+        "url_mobile": "",
+        "title": "France Vs England for third place at Mundial 2026 : a bronze medal nobody wanted , but one last prize still matters",
+        "seendate": "20260718T124500Z",
+        "socialimage": "https://www.el-balad.com/uploads/2026/07/18/francia-vs-inglaterra-5dbc2f4e_1200w.webp",
+        "domain": "el-balad.com",
+        "language": "English",
+        "sourcecountry": "Egypt"
+      },
+      {
+        "url": "https://www.el-balad.com/17032396",
+        "url_mobile": "",
+        "title": "Spain unbeaten World Cup run under Luis De La Fuente shows why La Roja are one step from the final Luis De La Fuente",
+        "seendate": "20260714T204500Z",
+        "socialimage": "https://www.el-balad.com/uploads/2026/07/15/luis-de-la-fuente-41b641b7_1200w.webp",
+        "domain": "el-balad.com",
+        "language": "English",
+        "sourcecountry": "Egypt"
+      },
+      {
+        "url": "https://www.el-balad.com/17039080",
+        "url_mobile": "",
+        "title": "Inter Miami Vs San Luis : Messi and company open Leagues Cup group play with new format in focus",
+        "seendate": "20260805T234500Z",
+        "socialimage": "https://www.el-balad.com/uploads/2026/08/06/inter-miami-san-luis-04c9d6aa_1200w.webp",
+        "domain": "el-balad.com",
+        "language": "English",
+        "sourcecountry": "Egypt"
+      }
+    ]
+  },
+  {
+    "nombre": "CONTROL - World Cup 2026 SIN filtro de idioma",
+    "query": "\"World Cup 2026\"",
+    "exito": false,
+    "error": "HTTP 429"
+  }
+]

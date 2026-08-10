@@ -10,7 +10,8 @@ mostrada en el documento.
 """
 import pandas as pd
 
-DATA = "../data"
+from pathlib import Path
+DATA = str(Path(__file__).resolve().parent / "datos_csv")
 
 dim_tiempo = pd.read_csv(f"{DATA}/DIM_TIEMPO.csv")
 dim_pais = pd.read_csv(f"{DATA}/DIM_PAIS.csv")

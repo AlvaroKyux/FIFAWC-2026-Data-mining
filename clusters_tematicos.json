@@ -1,0 +1,3952 @@
+{
+  "metadata": {
+    "proyecto": "FIFA WC2026 - Grupo 09_02",
+    "sesion": "Sesion 6 - Similaridad y Embeddings",
+    "metodologia": "TF-IDF (uni+bigrama) + K-Means + PCA/t-SNE para visualizacion.",
+    "decision_k_final": {
+      "k_usado_produccion": 3,
+      "justificacion": "Se corrio primero busqueda libre de k (maximizando silhouette score, sin restriccion, hasta k=8). Esto produjo clusters que NO eran temas reales sino ruido editorial (creditos de imagen, etiquetas de navegacion del sitio como 'Preview'/'Reaction'), evidencia de sobre-fragmentacion. Se fijo k=3 para la corrida final, alineado al entregable pedido (3 temas principales), y se filtraron los terminos de boilerplate identificados."
+    },
+    "boilerplate_filtrado": {
+      "es": [
+        "agencia",
+        "autor",
+        "crédito",
+        "foto",
+        "fotografía",
+        "fuente",
+        "getty",
+        "imagen",
+        "imágenes"
+      ],
+      "en": [
+        "afp",
+        "ap",
+        "credit",
+        "getty",
+        "highlight",
+        "highlights",
+        "image",
+        "images",
+        "photo",
+        "photos",
+        "preview",
+        "reaction",
+        "reuters"
+      ]
+    },
+    "decision_bilinguismo": {
+      "diagnostico": "Se midio la pureza de idioma de los clusters del corpus combinado ES+EN para detectar si el clustering separaba por idioma en vez de por tema.",
+      "pureza_idioma_combinado": 0.988,
+      "umbral_usado": 0.85,
+      "resultado_final_recomendado": "por_idioma_separado"
+    }
+  },
+  "clustering_combinado_diagnostico": {
+    "num_documentos": 330,
+    "k_seleccionado": 3,
+    "historial_seleccion_k": [
+      {
+        "k": 2,
+        "silhouette": 0.0182,
+        "inercia": 315.61
+      },
+      {
+        "k": 3,
+        "silhouette": 0.0315,
+        "inercia": 307.18
+      },
+      {
+        "k": 4,
+        "silhouette": 0.0239,
+        "inercia": 305.8
+      },
+      {
+        "k": 5,
+        "silhouette": 0.0291,
+        "inercia": 301.73
+      },
+      {
+        "k": 6,
+        "silhouette": 0.0283,
+        "inercia": 299.72
+      },
+      {
+        "k": 7,
+        "silhouette": 0.0265,
+        "inercia": 298.29
+      },
+      {
+        "k": 8,
+        "silhouette": 0.0269,
+        "inercia": 296.76
+      }
+    ],
+    "terminos_dominantes_excluidos_max_df": [],
+    "pureza_idioma_promedio": 0.988,
+    "pureza_por_cluster": {
+      "0": {
+        "idioma_mayoritario": "es",
+        "pureza": 0.972,
+        "distribucion": {
+          "es": 176,
+          "en": 5
+        }
+      },
+      "1": {
+        "idioma_mayoritario": "en",
+        "pureza": 0.993,
+        "distribucion": {
+          "es": 1,
+          "en": 137
+        }
+      },
+      "2": {
+        "idioma_mayoritario": "en",
+        "pureza": 1.0,
+        "distribucion": {
+          "en": 11
+        }
+      }
+    },
+    "temas_por_cluster": {
+      "0": [
+        {
+          "termino": "selección",
+          "peso_promedio": 0.0663
+        },
+        {
+          "termino": "españa",
+          "peso_promedio": 0.0648
+        },
+        {
+          "termino": "español",
+          "peso_promedio": 0.0471
+        },
+        {
+          "termino": "selección español",
+          "peso_promedio": 0.0415
+        },
+        {
+          "termino": "fútbol",
+          "peso_promedio": 0.0344
+        },
+        {
+          "termino": "mundo",
+          "peso_promedio": 0.0303
+        },
+        {
+          "termino": "argentina",
+          "peso_promedio": 0.0288
+        },
+        {
+          "termino": "él",
+          "peso_promedio": 0.0283
+        },
+        {
+          "termino": "ganar",
+          "peso_promedio": 0.024
+        },
+        {
+          "termino": "francia",
+          "peso_promedio": 0.0232
+        }
+      ],
+      "1": [
+        {
+          "termino": "spain",
+          "peso_promedio": 0.0545
+        },
+        {
+          "termino": "england",
+          "peso_promedio": 0.0469
+        },
+        {
+          "termino": "france",
+          "peso_promedio": 0.0374
+        },
+        {
+          "termino": "watch",
+          "peso_promedio": 0.0372
+        },
+        {
+          "termino": "argentina",
+          "peso_promedio": 0.0367
+        },
+        {
+          "termino": "time",
+          "peso_promedio": 0.0323
+        },
+        {
+          "termino": "game",
+          "peso_promedio": 0.0314
+        },
+        {
+          "termino": "new",
+          "peso_promedio": 0.028
+        },
+        {
+          "termino": "tournament",
+          "peso_promedio": 0.0253
+        },
+        {
+          "termino": "norway",
+          "peso_promedio": 0.0241
+        }
+      ],
+      "2": [
+        {
+          "termino": "preview",
+          "peso_promedio": 0.2668
+        },
+        {
+          "termino": "reaction preview",
+          "peso_promedio": 0.2662
+        },
+        {
+          "termino": "late highlight",
+          "peso_promedio": 0.2662
+        },
+        {
+          "termino": "preview north",
+          "peso_promedio": 0.2662
+        },
+        {
+          "termino": "highlight reaction",
+          "peso_promedio": 0.2662
+        },
+        {
+          "termino": "reaction",
+          "peso_promedio": 0.2662
+        },
+        {
+          "termino": "highlight",
+          "peso_promedio": 0.2612
+        },
+        {
+          "termino": "late",
+          "peso_promedio": 0.2567
+        },
+        {
+          "termino": "north america",
+          "peso_promedio": 0.2567
+        },
+        {
+          "termino": "north",
+          "peso_promedio": 0.2567
+        }
+      ]
+    },
+    "grafico_pca": "pca_combinado.png",
+    "grafico_tsne": "tsne_combinado.png",
+    "asignacion_cluster_por_articulo": [
+      {
+        "url": "https://hipertextual.com/cine-television/amazon-prime-video-anuncia-documental-seleccion-espanola-mundial-2026-numero-de-episodios-cuando-se-estrena/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-prediccion-mundial-2026-kalshi/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/basics/como-ver-espana-argentina-fecha-hora-final-mundial-2026-donde-puedes-verlo-cualquier-dispositivo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/todo-que-sabes-haaland-falso-jugador-viral-mundial-2026-debe-su-popularidad-mundial-a-ia-fans-chinos",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://hipertextual.com/actualidad/google-ya-tiene-favorito-para-la-final-del-mundial-el-nuevo-easter-egg-te-va-a-encantar-si-no-eres-argentino/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.microsiervos.com/archivo/arte-y-diseno/datos-mundial-2026-futbol-partidos-eventos-artistico-matematicas.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/basics/como-ver-espana-francia-fecha-hora-partido-semifinales-mundial-donde-puedes-verlo-cualquier-dispositivo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/14/francia-0-2-espana-resumen-mundial-2026-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/10/espana-2-1-belgica-resumen-mundial-2026-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/12/noruega-1-2-inglaterra-resumen-mundial-2026-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/15/inglaterra-1-2-argentina-resumen-mundial-2026-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://hipertextual.com/cine-television/la-odisea-revienta-la-taquilla-y-rompe-el-record-historico-de-christopher-nolan/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/mercadona-como-walmart-espana-surrealista-encuentro-juan-roig-ana-botin-ishowspeed-mundial",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.espinof.com/anime/espana-no-solo-ha-ganado-mundial-2026-tambien-nos-hemos-quedado-custodia-hatsune-miku-idol-fin-regresa-a-casa",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.espinof.com/anime/dibujante-blue-lock-no-se-perdio-final-mundial-2026-tambien-se-tiro-todo-partido-sufriendo-sudor-me-corria-manos",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/ganar-mundial-salvar-futbol.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/17/apuesta-combinada-mundial-2026-final-tercer-puesto.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.merca20.com/mercadotecnia-creativos-del-gol/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.creativosonline.org/el-branding-se-juega-en-los-estadios-y-en-las-redes-las-marcas-se-adaptan-a-un-nuevo-escenario.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/15/espana-desploma.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/album/2026/07/17/presentado-balon-gran-final-asi-trionda-final-jugaran-espana-argentina.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/cd7lx5rr51go",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/luis-fuente-sobre-tatuaje-cucurella-con-su-cara-que-mas-me-gusta-es-gente-palabra_7021665_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.puromarketing.com/13/217351/estrategia-publicitaria-hisense-logra-acaparar-atencion-redes-sociales-durante-mundial-2026",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/otra-agresion-argentina-que-no-se-vio-vergonzoso-punetazo-ayala-dani-olmo_7016740_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/previa-las-semifinales-madrid-rio-directo-asi-vive-aficion-duelo-entre-espana-francia-mundial-2026_7014631_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/economia/2026/07/19/borja-iglesias-corta-estalla-precio-entradas-final-mundial-vergueenza.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/espana-campeona-del-mundo-2026-marca.shtml",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/10/6a4f7f53fc6c833a5c8b45a3.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/album/2026/07/20/mejores-memes-final-mundial-espana-gano-argentina-satira-humor-mala-leche.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/celebracion-mundial-2026-espana-recorrido-hora-empieza-ver-television.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/familia-real-recibe-seleccion-nacional-espana-palacio-zarzuela-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.merca20.com/despues-del-mundial-2026-como-las-marcas-convierten-los-momentos-del-torneo-en-historias-de-innovacion/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/hay-algo-que-uruguay-autentica-desbordante-potencia-mundial-generar-futbolistas-elite",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html",
+        "idioma": "es",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.xataka.com/internet-y-television/espana-ha-ganado-mundial-buena-suerte-buscando-video-exacto-ese-momentazo-que-quieres-volver-a-ver",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/co/2026/07/23/nestor-lorenzo-renueva-seleccion-colombia-mundial-2026.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/espana-francia-llegan-empatadas-semifinal-menos-instagram",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.larazon.es/tecnologia-consumo/operadoras/orange-sigue-pasos-movistar-cambia-nombre-su-red-apoyar-seleccion-espanola_202607156a57750fe9f2e84b5c6984ed.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/ataque-viral-argentina-seleccion-espanola-jugadores-basta-espana-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.creativosonline.org/la-tipografia-malvinas-sans-de-la-bandera-de-la-seleccion-a-una-fuente-digital-gratuita.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/10/haaland-pudo-nunca-hubiese-pasado.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/1-000-millones-clubes-descubrieron-estrellas.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/argentina-vs-suiza-en-vivo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245410",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/argentina-vs-espana-en-vivo-gratis-donde-ver-la-final-del-mundial-2026-desde-cualquier-lugar-2000246501",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/espana-vs-belgica-en-directo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245401",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/argentina-vs-inglaterra-en-vivo-gratis-donde-ver-la-semifinal-del-mundial-2026-desde-cualquier-lugar-2000245959",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/francia-vs-espana-en-vivo-donde-ver-gratis-la-semifinal-del-mundial-2026-desde-cualquier-lugar-2000245955",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/noruega-vs-inglaterra-en-directo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245405",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.larazon.es/tecnologia-consumo/ciencia/ee-uu-pais-anfitrion-mundial-2026-esta-sufriendo-extrano-brote-diarrea-explosiva-no-saben_202607106a50c8de772f745d2c3ecbb9.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.larazon.es/tecnologia-consumo/series/es-final-argentina-espana-mundial-2026-forma-anime-puro-estilo-blue-lock_202607216a5f9c12e3eb0b64aa4bdfb7.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a55e1dae85ece692a8b456f.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/cly92wy3re4o",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/asi-podria-seleccion-tatuaje-prometio-hacerse-marc-cucurella-cara-fuent-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/c20474pq7d1o",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/c4gygwpgldgo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/mas-messi/2026/08/05/dia-casual-messi-firmando-autografos-supermerca-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/2026/08/05/ferran-torres-protagonista-mlb-conquistar-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/cine/2026/07/20/enfocan-matt-damon-grada-final-mundial-2026-confunden-famoso-actor-mejor-cumplido-hombre-recibir.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-argentina-i-final-mundial-2026-narracion-minuto-minut-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/11/cumplira-prediccion-semifinalistas-eligieron-destin-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/lagrimas-arbitro-slavko-vincic-conocer-pitara-final-espana-vs-argentina-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/espana-previa-final-mundial-2026.shtml",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/joan-laporta-blanco-confirma-espana-final-mundial-advierte-sobre-arbitr-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/16/canciones-argentina-locura-vestuario-ganar-inglaterra-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/16/antartida-aficionado-argentino-celebra-clasificacion-gran-final-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.trendencias.com/celebrities/lamine-yamal-final-mundial-2026-a-sus-19-anos-no-teneis-que-esperar-nada-mi",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/cly0k94429wo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/espana-lleva-goles-mundial-revivelos-elige-cual-mejor-todos_7016121_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/millonaria-prima-recibiran-jugadores-espana-ganar-mundial_7015049_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/detalles-anillo-jugadores-recibiran-ganar-mundial-2026-podras-comprar-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/corte-ingles-lleva-apoyo-seleccion-espanola-times-square-nueva-york-final-mundial",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/fifa-pone-venta-cesped-final-mundial-hasta-3000-dolares",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/francia-vs-inglaterra-en-vivo-gratis-donde-ver-el-tercer-puesto-del-mundial-2026-desde-cualquier-lugar-2000246490",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/08/04/arranca-venta-camisetas-seleccion-dos-estrellas-escu-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/real-madrid/2026/08/03/vinicius-jr-llego-valdebebas-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/1966-jugador-argentina-fue-expulsado-no-habia-forma-explicarselo-entonces-hay-tarjetas-amarillas-rojas",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.larazon.es/tecnologia-consumo/series/2-opciones-gratis-otra-pago-volver-ver-espana-argentina-final-mundial-2026_202607206a5e0657e9f2e84b5c73772d.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/empresas-y-economia/mundo-creo-2-680-millonarios-al-dia-espana-tiene-millon-asi-se-reparte-mapa-riqueza-nuestro-pais",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/2026/07/16/omar-montes-lanza-farruko-himno-seleccion-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/cine-y-tv/pedrerol-deja-atresmedia-mediaset-despues-13-anos-su-salida-reflejo-perfecto-guerra-actual-privadas",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://vandal.elespanol.com/noticia/1350792086/pokemon-go-celebra-el-campeonato-xp-y-el-mundial-2026-con-pikachus-disfrazados-y-muchos-bonus/",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/16/schweinsteiger-celebra-hinchada-argentina-haberla-eliminado-tres-veces-mundiales-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/18/motivador-spot-buscar-segunda-estrella-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/13/locura-winamax-supercuota-22-50-espana-clasifica-francia.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.espinof.com/anime/cucurella-levanta-pasiones-mundo-anime-dibujante-ao-ashi-se-ha-enamorado-seleccion-se-marca-homenaje-a-roja-espectacular",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/15/goles-espana-francia-hicieron-vibrar-suelo-sabadell.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://es.gizmodo.com/haaland-ya-no-es-solo-haaland-la-ia-y-los-fans-chinos-lo-convirtieron-en-el-personaje-mas-viral-del-mundial-2000245622",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.puromarketing.com/39/217370/marca-celebra-segunda-estrella-seleccion-espanola-editoriales-especiales-conmemorativos",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/12/mejores-semifinales-historia-estara-top-4-ranking-fifa-completo-primera-vez.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/indignacion-total-noruega-tras-primer-gol-jude-bellingham-se-quejan-un-posible-toque-balon-spidercam_7013579_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/10/increible-recibimiento-egipto-jugadores-parece-han-ganado-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/sociedad/album/2026/07/20/asi-vieron-celebraron-famosos-victoria-espana-mundial-2026.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.vidaextra.com/cine/haaland-le-clavo-visto-a-spider-man-porque-no-ve-cine-no-queria-responder-a-desconocido",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/radio/2026/07/10/despierta-nueva-york-david-sanchez-previa-loca-espana-belgica.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/creiamos-que-gran-vencedor-mundial-habia-sido-espana-realidad-pelo-largo-para-hombres",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/c17ykrp28q2o",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/cwyj34zdll7o",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/espana-se-acostumbro-a-perder-siglo-xx-siglo-xxi-espana-fc-mejor-seleccion-mundo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/llevas-tiempo-pensando-pedirle-aumento-a-tu-jefe-tenemos-buenas-noticias-mundial-te-ha-puesto-facil",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/29/duro-procedimiento-disciplinario-fifa-incidentes-ocurridos-durante-final-mundial.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/sociedad/2026/07/12/ferran-torres-llega-soltero-semifinales-mundial-francia-romper-martina-hunter.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/15/senadora-paraguaya-celeste-amarilla-viste-colores-espana.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/19/kroos-claro-espana-marca-primero-argentina-le-caer-tres-cuatro.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/sociedad/2026/07/20/seleccion-espanola-borra-trump-foto-buscada-mundial-rastro-presidente-rodri-levantaba-trofeo.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.larazon.es/tecnologia-consumo/operadoras/vodafone-se-suma-cambiar-nombre-su-red-movil-apoyo-seleccion-espanola_202607176a59f0840500ab412c9aa7d6.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/magnet/argentina-tiene-claro-que-argentina-tuvo-que-regalar-cuarto-mundial-para-argentina-nadie-argentina-tiene-muy-claro-que",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/tiramillas/musica/2026/07/15/bragas-rosalia-bandera-espana-pleno-concierto-desatan-redes-poco-final-mundial.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/14/show-inolvidable-espana.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xatakamovil.com/tv-movil/exito-mundial-dazn-se-asegura-uefa-nations-league-clasificacion-euro-2028",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/sabian-cosas-pedri-ferran-bordaron-segunda-estrella-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/rafa-nadal-estalla-emocion-con-victoria-seleccion-espanola-mundial_7016537_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/television/antonio-abuelo-pedro-porro-que-me-traiga-medalla-que-yo-guardo-que-se-vaya-donde-quiera_7016805_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/13/secretos-estadio-semifinal-cesped-estara-preparado-juego-rapido.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/15/reyes-iran-final-mundial-princesa-leonor-infanta-sofia-apoyar-seleccion.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/fiesta-grande-jamas-contada-2-millones-calles.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/21/cubarsi-laporte-fuera-xi-ideal-mundial-2026.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5aa7d1fdddff0a098b457f.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57cecde9cf4a9e1d8b459d.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/roja-personalidad-marca-seleccion-mundial-branward",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/anillo-mundial-venta-cuanto-cuesta-campeon-mun-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/opinion/2026/07/19/siente-final.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/album/2026/07/21/aitana-superestrella-fiesta-espana-lola-indigo-ana-mena.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/gente/lola-indigo-reacciona-las-palabras-unai-simon-lola-indigo-esta_7014218_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.vidaextra.com/series/mangaka-uno-mejores-mangas-futbol-actualidad-se-rinde-espana-convierte-a-cucurella-personaje-su-manga-ha-sido-espectacular",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/esta-aqui-nueva-camiseta-eleccion-dos-estrellas-historica-victoria",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/21/beso-boca-yeremy-pino-unai-simon-plena-rua-seleccion-espanola-madrid.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/18/13-goles-espana-llegar-final-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/10/casillas-sobre-mourinho-matrimonio-termino-mal.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/12/asi-entrenamiento-espana-48-horas-gran-batalla-francia-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/economia/empresas/2026/07/17/6a5a3f84e85ece78658b45b3.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/francia-espana-mundial-2026-directo-ultima-hora-previa-posibles-alineaciones-semifinal_7014254_6.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/radio/2026/07/20/martinez-almeida-rinde-luis-fuente-padre-marido-yerno-hijo-perfecto-mundo-quiere.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/radio/2026/07/17/unai-simon-dibuja-partido-argentina-creemos-sera-parecido-uruguay.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xatakamovil.com/vodafone/vodafone-se-suma-a-movistar-orange-para-apoyar-a-seleccion-eres-cliente-mira-pantalla-tu-movil",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/12/test-6-6-mundial-bonus-track-especial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/espana-conquista-valor-marca-somos-lideres-finales-world-cup-brand-index-2026",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/octopus-energy-suma-fiebre-roja-regala-electricidad-clientes-espana-gana-mundial",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57a4ecfdddff01518b45aa.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/aplaudida-respuesta-unai-simon-sobre-suplencia-pedri-como-estaran-david-raya-joan-garcia_7013849_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/lays-celebra-victoria-espana-copa-mundial-fifa-edicion-limitada",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.espinof.com/audiencias/victoria-espana-acaba-record-segunda-emision-vista-historia-brutal-89-3-share",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/17/seleccion-espanola-comunidades-autonomas-jugador-aporta-espana.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/21/cantico-argentino-bote-colo-fiesta-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/ciencia/2026/07/24/6a636832fc6c83ea738b45a7.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/pasajeros-podran-viajar-gratis-cabify-verano-triunfo-espana",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-ganar-mundial-mejores-teorias-seremos-campeones-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/15/laporte-peor-venta-historia-francia-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-argentina-directo-ultima-hora-reacciones-final-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.directoalpaladar.com/salud/entrenamiento-invisible-nutricionista-que-nos-ha-ayudado-a-ganar-mundial-hit-pasta-carbonara",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xataka.com/investigacion/no-hace-falta-terremoto-para-mover-aguja-sismica-gol-espana-basta",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://muyinteresante.okdiario.com/actualidad/espana-argentina-y-el-regreso-a-lo-grande-de-ebro.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/espana-impone-ley-tiki-taka-mundial-asi-han-honrado-marcas-bicampeon-mundo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/del-estadio-calle-asi-conquistado-mundial-marcas-moda",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/radio/2026/07/18/andalucia-prepara-vivir-gran-final-mundial-radio-marca.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/25/trump-sobre-gorra-ferran-bonito-gesto-agradecemos-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.puromarketing.com/155/217371/nueva-edicion-limitada-lays-celebra-titulo-campeones-mundo-futbol",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.vidaextra.com/deportes/ea-sports-ha-vuelto-a-hacer-al-adivinar-quinta-vez-consecutiva-cual-seria-seleccion-que-ganaria-mundial-futbol-2026",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/19/video-seleccion-espana-previo-final-mundial-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xatakamovil.com/orange/orange-sigue-pasos-movistar-cambia-nombre-su-red-movil-para-apoyar-a-seleccion-mundial",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marketingdirecto.com/anunciantes-general/conforama-devuelve-importe-televisores-campana-mundial-victoria-espana",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/madrid/2026/07/31/6a6cee83e9cf4ab47d8b457b.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/radio/2026/07/15/david-sanchez-mbappe-firmo-nadaplete-perfecto-tanto-nivel-clubes-nivel-seleccion.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/espana/2026/07/23/6a61010fe4d4d8371a8b4588.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/10/espana-quiere-tocar-estrellas.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.xatakamovil.com/vodafone/vodafone-ha-vuelto-a-cambiar-nombre-red-victoria-seleccion-no-para-poner-vodafone",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/deportes/futbol/las-notas-espana-mundial-los-sobresalientes-cubarsi-cucurella-aprobado-raspado-gavi-pedri_7015187_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/16/adios-blanca-camiseta-historia-mundiales.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.com/mundo/articles/c9v4ppy92dvo",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/29/luis-fuente-conquistar-mundial-seguiremos-intentando-cosas-igual-bien-video.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/musica/asi-fue-actuacion-melody-interpretando-esa-diva-previa-final-mundial_7016660_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.20minutos.es/gente/victoria-federica-irene-urdangarin-exultantes-alegria-por-triunfo-espana-mundial-futbol_7016741_0.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/mundial/2026/07/20/troleo-mundial-argentino-increpa-mexicano-espana-respuesta-divertida.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cff78fc6c83d9128b4586.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.expansion.com/empresas/2026/07/25/6a63aba6e5fdea447e8b45a7.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.marca.com/futbol/seleccion/2026/07/14/oyarzabal-vuela-altura-butragueno-villa.html",
+        "idioma": "es",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/wrote-theme-song-fifa-world-cup-2026-7#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.cnet.com/tech/services-and-software/norway-vs-england-stream-fifa-world-cup-2026-match-live-for-free/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.cnet.com/tech/services-and-software/spain-vs-belgium-stream-fifa-world-cup-2026-match-live-for-free/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-how-to-watch-without-cable/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.yankodesign.com/2026/07/15/louis-vuitton-unveils-bespoke-trophy-trunk-for-fifa-world-cup-2026-ahead-of-the-final/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.skysports.com/football/video/19530/13565224/the-world-cup-2026-in-numbers",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/world-cup-2026-what-did-we-learn",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.skysports.com/football/news/11095/13563675/world-cup-2026-data-analysis-record-goals-bigger-fifa-ranking-gaps-older-starting-xis-travel-heat-penalties-substitutes-and-how-spain-won-it",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only",
+        "idioma": "en",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/10/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/13/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights",
+        "idioma": "en",
+        "cluster": 2
+      },
+      {
+        "url": "https://www.androidpolice.com/meta-smart-glasses-are-having-a-huge-moment-but-competition-is-coming/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/8/3/pochettino-agrees-to-new-us-coach-soccer-contract-through-to-2030-world-cup",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://slickdeals.net/f/19781067-fifa-world-cup-2026-shirts-hats-sports-toys-more-80-off-free-pickup-on-10",
+        "idioma": "en",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://abcnews.com/Sports/wireStory/fifa-selling-field-world-cup-final-450-pieces-134665434",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/predictor/mwc2026?at_medium=RSS&at_campaign=rss",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://gothamist.com/news/human-trafficking-enforcement-during-world-cup-yields-more-than-150-arrests-in-ny-and-nj",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://slickdeals.net/f/19750401-60-off-all-fifa-merchandise-at-walgreens-at-link-items-from-1-39-free-pick-up-at-10",
+        "idioma": "en",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/21/trumps-approval-rating-near-record-lows-latest-poll/90999169007/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.ghacks.net/2026/07/25/pubg-at-esports-world-cup-2026-reaches-grand-finals-with-made-in-thailand-topping-the-group-stage/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.boredpanda.com/best-world-cup-2026-memes-jokes/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cgk6v6846epo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.forbes.com/sites/howardhomonoff/2026/07/20/world-cup-2026-wraps-up-but-cultural-impacts-will-linger/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/clye4yej26zo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c1lylr4pr70o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/2026-fifa-world-cup-singapore-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-final-halftime-show-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c0jy0xqjzqzo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/jay-z-watch-collection-photos#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/spain-vs-belgium-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-switzerland-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/france-vs-spain-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c0ryldqz5zwo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3dyj7j48v9o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-key-players-to-watch-as-france-take-on-spain-in-2026-semifinal",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.eonline.com/news/1434151/beyonce-jay-z-have-rare-date-night-at-world-cup-2026-final",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/norway-vs-england-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/england-vs-argentina-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.techradar.com/how-to-watch/football/france-vs-england-world-cup-2026-free",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.cbc.ca/news/world/world-cup-photos-9.7276199",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.nbcnews.com/sports/soccer/look-exciting-moments-2026-fifa-world-cup-rcna588080",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.gsmarena.com/honor_and_arri_will_showcase_the_robot_phone_next_week_honor_unveils_a_new_logo-news-73850.php",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.cbc.ca/sports/soccer/fifa-soccer-world-cup-uefa-boycott-ffe-private-investment-9.7291605",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.thefader.com/2026/07/16/how-to-watch-fifa-world-cup-2026-final-halftime-show-madonna-justin-bieber-shakira-burna-boy-bts",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.gsmarena.com/honor_robot_phone_makes_an_unexpected_appearance_at_the_world_cup_final-news-73794.php",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.r-bloggers.com/2026/07/little-useless-useful-r-functions-jug-solver-with-bezouts-identity/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.rt.com/news/643628-mirror-of-americas-decline/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/19/all-the-celebrities-spotted-at-2026-fifa-world-cup-final-match/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132611910.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://bleedingcool.com/tv/fifa-world-cup-2026-final-halftime-show-your-preview-viewing-guide/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://bleedingcool.com/tv/world-cup-final-ted-lasso-coach-beard-beliebe-in-justin-bieber/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.helpnetsecurity.com/2026/07/22/world-cup-2026-illegal-stream-domains-seized/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://thoughtcatalog.com/jeremy-london/2026/07/donald-trump-sat-next-to-mexican-president-claudia-sheinbaum-at-the-world-cup-final/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://thoughtcatalog.com/holden-desalles/2026/07/tom-cruise-skipped-the-stunt-and-gave-a-speech-at-the-world-cup-final/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/23/world-cup-final-game-ball-bts-and-shakira-items-featured-in-christies-global-citizen-auction/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132573334.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132595458.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132577528.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132590033.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://ohnotheydidnt.livejournal.com/132608517.html",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.macrumors.com/2026/07/20/apple-sports-app-gets-more-soccer-leagues/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/world-cup-fans-shopping-clearing-out-american-big-box-stores-2026-7#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/celebrities-at-world-cup-final-luxury-fashion-2026-7#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://abcnews.com/video/134884586/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://kotaku.com/studio-behind-netflixs-widely-panned-world-cup-game-reportedly-shutting-down-just-8-weeks-after-launch-2000721235",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://abcnews.com/video/134753626/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://abcnews.com/video/134911670/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/england-norway-world-cup-bet-british-airways-norwegian-air-shuttle-2026-7#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://css-tricks.com/whats-important-16/",
+        "idioma": "en",
+        "cluster": 0
+      },
+      {
+        "url": "https://www.buzzfeed.com/nicolebeckett/shalira-world-cup-2026-tweets",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.jezebel.com/and-the-2026-fifa-world-cup-does-not-go-to-trump",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.mentalfloss.com/sports/best-fifa-world-cup-trivia-questions-test-your-knowledge",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://abcnews.com/GMA/Culture/spain-argentina-win-2026-world-cup/story?id=134824556",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-already-buy-the-unreleased-galaxy-z-fold-8-ultra-provided-you-have-usd13-000",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/19/trump-republicans-congress-democrats-poll/90972594007/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://petapixel.com/2026/07/20/two-sports-photographers-reveal-what-its-like-to-shoot-the-world-cup/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/22/fifa-world-cup-final-draws-record-viewership-in-united-states",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-world-cup-final-halftime-show-2026-for-free-livestream-1235595273/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/melania-trump-sunglasses-collection-photos-2026-7#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/14/france-and-spain-are-unbeaten-at-fifa-world-cup-semifinal-but-only-one-can-make-the-final",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-meet-ismail-elfath-referee-for-england-argentina-semifinal",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/20/trump-height-rodri-world-cup-final-video/90982097007/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/7/15/a-role-model-djed-spence-first-muslim-england-player-lifts-hopes",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-england-vs-france-world-cup-2026#article",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.boredpanda.com/donald-trump-boo-football-world-cup-final-2026-trophy-ceremony/",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "https://www.mentalfloss.com/history/history-norway-viking-row-soccer",
+        "idioma": "en",
+        "cluster": 1
+      },
+      {
+        "url": "http://deadline.com/2026/07/jayden-adams-dead-south-african-fifa-world-cup-1236979825/",
+        "idioma": "en",
+        "cluster": 0
+      }
+    ]
+  },
+  "clustering_por_idioma": {
+    "es": {
+      "num_documentos": 177,
+      "k_seleccionado": 3,
+      "historial_seleccion_k": [
+        {
+          "k": 2,
+          "silhouette": 0.0068,
+          "inercia": 168.97
+        },
+        {
+          "k": 3,
+          "silhouette": 0.0066,
+          "inercia": 167.04
+        },
+        {
+          "k": 4,
+          "silhouette": 0.007,
+          "inercia": 165.69
+        },
+        {
+          "k": 5,
+          "silhouette": 0.0077,
+          "inercia": 163.82
+        },
+        {
+          "k": 6,
+          "silhouette": 0.0079,
+          "inercia": 162.39
+        },
+        {
+          "k": 7,
+          "silhouette": 0.0083,
+          "inercia": 160.73
+        },
+        {
+          "k": 8,
+          "silhouette": 0.0112,
+          "inercia": 159.01
+        }
+      ],
+      "terminos_dominantes_excluidos_max_df": [
+        {
+          "termino": "selección",
+          "proporcion_documentos": 0.588
+        },
+        {
+          "termino": "españa",
+          "proporcion_documentos": 0.554
+        }
+      ],
+      "pureza_idioma_promedio": 1.0,
+      "pureza_por_cluster": {
+        "2": {
+          "idioma_mayoritario": "es",
+          "pureza": 1.0,
+          "distribucion": {
+            "es": 53
+          }
+        },
+        "0": {
+          "idioma_mayoritario": "es",
+          "pureza": 1.0,
+          "distribucion": {
+            "es": 85
+          }
+        },
+        "1": {
+          "idioma_mayoritario": "es",
+          "pureza": 1.0,
+          "distribucion": {
+            "es": 39
+          }
+        }
+      },
+      "temas_por_cluster": {
+        "0": [
+          {
+            "termino": "español",
+            "peso_promedio": 0.0513
+          },
+          {
+            "termino": "selección español",
+            "peso_promedio": 0.0488
+          },
+          {
+            "termino": "semifinal",
+            "peso_promedio": 0.0388
+          },
+          {
+            "termino": "francia",
+            "peso_promedio": 0.0379
+          },
+          {
+            "termino": "mundo",
+            "peso_promedio": 0.036
+          },
+          {
+            "termino": "ganar",
+            "peso_promedio": 0.0328
+          },
+          {
+            "termino": "año",
+            "peso_promedio": 0.0312
+          },
+          {
+            "termino": "él",
+            "peso_promedio": 0.03
+          },
+          {
+            "termino": "país",
+            "peso_promedio": 0.0257
+          },
+          {
+            "termino": "juego",
+            "peso_promedio": 0.0235
+          }
+        ],
+        "1": [
+          {
+            "termino": "argentina",
+            "peso_promedio": 0.1094
+          },
+          {
+            "termino": "españa argentina",
+            "peso_promedio": 0.091
+          },
+          {
+            "termino": "social",
+            "peso_promedio": 0.0496
+          },
+          {
+            "termino": "red",
+            "peso_promedio": 0.0482
+          },
+          {
+            "termino": "red social",
+            "peso_promedio": 0.0445
+          },
+          {
+            "termino": "gratis",
+            "peso_promedio": 0.0394
+          },
+          {
+            "termino": "argentino",
+            "peso_promedio": 0.0387
+          },
+          {
+            "termino": "metlife",
+            "peso_promedio": 0.0372
+          },
+          {
+            "termino": "aficionado",
+            "peso_promedio": 0.0347
+          },
+          {
+            "termino": "triunfo",
+            "peso_promedio": 0.0342
+          }
+        ],
+        "2": [
+          {
+            "termino": "española",
+            "peso_promedio": 0.0606
+          },
+          {
+            "termino": "selección española",
+            "peso_promedio": 0.0595
+          },
+          {
+            "termino": "fútbol",
+            "peso_promedio": 0.0579
+          },
+          {
+            "termino": "estrella",
+            "peso_promedio": 0.0437
+          },
+          {
+            "termino": "español",
+            "peso_promedio": 0.0385
+          },
+          {
+            "termino": "victoria",
+            "peso_promedio": 0.0376
+          },
+          {
+            "termino": "luis",
+            "peso_promedio": 0.0359
+          },
+          {
+            "termino": "camiseta",
+            "peso_promedio": 0.0341
+          },
+          {
+            "termino": "selección español",
+            "peso_promedio": 0.0331
+          },
+          {
+            "termino": "él",
+            "peso_promedio": 0.0323
+          }
+        ]
+      },
+      "grafico_pca": "pca_es.png",
+      "grafico_tsne": "tsne_es.png",
+      "asignacion_cluster_por_articulo": [
+        {
+          "url": "https://hipertextual.com/cine-television/amazon-prime-video-anuncia-documental-seleccion-espanola-mundial-2026-numero-de-episodios-cuando-se-estrena/",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-prediccion-mundial-2026-kalshi/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/basics/como-ver-espana-argentina-fecha-hora-final-mundial-2026-donde-puedes-verlo-cualquier-dispositivo",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xataka.com/magnet/todo-que-sabes-haaland-falso-jugador-viral-mundial-2026-debe-su-popularidad-mundial-a-ia-fans-chinos",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://hipertextual.com/actualidad/google-ya-tiene-favorito-para-la-final-del-mundial-el-nuevo-easter-egg-te-va-a-encantar-si-no-eres-argentino/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.microsiervos.com/archivo/arte-y-diseno/datos-mundial-2026-futbol-partidos-eventos-artistico-matematicas.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xataka.com/basics/como-ver-espana-francia-fecha-hora-partido-semifinales-mundial-donde-puedes-verlo-cualquier-dispositivo",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/14/francia-0-2-espana-resumen-mundial-2026-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/10/espana-2-1-belgica-resumen-mundial-2026-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/12/noruega-1-2-inglaterra-resumen-mundial-2026-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/15/inglaterra-1-2-argentina-resumen-mundial-2026-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://hipertextual.com/cine-television/la-odisea-revienta-la-taquilla-y-rompe-el-record-historico-de-christopher-nolan/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/magnet/mercadona-como-walmart-espana-surrealista-encuentro-juan-roig-ana-botin-ishowspeed-mundial",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.espinof.com/anime/espana-no-solo-ha-ganado-mundial-2026-tambien-nos-hemos-quedado-custodia-hatsune-miku-idol-fin-regresa-a-casa",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.espinof.com/anime/dibujante-blue-lock-no-se-perdio-final-mundial-2026-tambien-se-tiro-todo-partido-sufriendo-sudor-me-corria-manos",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/ganar-mundial-salvar-futbol.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/17/apuesta-combinada-mundial-2026-final-tercer-puesto.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.merca20.com/mercadotecnia-creativos-del-gol/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.creativosonline.org/el-branding-se-juega-en-los-estadios-y-en-las-redes-las-marcas-se-adaptan-a-un-nuevo-escenario.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/15/espana-desploma.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/album/2026/07/17/presentado-balon-gran-final-asi-trionda-final-jugaran-espana-argentina.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/cd7lx5rr51go",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/luis-fuente-sobre-tatuaje-cucurella-con-su-cara-que-mas-me-gusta-es-gente-palabra_7021665_0.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.puromarketing.com/13/217351/estrategia-publicitaria-hisense-logra-acaparar-atencion-redes-sociales-durante-mundial-2026",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/otra-agresion-argentina-que-no-se-vio-vergonzoso-punetazo-ayala-dani-olmo_7016740_0.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/previa-las-semifinales-madrid-rio-directo-asi-vive-aficion-duelo-entre-espana-francia-mundial-2026_7014631_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/economia/2026/07/19/borja-iglesias-corta-estalla-precio-entradas-final-mundial-vergueenza.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/espana-campeona-del-mundo-2026-marca.shtml",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/10/6a4f7f53fc6c833a5c8b45a3.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/album/2026/07/20/mejores-memes-final-mundial-espana-gano-argentina-satira-humor-mala-leche.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/celebracion-mundial-2026-espana-recorrido-hora-empieza-ver-television.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/familia-real-recibe-seleccion-nacional-espana-palacio-zarzuela-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.merca20.com/despues-del-mundial-2026-como-las-marcas-convierten-los-momentos-del-torneo-en-historias-de-innovacion/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/magnet/hay-algo-que-uruguay-autentica-desbordante-potencia-mundial-generar-futbolistas-elite",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xataka.com/internet-y-television/espana-ha-ganado-mundial-buena-suerte-buscando-video-exacto-ese-momentazo-que-quieres-volver-a-ver",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/co/2026/07/23/nestor-lorenzo-renueva-seleccion-colombia-mundial-2026.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/espana-francia-llegan-empatadas-semifinal-menos-instagram",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.larazon.es/tecnologia-consumo/operadoras/orange-sigue-pasos-movistar-cambia-nombre-su-red-apoyar-seleccion-espanola_202607156a57750fe9f2e84b5c6984ed.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/ataque-viral-argentina-seleccion-espanola-jugadores-basta-espana-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.creativosonline.org/la-tipografia-malvinas-sans-de-la-bandera-de-la-seleccion-a-una-fuente-digital-gratuita.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/10/haaland-pudo-nunca-hubiese-pasado.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/1-000-millones-clubes-descubrieron-estrellas.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://es.gizmodo.com/argentina-vs-suiza-en-vivo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245410",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://es.gizmodo.com/argentina-vs-espana-en-vivo-gratis-donde-ver-la-final-del-mundial-2026-desde-cualquier-lugar-2000246501",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://es.gizmodo.com/espana-vs-belgica-en-directo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245401",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://es.gizmodo.com/argentina-vs-inglaterra-en-vivo-gratis-donde-ver-la-semifinal-del-mundial-2026-desde-cualquier-lugar-2000245959",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://es.gizmodo.com/francia-vs-espana-en-vivo-donde-ver-gratis-la-semifinal-del-mundial-2026-desde-cualquier-lugar-2000245955",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://es.gizmodo.com/noruega-vs-inglaterra-en-directo-gratis-donde-ver-el-mundial-2026-desde-cualquier-lugar-2000245405",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.larazon.es/tecnologia-consumo/ciencia/ee-uu-pais-anfitrion-mundial-2026-esta-sufriendo-extrano-brote-diarrea-explosiva-no-saben_202607106a50c8de772f745d2c3ecbb9.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.larazon.es/tecnologia-consumo/series/es-final-argentina-espana-mundial-2026-forma-anime-puro-estilo-blue-lock_202607216a5f9c12e3eb0b64aa4bdfb7.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a55e1dae85ece692a8b456f.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/cly92wy3re4o",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/asi-podria-seleccion-tatuaje-prometio-hacerse-marc-cucurella-cara-fuent-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/c20474pq7d1o",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/c4gygwpgldgo",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/mas-messi/2026/08/05/dia-casual-messi-firmando-autografos-supermerca-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/2026/08/05/ferran-torres-protagonista-mlb-conquistar-mundial-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/cine/2026/07/20/enfocan-matt-damon-grada-final-mundial-2026-confunden-famoso-actor-mejor-cumplido-hombre-recibir.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-argentina-i-final-mundial-2026-narracion-minuto-minut-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/11/cumplira-prediccion-semifinalistas-eligieron-destin-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/lagrimas-arbitro-slavko-vincic-conocer-pitara-final-espana-vs-argentina-mundial-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/espana-previa-final-mundial-2026.shtml",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/joan-laporta-blanco-confirma-espana-final-mundial-advierte-sobre-arbitr-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/16/canciones-argentina-locura-vestuario-ganar-inglaterra-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/16/antartida-aficionado-argentino-celebra-clasificacion-gran-final-mundial-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.trendencias.com/celebrities/lamine-yamal-final-mundial-2026-a-sus-19-anos-no-teneis-que-esperar-nada-mi",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/cly0k94429wo",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/espana-lleva-goles-mundial-revivelos-elige-cual-mejor-todos_7016121_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/millonaria-prima-recibiran-jugadores-espana-ganar-mundial_7015049_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/detalles-anillo-jugadores-recibiran-ganar-mundial-2026-podras-comprar-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/corte-ingles-lleva-apoyo-seleccion-espanola-times-square-nueva-york-final-mundial",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/fifa-pone-venta-cesped-final-mundial-hasta-3000-dolares",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://es.gizmodo.com/francia-vs-inglaterra-en-vivo-gratis-donde-ver-el-tercer-puesto-del-mundial-2026-desde-cualquier-lugar-2000246490",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/08/04/arranca-venta-camisetas-seleccion-dos-estrellas-escu-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/real-madrid/2026/08/03/vinicius-jr-llego-valdebebas-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.xataka.com/magnet/1966-jugador-argentina-fue-expulsado-no-habia-forma-explicarselo-entonces-hay-tarjetas-amarillas-rojas",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.larazon.es/tecnologia-consumo/series/2-opciones-gratis-otra-pago-volver-ver-espana-argentina-final-mundial-2026_202607206a5e0657e9f2e84b5c73772d.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xataka.com/empresas-y-economia/mundo-creo-2-680-millonarios-al-dia-espana-tiene-millon-asi-se-reparte-mapa-riqueza-nuestro-pais",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/2026/07/16/omar-montes-lanza-farruko-himno-seleccion-mundial-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xataka.com/cine-y-tv/pedrerol-deja-atresmedia-mediaset-despues-13-anos-su-salida-reflejo-perfecto-guerra-actual-privadas",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://vandal.elespanol.com/noticia/1350792086/pokemon-go-celebra-el-campeonato-xp-y-el-mundial-2026-con-pikachus-disfrazados-y-muchos-bonus/",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/16/schweinsteiger-celebra-hinchada-argentina-haberla-eliminado-tres-veces-mundiales-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/18/motivador-spot-buscar-segunda-estrella-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/13/locura-winamax-supercuota-22-50-espana-clasifica-francia.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.espinof.com/anime/cucurella-levanta-pasiones-mundo-anime-dibujante-ao-ashi-se-ha-enamorado-seleccion-se-marca-homenaje-a-roja-espectacular",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/15/goles-espana-francia-hicieron-vibrar-suelo-sabadell.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://es.gizmodo.com/haaland-ya-no-es-solo-haaland-la-ia-y-los-fans-chinos-lo-convirtieron-en-el-personaje-mas-viral-del-mundial-2000245622",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.puromarketing.com/39/217370/marca-celebra-segunda-estrella-seleccion-espanola-editoriales-especiales-conmemorativos",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/12/mejores-semifinales-historia-estara-top-4-ranking-fifa-completo-primera-vez.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/indignacion-total-noruega-tras-primer-gol-jude-bellingham-se-quejan-un-posible-toque-balon-spidercam_7013579_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/10/increible-recibimiento-egipto-jugadores-parece-han-ganado-mundial-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/sociedad/album/2026/07/20/asi-vieron-celebraron-famosos-victoria-espana-mundial-2026.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.vidaextra.com/cine/haaland-le-clavo-visto-a-spider-man-porque-no-ve-cine-no-queria-responder-a-desconocido",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/radio/2026/07/10/despierta-nueva-york-david-sanchez-previa-loca-espana-belgica.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/magnet/creiamos-que-gran-vencedor-mundial-habia-sido-espana-realidad-pelo-largo-para-hombres",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/c17ykrp28q2o",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/cwyj34zdll7o",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/magnet/espana-se-acostumbro-a-perder-siglo-xx-siglo-xxi-espana-fc-mejor-seleccion-mundo",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/magnet/llevas-tiempo-pensando-pedirle-aumento-a-tu-jefe-tenemos-buenas-noticias-mundial-te-ha-puesto-facil",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/29/duro-procedimiento-disciplinario-fifa-incidentes-ocurridos-durante-final-mundial.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/sociedad/2026/07/12/ferran-torres-llega-soltero-semifinales-mundial-francia-romper-martina-hunter.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/15/senadora-paraguaya-celeste-amarilla-viste-colores-espana.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/19/kroos-claro-espana-marca-primero-argentina-le-caer-tres-cuatro.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/sociedad/2026/07/20/seleccion-espanola-borra-trump-foto-buscada-mundial-rastro-presidente-rodri-levantaba-trofeo.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.larazon.es/tecnologia-consumo/operadoras/vodafone-se-suma-cambiar-nombre-su-red-movil-apoyo-seleccion-espanola_202607176a59f0840500ab412c9aa7d6.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.xataka.com/magnet/argentina-tiene-claro-que-argentina-tuvo-que-regalar-cuarto-mundial-para-argentina-nadie-argentina-tiene-muy-claro-que",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/tiramillas/musica/2026/07/15/bragas-rosalia-bandera-espana-pleno-concierto-desatan-redes-poco-final-mundial.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/14/show-inolvidable-espana.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xatakamovil.com/tv-movil/exito-mundial-dazn-se-asegura-uefa-nations-league-clasificacion-euro-2028",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/sabian-cosas-pedri-ferran-bordaron-segunda-estrella-mundial-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/rafa-nadal-estalla-emocion-con-victoria-seleccion-espanola-mundial_7016537_0.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.20minutos.es/television/antonio-abuelo-pedro-porro-que-me-traiga-medalla-que-yo-guardo-que-se-vaya-donde-quiera_7016805_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/13/secretos-estadio-semifinal-cesped-estara-preparado-juego-rapido.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/15/reyes-iran-final-mundial-princesa-leonor-infanta-sofia-apoyar-seleccion.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/fiesta-grande-jamas-contada-2-millones-calles.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/21/cubarsi-laporte-fuera-xi-ideal-mundial-2026.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5aa7d1fdddff0a098b457f.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57cecde9cf4a9e1d8b459d.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/roja-personalidad-marca-seleccion-mundial-branward",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/anillo-mundial-venta-cuanto-cuesta-campeon-mun-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/opinion/2026/07/19/siente-final.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/album/2026/07/21/aitana-superestrella-fiesta-espana-lola-indigo-ana-mena.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/gente/lola-indigo-reacciona-las-palabras-unai-simon-lola-indigo-esta_7014218_0.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.vidaextra.com/series/mangaka-uno-mejores-mangas-futbol-actualidad-se-rinde-espana-convierte-a-cucurella-personaje-su-manga-ha-sido-espectacular",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/esta-aqui-nueva-camiseta-eleccion-dos-estrellas-historica-victoria",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/21/beso-boca-yeremy-pino-unai-simon-plena-rua-seleccion-espanola-madrid.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/18/13-goles-espana-llegar-final-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/10/casillas-sobre-mourinho-matrimonio-termino-mal.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/12/asi-entrenamiento-espana-48-horas-gran-batalla-francia-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.elmundo.es/economia/empresas/2026/07/17/6a5a3f84e85ece78658b45b3.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/francia-espana-mundial-2026-directo-ultima-hora-previa-posibles-alineaciones-semifinal_7014254_6.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/radio/2026/07/20/martinez-almeida-rinde-luis-fuente-padre-marido-yerno-hijo-perfecto-mundo-quiere.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/radio/2026/07/17/unai-simon-dibuja-partido-argentina-creemos-sera-parecido-uruguay.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xatakamovil.com/vodafone/vodafone-se-suma-a-movistar-orange-para-apoyar-a-seleccion-eres-cliente-mira-pantalla-tu-movil",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/12/test-6-6-mundial-bonus-track-especial-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/espana-conquista-valor-marca-somos-lideres-finales-world-cup-brand-index-2026",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/octopus-energy-suma-fiebre-roja-regala-electricidad-clientes-espana-gana-mundial",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57a4ecfdddff01518b45aa.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/aplaudida-respuesta-unai-simon-sobre-suplencia-pedri-como-estaran-david-raya-joan-garcia_7013849_0.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/lays-celebra-victoria-espana-copa-mundial-fifa-edicion-limitada",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.espinof.com/audiencias/victoria-espana-acaba-record-segunda-emision-vista-historia-brutal-89-3-share",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/17/seleccion-espanola-comunidades-autonomas-jugador-aporta-espana.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/21/cantico-argentino-bote-colo-fiesta-mundial-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.elmundo.es/ciencia/2026/07/24/6a636832fc6c83ea738b45a7.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/pasajeros-podran-viajar-gratis-cabify-verano-triunfo-espana",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-ganar-mundial-mejores-teorias-seremos-campeones-video.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/15/laporte-peor-venta-historia-francia-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/19/espana-argentina-directo-ultima-hora-reacciones-final-mundial-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.directoalpaladar.com/salud/entrenamiento-invisible-nutricionista-que-nos-ha-ayudado-a-ganar-mundial-hit-pasta-carbonara",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xataka.com/investigacion/no-hace-falta-terremoto-para-mover-aguja-sismica-gol-espana-basta",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://muyinteresante.okdiario.com/actualidad/espana-argentina-y-el-regreso-a-lo-grande-de-ebro.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/espana-impone-ley-tiki-taka-mundial-asi-han-honrado-marcas-bicampeon-mundo",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/del-estadio-calle-asi-conquistado-mundial-marcas-moda",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/radio/2026/07/18/andalucia-prepara-vivir-gran-final-mundial-radio-marca.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/25/trump-sobre-gorra-ferran-bonito-gesto-agradecemos-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.puromarketing.com/155/217371/nueva-edicion-limitada-lays-celebra-titulo-campeones-mundo-futbol",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.vidaextra.com/deportes/ea-sports-ha-vuelto-a-hacer-al-adivinar-quinta-vez-consecutiva-cual-seria-seleccion-que-ganaria-mundial-futbol-2026",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/19/video-seleccion-espana-previo-final-mundial-video.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.xatakamovil.com/orange/orange-sigue-pasos-movistar-cambia-nombre-su-red-movil-para-apoyar-a-seleccion-mundial",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marketingdirecto.com/anunciantes-general/conforama-devuelve-importe-televisores-campana-mundial-victoria-espana",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.elmundo.es/madrid/2026/07/31/6a6cee83e9cf4ab47d8b457b.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/radio/2026/07/15/david-sanchez-mbappe-firmo-nadaplete-perfecto-tanto-nivel-clubes-nivel-seleccion.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.elmundo.es/espana/2026/07/23/6a61010fe4d4d8371a8b4588.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/10/espana-quiere-tocar-estrellas.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.xatakamovil.com/vodafone/vodafone-ha-vuelto-a-cambiar-nombre-red-victoria-seleccion-no-para-poner-vodafone",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.20minutos.es/deportes/futbol/las-notas-espana-mundial-los-sobresalientes-cubarsi-cucurella-aprobado-raspado-gavi-pedri_7015187_0.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/16/adios-blanca-camiseta-historia-mundiales.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.com/mundo/articles/c9v4ppy92dvo",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/29/luis-fuente-conquistar-mundial-seguiremos-intentando-cosas-igual-bien-video.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.20minutos.es/musica/asi-fue-actuacion-melody-interpretando-esa-diva-previa-final-mundial_7016660_0.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.20minutos.es/gente/victoria-federica-irene-urdangarin-exultantes-alegria-por-triunfo-espana-mundial-futbol_7016741_0.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.marca.com/futbol/mundial/2026/07/20/troleo-mundial-argentino-increpa-mexicano-espana-respuesta-divertida.html",
+          "idioma": "es",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cff78fc6c83d9128b4586.html",
+          "idioma": "es",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.expansion.com/empresas/2026/07/25/6a63aba6e5fdea447e8b45a7.html",
+          "idioma": "es",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.marca.com/futbol/seleccion/2026/07/14/oyarzabal-vuela-altura-butragueno-villa.html",
+          "idioma": "es",
+          "cluster": 2
+        }
+      ]
+    },
+    "en": {
+      "num_documentos": 153,
+      "k_seleccionado": 3,
+      "historial_seleccion_k": [
+        {
+          "k": 2,
+          "silhouette": 0.0345,
+          "inercia": 139.55
+        },
+        {
+          "k": 3,
+          "silhouette": 0.0383,
+          "inercia": 136.77
+        },
+        {
+          "k": 4,
+          "silhouette": 0.0404,
+          "inercia": 134.52
+        },
+        {
+          "k": 5,
+          "silhouette": 0.0415,
+          "inercia": 132.56
+        },
+        {
+          "k": 6,
+          "silhouette": 0.0438,
+          "inercia": 130.48
+        },
+        {
+          "k": 7,
+          "silhouette": 0.047,
+          "inercia": 128.46
+        },
+        {
+          "k": 8,
+          "silhouette": 0.0491,
+          "inercia": 126.49
+        }
+      ],
+      "terminos_dominantes_excluidos_max_df": [],
+      "pureza_idioma_promedio": 1.0,
+      "pureza_por_cluster": {
+        "1": {
+          "idioma_mayoritario": "en",
+          "pureza": 1.0,
+          "distribucion": {
+            "en": 88
+          }
+        },
+        "2": {
+          "idioma_mayoritario": "en",
+          "pureza": 1.0,
+          "distribucion": {
+            "en": 54
+          }
+        },
+        "0": {
+          "idioma_mayoritario": "en",
+          "pureza": 1.0,
+          "distribucion": {
+            "en": 11
+          }
+        }
+      },
+      "temas_por_cluster": {
+        "0": [
+          {
+            "termino": "late north",
+            "peso_promedio": 0.3483
+          },
+          {
+            "termino": "north america",
+            "peso_promedio": 0.3332
+          },
+          {
+            "termino": "north",
+            "peso_promedio": 0.3332
+          },
+          {
+            "termino": "late",
+            "peso_promedio": 0.3332
+          },
+          {
+            "termino": "america",
+            "peso_promedio": 0.3264
+          },
+          {
+            "termino": "america late",
+            "peso_promedio": 0.2057
+          },
+          {
+            "termino": "watch",
+            "peso_promedio": 0.1231
+          },
+          {
+            "termino": "semifinal late",
+            "peso_promedio": 0.0906
+          },
+          {
+            "termino": "spain",
+            "peso_promedio": 0.0829
+          },
+          {
+            "termino": "semifinal",
+            "peso_promedio": 0.0761
+          }
+        ],
+        "1": [
+          {
+            "termino": "england",
+            "peso_promedio": 0.0665
+          },
+          {
+            "termino": "spain",
+            "peso_promedio": 0.0566
+          },
+          {
+            "termino": "france",
+            "peso_promedio": 0.0537
+          },
+          {
+            "termino": "argentina",
+            "peso_promedio": 0.0486
+          },
+          {
+            "termino": "watch",
+            "peso_promedio": 0.0373
+          },
+          {
+            "termino": "free",
+            "peso_promedio": 0.0364
+          },
+          {
+            "termino": "norway",
+            "peso_promedio": 0.0361
+          },
+          {
+            "termino": "semifinal",
+            "peso_promedio": 0.0342
+          },
+          {
+            "termino": "time",
+            "peso_promedio": 0.0332
+          },
+          {
+            "termino": "game",
+            "peso_promedio": 0.0329
+          }
+        ],
+        "2": [
+          {
+            "termino": "trump",
+            "peso_promedio": 0.0572
+          },
+          {
+            "termino": "new",
+            "peso_promedio": 0.0534
+          },
+          {
+            "termino": "president",
+            "peso_promedio": 0.0443
+          },
+          {
+            "termino": "infantino",
+            "peso_promedio": 0.04
+          },
+          {
+            "termino": "shakira",
+            "peso_promedio": 0.0357
+          },
+          {
+            "termino": "donald trump",
+            "peso_promedio": 0.0328
+          },
+          {
+            "termino": "donald",
+            "peso_promedio": 0.0328
+          },
+          {
+            "termino": "gianni",
+            "peso_promedio": 0.0311
+          },
+          {
+            "termino": "gianni infantino",
+            "peso_promedio": 0.0311
+          },
+          {
+            "termino": "halftime",
+            "peso_promedio": 0.0291
+          }
+        ]
+      },
+      "grafico_pca": "pca_en.png",
+      "grafico_tsne": "tsne_en.png",
+      "asignacion_cluster_por_articulo": [
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/wrote-theme-song-fifa-world-cup-2026-7#article",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.cnet.com/tech/services-and-software/norway-vs-england-stream-fifa-world-cup-2026-match-live-for-free/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.cnet.com/tech/services-and-software/spain-vs-belgium-stream-fifa-world-cup-2026-match-live-for-free/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-how-to-watch-without-cable/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.yankodesign.com/2026/07/15/louis-vuitton-unveils-bespoke-trophy-trunk-for-fifa-world-cup-2026-ahead-of-the-final/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.skysports.com/football/video/19530/13565224/the-world-cup-2026-in-numbers",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/world-cup-2026-what-did-we-learn",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.skysports.com/football/news/11095/13563675/world-cup-2026-data-analysis-record-goals-bigger-fifa-ranking-gaps-older-starting-xis-travel-heat-penalties-substitutes-and-how-spain-won-it",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/10/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/13/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights",
+          "idioma": "en",
+          "cluster": 0
+        },
+        {
+          "url": "https://www.androidpolice.com/meta-smart-glasses-are-having-a-huge-moment-but-competition-is-coming/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/8/3/pochettino-agrees-to-new-us-coach-soccer-contract-through-to-2030-world-cup",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://slickdeals.net/f/19781067-fifa-world-cup-2026-shirts-hats-sports-toys-more-80-off-free-pickup-on-10",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://abcnews.com/Sports/wireStory/fifa-selling-field-world-cup-final-450-pieces-134665434",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/predictor/mwc2026?at_medium=RSS&at_campaign=rss",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://gothamist.com/news/human-trafficking-enforcement-during-world-cup-yields-more-than-150-arrests-in-ny-and-nj",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://slickdeals.net/f/19750401-60-off-all-fifa-merchandise-at-walgreens-at-link-items-from-1-39-free-pick-up-at-10",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/politics/2026/07/21/trumps-approval-rating-near-record-lows-latest-poll/90999169007/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.ghacks.net/2026/07/25/pubg-at-esports-world-cup-2026-reaches-grand-finals-with-made-in-thailand-topping-the-group-stage/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.boredpanda.com/best-world-cup-2026-memes-jokes/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cgk6v6846epo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.forbes.com/sites/howardhomonoff/2026/07/20/world-cup-2026-wraps-up-but-cultural-impacts-will-linger/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/clye4yej26zo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c1lylr4pr70o",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/2026-fifa-world-cup-singapore-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-final-halftime-show-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c0jy0xqjzqzo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/jay-z-watch-collection-photos#article",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/spain-vs-belgium-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-switzerland-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/france-vs-spain-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c0ryldqz5zwo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3dyj7j48v9o",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-key-players-to-watch-as-france-take-on-spain-in-2026-semifinal",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.eonline.com/news/1434151/beyonce-jay-z-have-rare-date-night-at-world-cup-2026-final",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/norway-vs-england-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/england-vs-argentina-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.techradar.com/how-to-watch/football/france-vs-england-world-cup-2026-free",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.cbc.ca/news/world/world-cup-photos-9.7276199",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.nbcnews.com/sports/soccer/look-exciting-moments-2026-fifa-world-cup-rcna588080",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.gsmarena.com/honor_and_arri_will_showcase_the_robot_phone_next_week_honor_unveils_a_new_logo-news-73850.php",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.cbc.ca/sports/soccer/fifa-soccer-world-cup-uefa-boycott-ffe-private-investment-9.7291605",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.thefader.com/2026/07/16/how-to-watch-fifa-world-cup-2026-final-halftime-show-madonna-justin-bieber-shakira-burna-boy-bts",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.gsmarena.com/honor_robot_phone_makes_an_unexpected_appearance_at_the_world_cup_final-news-73794.php",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.r-bloggers.com/2026/07/little-useless-useful-r-functions-jug-solver-with-bezouts-identity/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.rt.com/news/643628-mirror-of-americas-decline/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/19/all-the-celebrities-spotted-at-2026-fifa-world-cup-final-match/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132611910.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://bleedingcool.com/tv/fifa-world-cup-2026-final-halftime-show-your-preview-viewing-guide/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://bleedingcool.com/tv/world-cup-final-ted-lasso-coach-beard-beliebe-in-justin-bieber/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.helpnetsecurity.com/2026/07/22/world-cup-2026-illegal-stream-domains-seized/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://thoughtcatalog.com/jeremy-london/2026/07/donald-trump-sat-next-to-mexican-president-claudia-sheinbaum-at-the-world-cup-final/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://thoughtcatalog.com/holden-desalles/2026/07/tom-cruise-skipped-the-stunt-and-gave-a-speech-at-the-world-cup-final/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/23/world-cup-final-game-ball-bts-and-shakira-items-featured-in-christies-global-citizen-auction/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132573334.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132595458.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132577528.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132590033.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://ohnotheydidnt.livejournal.com/132608517.html",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.macrumors.com/2026/07/20/apple-sports-app-gets-more-soccer-leagues/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/world-cup-fans-shopping-clearing-out-american-big-box-stores-2026-7#article",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/celebrities-at-world-cup-final-luxury-fashion-2026-7#article",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://abcnews.com/video/134884586/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://kotaku.com/studio-behind-netflixs-widely-panned-world-cup-game-reportedly-shutting-down-just-8-weeks-after-launch-2000721235",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://abcnews.com/video/134753626/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://abcnews.com/video/134911670/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.businessinsider.com/england-norway-world-cup-bet-british-airways-norwegian-air-shuttle-2026-7#article",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://css-tricks.com/whats-important-16/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.buzzfeed.com/nicolebeckett/shalira-world-cup-2026-tweets",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.jezebel.com/and-the-2026-fifa-world-cup-does-not-go-to-trump",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.mentalfloss.com/sports/best-fifa-world-cup-trivia-questions-test-your-knowledge",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://abcnews.com/GMA/Culture/spain-argentina-win-2026-world-cup/story?id=134824556",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-already-buy-the-unreleased-galaxy-z-fold-8-ultra-provided-you-have-usd13-000",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/politics/2026/07/19/trump-republicans-congress-democrats-poll/90972594007/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://petapixel.com/2026/07/20/two-sports-photographers-reveal-what-its-like-to-shoot-the-world-cup/",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/22/fifa-world-cup-final-draws-record-viewership-in-united-states",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-world-cup-final-halftime-show-2026-for-free-livestream-1235595273/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.businessinsider.com/melania-trump-sunglasses-collection-photos-2026-7#article",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/14/france-and-spain-are-unbeaten-at-fifa-world-cup-semifinal-but-only-one-can-make-the-final",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-meet-ismail-elfath-referee-for-england-argentina-semifinal",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/politics/2026/07/20/trump-height-rodri-world-cup-final-video/90982097007/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2026/7/15/a-role-model-djed-spence-first-muslim-england-player-lifts-hopes",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-england-vs-france-world-cup-2026#article",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.boredpanda.com/donald-trump-boo-football-world-cup-final-2026-trophy-ceremony/",
+          "idioma": "en",
+          "cluster": 2
+        },
+        {
+          "url": "https://www.mentalfloss.com/history/history-norway-viking-row-soccer",
+          "idioma": "en",
+          "cluster": 1
+        },
+        {
+          "url": "http://deadline.com/2026/07/jayden-adams-dead-south-african-fifa-world-cup-1236979825/",
+          "idioma": "en",
+          "cluster": 2
+        }
+      ]
+    }
+  }
+}
