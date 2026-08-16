@@ -1,0 +1,6 @@
+modelo,MAE,RMSE
+Media movil (ventana=5),1.54,1.88
+ARIMA,1.68,2.4
+Naive (ultimo valor),1.71,2.07
+Prophet,3.14,3.59
+Red neuronal (sustituto LSTM),7.77,8.64
