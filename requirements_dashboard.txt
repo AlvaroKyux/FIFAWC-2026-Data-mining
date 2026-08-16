@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+statsmodels
+rank_bm25
+sentence-transformers
+numpy

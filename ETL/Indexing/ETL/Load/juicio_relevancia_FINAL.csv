@@ -1,0 +1,101 @@
+﻿consulta,motor,doc_id,relevante_propuesto_ia,justificacion,no_verificable_por_titulo,relevante_final_equipo
+españa campeón mundial,BM25,116,1,Fiesta callejera tras ganar (2 millones en calles) - directamente sobre España campeón,False,0
+españa campeón mundial,BM25,71,1,Anillos de campeones que recibirán los jugadores - sobre España campeón,False,0
+españa campeón mundial,BM25,118,0,"URL sin texto descriptivo (hash), fecha previa a la final - no_verificable_por_titulo",True,0
+españa campeón mundial,BM25,78,0,"Sobre dónde ver la final, no sobre el resultado/campeón",False,0
+españa campeón mundial,BM25,144,0,"Cántico de aficion argentina en la fiesta, no sobre España campeón",False,0
+españa campeón mundial,Semantico,11,0,"Resumen de Inglaterra 1-2 Argentina, partido distinto",False,0
+españa campeón mundial,Semantico,90,0,"Ranking FIFA top-4 tras semifinales, no sobre España campeón",False,1
+españa campeón mundial,Semantico,66,0,Aficionado argentino celebrando clasificación a la final,False,0
+españa campeón mundial,Semantico,136,0,"Test/quiz sobre el mundial, no sobre el resultado",False,0
+españa campeón mundial,Semantico,83,0,Pieza histórica sobre Schweinsteiger y Argentina,False,0
+polémica arbitral,BM25,52,0,"URL hash sin texto, fecha 14-jul - no_verificable_por_titulo",True,0
+polémica arbitral,BM25,12,0,"Sobre una película de Christopher Nolan, sin relación",False,0
+polémica arbitral,BM25,91,1,Queja de Noruega por un posible toque de balón con la spidercam - controversia arbitral real,False,0
+polémica arbitral,BM25,103,0,"Sobre una senadora paraguaya vestida de España, sin relación",False,0
+polémica arbitral,BM25,325,0,"Celebración de aficion española, no controversia",False,0
+polémica arbitral,Semantico,77,0,"Pieza histórica de 1966 sobre tarjetas, contexto general no controversia de 2026",False,0
+polémica arbitral,Semantico,24,0,"Estrategia publicitaria de Hisense, marketing sin relación",False,0
+polémica arbitral,Semantico,101,1,Procedimiento disciplinario de FIFA por incidentes en la final - controversia real,False,0
+polémica arbitral,Semantico,259,0,"Artículo de RT sobre declive de EEUU, sin relación",False,0
+polémica arbitral,Semantico,283,0,"Comunicado institucional AFC/UEFA/CONCACAF, no controversia específica",False,0
+lesión jugador,BM25,9,0,"Resumen España 2-1 Bélgica, no menciona lesión",False,1
+lesión jugador,BM25,139,0,"URL hash sin texto, 15-jul - no_verificable_por_titulo",True,0
+lesión jugador,BM25,327,0,"Trump abucheado en la ceremonia, sin relación",False,0
+lesión jugador,BM25,326,0,"Reunión de crisis de Infantino en FIFA, no es sobre lesión",False,0
+lesión jugador,BM25,325,0,"Celebración de aficion española, no sobre lesión",False,0
+lesión jugador,Semantico,25,1,Agresión/puñetazo de Ayala a Dani Olmo - incidente con lesión real,False,0
+lesión jugador,Semantico,9,0,"Resumen España 2-1 Bélgica, no menciona lesión",False,1
+lesión jugador,Semantico,87,0,"Sobre los goles España-Francia, no lesión",False,1
+lesión jugador,Semantico,83,0,Pieza histórica Schweinsteiger/Argentina,False,0
+lesión jugador,Semantico,77,0,"Pieza histórica de 1966 sobre tarjetas, no lesión",False,0
+amazon documental selección española,BM25,0,1,Es el artículo exacto sobre el documental de Amazon,False,0
+amazon documental selección española,BM25,72,0,"Corte Inglés apoyando a la selección en Times Square, no el documental",False,0
+amazon documental selección española,BM25,131,0,"Sección economía/empresas, URL hash - probablemente no relacionado",False,0
+amazon documental selección española,BM25,67,0,"Sobre Lamine Yamal y un tatuaje, sin relación al documental",False,0
+amazon documental selección española,BM25,54,0,"Sobre promesa de tatuaje de Cucurella, sin relación",False,0
+amazon documental selección española,Semantico,0,1,Es el artículo exacto sobre el documental de Amazon,False,0
+amazon documental selección española,Semantico,167,0,"Notas/calificaciones a jugadores, no el documental",False,0
+amazon documental selección española,Semantico,143,0,"Jugadores por comunidad autónoma, no el documental",False,0
+amazon documental selección española,Semantico,175,0,"Sección empresas, probablemente no relacionado",False,0
+amazon documental selección española,Semantico,147,0,"Teorías sobre ganar el mundial, no el documental",False,0
+argentina final,BM25,225,0,Video de BBC sin texto descriptivo - no_verificable_por_titulo,True,0
+argentina final,BM25,3,1,Cómo y cuándo ver la final España-Argentina - directamente relevante,False,0
+argentina final,BM25,30,1,"Memes sobre la final, España ganó a Argentina - relevante",False,1
+argentina final,BM25,44,0,"Argentina vs Suiza, partido distinto (no la final)",False,1
+argentina final,BM25,191,1,De la Fuente sobre la conducta de Argentina tras la final - relevante,False,1
+argentina final,Semantico,66,1,Aficionado argentino celebrando clasificación a la final,False,0
+argentina final,Semantico,51,1,Sobre la final Argentina-España en estilo anime,False,0
+argentina final,Semantico,25,0,"Agresión Ayala-Dani Olmo, no específicamente sobre 'la final' como tema",False,0
+argentina final,Semantico,151,1,"Detección sísmica del gol de España, contexto de la final",False,1
+argentina final,Semantico,16,1,"Opinión sobre ganar el mundial y el fútbol, contexto de la final",False,1
+spain world cup champion,BM25,1,0,"Despido de empleados que crearon el videojuego oficial, sin relación",False,0
+spain world cup champion,BM25,137,1,España conquista valor de marca tras ser campeón - relevante,False,1
+spain world cup champion,BM25,319,0,"Predicción pre-final de quién ganará, no confirma campeón",False,0
+spain world cup champion,BM25,256,0,"Sobre el show de medio tiempo, no sobre ser campeón",False,0
+spain world cup champion,BM25,190,1,Análisis de datos de cómo España ganó el mundial - relevante,False,1
+spain world cup champion,Semantico,131,0,"Sección economía/empresas, no verificable con certeza",False,0
+spain world cup champion,Semantico,89,1,Marca celebra la segunda estrella de España - relevante,False,1
+spain world cup champion,Semantico,20,0,"Predicciones de apuestas, pre-resultado",False,0
+spain world cup champion,Semantico,167,0,"Notas a jugadores, no sobre ser campeón",False,1
+spain world cup champion,Semantico,69,1,"Goles de España en el mundial, revive los mejores - relevante al desempeño",False,1
+controversy referee decision,BM25,310,1,Perfil del árbitro de la semifinal Inglaterra-Argentina - relevante,False,0
+controversy referee decision,BM25,291,1,Las 5 controversias más grandes del torneo - directamente relevante,False,1
+controversy referee decision,BM25,187,0,"Reflexión general '¿qué aprendimos?', no específico de controversia",False,0
+controversy referee decision,BM25,221,0,"Reflexión general sobre contradicciones del torneo, muy genérico",False,0
+controversy referee decision,BM25,328,0,"Historia de una disputa vikinga en Noruega, sin relación",False,0
+controversy referee decision,Semantico,246,0,Video BBC sin texto - no_verificable_por_titulo,True,0
+controversy referee decision,Semantico,101,1,Procedimiento disciplinario FIFA por incidentes en la final - relevante,False,0
+controversy referee decision,Semantico,191,1,De la Fuente sobre conducta inaceptable de Argentina - relevante,False,0
+controversy referee decision,Semantico,310,1,Perfil del árbitro de semifinal - relevante,False,0
+controversy referee decision,Semantico,114,0,"Sobre el césped del estadio, no controversia arbitral",False,0
+player injury world cup,BM25,137,0,"Valor de marca de España, no sobre lesión",False,0
+player injury world cup,BM25,1,0,"Despido de empleados de videojuego, sin relación",False,0
+player injury world cup,BM25,327,0,"Trump abucheado, sin relación",False,0
+player injury world cup,BM25,326,0,"Reunión de crisis de Infantino, no sobre lesión",False,0
+player injury world cup,BM25,325,0,"Celebración de aficion, no sobre lesión",False,0
+player injury world cup,Semantico,313,0,"Estadísticas de goles/asistencias/tarjetas, no lesión específica",False,1
+player injury world cup,Semantico,139,0,URL hash sin texto - no_verificable_por_titulo,True,0
+player injury world cup,Semantico,259,0,Artículo de RT sin relación aparente,False,0
+player injury world cup,Semantico,176,0,"Sobre Oyarzabal en general, no confirma lesión por el título",False,1
+player injury world cup,Semantico,90,0,"Ranking de semifinales, no sobre lesión",False,0
+fifa organización torneo,BM25,117,0,"Sobre el XI ideal del torneo, no organización FIFA",False,0
+fifa organización torneo,BM25,53,0,URL hash BBC Mundo - no_verificable_por_titulo,True,0
+fifa organización torneo,BM25,22,0,URL hash BBC Mundo - no_verificable_por_titulo,True,0
+fifa organización torneo,BM25,33,0,"Cómo las marcas convierten momentos en historias, marketing no organización",False,0
+fifa organización torneo,BM25,45,0,"Dónde ver la final, no sobre organización FIFA",False,0
+fifa organización torneo,Semantico,101,1,Procedimiento disciplinario de FIFA - acción organizacional real,False,0
+fifa organización torneo,Semantico,158,0,"Predicciones de EA Sports, sin relación a organización",False,0
+fifa organización torneo,Semantico,117,0,"Sobre el XI ideal, no organización",False,0
+fifa organización torneo,Semantico,283,1,Comunicado institucional de confederaciones sobre FIFA World Cup - relevante,False,1
+fifa organización torneo,Semantico,53,0,URL hash BBC Mundo - no_verificable_por_titulo,True,0
+estadio sede partido,BM25,62,0,"Sobre el árbitro llorando al saber que dirigirá la final, no sobre el estadio",False,0
+estadio sede partido,BM25,154,1,Del estadio a la calle: cómo las marcas conquistaron el mundial - menciona estadio,False,0
+estadio sede partido,BM25,170,0,"Declaraciones del entrenador, no sobre el estadio",False,0
+estadio sede partido,BM25,19,1,El branding se juega en los estadios - directamente sobre estadios,False,0
+estadio sede partido,BM25,48,0,"Dónde ver la semifinal, no sobre el estadio en sí",False,0
+estadio sede partido,Semantico,114,1,"Secretos del estadio de la semifinal, el césped - directamente relevante",False,1
+estadio sede partido,Semantico,35,0,URL hash El Mundo - no_verificable_por_titulo,True,0
+estadio sede partido,Semantico,144,0,"Cántico de aficion argentina, no sobre el estadio",False,0
+estadio sede partido,Semantico,47,0,"Dónde ver la semifinal, no sobre el estadio en sí",False,0
+estadio sede partido,Semantico,278,0,Video ABC News sin texto - no_verificable_por_titulo,True,0

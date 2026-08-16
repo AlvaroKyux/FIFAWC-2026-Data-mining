@@ -1,0 +1,21 @@
+﻿consulta,motor,relevantes_encontrados,precision_at_5
+amazon documental selección española,BM25,0,0.0
+amazon documental selección española,Semantico,0,0.0
+argentina final,BM25,0,0.0
+argentina final,Semantico,0,0.0
+controversy referee decision,BM25,0,0.0
+controversy referee decision,Semantico,0,0.0
+españa campeón mundial,BM25,5,1.0
+españa campeón mundial,Semantico,5,1.0
+estadio sede partido,BM25,5,1.0
+estadio sede partido,Semantico,5,1.0
+fifa organización torneo,BM25,0,0.0
+fifa organización torneo,Semantico,0,0.0
+lesión jugador,BM25,5,1.0
+lesión jugador,Semantico,5,1.0
+player injury world cup,BM25,5,1.0
+player injury world cup,Semantico,5,1.0
+polémica arbitral,BM25,0,0.0
+polémica arbitral,Semantico,0,0.0
+spain world cup champion,BM25,5,1.0
+spain world cup champion,Semantico,5,1.0

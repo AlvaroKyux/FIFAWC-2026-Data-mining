@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /get/
+Disallow: /health
+Disallow: /api/health
+Disallow: /openapi.json
+Disallow: /service-info.json
+
+Sitemap: https://worldcup26.ir/sitemap.xml

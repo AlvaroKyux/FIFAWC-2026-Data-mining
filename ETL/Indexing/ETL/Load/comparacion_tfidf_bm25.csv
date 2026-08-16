@@ -1,0 +1,11 @@
+﻿consulta,top1_tfidf,top1_tfidf_score,top1_bm25,top1_bm25_score,overlap_top3,coinciden_top1
+españa campeón mundial,Marca,0.3241,Marca,5.9846,1,True
+polémica arbitral,El Mundo,0.1715,El Mundo,7.3952,3,True
+lesión jugador,Marca,0.2544,Marca,6.6263,3,True
+amazon documental selección española,Hipertextual,0.5708,Hipertextual,20.8379,3,True
+argentina final,BBC News,0.3413,BBC News,1.7907,1,True
+spain world cup champion,Marketingdirecto.com,0.3059,Hipertextual,12.5316,2,False
+controversy referee decision,Al Jazeera English,0.3973,Al Jazeera English,8.9779,3,False
+player injury world cup,Marketingdirecto.com,0.3648,Marketingdirecto.com,12.5316,3,True
+fifa organización torneo,Marca,0.336,Marca,5.778,1,True
+estadio sede partido,Marca,0.1628,Marca,5.8135,3,True

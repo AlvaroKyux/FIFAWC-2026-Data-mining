@@ -1,0 +1,46 @@
+{
+  "2026-07-27": {
+    "es_mundial2026": {
+      "status": 200,
+      "totalResults": 233,
+      "articulos_traidos": 100
+    },
+    "es_seleccion_espanola": {
+      "status": 200,
+      "totalResults": 0,
+      "articulos_traidos": 0
+    },
+    "en_worldcup2026": {
+      "status": 200,
+      "totalResults": 282,
+      "articulos_traidos": 100
+    },
+    "en_fifa_worldcup": {
+      "status": 200,
+      "totalResults": 164,
+      "articulos_traidos": 98
+    }
+  },
+  "2026-08-02": {
+    "es_mundial2026": {
+      "status": 200,
+      "totalResults": 142,
+      "articulos_traidos": 100
+    },
+    "es_seleccion_espanola": {
+      "status": 200,
+      "totalResults": 0,
+      "articulos_traidos": 0
+    },
+    "en_worldcup2026": {
+      "status": 200,
+      "totalResults": 137,
+      "articulos_traidos": 100
+    },
+    "en_fifa_worldcup": {
+      "status": 200,
+      "totalResults": 97,
+      "articulos_traidos": 94
+    }
+  }
+}
